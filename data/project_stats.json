@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-24 20:36 UTC",
+  "updated_at_utc": "2026-11-24 23:02 UTC",
   "repo": "open-goat/pequalnp-proofs",
-  "stars": 150,
-  "forks": 2370,
-  "merged_prs_total": 1867,
-  "open_prs_queue": 2220,
-  "outside_lean_modules": 1803,
+  "stars": 156,
+  "forks": 2459,
+  "merged_prs_total": 2211,
+  "open_prs_queue": 2217,
+  "outside_lean_modules": 2141,
   "front_breakdown": {
-    "meta": 1172,
-    "other": 572,
+    "meta": 1424,
+    "other": 658,
     "gct": 43,
     "pcx": 9,
     "lib": 6,
@@ -19,49 +19,49 @@
       "rank": 1,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 94
+      "contributions": 99
     },
     {
       "rank": 2,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 88
+      "contributions": 95
     },
     {
       "rank": 3,
       "login": "LiorDagan",
       "url": "https://github.com/LiorDagan",
-      "contributions": 74
+      "contributions": 76
     },
     {
       "rank": 4,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 65
+      "contributions": 67
     },
     {
       "rank": 5,
       "login": "c4ss",
       "url": "https://github.com/c4ss",
-      "contributions": 63
+      "contributions": 65
     },
     {
       "rank": 6,
+      "login": "MrMaleficus",
+      "url": "https://github.com/MrMaleficus",
+      "contributions": 61
+    },
+    {
+      "rank": 7,
       "login": "kongeskog",
       "url": "https://github.com/kongeskog",
       "contributions": 53
     },
     {
-      "rank": 7,
+      "rank": 8,
       "login": "sanchan",
       "url": "https://github.com/sanchan",
       "contributions": 46
-    },
-    {
-      "rank": 8,
-      "login": "MrMaleficus",
-      "url": "https://github.com/MrMaleficus",
-      "contributions": 43
     },
     {
       "rank": 9,
@@ -91,7 +91,7 @@
       "rank": 13,
       "login": "danorris709",
       "url": "https://github.com/danorris709",
-      "contributions": 17
+      "contributions": 18
     },
     {
       "rank": 14,

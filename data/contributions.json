@@ -1,17 +1,32 @@
 {
   "author": "rajathgadagkar",
   "repo": "open-goat/pequalnp-proofs",
-  "updated_at_utc": "2026-11-24 20:36 UTC",
+  "updated_at_utc": "2026-11-24 23:02 UTC",
   "stats": {
-    "total_prs": 7,
-    "unique_steps": 6,
+    "total_prs": 8,
+    "unique_steps": 7,
     "merged": 0,
-    "open": 0,
+    "open": 1,
     "superseded_or_queue_closed": 6,
     "rejected": 0,
-    "total_lines_added": 1571
+    "total_lines_added": 1597
   },
   "pull_requests": [
+    {
+      "number": 9874,
+      "step": "L-meta-5077",
+      "front": "Meta-Complexity & Circuit Lower Bounds",
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/9874",
+      "state": "open",
+      "merged": false,
+      "status": "\ud83d\udfe1 Open",
+      "note": "Waiting in automated Lean checker queue",
+      "body": "## Summary\nChecked Lean 4 proof of **`PEqualNP.Outside.L_meta_5077`** (step 2 of 2 toward `L-meta-1898`, on the order-3 projective plane 64-gate lower-bound line).\n\n## Statement\nAny vertex cover `x1 : Finset (Fin (13 + 13))` of the order-3 projective plane incidence graph (`x2 = x3 \u2228 x2 = x3 + 1 \u2228 x2 = x3 + 3 \u2228 x2 = x3 + 9` over `Fin 13`) satisfies `13 \u2264 x1.card`.\n\n## Proof Overview\n- Uses the diagonal matching `{(Fin.castAdd 13 i, Fin.natAdd 13 i) | i : Fin 13}` (corresponding to `x2 = x3`).\n- Defines an explicit injection `f : Fin 13 \u2192 Fin (13 + 13)` picking `castAdd 13 i` if in `x1` and `natAdd 13 i` otherwise, showing `Finset.univ.image f \u2286 x1` and concluding `13 = (Finset.univ.image f).card \u2264 x1.card`.\n\n## Verification\n- Built cleanly with `lake build PEqualNP.Outside.L_meta_5077` (`18419` jobs).\n- No `sorry`, no `native_decide`, no extra axioms.",
+      "additions": 26,
+      "deletions": 0,
+      "created_at": "2026-11-24",
+      "updated_at": "2026-11-24"
+    },
     {
       "number": 7530,
       "step": "L-meta-3604",
