@@ -1,0 +1,105 @@
+{
+  "author": "rajathgadagkar",
+  "repo": "open-goat/pequalnp-proofs",
+  "updated_at_utc": "2026-11-24 20:22 UTC",
+  "stats": {
+    "total_prs": 7,
+    "merged": 0,
+    "open": 0,
+    "superseded_or_queue_closed": 6,
+    "total_lines_added": 1571
+  },
+  "pull_requests": [
+    {
+      "number": 7530,
+      "step": "L-meta-3604",
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/7530",
+      "state": "closed",
+      "merged": false,
+      "status": "\u26aa Superseded",
+      "note": "Another PR for this step merged first",
+      "additions": 345,
+      "deletions": 0,
+      "created_at": "2026-11-24",
+      "updated_at": "2026-11-24"
+    },
+    {
+      "number": 7331,
+      "step": "L-meta-3574",
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/7331",
+      "state": "closed",
+      "merged": false,
+      "status": "\u26aa Superseded",
+      "note": "Another PR for this step merged first",
+      "additions": 171,
+      "deletions": 0,
+      "created_at": "2026-11-24",
+      "updated_at": "2026-11-24"
+    },
+    {
+      "number": 7019,
+      "step": "L-meta-3358",
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/7019",
+      "state": "closed",
+      "merged": false,
+      "status": "\u26aa Superseded",
+      "note": "Another PR for this step merged first",
+      "additions": 516,
+      "deletions": 0,
+      "created_at": "2026-11-24",
+      "updated_at": "2026-11-24"
+    },
+    {
+      "number": 6514,
+      "step": "L-meta-3256",
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/6514",
+      "state": "closed",
+      "merged": false,
+      "status": "\u26aa Queue-Closed",
+      "note": "Another PR was ahead in queue (no fault in proof)",
+      "additions": 481,
+      "deletions": 0,
+      "created_at": "2026-11-24",
+      "updated_at": "2026-11-24"
+    },
+    {
+      "number": 4185,
+      "step": "L-meta-1754",
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/4185",
+      "state": "closed",
+      "merged": false,
+      "status": "\u26aa Superseded",
+      "note": "Another PR for this step merged first",
+      "additions": 24,
+      "deletions": 0,
+      "created_at": "2026-11-24",
+      "updated_at": "2026-11-24"
+    },
+    {
+      "number": 4159,
+      "step": "L-meta-1754",
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/4159",
+      "state": "closed",
+      "merged": false,
+      "status": "\u26ab Closed",
+      "note": "Closed",
+      "additions": 29,
+      "deletions": 0,
+      "created_at": "2026-11-24",
+      "updated_at": "2026-11-24"
+    },
+    {
+      "number": 4045,
+      "step": "L-meta-1753",
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/4045",
+      "state": "closed",
+      "merged": false,
+      "status": "\u26aa Superseded",
+      "note": "Another PR for this step merged first",
+      "additions": 5,
+      "deletions": 0,
+      "created_at": "2026-11-24",
+      "updated_at": "2026-11-24"
+    }
+  ]
+}
