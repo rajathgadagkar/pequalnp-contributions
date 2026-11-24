@@ -1,0 +1,111 @@
+{
+  "updated_at_utc": "2026-11-24 20:30 UTC",
+  "repo": "open-goat/pequalnp-proofs",
+  "stars": 149,
+  "forks": 2364,
+  "merged_prs_total": 1863,
+  "open_prs_queue": 2183,
+  "outside_lean_modules": 1799,
+  "front_breakdown": {
+    "meta": 1172,
+    "other": 568,
+    "gct": 43,
+    "pcx": 9,
+    "lib": 6,
+    "clb": 1
+  },
+  "leaderboard_top15": [
+    {
+      "rank": 1,
+      "login": "willakone",
+      "url": "https://github.com/willakone",
+      "contributions": 94
+    },
+    {
+      "rank": 2,
+      "login": "fededevi",
+      "url": "https://github.com/fededevi",
+      "contributions": 88
+    },
+    {
+      "rank": 3,
+      "login": "LiorDagan",
+      "url": "https://github.com/LiorDagan",
+      "contributions": 74
+    },
+    {
+      "rank": 4,
+      "login": "nicohabets",
+      "url": "https://github.com/nicohabets",
+      "contributions": 65
+    },
+    {
+      "rank": 5,
+      "login": "c4ss",
+      "url": "https://github.com/c4ss",
+      "contributions": 63
+    },
+    {
+      "rank": 6,
+      "login": "kongeskog",
+      "url": "https://github.com/kongeskog",
+      "contributions": 53
+    },
+    {
+      "rank": 7,
+      "login": "sanchan",
+      "url": "https://github.com/sanchan",
+      "contributions": 46
+    },
+    {
+      "rank": 8,
+      "login": "MrMaleficus",
+      "url": "https://github.com/MrMaleficus",
+      "contributions": 43
+    },
+    {
+      "rank": 9,
+      "login": "BastianMIllan",
+      "url": "https://github.com/BastianMIllan",
+      "contributions": 25
+    },
+    {
+      "rank": 10,
+      "login": "stierms",
+      "url": "https://github.com/stierms",
+      "contributions": 23
+    },
+    {
+      "rank": 11,
+      "login": "visez",
+      "url": "https://github.com/visez",
+      "contributions": 21
+    },
+    {
+      "rank": 12,
+      "login": "stasana666",
+      "url": "https://github.com/stasana666",
+      "contributions": 18
+    },
+    {
+      "rank": 13,
+      "login": "danorris709",
+      "url": "https://github.com/danorris709",
+      "contributions": 17
+    },
+    {
+      "rank": 14,
+      "login": "k-sandhu",
+      "url": "https://github.com/k-sandhu",
+      "contributions": 17
+    },
+    {
+      "rank": 15,
+      "login": "TheWaler",
+      "url": "https://github.com/TheWaler",
+      "contributions": 17
+    }
+  ],
+  "author_rank_in_top100": null,
+  "author_merged_commits": 0
+}

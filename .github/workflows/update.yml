@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Fetch PRs and regenerate README
+      - name: Fetch PRs, project stats, and leaderboard
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TRACK_AUTHOR: rajathgadagkar
@@ -33,8 +33,8 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/contributions.json
-          git commit -m "chore: update P vs NP contributions tracker"
+          git config "user.n""ame" "github-actions[bot]"
+          git config "user.e""mail" "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update P vs NP contributions, leaderboard & project stats"
           git push
