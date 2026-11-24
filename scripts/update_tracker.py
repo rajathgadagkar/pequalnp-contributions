@@ -221,6 +221,7 @@ def main():
         "",
         "<p>"
         f'<a href="{lean_url}"><img src="{SHIELDS}/Lean%204-Mathlib-blueviolet?style=flat-square" alt="Lean 4" /></a> '
+        f'<a href="{SITE}/a/{AUTHOR}"><img src="{SHIELDS}/pequalnp.com-Contributor%20Card-ff69b4?style=flat-square" alt="Contributor Card" /></a> '
         f'<a href="{GH}/{REPO}/pulls?q=is%3Apr+author%3A{AUTHOR}+is%3Amerged"><img src="{SHIELDS}/Merged%20PRs-{merged}-2ea44f?style=flat-square" alt="Merged PRs" /></a> '
         f'<a href="{GH}/{REPO}/pulls?q=is%3Apr+author%3A{AUTHOR}+is%3Aopen"><img src="{SHIELDS}/In%20Queue-{open_cnt}-d29922?style=flat-square" alt="In Queue" /></a> '
         f'<a href="#pull-request-log"><img src="{SHIELDS}/Lean%204%20LOC-%2B{total_loc}-0969da?style=flat-square" alt="Lean 4 LOC" /></a> '
