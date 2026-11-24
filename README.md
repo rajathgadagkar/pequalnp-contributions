@@ -1,10 +1,10 @@
 # 🧮 P vs NP Lean 4 Contributions — `@rajathgadagkar`
 
-[[https://img.shields.io/badge/Lean%204-Mathlib-blueviolet?style=flat-square]](https://lean-lang.org/) [[https://img.shields.io/badge/Merged%20PRs-0-2ea44f?style=flat-square]](https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Amerged) [[https://img.shields.io/badge/In%20Queue-0-d29922?style=flat-square]](https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Aopen) [[https://img.shields.io/badge/Lean%204%20LOC-%2B1571-0969da?style=flat-square]](#pull-request-log) [[https://img.shields.io/badge/Repo%20Rank-Pending-8957e5?style=flat-square]](#community-leaderboard) [[https://img.shields.io/badge/Updates-Hourly%20via%20Actions-brightgreen?style=flat-square]](.github/workflows/update.yml)
+<p><a href="https://lean-lang.org/"><img src="https://img.shields.io/badge/Lean%204-Mathlib-blueviolet?style=flat-square" alt="Lean 4" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-0-2ea44f?style=flat-square" alt="Merged PRs" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Aopen"><img src="https://img.shields.io/badge/In%20Queue-0-d29922?style=flat-square" alt="In Queue" /></a> <a href="#pull-request-log"><img src="https://img.shields.io/badge/Lean%204%20LOC-%2B1571-0969da?style=flat-square" alt="Lean 4 LOC" /></a> <a href="#community-leaderboard"><img src="https://img.shields.io/badge/Repo%20Rank-Pending-8957e5?style=flat-square" alt="Repo Rank" /></a> <a href=".github/workflows/update.yml"><img src="https://img.shields.io/badge/Updates-Hourly%20via%20Actions-brightgreen?style=flat-square" alt="Auto-Updated" /></a></p>
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to the open **P vs NP** formalization effort at [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) ([pequalnp.com](https://pequalnp.com/) · [Contributor Card](https://pequalnp.com/a/rajathgadagkar)).
 
-_Last synced automatically: **2026-11-24 20:30 UTC**_
+_Last synced automatically: **2026-11-24 20:34 UTC**_
 
 ## 📊 Personal Contribution Snapshot
 
@@ -19,20 +19,20 @@ _Last synced automatically: **2026-11-24 20:30 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 149` stars · `🍴 2,364` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 149` stars · `🍴 2,366` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **1,799** |
-| **Total Merged Proof PRs** | **1,863** |
-| **Active PRs in Checker Queue** | **2,183** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **1,800** |
+| **Total Merged Proof PRs** | **1,864** |
+| **Active PRs in Checker Queue** | **2,205** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
 | **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 1,172 | 65.1% | `████████████░░░░░░` |
-| **OTHER** (`L_other_*`) | 568 | 31.6% | `██████░░░░░░░░░░░░` |
+| **OTHER** (`L_other_*`) | 569 | 31.6% | `██████░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 43 | 2.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 9 | 0.5% | `░░░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 6 | 0.3% | `░░░░░░░░░░░░░░░░░░` |
