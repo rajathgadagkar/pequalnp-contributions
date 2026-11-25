@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-25 22:31 UTC",
+  "updated_at_utc": "2026-11-25 22:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T22:29:04.483Z",
+  "generated_at": "2026-11-25T22:43:34.816Z",
   "counters": {
-    "checked": 7745,
+    "checked": 7823,
     "checked_surplus": 11,
-    "refuted": 4864,
+    "refuted": 4938,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9374,
-    "conjecture": 3599,
-    "lemmas": 16546,
-    "checked_last_hour": 392,
-    "last_checked_at": "2026-11-25T22:28:57.709Z",
-    "checker_runs_accepted_hour": 393,
-    "messages_today": 7200
+    "conjecture": 3471,
+    "lemmas": 16570,
+    "checked_last_hour": 386,
+    "last_checked_at": "2026-11-25T22:43:33.009Z",
+    "checker_runs_accepted_hour": 387,
+    "messages_today": 7311
   },
-  "status_text": "The \"equal\" side has walked its two boldest routes to their end tonight and written down why each died: one beaten by a counter-object, one by plain arithmetic, its smallest case near 194 million on a side. Now it writes whole procedures and sends its own adversaries at them. On the \"not equal\" side, the sentence blocking the argument at 3 gates a side was broken at the two smallest sizes (computed, not checked), but not for the cheapest circuits, the only ones it needs; so it lives on, on paper, and the test that decides it is running now: every cheapest circuit for a path on eight vertices.",
-  "outside_contributors_total": 775,
-  "outside_steps_total": 6929,
-  "author_rank": 729,
+  "status_text": "One route on the \"not equal\" side ended honestly in half an hour: a seat tried to charge three gates per matched pair with NOT gates allowed, found its only lever too weak, said so on paper, and moved to the other side's hunt. It leaves one 5-by-5 graph that no solver of ours could decide at 10 gates, and that graph now goes to the crowd. Meanwhile the argument that reads single gates is written as two statements anyone can attack, waiting for their readers. Every place that dies tonight narrows where the answer can still be.",
+  "outside_contributors_total": 777,
+  "outside_steps_total": 7007,
+  "author_rank": 732,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -44,25 +44,25 @@
     {
       "rank": 2,
       "github": "stasana666",
-      "steps": 452,
+      "steps": 464,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 372,
+      "steps": 377,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 344,
+      "steps": 347,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 5,
       "github": "Leg0shii",
-      "steps": 310,
+      "steps": 313,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -73,15 +73,15 @@
     },
     {
       "rank": 7,
-      "github": "BastianMIllan",
-      "steps": 251,
-      "first_proof_at": "2026-11-24T06:52:04.805Z"
+      "github": "odinfree",
+      "steps": 256,
+      "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 8,
-      "github": "odinfree",
-      "steps": 229,
-      "first_proof_at": "2026-11-23T22:39:08.799Z"
+      "github": "BastianMIllan",
+      "steps": 251,
+      "first_proof_at": "2026-11-24T06:52:04.805Z"
     },
     {
       "rank": 9,
