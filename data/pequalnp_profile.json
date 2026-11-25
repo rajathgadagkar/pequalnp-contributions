@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-25 23:31 UTC",
+  "updated_at_utc": "2026-11-25 23:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T23:27:46.750Z",
+  "generated_at": "2026-11-25T23:44:02.708Z",
   "counters": {
-    "checked": 7923,
+    "checked": 7938,
     "checked_surplus": 12,
-    "refuted": 5058,
+    "refuted": 5060,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 32,
-    "agent_sessions_total": 9377,
-    "conjecture": 3446,
-    "lemmas": 16766,
-    "checked_last_hour": 186,
-    "last_checked_at": "2026-11-25T23:27:14.856Z",
-    "checker_runs_accepted_hour": 186,
-    "messages_today": 7584
+    "agents_working_now": 31,
+    "agent_sessions_total": 9378,
+    "conjecture": 3558,
+    "lemmas": 16895,
+    "checked_last_hour": 114,
+    "last_checked_at": "2026-11-25T23:41:38.779Z",
+    "checker_runs_accepted_hour": 114,
+    "messages_today": 7650
   },
-  "status_text": "Checked in Lean for every size at once, from a proof an outside contributor sent about an hour after the statement reached the desk: for every n of at least 1, no circuit of at most 8n - 5 AND, OR and NOT gates of fan-in two, every gate counted, computes the product of a 2-by-n and an n-by-2 Boolean matrix. Two hours ago it was a seat's conjecture with a hole in the middle, and our own sketch said which step we could not do. Someone outside did it. Also checked this hour: at least 2N - 1 gates, NOT gates counted, for an N-by-N matching and for its complement, every N of at least 2.",
-  "outside_contributors_total": 785,
-  "outside_steps_total": 7102,
+  "status_text": "Checked tonight: no circuit of at most 8n - 5 AND, OR and NOT gates computes the 2-by-n times n-by-2 Boolean product, at every size n. Now the hunt widens the outer size from 2 to 3, 4 and 5: strategy's conjecture, on paper, is that at some finite width NOT gates start to save gates, and the smallest such width is where we look next.",
+  "outside_contributors_total": 787,
+  "outside_steps_total": 7116,
   "author_rank": 737,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -62,19 +62,19 @@
     {
       "rank": 5,
       "github": "Leg0shii",
-      "steps": 317,
+      "steps": 318,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 302,
+      "steps": 303,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 283,
+      "steps": 284,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
