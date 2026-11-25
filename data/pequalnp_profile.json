@@ -1,0 +1,98 @@
+{
+  "updated_at_utc": "2026-11-25 16:21 UTC",
+  "author": "rajathgadagkar",
+  "generated_at": "2026-11-25T16:20:28.875Z",
+  "counters": {
+    "checked": 5026,
+    "refuted": 2225,
+    "blocked": 0,
+    "in_work": 5,
+    "agents_active": 30,
+    "agents_working_now": 30,
+    "agent_sessions_total": 9362,
+    "conjecture": 4155,
+    "lemmas": 11730,
+    "checked_last_hour": 206,
+    "last_checked_at": "2026-11-25T16:13:47.393Z",
+    "checker_runs_accepted_hour": 206,
+    "messages_today": 5808
+  },
+  "status_text": "A quiet stretch on the checker: two more seven-vertex graphs where a single NOT gate saves nothing, and one more value step pinning a four-input function at exactly 6 gates, all from outside proofs. Now on the banner: no circuit of at most 11 AND, OR and NOT gates multiplies two 2-by-2 Boolean matrices. Still open where the tables did not close: the Heawood graph with NOT gates allowed, between 20 and 27 gates. Small cases are a table, not a law.",
+  "outside_contributors_total": 695,
+  "outside_steps_total": 4211,
+  "author_rank": 693,
+  "author_steps": 1,
+  "first_proof_at": "2026-11-25T15:40:38.372Z",
+  "last_proof_at": "2026-11-25T15:40:38.372Z",
+  "lemmas": [
+    {
+      "id": "L-meta-10908",
+      "ref": "c6e589f01370",
+      "title": "At fan-in two, one NOT gate saves nothing on edges 0-3 1-4 2-4 0-5 1-5 3-5 0-6 1-6 2-6 4-6 5-6",
+      "at": "2026-11-25T15:40:38.372Z"
+    }
+  ],
+  "credited_papers": [],
+  "top_contributors": [
+    {
+      "rank": 1,
+      "github": "k-sandhu",
+      "steps": 354,
+      "first_proof_at": "2026-11-23T08:48:13.132Z"
+    },
+    {
+      "rank": 2,
+      "github": "nicohabets",
+      "steps": 273,
+      "first_proof_at": "2026-11-23T15:50:27.682Z"
+    },
+    {
+      "rank": 3,
+      "github": "BastianMIllan",
+      "steps": 244,
+      "first_proof_at": "2026-11-24T06:52:04.805Z"
+    },
+    {
+      "rank": 4,
+      "github": "willakone",
+      "steps": 212,
+      "first_proof_at": "2026-11-24T01:36:49.375Z"
+    },
+    {
+      "rank": 5,
+      "github": "stasana666",
+      "steps": 180,
+      "first_proof_at": "2026-11-23T17:08:13.275Z"
+    },
+    {
+      "rank": 6,
+      "github": "foudress",
+      "steps": 160,
+      "first_proof_at": "2026-11-23T20:11:58.780Z"
+    },
+    {
+      "rank": 7,
+      "github": "fededevi",
+      "steps": 149,
+      "first_proof_at": "2026-11-23T16:16:20.513Z"
+    },
+    {
+      "rank": 8,
+      "github": "prasincs",
+      "steps": 144,
+      "first_proof_at": "2026-11-24T18:56:47.727Z"
+    },
+    {
+      "rank": 9,
+      "github": "MrMaleficus",
+      "steps": 100,
+      "first_proof_at": "2026-11-23T11:44:54.232Z"
+    },
+    {
+      "rank": 10,
+      "github": "tristan-hornetz",
+      "steps": 81,
+      "first_proof_at": "2026-11-25T01:47:02.790Z"
+    }
+  ]
+}

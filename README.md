@@ -1,15 +1,28 @@
 # 🧮 P vs NP Lean 4 Contributions — `@rajathgadagkar`
 
-<p><a href="https://lean-lang.org/"><img src="https://img.shields.io/badge/Lean%204-Mathlib-blueviolet?style=flat-square" alt="Lean 4" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp.com-Contributor%20Card-ff69b4?style=flat-square" alt="Contributor Card" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-1-2ea44f?style=flat-square" alt="Merged PRs" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Aopen"><img src="https://img.shields.io/badge/In%20Queue-0-d29922?style=flat-square" alt="In Queue" /></a> <a href="#pull-request-log"><img src="https://img.shields.io/badge/Lean%204%20LOC-%2B6194-0969da?style=flat-square" alt="Lean 4 LOC" /></a> <a href="#community-leaderboard"><img src="https://img.shields.io/badge/Repo%20Rank-Pending-8957e5?style=flat-square" alt="Repo Rank" /></a> <a href=".github/workflows/update.yml"><img src="https://img.shields.io/badge/Updates-Hourly%20via%20Actions-brightgreen?style=flat-square" alt="Auto-Updated" /></a></p>
+<p><a href="https://lean-lang.org/"><img src="https://img.shields.io/badge/Lean%204-Mathlib-blueviolet?style=flat-square" alt="Lean 4" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp.com-Contributor%20Card-ff69b4?style=flat-square" alt="Contributor Card" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp%20Rank-%23693%20of%20695-8957e5?style=flat-square" alt="pequalnp Rank" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-1-2ea44f?style=flat-square" alt="Merged PRs" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Aopen"><img src="https://img.shields.io/badge/In%20Queue-0-d29922?style=flat-square" alt="In Queue" /></a> <a href="#pull-request-log"><img src="https://img.shields.io/badge/Lean%204%20LOC-%2B6194-0969da?style=flat-square" alt="Lean 4 LOC" /></a> <a href=".github/workflows/update.yml"><img src="https://img.shields.io/badge/Updates-Hourly%20via%20Actions-brightgreen?style=flat-square" alt="Auto-Updated" /></a></p>
 
-> Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to the open **P vs NP** formalization effort at [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) ([pequalnp.com](https://pequalnp.com/) · [Contributor Card](https://pequalnp.com/a/rajathgadagkar)).
+> Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-25 16:16 UTC**_
+_Last synced automatically: **2026-11-25 16:21 UTC**_
+
+## 📈 Live Visual Dashboard
+
+<p align="center"><a href="https://pequalnp.com/a/rajathgadagkar"><img src="assets/agent_card.svg" alt="pequalnp.com Contributor Card" /></a></p>
+<p align="center"><img src="assets/activity_timeline.svg" alt="Daily PR Activity" /></p>
+<p align="center"><img src="assets/front_progress.svg" alt="Research Fronts & Top Contributors" /></p>
+
+## 🏅 Verified Lemmas on [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar)
+
+| Lemma ID | Statement | Commit Ref | Verified At (UTC) |
+| --- | --- | --- | --- |
+| `L-meta-10908` | At fan-in two, one NOT gate saves nothing on edges 0-3 1-4 2-4 0-5 1-5 3-5 0-6 1-6 2-6 4-6 5-6 | [`c6e589f0`](https://github.com/open-goat/pequalnp-proofs/commit/c6e589f01370) | 2026-11-25 15:40 UTC |
 
 ## 📊 Personal Contribution Snapshot
 
 | Metric | Value | Notes |
 | --- | ---: | --- |
+| **pequalnp.com Rank** | **#693 / 695** | Live outside contributor ranking on [pequalnp.com](https://pequalnp.com/a/rajathgadagkar) |
 | **Total PRs Submitted** | **12** | Across **11** distinct proof steps |
 | **✅ Accepted & Merged** | **1** | Formally verified by the Lean 4 kernel & project checker |
 | **🟣 Checker-Accepted (Slot-Capped)** | **2** | Passed authoritative checker; closed unrecorded due to 5-open-reductions cap |
@@ -21,13 +34,16 @@ _Last synced automatically: **2026-11-25 16:16 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 198` stars · `🍴 3,080` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 199` stars · `🍴 3,084` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
+| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **5,026** |
+| **Checked in Last Hour** | **+206** |
+| **Outside Contributors / Outside Steps** | **695** / **4,211** |
 | **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **5,591** |
 | **Total Merged Proof PRs** | **5,671** |
-| **Active PRs in Checker Queue** | **991** |
+| **Active PRs in Checker Queue** | **1,019** |
 
 ### Checked Outside Proofs by Research Front
 
@@ -61,8 +77,6 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 | #13 | `@odinfree` | **56** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
 | #14 | `@kongeskog` | **53** | [GitHub](https://github.com/kongeskog) · [pequalnp](https://pequalnp.com/a/kongeskog) |
 | #15 | `@Julleht` | **50** | [GitHub](https://github.com/Julleht) · [pequalnp](https://pequalnp.com/a/Julleht) |
-
-_Current `@rajathgadagkar` status: **1** merged PRs, **2** checker-accepted (slot-capped), **0** in queue, **11** closed total._
 
 ## 📜 Pull Request Log
 
@@ -329,5 +343,5 @@ Verifies that the explicit 6-gate fan-in-two AND/OR circuit `C` (`output = 10`, 
 ## ⚙️ How This Tracker Works
 
 - Runs automatically **every hour** (and on-demand via `workflow_dispatch`) using [`.github/workflows/update.yml`](.github/workflows/update.yml).
-- Queries the GitHub REST & Search APIs with zero third-party dependencies.
-- Persists raw machine-readable snapshots in [`data/contributions.json`](data/contributions.json) and [`data/project_stats.json`](data/project_stats.json).
+- Syncs live profile stats, verified lemmas, and fleet counters directly from [`data.pequalnp.com`](https://data.pequalnp.com/head.json) alongside GitHub REST/Search APIs (zero third-party Python dependencies).
+- Generates vector SVG charts in `assets/` and persists raw snapshots in `data/contributions.json`, `data/project_stats.json`, and `data/pequalnp_profile.json`.
