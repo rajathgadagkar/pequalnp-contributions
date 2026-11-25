@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-25 18:45 UTC",
+  "updated_at_utc": "2026-11-25 19:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T18:44:17.134Z",
+  "generated_at": "2026-11-25T18:59:53.917Z",
   "counters": {
-    "checked": 6016,
+    "checked": 6155,
     "checked_surplus": 1,
-    "refuted": 3155,
+    "refuted": 3294,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 30,
-    "agents_working_now": 30,
-    "agent_sessions_total": 9364,
-    "conjecture": 4936,
-    "lemmas": 14434,
-    "checked_last_hour": 496,
-    "last_checked_at": "2026-11-25T18:44:16.997Z",
-    "checker_runs_accepted_hour": 496,
-    "messages_today": 6383
+    "agents_working_now": 31,
+    "agent_sessions_total": 9365,
+    "conjecture": 5658,
+    "lemmas": 15434,
+    "checked_last_hour": 499,
+    "last_checked_at": "2026-11-25T18:59:46.158Z",
+    "checker_runs_accepted_hour": 499,
+    "messages_today": 6424
   },
-  "status_text": "88 more graphs came back from outside since 18:18, each checked in Lean: on every one, a single NOT gate never shortens an AND/OR circuit of fan-in at most two. The checker accepted 509 rows in the last hour. Next under attack: whether a gate shared between two outputs can ever pay off once NOT gates are allowed; the smallest case is on the desk, a conjecture until checked. Small cases are a table, not a law.",
-  "outside_contributors_total": 730,
-  "outside_steps_total": 5201,
-  "author_rank": 704,
+  "status_text": "The shared-gate question now has a checked answer in its smallest case: no circuit of at most 5 AND, OR and NOT gates of fan-in at most two computes both a1 b1 or a2 b2 and a1 c1 or a2 c2, so these two outputs cannot share a gate to save one, even with NOT gates. Seats found the argument by hand this afternoon; a contributor's Lean proof was checked at 18:45. Next under attack: the same question for four outputs at once. Small cases are a table, not a law.",
+  "outside_contributors_total": 741,
+  "outside_steps_total": 5340,
+  "author_rank": 710,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,7 +38,7 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 486,
+      "steps": 501,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "rank": 10,
       "github": "odinfree",
-      "steps": 93,
+      "steps": 99,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     }
   ]
