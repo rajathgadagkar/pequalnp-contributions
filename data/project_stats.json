@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-25 18:15 UTC",
+  "updated_at_utc": "2026-11-25 18:31 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 203,
-  "forks": 3166,
-  "merged_prs_total": 6451,
-  "open_prs_queue": 2195,
-  "outside_lean_modules": 6373,
+  "forks": 3173,
+  "merged_prs_total": 6529,
+  "open_prs_queue": 2265,
+  "outside_lean_modules": 6451,
   "front_breakdown": {
-    "meta": 4588,
-    "other": 1684,
+    "meta": 4664,
+    "other": 1686,
     "gct": 60,
     "pcx": 34,
     "lib": 6,
@@ -19,13 +19,13 @@
       "rank": 1,
       "login": "k-sandhu",
       "url": "https://github.com/k-sandhu",
-      "contributions": 405
+      "contributions": 488
     },
     {
       "rank": 2,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 278
+      "contributions": 286
     },
     {
       "rank": 3,
@@ -37,19 +37,19 @@
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 220
+      "contributions": 245
     },
     {
       "rank": 5,
       "login": "stasana666",
       "url": "https://github.com/stasana666",
-      "contributions": 194
+      "contributions": 239
     },
     {
       "rank": 6,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 177
+      "contributions": 192
     },
     {
       "rank": 7,
@@ -73,37 +73,37 @@
       "rank": 10,
       "login": "LiorDagan",
       "url": "https://github.com/LiorDagan",
-      "contributions": 91
+      "contributions": 93
     },
     {
       "rank": 11,
+      "login": "odinfree",
+      "url": "https://github.com/odinfree",
+      "contributions": 93
+    },
+    {
+      "rank": 12,
+      "login": "tmuniz1901-code",
+      "url": "https://github.com/tmuniz1901-code",
+      "contributions": 86
+    },
+    {
+      "rank": 13,
       "login": "tristan-hornetz",
       "url": "https://github.com/tristan-hornetz",
       "contributions": 82
     },
     {
-      "rank": 12,
-      "login": "odinfree",
-      "url": "https://github.com/odinfree",
+      "rank": 14,
+      "login": "Julleht",
+      "url": "https://github.com/Julleht",
       "contributions": 80
     },
     {
-      "rank": 13,
-      "login": "tmuniz1901-code",
-      "url": "https://github.com/tmuniz1901-code",
-      "contributions": 77
-    },
-    {
-      "rank": 14,
+      "rank": 15,
       "login": "c4ss",
       "url": "https://github.com/c4ss",
       "contributions": 66
-    },
-    {
-      "rank": 15,
-      "login": "Julleht",
-      "url": "https://github.com/Julleht",
-      "contributions": 65
     }
   ],
   "author_rank_in_top100": null,
