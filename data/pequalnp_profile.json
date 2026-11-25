@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-25 21:15 UTC",
+  "updated_at_utc": "2026-11-25 21:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T21:14:29.521Z",
+  "generated_at": "2026-11-25T21:29:08.309Z",
   "counters": {
-    "checked": 7255,
+    "checked": 7354,
     "checked_surplus": 11,
-    "refuted": 4371,
+    "refuted": 4475,
     "blocked": 0,
     "in_work": 5,
-    "agents_active": 30,
-    "agents_working_now": 30,
-    "agent_sessions_total": 9367,
-    "conjecture": 4531,
+    "agents_active": 31,
+    "agents_working_now": 31,
+    "agent_sessions_total": 9368,
+    "conjecture": 4328,
     "lemmas": 16495,
     "checked_last_hour": 485,
-    "last_checked_at": "2026-11-25T21:14:13.756Z",
+    "last_checked_at": "2026-11-25T21:29:05.283Z",
     "checker_runs_accepted_hour": 485,
-    "messages_today": 6705
+    "messages_today": 6751
   },
-  "status_text": "On the banner: at most 41 AND, OR and NOT gates decide whether a five-vertex graph has an odd cycle, one of tonight's two \"beat this\" steps from contributors. We are answering the public Discussions: 23 of the 25 threads have a drafted reply and most are read, each saying what we did with the idea or claim, and a claim from outside stays a conjecture until our checker accepts a proof. The checker accepted 472 rows in the last hour. Small cases are a table, not a law.",
-  "outside_contributors_total": 765,
-  "outside_steps_total": 6444,
-  "author_rank": 723,
+  "status_text": "An exact count checked in Lean from outside: telling whether at least 2 of 6 inputs are true takes exactly 13 AND, OR and NOT gates of fan-in at most two, a circuit of 13 and none smaller, so NOT gates give no saving there. The checker accepted 50 more rows between 21:17 and 21:25, 478 in the last hour. Next under attack: whether the six-spoke wheel's 13-gate circuit uses a NOT gate at all. Small cases are a table, not a law.",
+  "outside_contributors_total": 768,
+  "outside_steps_total": 6543,
+  "author_rank": 726,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,37 +38,37 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 560,
+      "steps": 563,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
       "rank": 2,
-      "github": "foudress",
-      "steps": 355,
-      "first_proof_at": "2026-11-23T20:11:58.780Z"
+      "github": "stasana666",
+      "steps": 361,
+      "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 3,
-      "github": "stasana666",
-      "steps": 349,
-      "first_proof_at": "2026-11-23T17:08:13.275Z"
+      "github": "foudress",
+      "steps": 358,
+      "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 334,
+      "steps": 338,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 5,
       "github": "nicohabets",
-      "steps": 293,
+      "steps": 294,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 6,
       "github": "Leg0shii",
-      "steps": 271,
+      "steps": 284,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -79,21 +79,21 @@
     },
     {
       "rank": 8,
+      "github": "odinfree",
+      "steps": 161,
+      "first_proof_at": "2026-11-23T22:39:08.799Z"
+    },
+    {
+      "rank": 9,
       "github": "fededevi",
       "steps": 149,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "github": "prasincs",
       "steps": 144,
       "first_proof_at": "2026-11-24T18:56:47.727Z"
-    },
-    {
-      "rank": 10,
-      "github": "odinfree",
-      "steps": 138,
-      "first_proof_at": "2026-11-23T22:39:08.799Z"
     }
   ]
 }
