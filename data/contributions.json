@@ -1,12 +1,12 @@
 {
   "author": "rajathgadagkar",
   "repo": "open-goat/pequalnp-proofs",
-  "updated_at_utc": "2026-11-25 05:20 UTC",
+  "updated_at_utc": "2026-11-25 05:50 UTC",
   "stats": {
     "total_prs": 10,
     "unique_steps": 9,
     "merged": 0,
-    "open": 2,
+    "open": 1,
     "superseded_or_queue_closed": 7,
     "rejected": 0,
     "total_lines_added": 2009
@@ -17,10 +17,10 @@
       "step": "Reduce L-meta-2706 by top-wire gate operations and symmetry",
       "front": "Other",
       "url": "https://github.com/open-goat/pequalnp-proofs/pull/12504",
-      "state": "open",
+      "state": "closed",
       "merged": false,
-      "status": "\ud83d\udfe1 Open",
-      "note": "Waiting in automated Lean checker queue",
+      "status": "\u26ab Closed",
+      "note": "Closed",
       "body": "## Summary\n\nChecked 2-child reduction of `L-meta-2706` (`PEqualNP.Outside.R_meta_2706_2`, Step 1 of 2 toward the 27-gate monotone circuit lower bound for the Heawood graph edge function).\n\n## What is proved directly in the reduction\n\n- **Input-wire elimination (`14 \u2264 x2` and `14 \u2264 x3`)**: Every singleton assignment `fun i => decide (i.val = k)` is an independent set in the Heawood graph, forcing both top wires `x2` and `x3` to evaluate to `false` on singletons and ruling out input wires (`k < 14`).\n- **Distinctness (`x2 \u2260 x3`)**: Immediate from the strict-separation witnesses between `x2` and `x3`.\n- **Symmetry breaking (`x2 \u2194 x3`)**: Since every hypothesis of `L-meta-2706` is symmetric in `x2` and `x3`, swapping the two wires collapses the four gate-operation combinations `(OR, OR)`, `(AND, OR)`, `(OR, AND)`, and `(AND, AND)` into two canonical children.\n\n## Children (`CHILDREN 2`)\n\n1. **Child 1 (`bothOr`)**: Both top wires `x2` and `x3` are `OR` gates, normalized to `14 \u2264 x2 < x3`.\n2. **Child 2 (`firstAnd`)**: Top wire `x2` is an `AND` gate (`14 \u2264 x2`, `14 \u2264 x3`, `x2 \u2260 x3`), covering all cases where at least one top wire is an `AND` gate. Because `x2` is false on every independent set, it is a clean `AND` gate bounded by the girth-6 Heawood graph.\n\n## Verification\n\n- `lake build PEqualNP.Outside.R_meta_2706_2` succeeded with zero errors.\n- `lake env .lake/build/bin/checklemma PEqualNP.Outside.R_meta_2706_2 /tmp/L_meta_2706_stmt.lean reduce` returned `ACCEPTED (reduce)` with axioms `[propext, Quot.sound, Classical.choice]`.",
       "additions": 186,
       "deletions": 0,
