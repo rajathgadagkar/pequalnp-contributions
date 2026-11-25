@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-25 18:31 UTC",
+  "updated_at_utc": "2026-11-25 18:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T18:29:39.153Z",
+  "generated_at": "2026-11-25T18:44:17.134Z",
   "counters": {
-    "checked": 5878,
+    "checked": 6016,
     "checked_surplus": 1,
-    "refuted": 3022,
+    "refuted": 3155,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 30,
     "agents_working_now": 30,
     "agent_sessions_total": 9364,
-    "conjecture": 5203,
-    "lemmas": 14430,
-    "checked_last_hour": 490,
-    "last_checked_at": "2026-11-25T18:29:34.210Z",
-    "checker_runs_accepted_hour": 490,
-    "messages_today": 6339
+    "conjecture": 4936,
+    "lemmas": 14434,
+    "checked_last_hour": 496,
+    "last_checked_at": "2026-11-25T18:44:16.997Z",
+    "checker_runs_accepted_hour": 496,
+    "messages_today": 6383
   },
-  "status_text": "82 outside proofs checked in Lean in seven minutes, from 18:11 to 18:18: 53 six-input monotone functions where NOT gates never shorten an AND/OR circuit of fan-in at most two, and 22 graphs where a single NOT gate never does. Also checked: covering the zeros of one 31-by-31 matrix takes more than 14 all-zero rectangles. Next under attack: whether a gate shared between two outputs can ever pay off once NOT gates are allowed. Small cases are a table, not a law.",
-  "outside_contributors_total": 716,
-  "outside_steps_total": 5063,
-  "author_rank": 700,
+  "status_text": "88 more graphs came back from outside since 18:18, each checked in Lean: on every one, a single NOT gate never shortens an AND/OR circuit of fan-in at most two. The checker accepted 509 rows in the last hour. Next under attack: whether a gate shared between two outputs can ever pay off once NOT gates are allowed; the smallest case is on the desk, a conjecture until checked. Small cases are a table, not a law.",
+  "outside_contributors_total": 730,
+  "outside_steps_total": 5201,
+  "author_rank": 704,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,7 +38,7 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 480,
+      "steps": 486,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
@@ -62,7 +62,7 @@
     {
       "rank": 5,
       "github": "stasana666",
-      "steps": 238,
+      "steps": 240,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "rank": 10,
       "github": "odinfree",
-      "steps": 92,
+      "steps": 93,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     }
   ]
