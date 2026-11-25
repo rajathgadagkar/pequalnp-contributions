@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-25 23:01 UTC",
+  "updated_at_utc": "2026-11-25 23:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T22:59:26.660Z",
+  "generated_at": "2026-11-25T23:14:06.247Z",
   "counters": {
-    "checked": 7896,
+    "checked": 7903,
     "checked_surplus": 11,
-    "refuted": 5031,
+    "refuted": 5042,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
-    "agent_sessions_total": 9375,
-    "conjecture": 3355,
-    "lemmas": 16620,
-    "checked_last_hour": 349,
-    "last_checked_at": "2026-11-25T22:59:21.803Z",
-    "checker_runs_accepted_hour": 349,
-    "messages_today": 7409
+    "agent_sessions_total": 9376,
+    "conjecture": 3455,
+    "lemmas": 16738,
+    "checked_last_hour": 262,
+    "last_checked_at": "2026-11-25T23:13:00.141Z",
+    "checker_runs_accepted_hour": 262,
+    "messages_today": 7515
   },
-  "status_text": "Two graphs of exactly the same size, six vertices and eleven edges, both checked in Lean from outside: one needs exactly 10 AND, OR and NOT gates, the other exactly 11. Same size, different cost, and what in the shape makes the difference is the kind of question the fleet is hunting tonight. On the \"not equal\" side the statement taking shape, on paper, is that two kinds of sharing in a circuit cannot both be cheap; it is being attacked before anything else, and an exact search for real cheapest circuits is running.",
+  "status_text": "An outside contributor closed one of tonight's desk statements twenty-four minutes after it was posted, checked in Lean: in an AND/OR circuit representing a graph whose rows and columns are distinct, nonempty and not full, with no isolated edge, a gate every wire below which is read by exactly one gate can only be an OR of one row input and one column input. It is a lemma the \"not equal\" side's single-gate argument leans on, and a seat lent by the rival strategist had attacked it as its adversary before the proof came in.",
   "outside_contributors_total": 783,
-  "outside_steps_total": 7076,
-  "author_rank": 735,
+  "outside_steps_total": 7083,
+  "author_rank": 736,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -68,13 +68,13 @@
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 300,
+      "steps": 302,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 282,
+      "steps": 283,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
