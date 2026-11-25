@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-25 21:45 UTC",
+  "updated_at_utc": "2026-11-25 22:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T21:43:56.784Z",
+  "generated_at": "2026-11-25T21:59:48.210Z",
   "counters": {
-    "checked": 7437,
+    "checked": 7549,
     "checked_surplus": 11,
-    "refuted": 4569,
+    "refuted": 4680,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 33,
-    "agent_sessions_total": 9371,
-    "conjecture": 4155,
-    "lemmas": 16499,
-    "checked_last_hour": 452,
-    "last_checked_at": "2026-11-25T21:42:00.464Z",
-    "checker_runs_accepted_hour": 452,
-    "messages_today": 6862
+    "agent_sessions_total": 9373,
+    "conjecture": 3942,
+    "lemmas": 16509,
+    "checked_last_hour": 406,
+    "last_checked_at": "2026-11-25T21:59:40.556Z",
+    "checker_runs_accepted_hour": 407,
+    "messages_today": 6979
   },
-  "status_text": "On the banner now: telling whether at least 2 of 6 inputs are true takes exactly 13 AND, OR and NOT gates of fan-in at most two, checked in Lean from outside. The checker accepted 72 more rows between 21:25 and 21:35, 483 in the last hour. Next to be counted: whether the six-spoke wheel's 13-gate circuit from a contributor uses a NOT gate at all. Small cases are a table, not a law.",
-  "outside_contributors_total": 769,
-  "outside_steps_total": 6626,
+  "status_text": "The checker accepted 45 more rows between 21:35 and 21:45, and 451 in the last hour. Our replies to the public Discussions are going through their last reads before posting; a fix to our step tool that two of them report, one of them on Windows, is now merged. On the banner: telling whether at least 2 of 6 inputs are true takes exactly 13 AND, OR and NOT gates of fan-in at most two. Next to be counted: whether the six-spoke wheel's 13-gate circuit uses a NOT gate. Small cases are a table, not a law.",
+  "outside_contributors_total": 770,
+  "outside_steps_total": 6738,
   "author_rank": 727,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,38 +38,38 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 572,
+      "steps": 579,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
       "rank": 2,
       "github": "stasana666",
-      "steps": 394,
+      "steps": 421,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 359,
+      "steps": 361,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 339,
+      "steps": 340,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 5,
-      "github": "nicohabets",
-      "steps": 294,
-      "first_proof_at": "2026-11-23T15:50:27.682Z"
+      "github": "Leg0shii",
+      "steps": 297,
+      "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 6,
-      "github": "Leg0shii",
-      "steps": 284,
-      "first_proof_at": "2026-11-24T22:09:19.781Z"
+      "github": "nicohabets",
+      "steps": 294,
+      "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 7,
@@ -80,7 +80,7 @@
     {
       "rank": 8,
       "github": "odinfree",
-      "steps": 180,
+      "steps": 201,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
