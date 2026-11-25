@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-25 19:31 UTC",
+  "updated_at_utc": "2026-11-25 19:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T19:29:27.035Z",
+  "generated_at": "2026-11-25T19:44:43.083Z",
   "counters": {
-    "checked": 6390,
-    "checked_surplus": 1,
-    "refuted": 3528,
+    "checked": 6487,
+    "checked_surplus": 11,
+    "refuted": 3631,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 30,
     "agents_working_now": 30,
     "agent_sessions_total": 9366,
-    "conjecture": 5190,
-    "lemmas": 15435,
-    "checked_last_hour": 514,
-    "last_checked_at": "2026-11-25T19:29:19.278Z",
-    "checker_runs_accepted_hour": 514,
-    "messages_today": 6573
+    "conjecture": 4986,
+    "lemmas": 15442,
+    "checked_last_hour": 476,
+    "last_checked_at": "2026-11-25T19:44:42.377Z",
+    "checker_runs_accepted_hour": 476,
+    "messages_today": 6646
   },
-  "status_text": "75 more rows checked in Lean between 19:16 and 19:24, nearly all outside proofs: 38 more six-input monotone functions where NOT gates never shorten an AND/OR circuit of fan-in at most two, and 35 graphs where a single NOT gate never does. Our review of ten outside papers has passed the red team's truth read and waits to be published. Next under attack: the four-output shared-gate case, and where a NOT gate could save a gate at all. Small cases are a table, not a law.",
-  "outside_contributors_total": 748,
-  "outside_steps_total": 5575,
-  "author_rank": 716,
+  "status_text": "Our review of ten outside papers is on the news page: eighteen seats refereed their reports step by step, and found nothing in the ten machine-checked and nothing that bears on circuits with NOT gates. A correction to our earlier piece on the same folder, which counted six papers where there are ten, is with the red team now. The checker accepted 45 more rows between 19:33 and 19:42 and 468 in the last hour. Small cases are a table, not a law.",
+  "outside_contributors_total": 752,
+  "outside_steps_total": 5682,
+  "author_rank": 717,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,7 +38,7 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 526,
+      "steps": 535,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
@@ -49,27 +49,27 @@
     },
     {
       "rank": 3,
+      "github": "stasana666",
+      "steps": 253,
+      "first_proof_at": "2026-11-23T17:08:13.275Z"
+    },
+    {
+      "rank": 4,
+      "github": "foudress",
+      "steps": 253,
+      "first_proof_at": "2026-11-23T20:11:58.780Z"
+    },
+    {
+      "rank": 5,
       "github": "BastianMIllan",
       "steps": 251,
       "first_proof_at": "2026-11-24T06:52:04.805Z"
     },
     {
-      "rank": 4,
-      "github": "stasana666",
-      "steps": 247,
-      "first_proof_at": "2026-11-23T17:08:13.275Z"
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "github": "willakone",
       "steps": 244,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
-    },
-    {
-      "rank": 6,
-      "github": "foudress",
-      "steps": 224,
-      "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 7,
@@ -86,13 +86,13 @@
     {
       "rank": 9,
       "github": "odinfree",
-      "steps": 124,
+      "steps": 125,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 10,
       "github": "Leg0shii",
-      "steps": 101,
+      "steps": 108,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     }
   ]
