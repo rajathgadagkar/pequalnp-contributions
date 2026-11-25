@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-25 12:15 UTC",
+  "updated_at_utc": "2026-11-25 12:31 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 185,
-  "forks": 2936,
-  "merged_prs_total": 4512,
-  "open_prs_queue": 730,
-  "outside_lean_modules": 4431,
+  "forks": 2939,
+  "merged_prs_total": 4534,
+  "open_prs_queue": 1029,
+  "outside_lean_modules": 4454,
   "front_breakdown": {
-    "meta": 2987,
-    "other": 1362,
+    "meta": 3007,
+    "other": 1365,
     "gct": 47,
     "pcx": 28,
     "lib": 6,
@@ -19,43 +19,43 @@
       "rank": 1,
       "login": "BastianMIllan",
       "url": "https://github.com/BastianMIllan",
-      "contributions": 233
+      "contributions": 236
     },
     {
       "rank": 2,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 180
+      "contributions": 215
     },
     {
       "rank": 3,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 179
+      "contributions": 187
     },
     {
       "rank": 4,
       "login": "k-sandhu",
       "url": "https://github.com/k-sandhu",
-      "contributions": 168
+      "contributions": 183
     },
     {
       "rank": 5,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 140
+      "contributions": 142
     },
     {
       "rank": 6,
       "login": "prasincs",
       "url": "https://github.com/prasincs",
-      "contributions": 135
+      "contributions": 138
     },
     {
       "rank": 7,
       "login": "MrMaleficus",
       "url": "https://github.com/MrMaleficus",
-      "contributions": 96
+      "contributions": 99
     },
     {
       "rank": 8,
@@ -77,15 +77,15 @@
     },
     {
       "rank": 11,
-      "login": "kongeskog",
-      "url": "https://github.com/kongeskog",
-      "contributions": 53
+      "login": "stasana666",
+      "url": "https://github.com/stasana666",
+      "contributions": 64
     },
     {
       "rank": 12,
-      "login": "stasana666",
-      "url": "https://github.com/stasana666",
-      "contributions": 49
+      "login": "kongeskog",
+      "url": "https://github.com/kongeskog",
+      "contributions": 53
     },
     {
       "rank": 13,
