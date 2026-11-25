@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to the open **P vs NP** formalization effort at [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) ([pequalnp.com](https://pequalnp.com/) · [Contributor Card](https://pequalnp.com/a/rajathgadagkar)).
 
-_Last synced automatically: **2026-11-25 11:15 UTC**_
+_Last synced automatically: **2026-11-25 11:31 UTC**_
 
 ## 📊 Personal Contribution Snapshot
 
@@ -21,22 +21,22 @@ _Last synced automatically: **2026-11-25 11:15 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 185` stars · `🍴 2,908` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 185` stars · `🍴 2,913` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **4,280** |
-| **Total Merged Proof PRs** | **4,360** |
-| **Active PRs in Checker Queue** | **231** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **4,320** |
+| **Total Merged Proof PRs** | **4,400** |
+| **Active PRs in Checker Queue** | **276** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 2,863 | 66.9% | `████████████░░░░░░` |
-| **OTHER** (`L_other_*`) | 1,352 | 31.6% | `██████░░░░░░░░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 2,900 | 67.1% | `████████████░░░░░░` |
+| **OTHER** (`L_other_*`) | 1,353 | 31.3% | `██████░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 43 | 1.0% | `░░░░░░░░░░░░░░░░░░` |
-| **Proof Complexity** (`L_pcx_*`) | 15 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
+| **Proof Complexity** (`L_pcx_*`) | 17 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 6 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
 | **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 1 | 0.0% | `░░░░░░░░░░░░░░░░░░` |
 
@@ -46,20 +46,20 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 
 | Rank | Contributor | Commits | Profile |
 | ---: | --- | ---: | --- |
-| 🥇 | `@BastianMIllan` | **226** | [GitHub](https://github.com/BastianMIllan) · [pequalnp](https://pequalnp.com/a/BastianMIllan) |
-| 🥈 | `@willakone` | **177** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
-| 🥉 | `@nicohabets` | **172** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
-| #4 | `@k-sandhu` | **150** | [GitHub](https://github.com/k-sandhu) · [pequalnp](https://pequalnp.com/a/k-sandhu) |
-| #5 | `@fededevi` | **139** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
-| #6 | `@prasincs` | **126** | [GitHub](https://github.com/prasincs) · [pequalnp](https://pequalnp.com/a/prasincs) |
-| #7 | `@LiorDagan` | **90** | [GitHub](https://github.com/LiorDagan) · [pequalnp](https://pequalnp.com/a/LiorDagan) |
-| #8 | `@MrMaleficus` | **85** | [GitHub](https://github.com/MrMaleficus) · [pequalnp](https://pequalnp.com/a/MrMaleficus) |
+| 🥇 | `@BastianMIllan` | **233** | [GitHub](https://github.com/BastianMIllan) · [pequalnp](https://pequalnp.com/a/BastianMIllan) |
+| 🥈 | `@nicohabets` | **180** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
+| 🥉 | `@willakone` | **179** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
+| #4 | `@k-sandhu` | **168** | [GitHub](https://github.com/k-sandhu) · [pequalnp](https://pequalnp.com/a/k-sandhu) |
+| #5 | `@fededevi` | **140** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
+| #6 | `@prasincs` | **135** | [GitHub](https://github.com/prasincs) · [pequalnp](https://pequalnp.com/a/prasincs) |
+| #7 | `@MrMaleficus` | **96** | [GitHub](https://github.com/MrMaleficus) · [pequalnp](https://pequalnp.com/a/MrMaleficus) |
+| #8 | `@LiorDagan` | **90** | [GitHub](https://github.com/LiorDagan) · [pequalnp](https://pequalnp.com/a/LiorDagan) |
 | #9 | `@tristan-hornetz` | **82** | [GitHub](https://github.com/tristan-hornetz) · [pequalnp](https://pequalnp.com/a/tristan-hornetz) |
 | #10 | `@c4ss` | **66** | [GitHub](https://github.com/c4ss) · [pequalnp](https://pequalnp.com/a/c4ss) |
 | #11 | `@kongeskog` | **53** | [GitHub](https://github.com/kongeskog) · [pequalnp](https://pequalnp.com/a/kongeskog) |
-| #12 | `@sanchan` | **46** | [GitHub](https://github.com/sanchan) · [pequalnp](https://pequalnp.com/a/sanchan) |
-| #13 | `@stasana666` | **38** | [GitHub](https://github.com/stasana666) · [pequalnp](https://pequalnp.com/a/stasana666) |
-| #14 | `@odinfree` | **38** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
+| #12 | `@stasana666` | **49** | [GitHub](https://github.com/stasana666) · [pequalnp](https://pequalnp.com/a/stasana666) |
+| #13 | `@sanchan` | **46** | [GitHub](https://github.com/sanchan) · [pequalnp](https://pequalnp.com/a/sanchan) |
+| #14 | `@odinfree` | **40** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
 | #15 | `@stierms` | **31** | [GitHub](https://github.com/stierms) · [pequalnp](https://pequalnp.com/a/stierms) |
 
 _Current `@rajathgadagkar` status: **0** merged PRs, **2** checker-accepted (slot-capped), **0** in queue, **11** closed total._
