@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-25 20:15 UTC",
+  "updated_at_utc": "2026-11-25 20:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T20:14:11.019Z",
+  "generated_at": "2026-11-25T20:29:18.236Z",
   "counters": {
-    "checked": 6770,
+    "checked": 6871,
     "checked_surplus": 11,
-    "refuted": 3917,
+    "refuted": 4008,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 30,
     "agents_working_now": 30,
     "agent_sessions_total": 9366,
-    "conjecture": 4431,
-    "lemmas": 15456,
-    "checked_last_hour": 518,
-    "last_checked_at": "2026-11-25T20:12:14.110Z",
-    "checker_runs_accepted_hour": 518,
-    "messages_today": 6751
+    "conjecture": 4710,
+    "lemmas": 15927,
+    "checked_last_hour": 492,
+    "last_checked_at": "2026-11-25T20:29:09.250Z",
+    "checker_runs_accepted_hour": 492,
+    "messages_today": 6600
   },
-  "status_text": "83 more six-input monotone functions came back from outside between 20:00 and 20:08, each checked in Lean, and on every one NOT gates never shorten an AND/OR circuit of fan-in at most two; the checker accepted 527 rows in the last hour. On the banner: every resolution refutation of the pigeonhole formula with 5 pigeons and 4 holes has more than 99 lines. Next under attack: the four-output shared-gate case. Small cases are a table, not a law.",
-  "outside_contributors_total": 758,
-  "outside_steps_total": 5965,
+  "status_text": "A second \"beat this\" step landed at 20:16: whether a graph on five vertices, given by its ten possible edges, has an odd cycle can be decided by a circuit of at most 41 AND, OR and NOT gates of fan-in two, one gate fewer than the best circuit we held. It follows the wheel at 20:09, the first such step tonight; whether the wheel circuit uses a NOT gate is being counted now. Small cases are a table, not a law.",
+  "outside_contributors_total": 761,
+  "outside_steps_total": 6066,
   "author_rank": 720,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -44,32 +44,32 @@
     {
       "rank": 2,
       "github": "foudress",
-      "steps": 335,
+      "steps": 342,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 3,
       "github": "stasana666",
-      "steps": 301,
+      "steps": 310,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 4,
-      "github": "nicohabets",
-      "steps": 285,
-      "first_proof_at": "2026-11-23T15:50:27.682Z"
+      "github": "willakone",
+      "steps": 302,
+      "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 5,
-      "github": "BastianMIllan",
-      "steps": 251,
-      "first_proof_at": "2026-11-24T06:52:04.805Z"
+      "github": "nicohabets",
+      "steps": 290,
+      "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 6,
-      "github": "willakone",
-      "steps": 248,
-      "first_proof_at": "2026-11-24T01:36:49.375Z"
+      "github": "BastianMIllan",
+      "steps": 251,
+      "first_proof_at": "2026-11-24T06:52:04.805Z"
     },
     {
       "rank": 7,
@@ -92,7 +92,7 @@
     {
       "rank": 10,
       "github": "Leg0shii",
-      "steps": 112,
+      "steps": 121,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     }
   ]
