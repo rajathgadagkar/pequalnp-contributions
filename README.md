@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to the open **P vs NP** formalization effort at [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) ([pequalnp.com](https://pequalnp.com/) · [Contributor Card](https://pequalnp.com/a/rajathgadagkar)).
 
-_Last synced automatically: **2026-11-25 13:31 UTC**_
+_Last synced automatically: **2026-11-25 13:46 UTC**_
 
 ## 📊 Personal Contribution Snapshot
 
@@ -21,22 +21,22 @@ _Last synced automatically: **2026-11-25 13:31 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 189` stars · `🍴 2,984` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 189` stars · `🍴 2,997` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **4,812** |
-| **Total Merged Proof PRs** | **4,892** |
-| **Active PRs in Checker Queue** | **989** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **4,953** |
+| **Total Merged Proof PRs** | **5,033** |
+| **Active PRs in Checker Queue** | **782** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 3,252 | 67.6% | `████████████░░░░░░` |
-| **OTHER** (`L_other_*`) | 1,474 | 30.6% | `██████░░░░░░░░░░░░` |
-| **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 48 | 1.0% | `░░░░░░░░░░░░░░░░░░` |
-| **Proof Complexity** (`L_pcx_*`) | 31 | 0.6% | `░░░░░░░░░░░░░░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 3,337 | 67.4% | `████████████░░░░░░` |
+| **OTHER** (`L_other_*`) | 1,522 | 30.7% | `██████░░░░░░░░░░░░` |
+| **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 55 | 1.1% | `░░░░░░░░░░░░░░░░░░` |
+| **Proof Complexity** (`L_pcx_*`) | 32 | 0.6% | `░░░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 6 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
 | **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 1 | 0.0% | `░░░░░░░░░░░░░░░░░░` |
 
@@ -46,21 +46,21 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 
 | Rank | Contributor | Commits | Profile |
 | ---: | --- | ---: | --- |
-| 🥇 | `@BastianMIllan` | **236** | [GitHub](https://github.com/BastianMIllan) · [pequalnp](https://pequalnp.com/a/BastianMIllan) |
-| 🥈 | `@nicohabets` | **215** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
-| 🥉 | `@willakone` | **187** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
-| #4 | `@k-sandhu` | **183** | [GitHub](https://github.com/k-sandhu) · [pequalnp](https://pequalnp.com/a/k-sandhu) |
-| #5 | `@fededevi` | **142** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
-| #6 | `@prasincs` | **138** | [GitHub](https://github.com/prasincs) · [pequalnp](https://pequalnp.com/a/prasincs) |
-| #7 | `@MrMaleficus` | **99** | [GitHub](https://github.com/MrMaleficus) · [pequalnp](https://pequalnp.com/a/MrMaleficus) |
-| #8 | `@LiorDagan` | **90** | [GitHub](https://github.com/LiorDagan) · [pequalnp](https://pequalnp.com/a/LiorDagan) |
-| #9 | `@tristan-hornetz` | **82** | [GitHub](https://github.com/tristan-hornetz) · [pequalnp](https://pequalnp.com/a/tristan-hornetz) |
-| #10 | `@c4ss` | **66** | [GitHub](https://github.com/c4ss) · [pequalnp](https://pequalnp.com/a/c4ss) |
-| #11 | `@stasana666` | **64** | [GitHub](https://github.com/stasana666) · [pequalnp](https://pequalnp.com/a/stasana666) |
-| #12 | `@kongeskog` | **53** | [GitHub](https://github.com/kongeskog) · [pequalnp](https://pequalnp.com/a/kongeskog) |
-| #13 | `@sanchan` | **46** | [GitHub](https://github.com/sanchan) · [pequalnp](https://pequalnp.com/a/sanchan) |
-| #14 | `@odinfree` | **40** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
-| #15 | `@stierms` | **31** | [GitHub](https://github.com/stierms) · [pequalnp](https://pequalnp.com/a/stierms) |
+| 🥇 | `@k-sandhu` | **254** | [GitHub](https://github.com/k-sandhu) · [pequalnp](https://pequalnp.com/a/k-sandhu) |
+| 🥈 | `@BastianMIllan` | **240** | [GitHub](https://github.com/BastianMIllan) · [pequalnp](https://pequalnp.com/a/BastianMIllan) |
+| 🥉 | `@nicohabets` | **238** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
+| #4 | `@willakone` | **207** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
+| #5 | `@fededevi` | **151** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
+| #6 | `@prasincs` | **142** | [GitHub](https://github.com/prasincs) · [pequalnp](https://pequalnp.com/a/prasincs) |
+| #7 | `@stasana666` | **123** | [GitHub](https://github.com/stasana666) · [pequalnp](https://pequalnp.com/a/stasana666) |
+| #8 | `@foudress` | **102** | [GitHub](https://github.com/foudress) · [pequalnp](https://pequalnp.com/a/foudress) |
+| #9 | `@MrMaleficus` | **100** | [GitHub](https://github.com/MrMaleficus) · [pequalnp](https://pequalnp.com/a/MrMaleficus) |
+| #10 | `@LiorDagan` | **90** | [GitHub](https://github.com/LiorDagan) · [pequalnp](https://pequalnp.com/a/LiorDagan) |
+| #11 | `@tristan-hornetz` | **82** | [GitHub](https://github.com/tristan-hornetz) · [pequalnp](https://pequalnp.com/a/tristan-hornetz) |
+| #12 | `@c4ss` | **66** | [GitHub](https://github.com/c4ss) · [pequalnp](https://pequalnp.com/a/c4ss) |
+| #13 | `@kongeskog` | **53** | [GitHub](https://github.com/kongeskog) · [pequalnp](https://pequalnp.com/a/kongeskog) |
+| #14 | `@sanchan` | **46** | [GitHub](https://github.com/sanchan) · [pequalnp](https://pequalnp.com/a/sanchan) |
+| #15 | `@odinfree` | **43** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
 
 _Current `@rajathgadagkar` status: **0** merged PRs, **2** checker-accepted (slot-capped), **0** in queue, **11** closed total._
 

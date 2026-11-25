@@ -1,109 +1,109 @@
 {
-  "updated_at_utc": "2026-11-25 13:31 UTC",
+  "updated_at_utc": "2026-11-25 13:46 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 189,
-  "forks": 2984,
-  "merged_prs_total": 4892,
-  "open_prs_queue": 989,
-  "outside_lean_modules": 4812,
+  "forks": 2997,
+  "merged_prs_total": 5033,
+  "open_prs_queue": 782,
+  "outside_lean_modules": 4953,
   "front_breakdown": {
-    "meta": 3252,
-    "other": 1474,
-    "gct": 48,
-    "pcx": 31,
+    "meta": 3337,
+    "other": 1522,
+    "gct": 55,
+    "pcx": 32,
     "lib": 6,
     "clb": 1
   },
   "leaderboard_top15": [
     {
       "rank": 1,
-      "login": "BastianMIllan",
-      "url": "https://github.com/BastianMIllan",
-      "contributions": 236
+      "login": "k-sandhu",
+      "url": "https://github.com/k-sandhu",
+      "contributions": 254
     },
     {
       "rank": 2,
-      "login": "nicohabets",
-      "url": "https://github.com/nicohabets",
-      "contributions": 215
+      "login": "BastianMIllan",
+      "url": "https://github.com/BastianMIllan",
+      "contributions": 240
     },
     {
       "rank": 3,
-      "login": "willakone",
-      "url": "https://github.com/willakone",
-      "contributions": 187
+      "login": "nicohabets",
+      "url": "https://github.com/nicohabets",
+      "contributions": 238
     },
     {
       "rank": 4,
-      "login": "k-sandhu",
-      "url": "https://github.com/k-sandhu",
-      "contributions": 183
+      "login": "willakone",
+      "url": "https://github.com/willakone",
+      "contributions": 207
     },
     {
       "rank": 5,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 142
+      "contributions": 151
     },
     {
       "rank": 6,
       "login": "prasincs",
       "url": "https://github.com/prasincs",
-      "contributions": 138
+      "contributions": 142
     },
     {
       "rank": 7,
-      "login": "MrMaleficus",
-      "url": "https://github.com/MrMaleficus",
-      "contributions": 99
+      "login": "stasana666",
+      "url": "https://github.com/stasana666",
+      "contributions": 123
     },
     {
       "rank": 8,
+      "login": "foudress",
+      "url": "https://github.com/foudress",
+      "contributions": 102
+    },
+    {
+      "rank": 9,
+      "login": "MrMaleficus",
+      "url": "https://github.com/MrMaleficus",
+      "contributions": 100
+    },
+    {
+      "rank": 10,
       "login": "LiorDagan",
       "url": "https://github.com/LiorDagan",
       "contributions": 90
     },
     {
-      "rank": 9,
+      "rank": 11,
       "login": "tristan-hornetz",
       "url": "https://github.com/tristan-hornetz",
       "contributions": 82
     },
     {
-      "rank": 10,
+      "rank": 12,
       "login": "c4ss",
       "url": "https://github.com/c4ss",
       "contributions": 66
     },
     {
-      "rank": 11,
-      "login": "stasana666",
-      "url": "https://github.com/stasana666",
-      "contributions": 64
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "login": "kongeskog",
       "url": "https://github.com/kongeskog",
       "contributions": 53
     },
     {
-      "rank": 13,
+      "rank": 14,
       "login": "sanchan",
       "url": "https://github.com/sanchan",
       "contributions": 46
     },
     {
-      "rank": 14,
+      "rank": 15,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 40
-    },
-    {
-      "rank": 15,
-      "login": "stierms",
-      "url": "https://github.com/stierms",
-      "contributions": 31
+      "contributions": 43
     }
   ],
   "author_rank_in_top100": null,
