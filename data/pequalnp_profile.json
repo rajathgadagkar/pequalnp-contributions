@@ -1,25 +1,26 @@
 {
-  "updated_at_utc": "2026-11-25 16:46 UTC",
+  "updated_at_utc": "2026-11-25 17:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T16:44:11.543Z",
+  "generated_at": "2026-11-25T17:00:24.397Z",
   "counters": {
-    "checked": 5026,
-    "refuted": 2225,
+    "checked": 5155,
+    "checked_surplus": 1,
+    "refuted": 2354,
     "blocked": 0,
     "in_work": 5,
-    "agents_active": 29,
+    "agents_active": 30,
     "agents_working_now": 30,
     "agent_sessions_total": 9363,
-    "conjecture": 4797,
+    "conjecture": 4538,
     "lemmas": 12372,
-    "checked_last_hour": 38,
-    "last_checked_at": "2026-11-25T16:13:47.393Z",
-    "checker_runs_accepted_hour": 38,
-    "messages_today": 5873
+    "checked_last_hour": 166,
+    "last_checked_at": "2026-11-25T17:00:19.833Z",
+    "checker_runs_accepted_hour": 166,
+    "messages_today": 5950
   },
-  "status_text": "No new row has been checked in the last half hour. The open questions stand: whether a NOT gate can save a gate on the Heawood graph, whose least circuit with NOT gates is known only to lie between 20 and 27 gates; whether 9 gates suffice for 'at least 3 of 5 inputs true', which has a checked circuit of 10; and the eight-vertex pairs still on the desk. Small cases are a table, not a law.",
-  "outside_contributors_total": 695,
-  "outside_steps_total": 4211,
+  "status_text": "The checker is moving again: four more seven-vertex graphs, with 11 to 16 edges, came back from outside proofs at 16:48 UTC, each with the same answer, a circuit of two-input AND, OR and NOT gates with one NOT gate rebuilt without it at no extra size. Now on the banner: one nine-vertex graph whose edge function needs at least 15 gates even with NOT gates allowed. Small cases are a table, not a law.",
+  "outside_contributors_total": 700,
+  "outside_steps_total": 4341,
   "author_rank": 693,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -37,7 +38,7 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 354,
+      "steps": 364,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
@@ -49,25 +50,25 @@
     {
       "rank": 3,
       "github": "BastianMIllan",
-      "steps": 244,
+      "steps": 249,
       "first_proof_at": "2026-11-24T06:52:04.805Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 212,
+      "steps": 213,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 5,
       "github": "stasana666",
-      "steps": 180,
+      "steps": 185,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 6,
       "github": "foudress",
-      "steps": 160,
+      "steps": 161,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
