@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to the open **P vs NP** formalization effort at [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) ([pequalnp.com](https://pequalnp.com/) · [Contributor Card](https://pequalnp.com/a/rajathgadagkar)).
 
-_Last synced automatically: **2026-11-25 12:45 UTC**_
+_Last synced automatically: **2026-11-25 13:01 UTC**_
 
 ## 📊 Personal Contribution Snapshot
 
@@ -21,20 +21,20 @@ _Last synced automatically: **2026-11-25 12:45 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 185` stars · `🍴 2,953` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 187` stars · `🍴 2,962` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **4,525** |
-| **Total Merged Proof PRs** | **4,606** |
-| **Active PRs in Checker Queue** | **1,081** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **4,628** |
+| **Total Merged Proof PRs** | **4,707** |
+| **Active PRs in Checker Queue** | **1,120** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 3,054 | 67.5% | `████████████░░░░░░` |
-| **OTHER** (`L_other_*`) | 1,389 | 30.7% | `██████░░░░░░░░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 3,129 | 67.6% | `████████████░░░░░░` |
+| **OTHER** (`L_other_*`) | 1,417 | 30.6% | `██████░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 47 | 1.0% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 28 | 0.6% | `░░░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 6 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
