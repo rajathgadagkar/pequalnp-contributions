@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to the open **P vs NP** formalization effort at [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) ([pequalnp.com](https://pequalnp.com/) · [Contributor Card](https://pequalnp.com/a/rajathgadagkar)).
 
-_Last synced automatically: **2026-11-25 10:45 UTC**_
+_Last synced automatically: **2026-11-25 10:51 UTC**_
 
 ## 📊 Personal Contribution Snapshot
 
@@ -12,27 +12,29 @@ _Last synced automatically: **2026-11-25 10:45 UTC**_
 | --- | ---: | --- |
 | **Total PRs Submitted** | **11** | Across **10** distinct proof steps |
 | **✅ Accepted & Merged** | **0** | Formally verified by the Lean 4 kernel & project checker |
+| **🟣 Checker-Accepted (Slot-Capped)** | **2** | Passed authoritative checker; closed unrecorded due to 5-open-reductions cap |
 | **🟡 Open (Checker Queue)** | **0** | Awaiting automated verification |
 | **⚪ Superseded / Queue-Closed** | **8** | Built cleanly locally; an earlier PR for the same step beat the queue |
+| **⚫ Closed (Other / Withdrawn)** | **1** | Closed manually or withdrawn without merge (11 closed total) |
 | **🔴 Rejected by Checker** | **0** | Format or verification failures |
 | **Total Lean 4 Lines Written** | **+2,265** | Zero `sorry`, zero `native_decide`, standard axioms only |
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 185` stars · `🍴 2,892` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 185` stars · `🍴 2,893` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **4,242** |
-| **Total Merged Proof PRs** | **4,322** |
-| **Active PRs in Checker Queue** | **208** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **4,246** |
+| **Total Merged Proof PRs** | **4,326** |
+| **Active PRs in Checker Queue** | **211** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 2,831 | 66.7% | `████████████░░░░░░` |
-| **OTHER** (`L_other_*`) | 1,352 | 31.9% | `██████░░░░░░░░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 2,835 | 66.8% | `████████████░░░░░░` |
+| **OTHER** (`L_other_*`) | 1,352 | 31.8% | `██████░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 43 | 1.0% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 9 | 0.2% | `░░░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 6 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
@@ -60,15 +62,15 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 | #14 | `@odinfree` | **38** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
 | #15 | `@stierms` | **31** | [GitHub](https://github.com/stierms) · [pequalnp](https://pequalnp.com/a/stierms) |
 
-_Current `@rajathgadagkar` status: **0** merged PRs, **0** in queue — will appear on the repo leaderboard upon first merged PR._
+_Current `@rajathgadagkar` status: **0** merged PRs, **2** checker-accepted (slot-capped), **0** in queue, **11** closed total._
 
 ## 📜 Pull Request Log
 
 | PR | Step | Research Front | Status | Lines | Date | Outcome |
 | --- | --- | --- | --- | ---: | --- | --- |
-| [#13233](https://github.com/open-goat/pequalnp-proofs/pull/13233) | `Reduce L-meta-1682 by output gate operation` | Other | ⚫ Closed | +256 | 2026-11-25 | Closed |
-| [#12504](https://github.com/open-goat/pequalnp-proofs/pull/12504) | `Reduce L-meta-2706 by top-wire gate operations and symmetry` | Other | ⚫ Closed | +186 | 2026-11-25 | Closed |
-| [#12334](https://github.com/open-goat/pequalnp-proofs/pull/12334) | `Reduce L-meta-5284 by dirty AND gate count` | Other | ⚪ Superseded | +226 | 2026-11-25 | Valid proof; an earlier PR for this step merged first |
+| [#13233](https://github.com/open-goat/pequalnp-proofs/pull/13233) | `Reduce L-meta-1682 by output gate operation` | Meta-Complexity & Circuit Lower Bounds | 🟣 Accepted (Slot-Capped) | +256 | 2026-11-25 | Checker-accepted reduction; unrecorded due to 5-open-reductions cap |
+| [#12504](https://github.com/open-goat/pequalnp-proofs/pull/12504) | `Reduce L-meta-2706 by top-wire gate operations and symmetry` | Meta-Complexity & Circuit Lower Bounds | 🟣 Accepted (Slot-Capped) | +186 | 2026-11-25 | Checker-accepted reduction; unrecorded due to 5-open-reductions cap |
+| [#12334](https://github.com/open-goat/pequalnp-proofs/pull/12334) | `Reduce L-meta-5284 by dirty AND gate count` | Meta-Complexity & Circuit Lower Bounds | ⚪ Superseded | +226 | 2026-11-25 | Valid proof; an earlier PR for this step merged first |
 | [#9874](https://github.com/open-goat/pequalnp-proofs/pull/9874) | `L-meta-5077` | Meta-Complexity & Circuit Lower Bounds | ⚪ Superseded | +26 | 2026-11-24 | Valid proof; an earlier PR for this step merged first |
 | [#7530](https://github.com/open-goat/pequalnp-proofs/pull/7530) | `L-meta-3604` | Meta-Complexity & Circuit Lower Bounds | ⚪ Superseded | +345 | 2026-11-24 | Valid proof; an earlier PR for this step merged first |
 | [#7331](https://github.com/open-goat/pequalnp-proofs/pull/7331) | `L-meta-3574` | Meta-Complexity & Circuit Lower Bounds | ⚪ Superseded | +171 | 2026-11-24 | Valid proof; an earlier PR for this step merged first |
@@ -81,7 +83,7 @@ _Current `@rajathgadagkar` status: **0** merged PRs, **0** in queue — will app
 ## 🔍 Detailed Proof Breakdowns
 
 <details>
-<summary><strong>Reduce L-meta-1682 by output gate operation</strong> — <a href="https://github.com/open-goat/pequalnp-proofs/pull/13233">PR #13233</a> (⚫ Closed, +256 lines, 2026-11-25)</summary>
+<summary><strong>Reduce L-meta-1682 by output gate operation</strong> — <a href="https://github.com/open-goat/pequalnp-proofs/pull/13233">PR #13233</a> (🟣 Accepted (Slot-Capped), +256 lines, 2026-11-25)</summary>
 
 ## Summary
 This PR adds a checked 2-child reduction of `L-meta-1682` in `lean/PEqualNP/Outside/R_meta_1682_3.lean` splitting any ≤ 63-gate monotone fan-in-2 circuit for the order-3 projective plane incidence promise problem by the operation of its output gate (`OR` vs `AND`).
@@ -101,7 +103,7 @@ This PR adds a checked 2-child reduction of `L-meta-1682` in `lean/PEqualNP/Outs
 </details>
 
 <details>
-<summary><strong>Reduce L-meta-2706 by top-wire gate operations and symmetry</strong> — <a href="https://github.com/open-goat/pequalnp-proofs/pull/12504">PR #12504</a> (⚫ Closed, +186 lines, 2026-11-25)</summary>
+<summary><strong>Reduce L-meta-2706 by top-wire gate operations and symmetry</strong> — <a href="https://github.com/open-goat/pequalnp-proofs/pull/12504">PR #12504</a> (🟣 Accepted (Slot-Capped), +186 lines, 2026-11-25)</summary>
 
 ## Summary
 
