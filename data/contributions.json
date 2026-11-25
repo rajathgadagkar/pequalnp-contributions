@@ -1,12 +1,12 @@
 {
   "author": "rajathgadagkar",
   "repo": "open-goat/pequalnp-proofs",
-  "updated_at_utc": "2026-11-25 10:12 UTC",
+  "updated_at_utc": "2026-11-25 10:26 UTC",
   "stats": {
     "total_prs": 11,
     "unique_steps": 10,
     "merged": 0,
-    "open": 1,
+    "open": 0,
     "superseded_or_queue_closed": 8,
     "rejected": 0,
     "total_lines_added": 2265
@@ -17,10 +17,10 @@
       "step": "Reduce L-meta-1682 by output gate operation",
       "front": "Other",
       "url": "https://github.com/open-goat/pequalnp-proofs/pull/13233",
-      "state": "open",
+      "state": "closed",
       "merged": false,
-      "status": "\ud83d\udfe1 Open",
-      "note": "Waiting in automated Lean checker queue",
+      "status": "\u26ab Closed",
+      "note": "Closed",
       "body": "## Summary\nThis PR adds a checked 2-child reduction of `L-meta-1682` in `lean/PEqualNP/Outside/R_meta_1682_3.lean` splitting any \u2264 63-gate monotone fan-in-2 circuit for the order-3 projective plane incidence promise problem by the operation of its output gate (`OR` vs `AND`).\n\n## Mathematical Structure\n1. **Output wire bounds (`26 \u2264 C.output` and `C.output < 26 + C.size`)**:\n   - `C.output < 26 + C.size` follows directly from evaluating the circuit on the incident pair `(0, 0)`, where out-of-range wires default to `false`.\n   - `26 \u2264 C.output` rules out all 26 input wires by evaluating on cyclic shifts `Pshift c = {c, 1 + c, 2 + c, 6 + c}` of the 4-point oval in `PG(2, 3)`. Every shift is verified algebraically to be a generic maximal false input (its three disjoint lines `7 + c, 8 + c, 9 + c` cover all 9 points outside `Pshift c`, no line contains `Pshift c`, and no single point lies on all three disjoint lines), while setting point input `c` (for `C.output < 13`) and disjoint-line input `7 + c` (for `13 \u2264 C.output < 26`) to `true`.\n2. **Case split on the output gate**:\n   - By `Monotone2 C`, the output gate `C.gates.get \u27e8C.output - 26, h\u27e9` has operation either `GateOp.or` (Child 1) or `GateOp.and` (Child 2).\n   - Both children express line incidence as `a = b \u2228 a = b + 1 \u2228 a = b + 3 \u2228 a = b + 9` so each child statement re-elaborates cleanly in the statement environment.\n\n## Verification\n- `lake build PEqualNP.Outside.R_meta_1682_3`: succeeded cleanly.\n- `checklemma PEqualNP.Outside.R_meta_1682_3 /tmp/L_meta_1682_stmt.lean reduce`: `ACCEPTED (reduce)`, axioms `[propext, Quot.sound, Classical.choice]`.",
       "additions": 256,
       "deletions": 0,

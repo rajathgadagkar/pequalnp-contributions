@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-25 10:12 UTC",
+  "updated_at_utc": "2026-11-25 10:26 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 185,
-  "forks": 2878,
-  "merged_prs_total": 4282,
-  "open_prs_queue": 278,
-  "outside_lean_modules": 4203,
+  "forks": 2883,
+  "merged_prs_total": 4294,
+  "open_prs_queue": 279,
+  "outside_lean_modules": 4216,
   "front_breakdown": {
-    "meta": 2803,
-    "other": 1341,
+    "meta": 2811,
+    "other": 1346,
     "gct": 43,
     "pcx": 9,
     "lib": 6,
@@ -19,43 +19,43 @@
       "rank": 1,
       "login": "BastianMIllan",
       "url": "https://github.com/BastianMIllan",
-      "contributions": 208
+      "contributions": 226
     },
     {
       "rank": 2,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 176
+      "contributions": 177
     },
     {
       "rank": 3,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 161
+      "contributions": 172
     },
     {
       "rank": 4,
       "login": "k-sandhu",
       "url": "https://github.com/k-sandhu",
-      "contributions": 139
+      "contributions": 150
     },
     {
       "rank": 5,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 134
+      "contributions": 139
     },
     {
       "rank": 6,
       "login": "prasincs",
       "url": "https://github.com/prasincs",
-      "contributions": 110
+      "contributions": 126
     },
     {
       "rank": 7,
       "login": "LiorDagan",
       "url": "https://github.com/LiorDagan",
-      "contributions": 88
+      "contributions": 90
     },
     {
       "rank": 8,
@@ -89,15 +89,15 @@
     },
     {
       "rank": 13,
-      "login": "odinfree",
-      "url": "https://github.com/odinfree",
+      "login": "stasana666",
+      "url": "https://github.com/stasana666",
       "contributions": 38
     },
     {
       "rank": 14,
-      "login": "stasana666",
-      "url": "https://github.com/stasana666",
-      "contributions": 32
+      "login": "odinfree",
+      "url": "https://github.com/odinfree",
+      "contributions": 38
     },
     {
       "rank": 15,
