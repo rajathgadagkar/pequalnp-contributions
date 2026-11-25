@@ -1,39 +1,39 @@
 # 🧮 P vs NP Lean 4 Contributions — `@rajathgadagkar`
 
-<p><a href="https://lean-lang.org/"><img src="https://img.shields.io/badge/Lean%204-Mathlib-blueviolet?style=flat-square" alt="Lean 4" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp.com-Contributor%20Card-ff69b4?style=flat-square" alt="Contributor Card" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-0-2ea44f?style=flat-square" alt="Merged PRs" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Aopen"><img src="https://img.shields.io/badge/In%20Queue-1-d29922?style=flat-square" alt="In Queue" /></a> <a href="#pull-request-log"><img src="https://img.shields.io/badge/Lean%204%20LOC-%2B2009-0969da?style=flat-square" alt="Lean 4 LOC" /></a> <a href="#community-leaderboard"><img src="https://img.shields.io/badge/Repo%20Rank-Pending-8957e5?style=flat-square" alt="Repo Rank" /></a> <a href=".github/workflows/update.yml"><img src="https://img.shields.io/badge/Updates-Hourly%20via%20Actions-brightgreen?style=flat-square" alt="Auto-Updated" /></a></p>
+<p><a href="https://lean-lang.org/"><img src="https://img.shields.io/badge/Lean%204-Mathlib-blueviolet?style=flat-square" alt="Lean 4" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp.com-Contributor%20Card-ff69b4?style=flat-square" alt="Contributor Card" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-0-2ea44f?style=flat-square" alt="Merged PRs" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Aopen"><img src="https://img.shields.io/badge/In%20Queue-1-d29922?style=flat-square" alt="In Queue" /></a> <a href="#pull-request-log"><img src="https://img.shields.io/badge/Lean%204%20LOC-%2B2265-0969da?style=flat-square" alt="Lean 4 LOC" /></a> <a href="#community-leaderboard"><img src="https://img.shields.io/badge/Repo%20Rank-Pending-8957e5?style=flat-square" alt="Repo Rank" /></a> <a href=".github/workflows/update.yml"><img src="https://img.shields.io/badge/Updates-Hourly%20via%20Actions-brightgreen?style=flat-square" alt="Auto-Updated" /></a></p>
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to the open **P vs NP** formalization effort at [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) ([pequalnp.com](https://pequalnp.com/) · [Contributor Card](https://pequalnp.com/a/rajathgadagkar)).
 
-_Last synced automatically: **2026-11-25 08:46 UTC**_
+_Last synced automatically: **2026-11-25 10:12 UTC**_
 
 ## 📊 Personal Contribution Snapshot
 
 | Metric | Value | Notes |
 | --- | ---: | --- |
-| **Total PRs Submitted** | **10** | Across **9** distinct proof steps |
+| **Total PRs Submitted** | **11** | Across **10** distinct proof steps |
 | **✅ Accepted & Merged** | **0** | Formally verified by the Lean 4 kernel & project checker |
 | **🟡 Open (Checker Queue)** | **1** | Awaiting automated verification |
-| **⚪ Superseded / Queue-Closed** | **7** | Built cleanly locally; an earlier PR for the same step beat the queue |
+| **⚪ Superseded / Queue-Closed** | **8** | Built cleanly locally; an earlier PR for the same step beat the queue |
 | **🔴 Rejected by Checker** | **0** | Format or verification failures |
-| **Total Lean 4 Lines Written** | **+2,009** | Zero `sorry`, zero `native_decide`, standard axioms only |
+| **Total Lean 4 Lines Written** | **+2,265** | Zero `sorry`, zero `native_decide`, standard axioms only |
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 184` stars · `🍴 2,841` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 185` stars · `🍴 2,878` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **4,026** |
-| **Total Merged Proof PRs** | **4,103** |
-| **Active PRs in Checker Queue** | **544** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **4,203** |
+| **Total Merged Proof PRs** | **4,282** |
+| **Active PRs in Checker Queue** | **278** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 2,696 | 67.0% | `████████████░░░░░░` |
-| **OTHER** (`L_other_*`) | 1,271 | 31.6% | `██████░░░░░░░░░░░░` |
-| **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 43 | 1.1% | `░░░░░░░░░░░░░░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 2,803 | 66.7% | `████████████░░░░░░` |
+| **OTHER** (`L_other_*`) | 1,341 | 31.9% | `██████░░░░░░░░░░░░` |
+| **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 43 | 1.0% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 9 | 0.2% | `░░░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 6 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
 | **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 1 | 0.0% | `░░░░░░░░░░░░░░░░░░` |
@@ -44,19 +44,19 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 
 | Rank | Contributor | Commits | Profile |
 | ---: | --- | ---: | --- |
-| 🥇 | `@BastianMIllan` | **203** | [GitHub](https://github.com/BastianMIllan) · [pequalnp](https://pequalnp.com/a/BastianMIllan) |
-| 🥈 | `@willakone` | **175** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
+| 🥇 | `@BastianMIllan` | **208** | [GitHub](https://github.com/BastianMIllan) · [pequalnp](https://pequalnp.com/a/BastianMIllan) |
+| 🥈 | `@willakone` | **176** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
 | 🥉 | `@nicohabets` | **161** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
-| #4 | `@fededevi` | **132** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
-| #5 | `@k-sandhu` | **127** | [GitHub](https://github.com/k-sandhu) · [pequalnp](https://pequalnp.com/a/k-sandhu) |
-| #6 | `@prasincs` | **107** | [GitHub](https://github.com/prasincs) · [pequalnp](https://pequalnp.com/a/prasincs) |
+| #4 | `@k-sandhu` | **139** | [GitHub](https://github.com/k-sandhu) · [pequalnp](https://pequalnp.com/a/k-sandhu) |
+| #5 | `@fededevi` | **134** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
+| #6 | `@prasincs` | **110** | [GitHub](https://github.com/prasincs) · [pequalnp](https://pequalnp.com/a/prasincs) |
 | #7 | `@LiorDagan` | **88** | [GitHub](https://github.com/LiorDagan) · [pequalnp](https://pequalnp.com/a/LiorDagan) |
 | #8 | `@MrMaleficus` | **85** | [GitHub](https://github.com/MrMaleficus) · [pequalnp](https://pequalnp.com/a/MrMaleficus) |
 | #9 | `@tristan-hornetz` | **82** | [GitHub](https://github.com/tristan-hornetz) · [pequalnp](https://pequalnp.com/a/tristan-hornetz) |
 | #10 | `@c4ss` | **66** | [GitHub](https://github.com/c4ss) · [pequalnp](https://pequalnp.com/a/c4ss) |
 | #11 | `@kongeskog` | **53** | [GitHub](https://github.com/kongeskog) · [pequalnp](https://pequalnp.com/a/kongeskog) |
 | #12 | `@sanchan` | **46** | [GitHub](https://github.com/sanchan) · [pequalnp](https://pequalnp.com/a/sanchan) |
-| #13 | `@odinfree` | **37** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
+| #13 | `@odinfree` | **38** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
 | #14 | `@stasana666` | **32** | [GitHub](https://github.com/stasana666) · [pequalnp](https://pequalnp.com/a/stasana666) |
 | #15 | `@stierms` | **31** | [GitHub](https://github.com/stierms) · [pequalnp](https://pequalnp.com/a/stierms) |
 
@@ -66,8 +66,9 @@ _Current `@rajathgadagkar` status: **0** merged PRs, **1** in queue — will app
 
 | PR | Step | Research Front | Status | Lines | Date | Outcome |
 | --- | --- | --- | --- | ---: | --- | --- |
+| [#13233](https://github.com/open-goat/pequalnp-proofs/pull/13233) | `Reduce L-meta-1682 by output gate operation` | Other | 🟡 Open | +256 | 2026-11-25 | Waiting in automated Lean checker queue |
 | [#12504](https://github.com/open-goat/pequalnp-proofs/pull/12504) | `Reduce L-meta-2706 by top-wire gate operations and symmetry` | Other | ⚫ Closed | +186 | 2026-11-25 | Closed |
-| [#12334](https://github.com/open-goat/pequalnp-proofs/pull/12334) | `Reduce L-meta-5284 by dirty AND gate count` | Other | 🟡 Open | +226 | 2026-11-25 | Waiting in automated Lean checker queue |
+| [#12334](https://github.com/open-goat/pequalnp-proofs/pull/12334) | `Reduce L-meta-5284 by dirty AND gate count` | Other | ⚪ Superseded | +226 | 2026-11-25 | Valid proof; an earlier PR for this step merged first |
 | [#9874](https://github.com/open-goat/pequalnp-proofs/pull/9874) | `L-meta-5077` | Meta-Complexity & Circuit Lower Bounds | ⚪ Superseded | +26 | 2026-11-24 | Valid proof; an earlier PR for this step merged first |
 | [#7530](https://github.com/open-goat/pequalnp-proofs/pull/7530) | `L-meta-3604` | Meta-Complexity & Circuit Lower Bounds | ⚪ Superseded | +345 | 2026-11-24 | Valid proof; an earlier PR for this step merged first |
 | [#7331](https://github.com/open-goat/pequalnp-proofs/pull/7331) | `L-meta-3574` | Meta-Complexity & Circuit Lower Bounds | ⚪ Superseded | +171 | 2026-11-24 | Valid proof; an earlier PR for this step merged first |
@@ -78,6 +79,26 @@ _Current `@rajathgadagkar` status: **0** merged PRs, **1** in queue — will app
 | [#4045](https://github.com/open-goat/pequalnp-proofs/pull/4045) | `L-meta-1753` | Meta-Complexity & Circuit Lower Bounds | ⚪ Superseded | +5 | 2026-11-24 | Valid proof; an earlier PR for this step merged first |
 
 ## 🔍 Detailed Proof Breakdowns
+
+<details>
+<summary><strong>Reduce L-meta-1682 by output gate operation</strong> — <a href="https://github.com/open-goat/pequalnp-proofs/pull/13233">PR #13233</a> (🟡 Open, +256 lines, 2026-11-25)</summary>
+
+## Summary
+This PR adds a checked 2-child reduction of `L-meta-1682` in `lean/PEqualNP/Outside/R_meta_1682_3.lean` splitting any ≤ 63-gate monotone fan-in-2 circuit for the order-3 projective plane incidence promise problem by the operation of its output gate (`OR` vs `AND`).
+
+## Mathematical Structure
+1. **Output wire bounds (`26 ≤ C.output` and `C.output < 26 + C.size`)**:
+   - `C.output < 26 + C.size` follows directly from evaluating the circuit on the incident pair `(0, 0)`, where out-of-range wires default to `false`.
+   - `26 ≤ C.output` rules out all 26 input wires by evaluating on cyclic shifts `Pshift c = {c, 1 + c, 2 + c, 6 + c}` of the 4-point oval in `PG(2, 3)`. Every shift is verified algebraically to be a generic maximal false input (its three disjoint lines `7 + c, 8 + c, 9 + c` cover all 9 points outside `Pshift c`, no line contains `Pshift c`, and no single point lies on all three disjoint lines), while setting point input `c` (for `C.output < 13`) and disjoint-line input `7 + c` (for `13 ≤ C.output < 26`) to `true`.
+2. **Case split on the output gate**:
+   - By `Monotone2 C`, the output gate `C.gates.get ⟨C.output - 26, h⟩` has operation either `GateOp.or` (Child 1) or `GateOp.and` (Child 2).
+   - Both children express line incidence as `a = b ∨ a = b + 1 ∨ a = b + 3 ∨ a = b + 9` so each child statement re-elaborates cleanly in the statement environment.
+
+## Verification
+- `lake build PEqualNP.Outside.R_meta_1682_3`: succeeded cleanly.
+- `checklemma PEqualNP.Outside.R_meta_1682_3 /tmp/L_meta_1682_stmt.lean reduce`: `ACCEPTED (reduce)`, axioms `[propext, Quot.sound, Classical.choice]`.
+
+</details>
 
 <details>
 <summary><strong>Reduce L-meta-2706 by top-wire gate operations and symmetry</strong> — <a href="https://github.com/open-goat/pequalnp-proofs/pull/12504">PR #12504</a> (⚫ Closed, +186 lines, 2026-11-25)</summary>
@@ -105,7 +126,7 @@ Checked 2-child reduction of `L-meta-2706` (`PEqualNP.Outside.R_meta_2706_2`, St
 </details>
 
 <details>
-<summary><strong>Reduce L-meta-5284 by dirty AND gate count</strong> — <a href="https://github.com/open-goat/pequalnp-proofs/pull/12334">PR #12334</a> (🟡 Open, +226 lines, 2026-11-25)</summary>
+<summary><strong>Reduce L-meta-5284 by dirty AND gate count</strong> — <a href="https://github.com/open-goat/pequalnp-proofs/pull/12334">PR #12334</a> (⚪ Superseded, +226 lines, 2026-11-25)</summary>
 
 ## Summary
 

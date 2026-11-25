@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-25 08:46 UTC",
+  "updated_at_utc": "2026-11-25 10:12 UTC",
   "repo": "open-goat/pequalnp-proofs",
-  "stars": 184,
-  "forks": 2841,
-  "merged_prs_total": 4103,
-  "open_prs_queue": 544,
-  "outside_lean_modules": 4026,
+  "stars": 185,
+  "forks": 2878,
+  "merged_prs_total": 4282,
+  "open_prs_queue": 278,
+  "outside_lean_modules": 4203,
   "front_breakdown": {
-    "meta": 2696,
-    "other": 1271,
+    "meta": 2803,
+    "other": 1341,
     "gct": 43,
     "pcx": 9,
     "lib": 6,
@@ -19,13 +19,13 @@
       "rank": 1,
       "login": "BastianMIllan",
       "url": "https://github.com/BastianMIllan",
-      "contributions": 203
+      "contributions": 208
     },
     {
       "rank": 2,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 175
+      "contributions": 176
     },
     {
       "rank": 3,
@@ -35,21 +35,21 @@
     },
     {
       "rank": 4,
-      "login": "fededevi",
-      "url": "https://github.com/fededevi",
-      "contributions": 132
+      "login": "k-sandhu",
+      "url": "https://github.com/k-sandhu",
+      "contributions": 139
     },
     {
       "rank": 5,
-      "login": "k-sandhu",
-      "url": "https://github.com/k-sandhu",
-      "contributions": 127
+      "login": "fededevi",
+      "url": "https://github.com/fededevi",
+      "contributions": 134
     },
     {
       "rank": 6,
       "login": "prasincs",
       "url": "https://github.com/prasincs",
-      "contributions": 107
+      "contributions": 110
     },
     {
       "rank": 7,
@@ -91,7 +91,7 @@
       "rank": 13,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 37
+      "contributions": 38
     },
     {
       "rank": 14,
