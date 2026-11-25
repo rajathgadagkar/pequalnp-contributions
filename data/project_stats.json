@@ -1,13 +1,13 @@
 {
-  "updated_at_utc": "2026-11-25 15:31 UTC",
+  "updated_at_utc": "2026-11-25 16:16 UTC",
   "repo": "open-goat/pequalnp-proofs",
-  "stars": 196,
-  "forks": 3063,
-  "merged_prs_total": 5561,
-  "open_prs_queue": 1007,
-  "outside_lean_modules": 5480,
+  "stars": 198,
+  "forks": 3080,
+  "merged_prs_total": 5671,
+  "open_prs_queue": 991,
+  "outside_lean_modules": 5591,
   "front_breakdown": {
-    "meta": 3741,
+    "meta": 3852,
     "other": 1640,
     "gct": 58,
     "pcx": 34,
@@ -19,7 +19,7 @@
       "rank": 1,
       "login": "k-sandhu",
       "url": "https://github.com/k-sandhu",
-      "contributions": 302
+      "contributions": 361
     },
     {
       "rank": 2,
@@ -37,19 +37,19 @@
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 212
+      "contributions": 213
     },
     {
       "rank": 5,
       "login": "stasana666",
       "url": "https://github.com/stasana666",
-      "contributions": 165
+      "contributions": 180
     },
     {
       "rank": 6,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 162
+      "contributions": 166
     },
     {
       "rank": 7,
@@ -73,7 +73,7 @@
       "rank": 10,
       "login": "LiorDagan",
       "url": "https://github.com/LiorDagan",
-      "contributions": 90
+      "contributions": 91
     },
     {
       "rank": 11,
@@ -89,21 +89,21 @@
     },
     {
       "rank": 13,
+      "login": "odinfree",
+      "url": "https://github.com/odinfree",
+      "contributions": 56
+    },
+    {
+      "rank": 14,
       "login": "kongeskog",
       "url": "https://github.com/kongeskog",
       "contributions": 53
     },
     {
-      "rank": 14,
-      "login": "odinfree",
-      "url": "https://github.com/odinfree",
-      "contributions": 50
-    },
-    {
       "rank": 15,
       "login": "Julleht",
       "url": "https://github.com/Julleht",
-      "contributions": 47
+      "contributions": 50
     }
   ],
   "author_rank_in_top100": null,
