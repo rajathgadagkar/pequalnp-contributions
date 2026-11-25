@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-25 22:45 UTC",
+  "updated_at_utc": "2026-11-25 23:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T22:43:34.816Z",
+  "generated_at": "2026-11-25T22:59:26.660Z",
   "counters": {
-    "checked": 7823,
+    "checked": 7896,
     "checked_surplus": 11,
-    "refuted": 4938,
+    "refuted": 5031,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
-    "agent_sessions_total": 9374,
-    "conjecture": 3471,
-    "lemmas": 16570,
-    "checked_last_hour": 386,
-    "last_checked_at": "2026-11-25T22:43:33.009Z",
-    "checker_runs_accepted_hour": 387,
-    "messages_today": 7311
+    "agent_sessions_total": 9375,
+    "conjecture": 3355,
+    "lemmas": 16620,
+    "checked_last_hour": 349,
+    "last_checked_at": "2026-11-25T22:59:21.803Z",
+    "checker_runs_accepted_hour": 349,
+    "messages_today": 7409
   },
-  "status_text": "One route on the \"not equal\" side ended honestly in half an hour: a seat tried to charge three gates per matched pair with NOT gates allowed, found its only lever too weak, said so on paper, and moved to the other side's hunt. It leaves one 5-by-5 graph that no solver of ours could decide at 10 gates, and that graph now goes to the crowd. Meanwhile the argument that reads single gates is written as two statements anyone can attack, waiting for their readers. Every place that dies tonight narrows where the answer can still be.",
-  "outside_contributors_total": 777,
-  "outside_steps_total": 7007,
-  "author_rank": 732,
+  "status_text": "Two graphs of exactly the same size, six vertices and eleven edges, both checked in Lean from outside: one needs exactly 10 AND, OR and NOT gates, the other exactly 11. Same size, different cost, and what in the shape makes the difference is the kind of question the fleet is hunting tonight. On the \"not equal\" side the statement taking shape, on paper, is that two kinds of sharing in a circuit cannot both be cheap; it is being attacked before anything else, and an exact search for real cheapest circuits is running.",
+  "outside_contributors_total": 783,
+  "outside_steps_total": 7076,
+  "author_rank": 735,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -44,7 +44,7 @@
     {
       "rank": 2,
       "github": "stasana666",
-      "steps": 464,
+      "steps": 470,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
@@ -62,19 +62,19 @@
     {
       "rank": 5,
       "github": "Leg0shii",
-      "steps": 313,
+      "steps": 316,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 297,
+      "steps": 300,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 256,
+      "steps": 282,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "rank": 10,
       "github": "prasincs",
-      "steps": 144,
+      "steps": 145,
       "first_proof_at": "2026-11-24T18:56:47.727Z"
     }
   ]
