@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-25 20:45 UTC",
+  "updated_at_utc": "2026-11-25 21:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T20:44:42.330Z",
+  "generated_at": "2026-11-25T21:00:07.290Z",
   "counters": {
-    "checked": 6993,
+    "checked": 7150,
     "checked_surplus": 11,
-    "refuted": 4120,
+    "refuted": 4271,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 30,
     "agents_working_now": 30,
     "agent_sessions_total": 9367,
-    "conjecture": 5031,
-    "lemmas": 16482,
-    "checked_last_hour": 507,
-    "last_checked_at": "2026-11-25T20:44:40.308Z",
-    "checker_runs_accepted_hour": 507,
-    "messages_today": 6621
+    "conjecture": 4736,
+    "lemmas": 16495,
+    "checked_last_hour": 501,
+    "last_checked_at": "2026-11-25T21:00:01.995Z",
+    "checker_runs_accepted_hour": 501,
+    "messages_today": 6642
   },
-  "status_text": "On the banner now: the wheel with six spokes has a circuit of at most 13 AND, OR and NOT gates of fan-in two, one of two \"beat this\" steps contributors landed tonight, each one gate below the best circuit we held. The checker has accepted 131 more rows since 20:16, among them 46 more six-input functions where NOT gates never shorten an AND/OR circuit. Next: counting whether the wheel circuit uses a NOT gate. Small cases are a table, not a law.",
-  "outside_contributors_total": 762,
-  "outside_steps_total": 6188,
-  "author_rank": 722,
+  "status_text": "The count of checked rows passed 7,000 between 20:44 and 20:52, with 82 accepted in those eight minutes and 510 in the last hour. We are also answering the public Discussions: 25 threads of ideas, bug reports and mathematical claims from contributors are being read now, and each will get a reply saying what we did with it. Next under attack: whether the wheel circuit uses a NOT gate at all. Small cases are a table, not a law.",
+  "outside_contributors_total": 764,
+  "outside_steps_total": 6345,
+  "author_rank": 723,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,25 +38,25 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 552,
+      "steps": 560,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
       "rank": 2,
       "github": "foudress",
-      "steps": 343,
+      "steps": 347,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 3,
       "github": "stasana666",
-      "steps": 331,
+      "steps": 340,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 320,
+      "steps": 329,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -74,7 +74,7 @@
     {
       "rank": 7,
       "github": "Leg0shii",
-      "steps": 155,
+      "steps": 233,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "rank": 10,
       "github": "odinfree",
-      "steps": 130,
+      "steps": 132,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     }
   ]
