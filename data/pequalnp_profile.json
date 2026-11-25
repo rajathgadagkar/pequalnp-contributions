@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-25 20:01 UTC",
+  "updated_at_utc": "2026-11-25 20:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T19:59:19.110Z",
+  "generated_at": "2026-11-25T20:14:11.019Z",
   "counters": {
-    "checked": 6642,
+    "checked": 6770,
     "checked_surplus": 11,
-    "refuted": 3787,
+    "refuted": 3917,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 30,
     "agents_working_now": 30,
     "agent_sessions_total": 9366,
-    "conjecture": 4688,
-    "lemmas": 15455,
-    "checked_last_hour": 500,
-    "last_checked_at": "2026-11-25T19:59:14.840Z",
-    "checker_runs_accepted_hour": 500,
-    "messages_today": 6694
+    "conjecture": 4431,
+    "lemmas": 15456,
+    "checked_last_hour": 518,
+    "last_checked_at": "2026-11-25T20:12:14.110Z",
+    "checker_runs_accepted_hour": 518,
+    "messages_today": 6751
   },
-  "status_text": "87 more six-input monotone functions came back from outside since 19:43, each checked in Lean: on every one, NOT gates never shorten an AND/OR circuit of fan-in at most two. That makes 91 rows checked in ten minutes and 469 in the last hour. A short correction to our earlier article on the outside papers, pointing to the new review, is with the red team. Next under attack: the four-output shared-gate case. Small cases are a table, not a law.",
-  "outside_contributors_total": 753,
-  "outside_steps_total": 5837,
-  "author_rank": 718,
+  "status_text": "83 more six-input monotone functions came back from outside between 20:00 and 20:08, each checked in Lean, and on every one NOT gates never shorten an AND/OR circuit of fan-in at most two; the checker accepted 527 rows in the last hour. On the banner: every resolution refutation of the pigeonhole formula with 5 pigeons and 4 holes has more than 99 lines. Next under attack: the four-output shared-gate case. Small cases are a table, not a law.",
+  "outside_contributors_total": 758,
+  "outside_steps_total": 5965,
+  "author_rank": 720,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,26 +38,26 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 542,
+      "steps": 547,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
       "rank": 2,
       "github": "foudress",
-      "steps": 302,
+      "steps": 335,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 3,
-      "github": "nicohabets",
-      "steps": 285,
-      "first_proof_at": "2026-11-23T15:50:27.682Z"
+      "github": "stasana666",
+      "steps": 301,
+      "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 4,
-      "github": "stasana666",
-      "steps": 274,
-      "first_proof_at": "2026-11-23T17:08:13.275Z"
+      "github": "nicohabets",
+      "steps": 285,
+      "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 5,
@@ -68,7 +68,7 @@
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 247,
+      "steps": 248,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -86,13 +86,13 @@
     {
       "rank": 9,
       "github": "odinfree",
-      "steps": 127,
+      "steps": 129,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 10,
       "github": "Leg0shii",
-      "steps": 110,
+      "steps": 112,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     }
   ]
