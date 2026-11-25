@@ -127,6 +127,8 @@ def classify_pr(pr_detail: dict, comments: list) -> tuple[str, str]:
         return "🟡 Open", "Waiting in automated Lean checker queue"
 
     last_body = (comments[-1].get("body", "") if comments else "").lower()
+    if "checker accepted this reduction" in last_body or "five open reductions" in last_body:
+        return "🟣 Accepted (Slot-Capped)", "Checker-accepted reduction; unrecorded due to 5-open-reductions cap"
     if "proved first by another pull request" in last_body:
         return "⚪ Superseded", "Valid proof; an earlier PR for this step merged first"
     if "already ahead of this one" in last_body or "closed without a check" in last_body:
@@ -138,7 +140,7 @@ def classify_pr(pr_detail: dict, comments: list) -> tuple[str, str]:
 
 
 def extract_front(step_title: str) -> str:
-    m = re.match(r"^L-([a-z]+)-\d+", step_title.strip())
+    m = re.search(r"L-([a-z]+)-\d+", step_title.strip())
     if not m:
         return "Other"
     key = getattr(m, "group")(1)
@@ -180,8 +182,11 @@ def main():
     total = len(records)
     merged = sum(1 for r in records if r["merged"])
     open_cnt = sum(1 for r in records if r["state"] == "open")
+    accepted_capped = sum(1 for r in records if r["status"].startswith("🟣"))
     superseded = sum(1 for r in records if r["status"].startswith("⚪"))
+    closed_other = sum(1 for r in records if r["status"].startswith("⚫"))
     rejected = sum(1 for r in records if r["status"].startswith("🔴"))
+    closed_total = total - merged - open_cnt
     total_loc = sum(r["additions"] for r in records)
     unique_steps = len({r["step"] for r in records if r["step"]})
 
@@ -196,8 +201,11 @@ def main():
                     "total_prs": total,
                     "unique_steps": unique_steps,
                     "merged": merged,
+                    "accepted_slot_capped": accepted_capped,
                     "open": open_cnt,
+                    "closed_total": closed_total,
                     "superseded_or_queue_closed": superseded,
+                    "closed_other": closed_other,
                     "rejected": rejected,
                     "total_lines_added": total_loc,
                 },
@@ -239,8 +247,10 @@ def main():
         "| --- | ---: | --- |",
         f"| **Total PRs Submitted** | **{total}** | Across **{unique_steps}** distinct proof steps |",
         f"| **✅ Accepted & Merged** | **{merged}** | Formally verified by the Lean 4 kernel & project checker |",
+        f"| **🟣 Checker-Accepted (Slot-Capped)** | **{accepted_capped}** | Passed authoritative checker; closed unrecorded due to 5-open-reductions cap |",
         f"| **🟡 Open (Checker Queue)** | **{open_cnt}** | Awaiting automated verification |",
         f"| **⚪ Superseded / Queue-Closed** | **{superseded}** | Built cleanly locally; an earlier PR for the same step beat the queue |",
+        f"| **⚫ Closed (Other / Withdrawn)** | **{closed_other}** | Closed manually or withdrawn without merge ({closed_total} closed total) |",
         f"| **🔴 Rejected by Checker** | **{rejected}** | Format or verification failures |",
         f"| **Total Lean 4 Lines Written** | **+{total_loc:,}** | Zero `sorry`, zero `native_decide`, standard axioms only |",
         "",
@@ -288,7 +298,7 @@ def main():
 
     if proj["author_rank_in_top100"] is None:
         lines.append(
-            f"\n_Current `@{AUTHOR}` status: **{merged}** merged PRs, **{open_cnt}** in queue — will appear on the repo leaderboard upon first merged PR._"
+            f"\n_Current `@{AUTHOR}` status: **{merged}** merged PRs, **{accepted_capped}** checker-accepted (slot-capped), **{open_cnt}** in queue, **{closed_total}** closed total._"
         )
     elif proj["author_rank_in_top100"] > 15:
         lines.append(
@@ -341,7 +351,8 @@ def main():
         f.write("\n".join(lines))
 
     print(
-        f"Updated {README_FILE} ({total} PRs: {merged} merged, {open_cnt} open; "
+        f"Updated {README_FILE} ({total} PRs: {merged} merged, {accepted_capped} accepted-capped, "
+        f"{open_cnt} open, {closed_total} closed; "
         f"project has {proj['outside_lean_modules']} checked Outside modules, {proj['open_prs_queue']} PRs in queue)."
     )
 
