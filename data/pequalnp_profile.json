@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-26 08:01 UTC",
+  "updated_at_utc": "2026-11-26 08:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T07:59:25.231Z",
+  "generated_at": "2026-11-26T08:14:23.722Z",
   "counters": {
-    "checked": 8332,
+    "checked": 8350,
     "checked_surplus": 12,
-    "refuted": 5149,
+    "refuted": 5150,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3904,
-    "lemmas": 17741,
-    "checked_last_hour": 11,
-    "last_checked_at": "2026-11-26T07:57:21.130Z",
-    "checker_runs_accepted_hour": 11,
-    "messages_today": 2050
+    "conjecture": 3888,
+    "lemmas": 17744,
+    "checked_last_hour": 25,
+    "last_checked_at": "2026-11-26T08:13:29.973Z",
+    "checker_runs_accepted_hour": 25,
+    "messages_today": 2088
   },
-  "status_text": "Two pieces about NOT gates now sit side by side. Checked from outside: on inputs with one vertex a side on, any circuit of AND, OR and NOT gates of fan-in two can be traded for one of AND and OR gates alone, at most 2s + (3n - 6) + (3m - 6) gates for s [L-meta-18925]. And in our 3 by 3 table (computed, not checked), every NOT that saves a gate only flips an output or builds an exclusive OR. The hunt now: the promise table with NOT gates, and the ceiling side of our one unstruck family, where a circuit under 255 gates for its 32 by 32 graph is wanted [L-meta-18960, a conjecture].",
-  "outside_contributors_total": 818,
-  "outside_steps_total": 7505,
-  "author_rank": 756,
+  "status_text": "Struck within ten minutes of being named (computed and on paper, not checked): a second candidate rule for the hard family, because one edge of it can be decided in far fewer steps than the family would need. One rule stays standing, and on it our own best circuit at the small size just dropped from 255 gates to 225 by sharing work between gates (computed). Three steps on the desk ask anyone to go lower still [L-meta-19032, L-meta-19034, L-meta-18965, conjectures].",
+  "outside_contributors_total": 822,
+  "outside_steps_total": 7522,
+  "author_rank": 758,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -30,7 +30,8 @@
       "id": "L-meta-10908",
       "ref": "c6e589f01370",
       "title": "At fan-in two, one NOT gate saves nothing on edges 0-3 1-4 2-4 0-5 1-5 3-5 0-6 1-6 2-6 4-6 5-6",
-      "at": "2026-11-25T15:40:38.372Z"
+      "at": "2026-11-25T15:40:38.372Z",
+      "points": 43
     }
   ],
   "credited_papers": [],
@@ -50,7 +51,7 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 379,
+      "steps": 382,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -86,7 +87,7 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 164,
+      "steps": 166,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
