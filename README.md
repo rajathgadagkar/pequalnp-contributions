@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-26 11:31 UTC**_
+_Last synced automatically: **2026-11-26 11:45 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -34,23 +34,23 @@ _Last synced automatically: **2026-11-26 11:31 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 232` stars · `🍴 3,627` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 232` stars · `🍴 3,634` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
 | **Checked Lemmas (pequalnp.com Fleet + Outside)** | **8,551** |
-| **Checked in Last Hour** | **+55** |
+| **Checked in Last Hour** | **+52** |
 | **Outside Contributors / Outside Steps** | **832** / **7,723** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **10,470** |
-| **Total Merged Proof PRs** | **10,556** |
-| **Active PRs in Checker Queue** | **211** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **10,473** |
+| **Total Merged Proof PRs** | **10,562** |
+| **Active PRs in Checker Queue** | **210** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
 | **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 7,274 | 69.5% | `█████████████░░░░░` |
-| **OTHER** (`L_other_*`) | 3,088 | 29.5% | `█████░░░░░░░░░░░░░` |
+| **OTHER** (`L_other_*`) | 3,091 | 29.5% | `█████░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 61 | 0.6% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 39 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 7 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
