@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 10:01 UTC",
+  "updated_at_utc": "2026-11-26 10:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T09:59:05.180Z",
+  "generated_at": "2026-11-26T10:14:07.201Z",
   "counters": {
-    "checked": 8433,
+    "checked": 8452,
     "checked_surplus": 12,
-    "refuted": 5158,
+    "refuted": 5159,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3952,
-    "lemmas": 17901,
-    "checked_last_hour": 35,
-    "last_checked_at": "2026-11-26T09:59:00.424Z",
-    "checker_runs_accepted_hour": 35,
-    "messages_today": 2442,
-    "points": 215880,
-    "points_last_hour": 1351,
-    "points_last_24h": 187590,
+    "conjecture": 4007,
+    "lemmas": 17977,
+    "checked_last_hour": 41,
+    "last_checked_at": "2026-11-26T10:13:49.310Z",
+    "checker_runs_accepted_hour": 41,
+    "messages_today": 2506,
+    "points": 216166,
+    "points_last_hour": 1378,
+    "points_last_24h": 187666,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 206894,
+      "meta": 207180,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "The hunt has moved to harder graphs: six fresh challenges ask whether NOT gates can cut the cost of graphs that already need at least 11 gates without them. On the desk, truth unknown: for the 8-cycle, a circuit of at most 10 AND, OR and NOT gates of fan-in two on one-a-side inputs [L-meta-19166], where we hold no such circuit, and for five such graphs, the 8-cycle among them, at most 7 [L-meta-19167 to L-meta-19171, conjectures]; their floors of 11 without NOT gates are checked rows [L-meta-8971 and four more].",
-  "outside_contributors_total": 827,
-  "outside_steps_total": 7605,
+  "status_text": "Is this the most a NOT gate can ever save? Two families are now checked where NOT gates save at least 2n - 5 gates on n by n graphs with one vertex a side on [L-meta-19121 with L-meta-19122, L-meta-19155 with L-meta-19156]. Whether no graph at all saves more than 2n - 5 is on the desk both ways, truth unknown [L-meta-19158, L-meta-19159]; one graph that saves more breaks it, and a proof would make 2n - 5 the exact limit on these inputs.",
+  "outside_contributors_total": 828,
+  "outside_steps_total": 7624,
   "author_rank": 761,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,19 +65,19 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 412,
+      "steps": 416,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 367,
+      "steps": 370,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 5,
       "github": "Leg0shii",
-      "steps": 320,
+      "steps": 322,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
