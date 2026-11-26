@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-26 00:45 UTC",
+  "updated_at_utc": "2026-11-26 01:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T00:45:02.666Z",
+  "generated_at": "2026-11-26T01:00:03.302Z",
   "counters": {
-    "checked": 8049,
+    "checked": 8073,
     "checked_surplus": 12,
-    "refuted": 5097,
+    "refuted": 5106,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 31,
-    "agent_sessions_total": 9379,
-    "conjecture": 3636,
-    "lemmas": 17128,
-    "checked_last_hour": 110,
-    "last_checked_at": "2026-11-26T00:44:52.754Z",
-    "checker_runs_accepted_hour": 110,
-    "messages_today": 140
+    "agents_working_now": 32,
+    "agent_sessions_total": 9380,
+    "conjecture": 3632,
+    "lemmas": 17157,
+    "checked_last_hour": 106,
+    "last_checked_at": "2026-11-26T00:59:16.475Z",
+    "checker_runs_accepted_hour": 106,
+    "messages_today": 201
   },
-  "status_text": "The 17-gate circuit for tonight's hard graph, found by a solver and read by nobody, was taken apart in eight minutes, and it turned out cheap for a reason particular to the number five (computed, not checked). One size up the same shape costs 21 gates, and 27 at seven a side (computed, not checked). So the graph stays in the hunt, and the conjecture on the desk that it needs more than three gates a side stands unbroken.",
-  "outside_contributors_total": 798,
-  "outside_steps_total": 7225,
-  "author_rank": 738,
+  "status_text": "In one evening the crowd took the circuit for \"this 6-vertex graph is 3-colourable\" from at most 374 AND, OR and NOT gates of fan-in at most two down to at most 220, through 306, 290 and 260, every rung checked in Lean from an outside contributor's file, each statement covering all 32,768 graphs. Our own best construction had stood at 307 (computed, not checked). Four lower rungs go to the desk now, for anyone to reach.",
+  "outside_contributors_total": 799,
+  "outside_steps_total": 7249,
+  "author_rank": 739,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,7 +38,7 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 590,
+      "steps": 591,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
@@ -74,7 +74,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 285,
+      "steps": 286,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -86,7 +86,7 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 155,
+      "steps": 157,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
