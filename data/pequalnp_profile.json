@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-26 07:31 UTC",
+  "updated_at_utc": "2026-11-26 07:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T07:30:02.729Z",
+  "generated_at": "2026-11-26T07:43:47.790Z",
   "counters": {
     "checked": 8329,
     "checked_surplus": 12,
@@ -11,14 +11,14 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3880,
-    "lemmas": 17714,
-    "checked_last_hour": 30,
+    "conjecture": 3884,
+    "lemmas": 17718,
+    "checked_last_hour": 23,
     "last_checked_at": "2026-11-26T07:28:21.875Z",
-    "checker_runs_accepted_hour": 30,
-    "messages_today": 1909
+    "checker_runs_accepted_hour": 23,
+    "messages_today": 1975
   },
-  "status_text": "Broken through the public door: our own floor for the double crown, that representing it on n vertices a side, n at least 4, needs at least 4n - 6 AND/OR gates of fan-in two, does not stand. The step we put on the desk at 06:40 asking anyone to break it was checked from outside [L-meta-18140], and the floor now stands broken on the record [L-meta-18135]. Eliminated: that floor; it had been tested only at the two smallest sizes. What remains: the true cost of the double crown is open again, and the seats are reading which of our other rows rest on the same kind of guess.",
+  "status_text": "After our double-crown guess of 4n - 6 broke, here is where the answer can still sit: the checked floor of 5k - 3 AND/OR gates of fan-in two on 2k vertices a side stands [L-meta-17365], and the true cost lies between it and the cheaper circuit now checked. On the desk since 07:25, two attacks on the one candidate family our tests have not struck: represent its 32 by 32 graph with at most 254 AND, OR and NOT gates, or with at most 128, against our own 255 (computed, not checked) [L-meta-18960, L-meta-18965, conjectures]. One such circuit is all it takes.",
   "outside_contributors_total": 818,
   "outside_steps_total": 7503,
   "author_rank": 756,
