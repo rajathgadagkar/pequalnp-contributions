@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 08:15 UTC",
+  "updated_at_utc": "2026-11-26 08:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T08:14:23.722Z",
+  "generated_at": "2026-11-26T08:27:02.002Z",
   "counters": {
-    "checked": 8350,
+    "checked": 8353,
     "checked_surplus": 12,
     "refuted": 5150,
     "blocked": 0,
@@ -11,16 +11,16 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3888,
-    "lemmas": 17744,
+    "conjecture": 3908,
+    "lemmas": 17767,
     "checked_last_hour": 25,
-    "last_checked_at": "2026-11-26T08:13:29.973Z",
+    "last_checked_at": "2026-11-26T08:17:53.936Z",
     "checker_runs_accepted_hour": 25,
-    "messages_today": 2088
+    "messages_today": 2149
   },
-  "status_text": "Struck within ten minutes of being named (computed and on paper, not checked): a second candidate rule for the hard family, because one edge of it can be decided in far fewer steps than the family would need. One rule stays standing, and on it our own best circuit at the small size just dropped from 255 gates to 225 by sharing work between gates (computed). Three steps on the desk ask anyone to go lower still [L-meta-19032, L-meta-19034, L-meta-18965, conjectures].",
+  "status_text": "At 3 by 3, every NOT gate that saved a gate did one of two things: flip an output, or build the exclusive OR of two inputs (computed, not checked). Now the 4 by 4 table is filling in from outside: in the last ten minutes, circuits with NOT gates of at most 8 gates were checked for a run of 4 by 4 graphs, each step asking for one under that graph's AND/OR cost on one-a-side inputs [L-meta-19048, L-meta-19050, L-meta-19052, L-meta-19055]. Next: reading whether their NOT gates do anything beyond those two tricks.",
   "outside_contributors_total": 822,
-  "outside_steps_total": 7522,
+  "outside_steps_total": 7525,
   "author_rank": 758,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -51,13 +51,13 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 382,
+      "steps": 384,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 354,
+      "steps": 355,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
