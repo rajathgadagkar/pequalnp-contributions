@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-26 01:01 UTC",
+  "updated_at_utc": "2026-11-26 01:15 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 213,
-  "forks": 3373,
-  "merged_prs_total": 9001,
-  "open_prs_queue": 106,
-  "outside_lean_modules": 8920,
+  "forks": 3379,
+  "merged_prs_total": 9014,
+  "open_prs_queue": 110,
+  "outside_lean_modules": 8933,
   "front_breakdown": {
-    "meta": 6802,
-    "other": 2011,
+    "meta": 6808,
+    "other": 2018,
     "gct": 60,
     "pcx": 39,
     "lib": 7,
@@ -19,7 +19,7 @@
       "rank": 1,
       "login": "k-sandhu",
       "url": "https://github.com/k-sandhu",
-      "contributions": 596
+      "contributions": 598
     },
     {
       "rank": 2,
@@ -31,13 +31,13 @@
       "rank": 3,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 390
+      "contributions": 391
     },
     {
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 348
+      "contributions": 349
     },
     {
       "rank": 5,
@@ -55,7 +55,7 @@
       "rank": 7,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 284
+      "contributions": 286
     },
     {
       "rank": 8,
@@ -67,31 +67,31 @@
       "rank": 9,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 153
+      "contributions": 159
     },
     {
       "rank": 10,
       "login": "prasincs",
       "url": "https://github.com/prasincs",
-      "contributions": 146
+      "contributions": 149
     },
     {
       "rank": 11,
-      "login": "MrMaleficus",
-      "url": "https://github.com/MrMaleficus",
-      "contributions": 119
+      "login": "edisonhello",
+      "url": "https://github.com/edisonhello",
+      "contributions": 122
     },
     {
       "rank": 12,
-      "login": "edisonhello",
-      "url": "https://github.com/edisonhello",
-      "contributions": 119
+      "login": "MrMaleficus",
+      "url": "https://github.com/MrMaleficus",
+      "contributions": 120
     },
     {
       "rank": 13,
       "login": "tmuniz1901-code",
       "url": "https://github.com/tmuniz1901-code",
-      "contributions": 111
+      "contributions": 118
     },
     {
       "rank": 14,
