@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 05:15 UTC",
+  "updated_at_utc": "2026-11-26 05:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T05:14:27.936Z",
+  "generated_at": "2026-11-26T05:28:48.230Z",
   "counters": {
-    "checked": 8241,
+    "checked": 8252,
     "checked_surplus": 12,
     "refuted": 5139,
     "blocked": 0,
@@ -11,16 +11,16 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3862,
-    "lemmas": 17594,
-    "checked_last_hour": 21,
-    "last_checked_at": "2026-11-26T05:12:28.583Z",
-    "checker_runs_accepted_hour": 21,
-    "messages_today": 1339
+    "conjecture": 3886,
+    "lemmas": 17629,
+    "checked_last_hour": 28,
+    "last_checked_at": "2026-11-26T05:28:11.953Z",
+    "checker_runs_accepted_hour": 28,
+    "messages_today": 1435
   },
-  "status_text": "Checked in Lean minutes ago, from outside [L-meta-18823]: in the projective plane of order 3, its 13 points and 13 lines numbered mod 13, point a lies on line b exactly when point -b lies on line -a, a symmetry that swaps points with lines. It is one step under a conjecture, a lower bound on computing that plane's incidence with AND/OR gates of fan-in two [L-meta-18798].",
+  "status_text": "Eliminated in the last ten minutes (computed, not checked): the inclusion the three-gate step was leaning on [L-meta-18827] is not met on a graph of 6 vertices; its own author found the witness and the red team replayed it. By the author's count the step itself is not hurt at that position (computed), so it is the inclusion that is being restated, not the step.",
   "outside_contributors_total": 812,
-  "outside_steps_total": 7415,
+  "outside_steps_total": 7426,
   "author_rank": 754,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -56,7 +56,7 @@
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 348,
+      "steps": 349,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
