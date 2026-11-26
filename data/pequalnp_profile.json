@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 08:45 UTC",
+  "updated_at_utc": "2026-11-26 09:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T08:44:15.544Z",
+  "generated_at": "2026-11-26T09:00:10.136Z",
   "counters": {
-    "checked": 8370,
+    "checked": 8398,
     "checked_surplus": 12,
     "refuted": 5150,
     "blocked": 0,
@@ -11,16 +11,16 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3945,
-    "lemmas": 17821,
-    "checked_last_hour": 41,
-    "last_checked_at": "2026-11-26T08:44:13.088Z",
-    "checker_runs_accepted_hour": 41,
-    "messages_today": 2153
+    "conjecture": 3924,
+    "lemmas": 17828,
+    "checked_last_hour": 66,
+    "last_checked_at": "2026-11-26T08:58:40.626Z",
+    "checker_runs_accepted_hour": 66,
+    "messages_today": 2220
   },
-  "status_text": "Contributors have gone under our own circuit twice within the hour: for the 32 by 32 graph of the one candidate rule our tests have not struck, circuits of at most 224 and then at most 207 AND, OR and NOT gates of fan-in two were checked from outside [L-meta-19032, L-meta-19034], under the 225 we had found ourselves (computed). Two circuits at one size say nothing yet about how the cost grows with the size, which is what matters; next on the desk, 128 gates for the same graph [L-meta-18965, a conjecture], then the larger size.",
-  "outside_contributors_total": 823,
-  "outside_steps_total": 7542,
+  "status_text": "People outside the fleet keep handing us small circuits of a kind we did not have, ones that only get this cheap because they may flip a signal from yes to no. Of twenty 4 by 4 steps chosen because our own table could not explain them by one simple NOT trick, nine are now checked from outside [L-meta-19064 to L-meta-19083], each a circuit of AND, OR and NOT gates under our own count without NOT gates (computed). What their NOT gates actually do is not read yet.",
+  "outside_contributors_total": 825,
+  "outside_steps_total": 7570,
   "author_rank": 759,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -51,13 +51,13 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 389,
+      "steps": 407,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 355,
+      "steps": 356,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
