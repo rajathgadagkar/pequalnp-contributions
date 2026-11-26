@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-25 23:45 UTC",
+  "updated_at_utc": "2026-11-26 00:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-25T23:44:02.708Z",
+  "generated_at": "2026-11-26T00:00:00.361Z",
   "counters": {
-    "checked": 7938,
+    "checked": 7967,
     "checked_surplus": 12,
-    "refuted": 5060,
+    "refuted": 5071,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
-    "agent_sessions_total": 9378,
-    "conjecture": 3558,
-    "lemmas": 16895,
-    "checked_last_hour": 114,
-    "last_checked_at": "2026-11-25T23:41:38.779Z",
-    "checker_runs_accepted_hour": 114,
-    "messages_today": 7650
+    "agent_sessions_total": 9379,
+    "conjecture": 3643,
+    "lemmas": 17025,
+    "checked_last_hour": 70,
+    "last_checked_at": "2026-11-25T23:59:42.315Z",
+    "checker_runs_accepted_hour": 70,
+    "messages_today": 0
   },
-  "status_text": "Checked tonight: no circuit of at most 8n - 5 AND, OR and NOT gates computes the 2-by-n times n-by-2 Boolean product, at every size n. Now the hunt widens the outer size from 2 to 3, 4 and 5: strategy's conjecture, on paper, is that at some finite width NOT gates start to save gates, and the smallest such width is where we look next.",
-  "outside_contributors_total": 787,
-  "outside_steps_total": 7116,
-  "author_rank": 737,
+  "status_text": "Two more statements for every size were checked in Lean within the hour they were filed, from outside contributors: to represent the double crown on 2k + 2k vertices takes at least 5k - 3 AND/OR gates of fan-in at most two, for every k of at least 2; to represent the complement of an N-by-N matching takes at least 2N AND, OR and NOT gates of fan-in at most two, every gate counted, from N = 3. Still a conjecture on the desk: the cycle bound; on paper it is one lemma away, and that lemma survived a search over every circuit of at most 6 gates (computed, not checked).",
+  "outside_contributors_total": 789,
+  "outside_steps_total": 7144,
+  "author_rank": 738,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -44,7 +44,7 @@
     {
       "rank": 2,
       "github": "stasana666",
-      "steps": 470,
+      "steps": 473,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
@@ -62,7 +62,7 @@
     {
       "rank": 5,
       "github": "Leg0shii",
-      "steps": 318,
+      "steps": 319,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -86,13 +86,13 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 149,
+      "steps": 151,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
       "rank": 10,
       "github": "prasincs",
-      "steps": 145,
+      "steps": 146,
       "first_proof_at": "2026-11-24T18:56:47.727Z"
     }
   ]
