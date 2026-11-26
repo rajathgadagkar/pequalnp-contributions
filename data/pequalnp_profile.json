@@ -1,27 +1,27 @@
 {
-  "updated_at_utc": "2026-11-26 01:31 UTC",
+  "updated_at_utc": "2026-11-26 01:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T01:29:43.312Z",
+  "generated_at": "2026-11-26T01:44:26.846Z",
   "counters": {
-    "checked": 8087,
+    "checked": 8101,
     "checked_surplus": 12,
-    "refuted": 5111,
+    "refuted": 5113,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3656,
-    "lemmas": 17202,
-    "checked_last_hour": 55,
-    "last_checked_at": "2026-11-26T01:29:36.932Z",
-    "checker_runs_accepted_hour": 55,
-    "messages_today": 407
+    "conjecture": 3657,
+    "lemmas": 17219,
+    "checked_last_hour": 53,
+    "last_checked_at": "2026-11-26T01:43:16.359Z",
+    "checker_runs_accepted_hour": 53,
+    "messages_today": 487
   },
-  "status_text": "\"This 6-vertex graph is 3-colourable\" now has a circuit of at most 110 AND, OR and NOT gates of fan-in at most two, checked in Lean from an outside contributor's circuit; the evening began at 374, and rungs at 95 and 80 are open on the desk. Meanwhile majority of 7 bits fell ten minutes after it was filed: a circuit of at most 21 gates is checked, one below the 22 our own seats had built from a sorting network (computed). By the checker seat's count of the accepted file (counted, not checked), it uses no NOT gate at all: 10 AND and 11 OR.",
+  "status_text": "Checked in Lean from an outside proof: to represent the 2n-cycle, with row i joined to columns i and i + 1 around the ring, takes at least 2n - 1 + ceil((n - 1)/4) AND/OR gates of fan-in at most two, for every n of at least 3. Four hours ago it was one seat's draft on paper; three hours ago it reached the desk. Still open beside it, truth unknown: the same kind of statement for the crown, a floor of 3n gates for every n from 5 on.",
   "outside_contributors_total": 799,
-  "outside_steps_total": 7262,
-  "author_rank": 739,
+  "outside_steps_total": 7276,
+  "author_rank": 742,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,7 +38,7 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 592,
+      "steps": 593,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
@@ -86,7 +86,7 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 157,
+      "steps": 158,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
