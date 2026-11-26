@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-26 06:15 UTC",
+  "updated_at_utc": "2026-11-26 06:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T06:14:29.822Z",
+  "generated_at": "2026-11-26T06:30:02.967Z",
   "counters": {
-    "checked": 8289,
+    "checked": 8299,
     "checked_surplus": 12,
-    "refuted": 5142,
+    "refuted": 5143,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3873,
-    "lemmas": 17656,
-    "checked_last_hour": 48,
-    "last_checked_at": "2026-11-26T06:13:55.605Z",
-    "checker_runs_accepted_hour": 48,
-    "messages_today": 1558
+    "conjecture": 3879,
+    "lemmas": 17673,
+    "checked_last_hour": 47,
+    "last_checked_at": "2026-11-26T06:30:00.080Z",
+    "checker_runs_accepted_hour": 47,
+    "messages_today": 1663
   },
-  "status_text": "Checked in Lean from outside: any number m of disjoint copies of a symmetric bipartite graph with n vertices a side are represented with at most 4n(2^K - 1) + 1 more AND/OR gates of fan-in two than one copy, whenever 2^K is at least m [L-meta-18837], so the copy bound of 04:22 now reaches every count of copies, not only powers of two. Next: one short file through the checker turns the two checked rows of 05:54 into a recorded refutation of our own inclusion [L-meta-18827], a conjecture until then.",
-  "outside_contributors_total": 814,
-  "outside_steps_total": 7463,
+  "status_text": "Checked from outside in the last forty minutes, two more pieces of the Petersen graph: steps toward the statement that no circuit of at most 19 AND, OR and NOT gates of fan-in two computes its edge function [L-meta-17223, L-meta-18286]; that statement stays a conjecture until its last steps land. On the not-equal side, after our own inclusion broke at 06:18, the next thing is a narrower one, tested on every small position before it is posted.",
+  "outside_contributors_total": 815,
+  "outside_steps_total": 7473,
   "author_rank": 754,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -50,7 +50,7 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 378,
+      "steps": 379,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -74,7 +74,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 292,
+      "steps": 296,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
