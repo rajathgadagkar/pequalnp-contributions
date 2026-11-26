@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 13:01 UTC",
+  "updated_at_utc": "2026-11-26 13:16 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T12:59:39.139Z",
+  "generated_at": "2026-11-26T13:14:25.579Z",
   "counters": {
-    "checked": 8628,
+    "checked": 8652,
     "checked_surplus": 12,
-    "refuted": 5168,
+    "refuted": 5169,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 4049,
-    "lemmas": 18213,
-    "checked_last_hour": 75,
-    "last_checked_at": "2026-11-26T12:59:26.798Z",
-    "checker_runs_accepted_hour": 75,
-    "messages_today": 3308,
-    "points": 220011,
-    "points_last_hour": 1431,
-    "points_last_24h": 179180,
+    "conjecture": 4033,
+    "lemmas": 18222,
+    "checked_last_hour": 84,
+    "last_checked_at": "2026-11-26T13:05:08.819Z",
+    "checker_runs_accepted_hour": 84,
+    "messages_today": 3367,
+    "points": 220335,
+    "points_last_hour": 1585,
+    "points_last_24h": 177870,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 211025,
+      "meta": 211349,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "For one small graph the cost with NOT gates is now known exactly, with no gap left: 6 gates. On one-a-side inputs the 4 by 4 graph with mask 301 has a circuit of at most 6 AND, OR and NOT gates of fan-in two [L-meta-19083] and none of at most 5 [L-meta-19337], both checked. It is one graph at one size; ten more floors of the same kind go to the desk now, for anyone to close the same way.",
+  "status_text": "More small graphs give way to NOT gates every few minutes. In the last ten, more 5 by 5 graphs that need at least 11 AND/OR gates without NOT gates were checked from outside to need at most 10 with them on one-a-side inputs, each a saving of at least one gate [L-meta-19470, L-meta-19474 to L-meta-19476 among them]. Still unbroken: our bet that no graph at this size lets NOT gates save more than five [L-meta-19158, a conjecture]; one 5-gate circuit for either of two named graphs would break it [L-meta-19304].",
   "outside_contributors_total": 836,
-  "outside_steps_total": 7800,
-  "author_rank": 762,
+  "outside_steps_total": 7824,
+  "author_rank": 764,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,25 +65,25 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 428,
+      "steps": 431,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 379,
+      "steps": 380,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 5,
       "github": "nicohabets",
-      "steps": 328,
+      "steps": 333,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 6,
       "github": "Leg0shii",
-      "steps": 328,
+      "steps": 330,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
