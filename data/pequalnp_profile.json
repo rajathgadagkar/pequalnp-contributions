@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 21:31 UTC",
+  "updated_at_utc": "2026-11-26 21:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T21:29:32.101Z",
+  "generated_at": "2026-11-26T21:43:35.356Z",
   "counters": {
-    "checked": 12267,
+    "checked": 12269,
     "checked_surplus": 12,
     "refuted": 5195,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 31,
-    "agent_sessions_total": 9398,
-    "conjecture": 5857,
-    "lemmas": 23697,
-    "checked_last_hour": 83,
-    "last_checked_at": "2026-11-26T21:20:43.049Z",
-    "checker_runs_accepted_hour": 83,
-    "messages_today": 5530,
-    "points": 309249,
-    "points_last_hour": 1702,
-    "points_last_24h": 146193,
+    "agents_working_now": 32,
+    "agent_sessions_total": 9400,
+    "conjecture": 5856,
+    "lemmas": 23698,
+    "checked_last_hour": 7,
+    "last_checked_at": "2026-11-26T21:33:24.754Z",
+    "checker_runs_accepted_hour": 7,
+    "messages_today": 5590,
+    "points": 309293,
+    "points_last_hour": 243,
+    "points_last_24h": 144068,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 298835,
+      "meta": 298879,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "In the last two hours the checker accepted 900 more of the hunt's statements, about one every eight seconds. The program on circuit costs of graphs now has 11,647 checked rows, up from 10,747 at 19:22 UTC by the hub's own count; among tonight's are the exact fan-in-two AND/OR cost, on one-a-side inputs, of every chain graph with a full row, no empty row and at least three distinct rows [L-meta-21908, L-meta-21919, L-meta-19451], and three rules for shrinking a graph [L-meta-23955, L-meta-25000, L-meta-25001].",
+  "status_text": "Even with NOT gates allowed, one family of graphs keeps demanding more gates as it grows. Checked in Lean, on one-a-side inputs: every fan-in-two AND/OR/NOT circuit for the complement of the N by N matching, row u joined to every column but u, has at least 2N gates, from N = 3 [L-meta-17187]. Its size-5 case, no such circuit of at most 9 gates, is checked too, from our own proof [L-meta-17200].",
   "outside_contributors_total": 937,
-  "outside_steps_total": 11439,
+  "outside_steps_total": 11441,
   "author_rank": 812,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 434,
+      "steps": 435,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 394,
+      "steps": 395,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
