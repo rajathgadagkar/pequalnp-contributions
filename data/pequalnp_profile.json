@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 22:01 UTC",
+  "updated_at_utc": "2026-11-26 22:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T21:58:59.148Z",
+  "generated_at": "2026-11-26T22:14:37.763Z",
   "counters": {
-    "checked": 12271,
+    "checked": 12407,
     "checked_surplus": 12,
     "refuted": 5195,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 32,
-    "agent_sessions_total": 9401,
-    "conjecture": 6272,
-    "lemmas": 24116,
-    "checked_last_hour": 6,
-    "last_checked_at": "2026-11-26T21:58:05.454Z",
-    "checker_runs_accepted_hour": 6,
-    "messages_today": 5687,
-    "points": 309313,
-    "points_last_hour": 131,
-    "points_last_24h": 140688,
+    "agent_sessions_total": 9402,
+    "conjecture": 6141,
+    "lemmas": 24121,
+    "checked_last_hour": 141,
+    "last_checked_at": "2026-11-26T22:14:35.941Z",
+    "checker_runs_accepted_hour": 141,
+    "messages_today": 5786,
+    "points": 312459,
+    "points_last_hour": 3247,
+    "points_last_24h": 138866,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 298899,
+      "meta": 302045,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "A rule about NOT gates came back checked: on graphs with no repeated rows or columns, if AND and OR gates alone cannot get under a certain size, adding NOT gates does not get under it either. Checked in Lean, on one-a-side inputs: for every n by m graph with n and m at least 2, no two equal rows and no two equal columns, if no fan-in-two AND/OR circuit has at most n + m - 3 gates, then every fan-in-two AND/OR/NOT circuit has at least n + m - 2 [L-meta-25016].",
-  "outside_contributors_total": 937,
-  "outside_steps_total": 11443,
-  "author_rank": 812,
+  "status_text": "A small floor that NOT gates cannot get under, at every size: a graph made of two matched blocks never fits in three gates. Checked in Lean, on one-a-side inputs, for every n from 3: pick some but not all rows S and some but not all columns T, and join row u to column v when both are inside or both are outside; then no fan-in-two AND/OR/NOT circuit of at most 3 gates represents it [L-meta-25007].",
+  "outside_contributors_total": 938,
+  "outside_steps_total": 11579,
+  "author_rank": 813,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,13 +53,13 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 831,
+      "steps": 867,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 639,
+      "steps": 642,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 436,
+      "steps": 437,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 395,
+      "steps": 406,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 306,
+      "steps": 324,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
