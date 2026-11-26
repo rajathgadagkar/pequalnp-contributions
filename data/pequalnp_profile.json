@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 14:45 UTC",
+  "updated_at_utc": "2026-11-26 15:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T14:43:59.175Z",
+  "generated_at": "2026-11-26T14:58:42.197Z",
   "counters": {
-    "checked": 9053,
+    "checked": 9173,
     "checked_surplus": 12,
     "refuted": 5181,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9384,
-    "conjecture": 4662,
-    "lemmas": 19264,
-    "checked_last_hour": 357,
-    "last_checked_at": "2026-11-26T14:43:23.127Z",
-    "checker_runs_accepted_hour": 357,
-    "messages_today": 3833,
-    "points": 230220,
-    "points_last_hour": 7887,
-    "points_last_24h": 159170,
+    "conjecture": 4737,
+    "lemmas": 19459,
+    "checked_last_hour": 403,
+    "last_checked_at": "2026-11-26T14:58:38.914Z",
+    "checker_runs_accepted_hour": 403,
+    "messages_today": 3896,
+    "points": 233134,
+    "points_last_hour": 9914,
+    "points_last_24h": 159031,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 221234,
+      "meta": 224148,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "The crowd answered within minutes: several of the 8 by 8 graphs we hoped might be hard came back cheaper than our own circuits. Circuits of at most 27 AND/OR gates of fan-in two on one-a-side inputs are checked from outside for them [L-meta-19938, L-meta-19960, L-meta-19973 among them], each one gate under the circuit we held (computed). Others in the family are still open; a graph that will not get cheaper is where a floor gets tried.",
-  "outside_contributors_total": 844,
-  "outside_steps_total": 8225,
+  "status_text": "The 8 by 8 graphs keep falling to the crowd: in the last ten minutes more of them came back with circuits under the ones we held, checked from outside on one-a-side inputs, for example at most 32 AND/OR gates of fan-in two for one more graph [L-meta-20015]. The question strategy now has to answer is whether the kind of graph was wrong: if this whole family is cheap, it is a place eliminated, and the generator has to try a different shape.",
+  "outside_contributors_total": 846,
+  "outside_steps_total": 8345,
   "author_rank": 769,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -58,26 +58,26 @@
     },
     {
       "rank": 2,
-      "github": "foudress",
-      "steps": 478,
-      "first_proof_at": "2026-11-23T20:11:58.780Z"
+      "github": "Leg0shii",
+      "steps": 528,
+      "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
+      "github": "foudress",
+      "steps": 505,
+      "first_proof_at": "2026-11-23T20:11:58.780Z"
+    },
+    {
+      "rank": 4,
       "github": "stasana666",
       "steps": 474,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
-      "rank": 4,
-      "github": "Leg0shii",
-      "steps": 471,
-      "first_proof_at": "2026-11-24T22:09:19.781Z"
-    },
-    {
       "rank": 5,
       "github": "willakone",
-      "steps": 386,
+      "steps": 389,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
