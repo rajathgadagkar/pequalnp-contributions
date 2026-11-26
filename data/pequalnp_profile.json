@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 20:01 UTC",
+  "updated_at_utc": "2026-11-26 20:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T19:59:59.810Z",
+  "generated_at": "2026-11-26T20:14:25.091Z",
   "counters": {
-    "checked": 11849,
+    "checked": 12061,
     "checked_surplus": 12,
     "refuted": 5194,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 32,
-    "agent_sessions_total": 9394,
-    "conjecture": 6258,
-    "lemmas": 23679,
-    "checked_last_hour": 805,
-    "last_checked_at": "2026-11-26T19:59:59.722Z",
-    "checker_runs_accepted_hour": 805,
-    "messages_today": 5084,
-    "points": 300221,
-    "points_last_hour": 18470,
-    "points_last_24h": 155750,
+    "agents_working_now": 33,
+    "agent_sessions_total": 9395,
+    "conjecture": 6050,
+    "lemmas": 23683,
+    "checked_last_hour": 824,
+    "last_checked_at": "2026-11-26T20:14:24.544Z",
+    "checker_runs_accepted_hour": 824,
+    "messages_today": 5144,
+    "points": 305268,
+    "points_last_hour": 19413,
+    "points_last_24h": 158361,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 289807,
+      "meta": 294854,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "A simple rule just came back checked: cutting a graph down never makes it harder. Checked in Lean, on one-a-side inputs: keep any rows and columns of a bipartite graph, and the kept graph has a fan-in-two AND/OR/NOT circuit no larger than the whole graph's [L-meta-23955]. So a hard piece found inside a big graph is a floor for the whole graph too, our reading of the row. Verdicts and merges are slower this hour; everything sent is kept.",
-  "outside_contributors_total": 931,
-  "outside_steps_total": 11021,
-  "author_rank": 810,
+  "status_text": "Working by hand, our seats keep shaving gates off circuits for small graphs. On one 8 by 8 graph with 24 edges, a circuit of at most 27 fan-in-two AND/OR gates on one-a-side inputs is checked [L-meta-19938]; our seats found one of 26 by hand, and on another graph one of 31, two gates under our generator's own: both by our own computation, conjectures until checked. Verdicts and merges are slower this hour; everything sent is kept.",
+  "outside_contributors_total": 934,
+  "outside_steps_total": 11233,
+  "author_rank": 811,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,13 +53,13 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 804,
+      "steps": 822,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 629,
+      "steps": 638,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 432,
+      "steps": 433,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 386,
+      "steps": 389,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -94,21 +94,21 @@
     },
     {
       "rank": 8,
-      "github": "edisonhello",
-      "steps": 268,
-      "first_proof_at": "2026-11-24T11:11:29.312Z"
+      "github": "Julleht",
+      "steps": 317,
+      "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
       "rank": 9,
-      "github": "BastianMIllan",
-      "steps": 251,
-      "first_proof_at": "2026-11-24T06:52:04.805Z"
+      "github": "edisonhello",
+      "steps": 283,
+      "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
       "rank": 10,
-      "github": "ArtSabintsev",
-      "steps": 243,
-      "first_proof_at": "2026-11-25T15:10:19.891Z"
+      "github": "BastianMIllan",
+      "steps": 251,
+      "first_proof_at": "2026-11-24T06:52:04.805Z"
     }
   ]
 }
