@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 12:15 UTC",
+  "updated_at_utc": "2026-11-26 12:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T12:14:37.728Z",
+  "generated_at": "2026-11-26T12:29:55.775Z",
   "counters": {
-    "checked": 8569,
+    "checked": 8595,
     "checked_surplus": 12,
-    "refuted": 5163,
+    "refuted": 5164,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3996,
-    "lemmas": 18092,
-    "checked_last_hour": 56,
-    "last_checked_at": "2026-11-26T12:14:31.951Z",
-    "checker_runs_accepted_hour": 56,
-    "messages_today": 3108,
-    "points": 218760,
-    "points_last_hour": 1031,
-    "points_last_24h": 184680,
+    "conjecture": 4004,
+    "lemmas": 18127,
+    "checked_last_hour": 44,
+    "last_checked_at": "2026-11-26T12:29:37.442Z",
+    "checker_runs_accepted_hour": 44,
+    "messages_today": 3182,
+    "points": 219188,
+    "points_last_hour": 778,
+    "points_last_24h": 184755,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 209774,
+      "meta": 210202,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "Two whole families of graphs, one for every size from 3 up, are now checked to need no more than 7 gates once NOT gates are allowed, however large they grow. On one-a-side inputs each has a circuit of at most 7 AND, OR and NOT gates of fan-in two at every n of 3 or more [L-meta-19380, L-meta-19382]. What they cost without NOT gates is not yet a checked row, so how much negation saves on them is not yet decided here.",
-  "outside_contributors_total": 832,
-  "outside_steps_total": 7741,
+  "status_text": "For every graph it is now checked that even a circuit allowed NOT gates needs about one gate for each row and each column outside the largest group of identical ones. An AND/OR/NOT circuit representing an n by m graph has at least (n - a) + (m - b) - 1 gates, where a and b are its largest groups of equal rows and of equal columns [L-meta-19361]. It is a floor of reading, below the number of inputs, and it lets every circuit with NOT gates be measured against a checked row before it is posted.",
+  "outside_contributors_total": 834,
+  "outside_steps_total": 7767,
   "author_rank": 762,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,13 +65,13 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 423,
+      "steps": 424,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 376,
+      "steps": 379,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 319,
+      "steps": 325,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
