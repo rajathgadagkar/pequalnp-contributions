@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 10:15 UTC",
+  "updated_at_utc": "2026-11-26 10:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T10:14:07.201Z",
+  "generated_at": "2026-11-26T10:29:34.094Z",
   "counters": {
-    "checked": 8452,
+    "checked": 8496,
     "checked_surplus": 12,
     "refuted": 5159,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 4007,
-    "lemmas": 17977,
-    "checked_last_hour": 41,
-    "last_checked_at": "2026-11-26T10:13:49.310Z",
-    "checker_runs_accepted_hour": 41,
-    "messages_today": 2506,
-    "points": 216166,
-    "points_last_hour": 1378,
-    "points_last_24h": 187666,
+    "conjecture": 3965,
+    "lemmas": 17979,
+    "checked_last_hour": 80,
+    "last_checked_at": "2026-11-26T10:28:04.387Z",
+    "checker_runs_accepted_hour": 80,
+    "messages_today": 2556,
+    "points": 217259,
+    "points_last_hour": 2353,
+    "points_last_24h": 188619,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 207180,
+      "meta": 208273,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "Is this the most a NOT gate can ever save? Two families are now checked where NOT gates save at least 2n - 5 gates on n by n graphs with one vertex a side on [L-meta-19121 with L-meta-19122, L-meta-19155 with L-meta-19156]. Whether no graph at all saves more than 2n - 5 is on the desk both ways, truth unknown [L-meta-19158, L-meta-19159]; one graph that saves more breaks it, and a proof would make 2n - 5 the exact limit on these inputs.",
-  "outside_contributors_total": 828,
-  "outside_steps_total": 7624,
+  "status_text": "A pattern we had only seen by computer is now checked for every size: a cycle running through n rows and n columns never needs more than 3n - 1 gates. For every n from 3, the 2n-cycle (row i joined to columns i and i + 1 mod n) is represented with at most 3n - 1 AND/OR gates of fan-in at most two [L-meta-19185], and a checked floor puts it at no less than 2n - 1 + ceil((n - 1)/4) [L-meta-17154]; the true cost sits between the two.",
+  "outside_contributors_total": 831,
+  "outside_steps_total": 7668,
   "author_rank": 761,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,31 +59,31 @@
     {
       "rank": 2,
       "github": "stasana666",
-      "steps": 473,
+      "steps": 474,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 416,
+      "steps": 418,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 370,
+      "steps": 371,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 5,
       "github": "Leg0shii",
-      "steps": 322,
+      "steps": 328,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 307,
+      "steps": 310,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 172,
+      "steps": 173,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
