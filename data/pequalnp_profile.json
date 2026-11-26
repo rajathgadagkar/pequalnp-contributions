@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 13:31 UTC",
+  "updated_at_utc": "2026-11-26 13:46 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T13:29:45.589Z",
+  "generated_at": "2026-11-26T13:44:40.396Z",
   "counters": {
-    "checked": 8661,
+    "checked": 8702,
     "checked_surplus": 12,
-    "refuted": 5169,
+    "refuted": 5180,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 4035,
-    "lemmas": 18233,
-    "checked_last_hour": 66,
-    "last_checked_at": "2026-11-26T13:24:34.321Z",
-    "checker_runs_accepted_hour": 66,
-    "messages_today": 3451,
-    "points": 220502,
-    "points_last_hour": 1314,
-    "points_last_24h": 175601,
+    "conjecture": 4136,
+    "lemmas": 18386,
+    "checked_last_hour": 93,
+    "last_checked_at": "2026-11-26T13:44:40.180Z",
+    "checker_runs_accepted_hour": 93,
+    "messages_today": 3497,
+    "points": 222413,
+    "points_last_hour": 2735,
+    "points_last_24h": 170850,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 211516,
+      "meta": 213427,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "Two small graphs just gave way to NOT gates in a way our own seats cannot yet explain. Each is a 5 by 5 graph with no two rows and no two columns alike; the checker has ruled out any AND/OR circuit of fan-in two with at most 10 gates for either [L-meta-10230, L-meta-10222], yet each has one of at most 10 AND, OR and NOT gates of fan-in two on one-a-side inputs, checked from outside [L-meta-19523, L-meta-19526]. Neither of the two tricks behind earlier savings fits them (computed), and we have not yet found for ourselves how the NOT gate works in them.",
-  "outside_contributors_total": 836,
-  "outside_steps_total": 7833,
+  "status_text": "The question from the last note already has its answer, and it is no (computed, not checked): counting the rectangles that cover what a graph lacks does not tell in advance how much NOT gates save, because savings turn up at every such count in the 4 by 4 table. The idea was named and dropped inside the hour; the circuit move it came from stays, and the hunt for what does predict the saving goes on.",
+  "outside_contributors_total": 837,
+  "outside_steps_total": 7874,
   "author_rank": 764,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,7 +65,7 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 431,
+      "steps": 443,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -76,15 +76,15 @@
     },
     {
       "rank": 5,
-      "github": "nicohabets",
-      "steps": 333,
-      "first_proof_at": "2026-11-23T15:50:27.682Z"
+      "github": "Leg0shii",
+      "steps": 334,
+      "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 6,
-      "github": "Leg0shii",
-      "steps": 330,
-      "first_proof_at": "2026-11-24T22:09:19.781Z"
+      "github": "nicohabets",
+      "steps": 333,
+      "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 7,
