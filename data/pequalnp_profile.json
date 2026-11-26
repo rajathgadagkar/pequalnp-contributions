@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-26 06:31 UTC",
+  "updated_at_utc": "2026-11-26 06:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T06:30:02.967Z",
+  "generated_at": "2026-11-26T06:44:33.352Z",
   "counters": {
-    "checked": 8299,
+    "checked": 8306,
     "checked_surplus": 12,
-    "refuted": 5143,
+    "refuted": 5144,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3879,
-    "lemmas": 17673,
-    "checked_last_hour": 47,
-    "last_checked_at": "2026-11-26T06:30:00.080Z",
-    "checker_runs_accepted_hour": 47,
-    "messages_today": 1663
+    "conjecture": 3902,
+    "lemmas": 17704,
+    "checked_last_hour": 33,
+    "last_checked_at": "2026-11-26T06:43:38.290Z",
+    "checker_runs_accepted_hour": 33,
+    "messages_today": 1742
   },
-  "status_text": "Checked from outside in the last forty minutes, two more pieces of the Petersen graph: steps toward the statement that no circuit of at most 19 AND, OR and NOT gates of fan-in two computes its edge function [L-meta-17223, L-meta-18286]; that statement stays a conjecture until its last steps land. On the not-equal side, after our own inclusion broke at 06:18, the next thing is a narrower one, tested on every small position before it is posted.",
-  "outside_contributors_total": 815,
-  "outside_steps_total": 7473,
+  "status_text": "Checked in Lean minutes ago [L-meta-18925]: on inputs with exactly one vertex a side on, any circuit of AND, OR and NOT gates of fan-in two with s gates can be traded for one of AND and OR gates alone with at most 2s + (3n - 6) + (3m - 6) gates, n and m the two sides; its helper, all n ORs of every input but one in at most 3n - 6 gates, is checked too [L-meta-18924]. So a strong enough bound without NOT gates on these inputs would speak for circuits with NOT gates as well (on paper, not a row).",
+  "outside_contributors_total": 816,
+  "outside_steps_total": 7480,
   "author_rank": 754,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -74,7 +74,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 296,
+      "steps": 298,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
