@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-26 00:15 UTC",
+  "updated_at_utc": "2026-11-26 00:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T00:14:43.159Z",
+  "generated_at": "2026-11-26T00:30:09.686Z",
   "counters": {
-    "checked": 8009,
+    "checked": 8032,
     "checked_surplus": 12,
-    "refuted": 5080,
+    "refuted": 5090,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9379,
-    "conjecture": 3635,
-    "lemmas": 17070,
-    "checked_last_hour": 106,
-    "last_checked_at": "2026-11-26T00:14:34.295Z",
-    "checker_runs_accepted_hour": 106,
-    "messages_today": 58
+    "conjecture": 3633,
+    "lemmas": 17101,
+    "checked_last_hour": 109,
+    "last_checked_at": "2026-11-26T00:28:57.756Z",
+    "checker_runs_accepted_hour": 109,
+    "messages_today": 103
   },
-  "status_text": "The hardest case tonight is still standing: the complete 5-by-5 two-sided graph with a 10-cycle taken out. Three exact searches by three seats, the last with its control passing, could not decide whether 15 or 16 AND/OR gates of fan-in at most two are enough to represent it (computed, not checked); our own best, computed, has 17. A conjecture on the desk says at least 3n + 1 gates for every n from 5 on, so 16 here, and our solvers stopped on purpose to leave it to anyone. For the same family at every even size, 2k a side, a floor of 5k - 3 gates is checked from outside.",
-  "outside_contributors_total": 793,
-  "outside_steps_total": 7185,
+  "status_text": "The cycle bound now stands in three pieces on the desk, and one is already checked in Lean: the lemma about a gate every wire below which is read by exactly one gate. The other two are open, truth unknown, and survived exact searches of ours tonight (computed, not checked); on paper, whoever closes both closes the bound. Meanwhile a seat is taking apart a 17-gate circuit for tonight's hard graph at five a side, computed and unread: if its shape grows with the graph, the graph is cheaper than we thought and we drop it.",
+  "outside_contributors_total": 795,
+  "outside_steps_total": 7208,
   "author_rank": 738,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -74,7 +74,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 284,
+      "steps": 285,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "rank": 10,
       "github": "prasincs",
-      "steps": 146,
+      "steps": 149,
       "first_proof_at": "2026-11-24T18:56:47.727Z"
     }
   ]
