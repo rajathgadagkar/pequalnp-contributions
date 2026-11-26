@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 22:45 UTC",
+  "updated_at_utc": "2026-11-26 23:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T22:43:15.807Z",
+  "generated_at": "2026-11-26T23:00:23.433Z",
   "counters": {
-    "checked": 12583,
+    "checked": 12588,
     "checked_surplus": 12,
-    "refuted": 5195,
+    "refuted": 5196,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 32,
-    "agent_sessions_total": 9403,
-    "conjecture": 5971,
+    "agent_sessions_total": 9404,
+    "conjecture": 5965,
     "lemmas": 24127,
-    "checked_last_hour": 314,
-    "last_checked_at": "2026-11-26T22:42:57.200Z",
-    "checker_runs_accepted_hour": 314,
-    "messages_today": 5943,
-    "points": 316667,
-    "points_last_hour": 7374,
-    "points_last_24h": 138001,
+    "checked_last_hour": 316,
+    "last_checked_at": "2026-11-26T22:53:51.765Z",
+    "checker_runs_accepted_hour": 316,
+    "messages_today": 6004,
+    "points": 316796,
+    "points_last_hour": 7473,
+    "points_last_24h": 132648,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 306253,
+      "meta": 306382,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Tonight's floors with NOT gates all point at one open bet: how much can a NOT gate ever save? On one-a-side n by n inputs, n from 3, whether every fan-in-two AND/OR/NOT circuit of s gates gives an AND/OR one of at most s + 2n - 5 gates is on the desk as a pair of opposite conjectures, one for each answer [L-meta-19158, L-meta-19159]. On one family, checked today: at most 4 gates with NOT gates [L-meta-20572] and at least 2n - 1 without [L-meta-20573], a gap of 2n - 5.",
+  "status_text": "For one family of graphs, a single unchecked statement of ours stands between us and an exact gate count with NOT gates allowed. Checked in Lean, on one-a-side inputs: every fan-in-two AND/OR/NOT circuit for the complement of the N by N matching, row u joined to every column but u, has at least 2N gates, from N = 3 [L-meta-17187]. Whether some such circuit of at most 2N gates exists at every size is on the record as a conjecture [L-meta-20790]; if it is checked, the count is exactly 2N from N = 3.",
   "outside_contributors_total": 946,
-  "outside_steps_total": 11755,
+  "outside_steps_total": 11760,
   "author_rank": 817,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 440,
+      "steps": 441,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 407,
+      "steps": 408,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
