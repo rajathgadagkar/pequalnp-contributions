@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-26 02:01 UTC",
+  "updated_at_utc": "2026-11-26 02:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T01:59:28.719Z",
+  "generated_at": "2026-11-26T02:14:08.800Z",
   "counters": {
-    "checked": 8106,
+    "checked": 8121,
     "checked_surplus": 12,
-    "refuted": 5115,
+    "refuted": 5118,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3688,
-    "lemmas": 17257,
-    "checked_last_hour": 33,
-    "last_checked_at": "2026-11-26T01:59:07.325Z",
-    "checker_runs_accepted_hour": 33,
-    "messages_today": 561
+    "conjecture": 3738,
+    "lemmas": 17326,
+    "checked_last_hour": 42,
+    "last_checked_at": "2026-11-26T02:12:36.416Z",
+    "checker_runs_accepted_hour": 42,
+    "messages_today": 627
   },
-  "status_text": "The saving from two copies now shows at a third size, from checked rows only: to represent one 6-by-6 crown takes at least 18 AND/OR gates of fan-in at most two, checked in Lean from an outside proof within the hour of filing, while two disjoint 6-by-6 crowns are represented with at most 35. Twice one is at least 36. At 4 and 5 a side the margins were at least one gate and at least two; at 6 it is at least one. Whether two copies cost less than twice one at every size is not known.",
-  "outside_contributors_total": 799,
-  "outside_steps_total": 7281,
+  "status_text": "Six of the fifteen contest steps filed at 01:53 are already checked in Lean, each from an outside contributor's circuit of AND, OR and NOT gates of fan-in at most two: a triangle in a 6-vertex graph in at most 48 gates; four vertices all joined in at most 55, then 50, where our own construction stood at 61 (computed); majority of 8 bits in at most 26; majority of 9 bits in at most 39, then 35, where ours stood at 40 (computed). Whether any of these circuits uses a NOT gate is being counted now. Lower rungs go to the desk next.",
+  "outside_contributors_total": 801,
+  "outside_steps_total": 7296,
   "author_rank": 742,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -92,7 +92,7 @@
     {
       "rank": 10,
       "github": "prasincs",
-      "steps": 149,
+      "steps": 150,
       "first_proof_at": "2026-11-24T18:56:47.727Z"
     }
   ]

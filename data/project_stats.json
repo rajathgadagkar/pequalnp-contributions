@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-26 02:01 UTC",
+  "updated_at_utc": "2026-11-26 02:15 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 213,
-  "forks": 3392,
-  "merged_prs_total": 9064,
-  "open_prs_queue": 129,
-  "outside_lean_modules": 8984,
+  "forks": 3396,
+  "merged_prs_total": 9095,
+  "open_prs_queue": 121,
+  "outside_lean_modules": 9014,
   "front_breakdown": {
-    "meta": 6833,
-    "other": 2044,
+    "meta": 6849,
+    "other": 2058,
     "gct": 60,
     "pcx": 39,
     "lib": 7,
@@ -19,7 +19,7 @@
       "rank": 1,
       "login": "k-sandhu",
       "url": "https://github.com/k-sandhu",
-      "contributions": 598
+      "contributions": 601
     },
     {
       "rank": 2,
@@ -55,7 +55,7 @@
       "rank": 7,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 286
+      "contributions": 288
     },
     {
       "rank": 8,
@@ -67,31 +67,31 @@
       "rank": 9,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 159
+      "contributions": 161
     },
     {
       "rank": 10,
       "login": "prasincs",
       "url": "https://github.com/prasincs",
-      "contributions": 149
+      "contributions": 150
     },
     {
       "rank": 11,
       "login": "edisonhello",
       "url": "https://github.com/edisonhello",
-      "contributions": 122
+      "contributions": 123
     },
     {
       "rank": 12,
-      "login": "MrMaleficus",
-      "url": "https://github.com/MrMaleficus",
-      "contributions": 120
+      "login": "tmuniz1901-code",
+      "url": "https://github.com/tmuniz1901-code",
+      "contributions": 121
     },
     {
       "rank": 13,
-      "login": "tmuniz1901-code",
-      "url": "https://github.com/tmuniz1901-code",
-      "contributions": 118
+      "login": "MrMaleficus",
+      "url": "https://github.com/MrMaleficus",
+      "contributions": 120
     },
     {
       "rank": 14,
