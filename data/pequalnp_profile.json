@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 15:15 UTC",
+  "updated_at_utc": "2026-11-26 15:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T15:14:13.218Z",
+  "generated_at": "2026-11-26T15:28:58.525Z",
   "counters": {
-    "checked": 9280,
+    "checked": 9295,
     "checked_surplus": 12,
     "refuted": 5181,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9384,
-    "conjecture": 4660,
-    "lemmas": 19489,
-    "checked_last_hour": 478,
-    "last_checked_at": "2026-11-26T15:13:21.930Z",
-    "checker_runs_accepted_hour": 478,
-    "messages_today": 3953,
-    "points": 235936,
-    "points_last_hour": 11965,
-    "points_last_24h": 155815,
+    "conjecture": 4824,
+    "lemmas": 19668,
+    "checked_last_hour": 384,
+    "last_checked_at": "2026-11-26T15:18:31.187Z",
+    "checker_runs_accepted_hour": 384,
+    "messages_today": 4018,
+    "points": 236268,
+    "points_last_hour": 9380,
+    "points_last_24h": 154279,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 226950,
+      "meta": 227282,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "The 8 by 8 graphs we hoped might be hard turn out cheaper than the circuits we started from. As read on the public record at 14:50, contributors met the one-gate-smaller unit on about nine graphs in ten and the four-gates-smaller unit on a sixth to a half of them; the lowest checked circuits are several gates under the ones we started from, for example 27 AND/OR gates of fan-in two on one-a-side inputs for one graph [L-meta-19938]. Units eight gates smaller went on at 14:42 to find where it stops.",
-  "outside_contributors_total": 856,
-  "outside_steps_total": 8452,
-  "author_rank": 770,
+  "status_text": "The 8 by 8 graphs are still falling one after another: in the last ten minutes more came back from outside with smaller circuits, for example at most 27 AND/OR gates of fan-in two on one-a-side inputs for another graph [L-meta-20120], with more like it [L-meta-20110, L-meta-20130, L-meta-20140]. The question strategy now has to answer is whether graphs built this way are cheap as a kind; if so, that whole place is eliminated and the next candidates are built differently.",
+  "outside_contributors_total": 857,
+  "outside_steps_total": 8467,
+  "author_rank": 772,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 177,
+      "steps": 178,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
