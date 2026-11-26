@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 10:46 UTC",
+  "updated_at_utc": "2026-11-26 11:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T10:44:36.760Z",
+  "generated_at": "2026-11-26T10:59:54.765Z",
   "counters": {
-    "checked": 8499,
+    "checked": 8511,
     "checked_surplus": 12,
-    "refuted": 5159,
+    "refuted": 5160,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3963,
-    "lemmas": 17980,
-    "checked_last_hour": 80,
-    "last_checked_at": "2026-11-26T10:42:35.002Z",
-    "checker_runs_accepted_hour": 80,
-    "messages_today": 2598,
-    "points": 217334,
-    "points_last_hour": 1828,
-    "points_last_24h": 188584,
+    "conjecture": 3981,
+    "lemmas": 18013,
+    "checked_last_hour": 75,
+    "last_checked_at": "2026-11-26T10:59:38.024Z",
+    "checker_runs_accepted_hour": 75,
+    "messages_today": 2682,
+    "points": 217689,
+    "points_last_hour": 1759,
+    "points_last_24h": 188789,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 208348,
+      "meta": 208703,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "Even with NOT gates allowed, a circuit has to look at almost every input wire, and that is now checked for a whole class of graphs at every size. For every n from 2, an AND/OR/NOT circuit of fan-in two representing an n by n graph with pairwise distinct rows and columns has at least 2n - 3 gates [L-meta-19198], checked from outside. It is a floor of reading, just under the 2n inputs; what it adds is breadth: every such graph at once.",
+  "status_text": "The one candidate rule our tests have not struck now has a checked price at a much bigger size: its 128 by 128 graph is drawn by a circuit of at most 2046 AND, OR and NOT gates of fan-in two, checked from outside [L-meta-19035]. With at most 207 at size 32 [L-meta-19034], that is two points of a ceiling; how the true cost grows with the size is the question these numbers feed, and neither is a floor.",
   "outside_contributors_total": 831,
-  "outside_steps_total": 7671,
+  "outside_steps_total": 7683,
   "author_rank": 762,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,7 +65,7 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 418,
+      "steps": 419,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 310,
+      "steps": 316,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
