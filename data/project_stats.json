@@ -1,13 +1,13 @@
 {
-  "updated_at_utc": "2026-11-26 23:15 UTC",
+  "updated_at_utc": "2026-11-26 23:31 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 259,
-  "forks": 3908,
-  "merged_prs_total": 14946,
-  "open_prs_queue": 193,
-  "outside_lean_modules": 14842,
+  "forks": 3909,
+  "merged_prs_total": 14947,
+  "open_prs_queue": 173,
+  "outside_lean_modules": 14843,
   "front_breakdown": {
-    "meta": 11310,
+    "meta": 11311,
     "other": 3423,
     "gct": 61,
     "pcx": 40,
@@ -19,13 +19,13 @@
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 1456
+      "contributions": 1465
     },
     {
       "rank": 2,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 644
+      "contributions": 645
     },
     {
       "rank": 3,
@@ -37,7 +37,7 @@
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 493
+      "contributions": 497
     },
     {
       "rank": 5,
@@ -49,7 +49,7 @@
       "rank": 6,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 406
+      "contributions": 408
     },
     {
       "rank": 7,
@@ -67,13 +67,13 @@
       "rank": 9,
       "login": "edisonhello",
       "url": "https://github.com/edisonhello",
-      "contributions": 332
+      "contributions": 335
     },
     {
       "rank": 10,
       "login": "ArtSabintsev",
       "url": "https://github.com/ArtSabintsev",
-      "contributions": 260
+      "contributions": 268
     },
     {
       "rank": 11,
@@ -85,7 +85,7 @@
       "rank": 12,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 236
+      "contributions": 249
     },
     {
       "rank": 13,
