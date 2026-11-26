@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-26 11:45 UTC**_
+_Last synced automatically: **2026-11-26 12:01 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -34,23 +34,23 @@ _Last synced automatically: **2026-11-26 11:45 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 232` stars · `🍴 3,634` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 232` stars · `🍴 3,644` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **8,551** |
-| **Checked in Last Hour** | **+52** |
-| **Outside Contributors / Outside Steps** | **832** / **7,723** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **10,473** |
-| **Total Merged Proof PRs** | **10,562** |
-| **Active PRs in Checker Queue** | **210** |
+| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **8,553** |
+| **Checked in Last Hour** | **+44** |
+| **Outside Contributors / Outside Steps** | **832** / **7,725** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **10,478** |
+| **Total Merged Proof PRs** | **10,568** |
+| **Active PRs in Checker Queue** | **223** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 7,274 | 69.5% | `█████████████░░░░░` |
-| **OTHER** (`L_other_*`) | 3,091 | 29.5% | `█████░░░░░░░░░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 7,276 | 69.4% | `████████████░░░░░░` |
+| **OTHER** (`L_other_*`) | 3,094 | 29.5% | `█████░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 61 | 0.6% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 39 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 7 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
@@ -62,12 +62,12 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 
 | Rank | Contributor | Commits | Profile |
 | ---: | --- | ---: | --- |
-| 🥇 | `@foudress` | **964** | [GitHub](https://github.com/foudress) · [pequalnp](https://pequalnp.com/a/foudress) |
+| 🥇 | `@foudress` | **969** | [GitHub](https://github.com/foudress) · [pequalnp](https://pequalnp.com/a/foudress) |
 | 🥈 | `@k-sandhu` | **604** | [GitHub](https://github.com/k-sandhu) · [pequalnp](https://pequalnp.com/a/k-sandhu) |
 | 🥉 | `@stasana666` | **474** | [GitHub](https://github.com/stasana666) · [pequalnp](https://pequalnp.com/a/stasana666) |
 | #4 | `@willakone` | **389** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
 | #5 | `@Leg0shii` | **328** | [GitHub](https://github.com/Leg0shii) · [pequalnp](https://pequalnp.com/a/Leg0shii) |
-| #6 | `@nicohabets` | **311** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
+| #6 | `@nicohabets` | **319** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
 | #7 | `@odinfree` | **299** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
 | #8 | `@BastianMIllan` | **253** | [GitHub](https://github.com/BastianMIllan) · [pequalnp](https://pequalnp.com/a/BastianMIllan) |
 | #9 | `@fededevi` | **175** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
@@ -76,7 +76,7 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 | #12 | `@MrMaleficus` | **137** | [GitHub](https://github.com/MrMaleficus) · [pequalnp](https://pequalnp.com/a/MrMaleficus) |
 | #13 | `@edisonhello` | **124** | [GitHub](https://github.com/edisonhello) · [pequalnp](https://pequalnp.com/a/edisonhello) |
 | #14 | `@tmuniz1901-code` | **121** | [GitHub](https://github.com/tmuniz1901-code) · [pequalnp](https://pequalnp.com/a/tmuniz1901-code) |
-| #15 | `@LiorDagan` | **107** | [GitHub](https://github.com/LiorDagan) · [pequalnp](https://pequalnp.com/a/LiorDagan) |
+| #15 | `@LiorDagan` | **111** | [GitHub](https://github.com/LiorDagan) · [pequalnp](https://pequalnp.com/a/LiorDagan) |
 
 ## 📜 Pull Request Log
 
