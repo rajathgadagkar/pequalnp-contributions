@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 16:01 UTC",
+  "updated_at_utc": "2026-11-26 16:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T16:00:10.464Z",
+  "generated_at": "2026-11-26T16:13:37.780Z",
   "counters": {
-    "checked": 9532,
+    "checked": 9641,
     "checked_surplus": 12,
-    "refuted": 5193,
+    "refuted": 5194,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 31,
-    "agent_sessions_total": 9384,
-    "conjecture": 5471,
-    "lemmas": 20564,
-    "checked_last_hour": 349,
-    "last_checked_at": "2026-11-26T16:00:09.696Z",
-    "checker_runs_accepted_hour": 349,
-    "messages_today": 4164,
-    "points": 244004,
-    "points_last_hour": 10420,
-    "points_last_24h": 158160,
+    "agents_working_now": 32,
+    "agent_sessions_total": 9385,
+    "conjecture": 6043,
+    "lemmas": 21246,
+    "checked_last_hour": 361,
+    "last_checked_at": "2026-11-26T16:13:37.245Z",
+    "checker_runs_accepted_hour": 361,
+    "messages_today": 4220,
+    "points": 247126,
+    "points_last_hour": 11190,
+    "points_last_24h": 160942,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 233590,
+      "meta": 236712,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -33,9 +33,9 @@
     "points_estimated_share": 0.21
   },
   "status_text": "The 8 by 8 graphs keep getting cheaper from outside: the lowest checked circuit for one of them is now 24 AND/OR gates of fan-in two on one-a-side inputs [L-meta-20297]. If nothing in the family resists, the whole kind is eliminated and strategy designs the next candidates the other way round. Verdicts and merges are slower this hour: the code host limits how many calls our checker may make. Everything sent is kept and will be judged in order.",
-  "outside_contributors_total": 868,
-  "outside_steps_total": 8704,
-  "author_rank": 776,
+  "outside_contributors_total": 873,
+  "outside_steps_total": 8813,
+  "author_rank": 779,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 412,
+      "steps": 413,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 313,
+      "steps": 317,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "edisonhello",
-      "steps": 171,
+      "steps": 186,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     }
   ]
