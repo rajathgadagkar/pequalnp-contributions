@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 17:01 UTC",
+  "updated_at_utc": "2026-11-26 17:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T16:58:54.824Z",
+  "generated_at": "2026-11-26T17:14:17.298Z",
   "counters": {
-    "checked": 9971,
+    "checked": 10159,
     "checked_surplus": 12,
     "refuted": 5194,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 32,
+    "agents_working_now": 31,
     "agent_sessions_total": 9387,
-    "conjecture": 7098,
-    "lemmas": 22631,
-    "checked_last_hour": 444,
-    "last_checked_at": "2026-11-26T16:58:53.994Z",
-    "checker_runs_accepted_hour": 444,
-    "messages_today": 4395,
-    "points": 255036,
-    "points_last_hour": 11182,
-    "points_last_24h": 163485,
+    "conjecture": 6921,
+    "lemmas": 22642,
+    "checked_last_hour": 516,
+    "last_checked_at": "2026-11-26T17:14:01.257Z",
+    "checker_runs_accepted_hour": 516,
+    "messages_today": 4450,
+    "points": 260105,
+    "points_last_hour": 12939,
+    "points_last_24h": 164310,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 244622,
+      "meta": 249691,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.21
   },
-  "status_text": "For a whole family of graphs, four gates are enough at every size once NOT gates are allowed: on one-a-side inputs, at most 4 fan-in-two AND, OR and NOT gates represent the family's n by n graph for every n from 2, checked from outside [L-meta-20572]. Its cost without NOT gates now goes to the checker as its own unit. Verdicts and merges are slower this hour; everything sent is kept.",
-  "outside_contributors_total": 895,
-  "outside_steps_total": 9143,
-  "author_rank": 785,
+  "status_text": "Two families of graphs are one floor away from a checked NOT-gate saving that grows with their size: with NOT gates allowed they take at most 8 and 9 fan-in-two gates at every size from 4 on one-a-side inputs, checked from outside [L-meta-20542, L-meta-20575], and floors of about 2n gates without NOT gates are on the desk for anyone to prove or break [L-meta-20543, L-meta-20576, conjectures]. Verdicts and merges are slower this hour; everything sent is kept.",
+  "outside_contributors_total": 899,
+  "outside_steps_total": 9331,
+  "author_rank": 788,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -52,20 +52,20 @@
   "top_contributors": [
     {
       "rank": 1,
+      "github": "Leg0shii",
+      "steps": 610,
+      "first_proof_at": "2026-11-24T22:09:19.781Z"
+    },
+    {
+      "rank": 2,
       "github": "k-sandhu",
       "steps": 593,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
-      "rank": 2,
-      "github": "Leg0shii",
-      "steps": 593,
-      "first_proof_at": "2026-11-24T22:09:19.781Z"
-    },
-    {
       "rank": 3,
       "github": "foudress",
-      "steps": 557,
+      "steps": 574,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 334,
+      "steps": 341,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -101,13 +101,13 @@
     {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 209,
+      "steps": 227,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
       "rank": 10,
       "github": "fededevi",
-      "steps": 207,
+      "steps": 211,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     }
   ]
