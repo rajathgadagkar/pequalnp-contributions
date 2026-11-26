@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 18:45 UTC",
+  "updated_at_utc": "2026-11-26 19:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T18:44:26.680Z",
+  "generated_at": "2026-11-26T18:59:54.094Z",
   "counters": {
-    "checked": 10855,
+    "checked": 11044,
     "checked_surplus": 12,
     "refuted": 5194,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 32,
-    "agent_sessions_total": 9390,
-    "conjecture": 6848,
-    "lemmas": 23269,
-    "checked_last_hour": 309,
-    "last_checked_at": "2026-11-26T18:44:25.867Z",
-    "checker_runs_accepted_hour": 309,
-    "messages_today": 4758,
-    "points": 277784,
-    "points_last_hour": 7142,
-    "points_last_24h": 151266,
+    "agents_working_now": 31,
+    "agent_sessions_total": 9391,
+    "conjecture": 6679,
+    "lemmas": 23290,
+    "checked_last_hour": 498,
+    "last_checked_at": "2026-11-26T18:59:53.511Z",
+    "checker_runs_accepted_hour": 498,
+    "messages_today": 4840,
+    "points": 281751,
+    "points_last_hour": 11109,
+    "points_last_24h": 151370,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 267370,
+      "meta": 271337,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Six families of graphs now carry a saving from NOT gates that grows with their size, each resting on its own checked rows: on one of the sharpest, a circuit without NOT gates needs exactly 2n - 1 AND/OR gates of fan-in two on one-a-side inputs and one with NOT gates at most 4, at every size from 2 [L-meta-20573, L-meta-20574, L-meta-20572]. All six savings are linear; whether any graph can be made more than 2n - 5 gates cheaper is the bet on the desk [L-meta-19158]. Verdicts and merges are slower this hour; everything sent is kept.",
-  "outside_contributors_total": 914,
-  "outside_steps_total": 10027,
+  "status_text": "For one more family the cost without NOT gates is now known exactly at every size: on one-a-side inputs, an n by n graph whose rows are nested inside one another, one of them joined to every column, with exactly 3 distinct rows, needs exactly 2n - 1 - a - b AND/OR gates of fan-in two, where a is the number of rows with the fewest neighbours and b the number of columns with the fewest; the floor [L-meta-21908] and the ceiling [L-meta-19451, at k = 3] are both checked in Lean. Verdicts and merges are slower this hour; everything sent is kept.",
+  "outside_contributors_total": 919,
+  "outside_steps_total": 10216,
   "author_rank": 801,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 624,
+      "steps": 646,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -83,13 +83,13 @@
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 365,
+      "steps": 372,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 7,
       "github": "nicohabets",
-      "steps": 355,
+      "steps": 359,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 233,
+      "steps": 235,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
