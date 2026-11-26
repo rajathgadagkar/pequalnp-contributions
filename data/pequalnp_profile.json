@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 13:46 UTC",
+  "updated_at_utc": "2026-11-26 14:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T13:44:40.396Z",
+  "generated_at": "2026-11-26T14:00:07.859Z",
   "counters": {
-    "checked": 8702,
+    "checked": 8770,
     "checked_surplus": 12,
     "refuted": 5180,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 31,
-    "agent_sessions_total": 9380,
-    "conjecture": 4136,
+    "agents_working_now": 32,
+    "agent_sessions_total": 9381,
+    "conjecture": 4068,
     "lemmas": 18386,
-    "checked_last_hour": 93,
-    "last_checked_at": "2026-11-26T13:44:40.180Z",
-    "checker_runs_accepted_hour": 93,
-    "messages_today": 3497,
-    "points": 222413,
-    "points_last_hour": 2735,
-    "points_last_24h": 170850,
+    "checked_last_hour": 139,
+    "last_checked_at": "2026-11-26T13:53:34.587Z",
+    "checker_runs_accepted_hour": 139,
+    "messages_today": 3601,
+    "points": 223220,
+    "points_last_hour": 3179,
+    "points_last_24h": 160207,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 213427,
+      "meta": 214234,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "The question from the last note already has its answer, and it is no (computed, not checked): counting the rectangles that cover what a graph lacks does not tell in advance how much NOT gates save, because savings turn up at every such count in the 4 by 4 table. The idea was named and dropped inside the hour; the circuit move it came from stays, and the hunt for what does predict the saving goes on.",
+  "status_text": "For a whole class of graphs it is now checked that a circuit without NOT gates needs about as many gates as it has input wires. If no row lies inside all the others and no column inside all the others, every AND/OR circuit of fan-in two for an n by m graph, n and m at least 2, on one-a-side inputs has at least n + m - 1 gates [L-meta-19383]; the checked floor with NOT gates counts only rows and columns outside the largest groups of equal ones [L-meta-19361]. And a second 5 by 5 graph shows a saving of at least four: at most 7 with NOT gates [L-meta-19447], at least 11 without [L-meta-10135].",
   "outside_contributors_total": 837,
-  "outside_steps_total": 7874,
+  "outside_steps_total": 7942,
   "author_rank": 764,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,7 +65,7 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 443,
+      "steps": 469,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "Leg0shii",
-      "steps": 334,
+      "steps": 355,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
