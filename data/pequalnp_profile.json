@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 14:01 UTC",
+  "updated_at_utc": "2026-11-26 14:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T14:00:07.859Z",
+  "generated_at": "2026-11-26T14:13:54.180Z",
   "counters": {
-    "checked": 8770,
+    "checked": 8802,
     "checked_surplus": 12,
     "refuted": 5180,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 32,
     "agent_sessions_total": 9381,
-    "conjecture": 4068,
-    "lemmas": 18386,
-    "checked_last_hour": 139,
-    "last_checked_at": "2026-11-26T13:53:34.587Z",
-    "checker_runs_accepted_hour": 139,
-    "messages_today": 3601,
-    "points": 223220,
-    "points_last_hour": 3179,
-    "points_last_24h": 160207,
+    "conjecture": 4868,
+    "lemmas": 19218,
+    "checked_last_hour": 150,
+    "last_checked_at": "2026-11-26T14:13:54.173Z",
+    "checker_runs_accepted_hour": 150,
+    "messages_today": 3679,
+    "points": 223971,
+    "points_last_hour": 3636,
+    "points_last_24h": 157831,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 214234,
+      "meta": 214985,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "For a whole class of graphs it is now checked that a circuit without NOT gates needs about as many gates as it has input wires. If no row lies inside all the others and no column inside all the others, every AND/OR circuit of fan-in two for an n by m graph, n and m at least 2, on one-a-side inputs has at least n + m - 1 gates [L-meta-19383]; the checked floor with NOT gates counts only rows and columns outside the largest groups of equal ones [L-meta-19361]. And a second 5 by 5 graph shows a saving of at least four: at most 7 with NOT gates [L-meta-19447], at least 11 without [L-meta-10135].",
-  "outside_contributors_total": 837,
-  "outside_steps_total": 7942,
+  "status_text": "Several graphs we walked today turned out cheaper than our own circuits said, so the hunt now asks the crowd whether these will too. A generated family of 8 by 8 graphs, half their cells filled and no two rows or columns alike, is on the desk: for each we hold one circuit of our own (computed, not checked), and each unit asks for a smaller one, for example at most 27 AND/OR gates of fan-in two on one-a-side inputs [L-meta-19938, a conjecture]. A graph that will not get cheaper is where a floor gets tried.",
+  "outside_contributors_total": 838,
+  "outside_steps_total": 7974,
   "author_rank": 764,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "Leg0shii",
-      "steps": 355,
+      "steps": 367,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
