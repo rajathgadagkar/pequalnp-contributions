@@ -1,13 +1,13 @@
 {
-  "updated_at_utc": "2026-11-26 22:15 UTC",
+  "updated_at_utc": "2026-11-26 22:31 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 256,
-  "forks": 3893,
-  "merged_prs_total": 14781,
-  "open_prs_queue": 1887,
-  "outside_lean_modules": 14678,
+  "forks": 3896,
+  "merged_prs_total": 14864,
+  "open_prs_queue": 1621,
+  "outside_lean_modules": 14760,
   "front_breakdown": {
-    "meta": 11146,
+    "meta": 11228,
     "other": 3423,
     "gct": 61,
     "pcx": 40,
@@ -19,13 +19,13 @@
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 1400
+      "contributions": 1456
     },
     {
       "rank": 2,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 639
+      "contributions": 644
     },
     {
       "rank": 3,
@@ -37,7 +37,7 @@
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 490
+      "contributions": 493
     },
     {
       "rank": 5,
@@ -49,7 +49,7 @@
       "rank": 6,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 394
+      "contributions": 406
     },
     {
       "rank": 7,
@@ -67,43 +67,43 @@
       "rank": 9,
       "login": "edisonhello",
       "url": "https://github.com/edisonhello",
-      "contributions": 306
+      "contributions": 332
     },
     {
       "rank": 10,
+      "login": "ArtSabintsev",
+      "url": "https://github.com/ArtSabintsev",
+      "contributions": 260
+    },
+    {
+      "rank": 11,
       "login": "BastianMIllan",
       "url": "https://github.com/BastianMIllan",
       "contributions": 253
     },
     {
-      "rank": 11,
-      "login": "ArtSabintsev",
-      "url": "https://github.com/ArtSabintsev",
-      "contributions": 245
+      "rank": 12,
+      "login": "fededevi",
+      "url": "https://github.com/fededevi",
+      "contributions": 236
     },
     {
-      "rank": 12,
+      "rank": 13,
       "login": "leomarchetti",
       "url": "https://github.com/leomarchetti",
       "contributions": 235
     },
     {
-      "rank": 13,
-      "login": "fededevi",
-      "url": "https://github.com/fededevi",
-      "contributions": 221
-    },
-    {
       "rank": 14,
       "login": "asimfish",
       "url": "https://github.com/asimfish",
-      "contributions": 203
+      "contributions": 225
     },
     {
       "rank": 15,
       "login": "green-notes",
       "url": "https://github.com/green-notes",
-      "contributions": 196
+      "contributions": 197
     }
   ],
   "author_rank_in_top100": null,
