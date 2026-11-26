@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-26 03:01 UTC",
+  "updated_at_utc": "2026-11-26 03:15 UTC",
   "repo": "open-goat/pequalnp-proofs",
-  "stars": 216,
-  "forks": 3411,
-  "merged_prs_total": 9206,
-  "open_prs_queue": 129,
-  "outside_lean_modules": 9125,
+  "stars": 217,
+  "forks": 3418,
+  "merged_prs_total": 9232,
+  "open_prs_queue": 142,
+  "outside_lean_modules": 9151,
   "front_breakdown": {
-    "meta": 6905,
-    "other": 2113,
+    "meta": 6915,
+    "other": 2129,
     "gct": 60,
     "pcx": 39,
     "lib": 7,
@@ -49,7 +49,7 @@
       "rank": 6,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 304
+      "contributions": 305
     },
     {
       "rank": 7,
@@ -67,7 +67,7 @@
       "rank": 9,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 161
+      "contributions": 165
     },
     {
       "rank": 10,
@@ -79,7 +79,7 @@
       "rank": 11,
       "login": "edisonhello",
       "url": "https://github.com/edisonhello",
-      "contributions": 123
+      "contributions": 124
     },
     {
       "rank": 12,
