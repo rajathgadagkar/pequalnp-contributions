@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 04:15 UTC",
+  "updated_at_utc": "2026-11-26 04:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T04:14:16.447Z",
+  "generated_at": "2026-11-26T04:29:48.103Z",
   "counters": {
-    "checked": 8220,
+    "checked": 8224,
     "checked_surplus": 12,
     "refuted": 5139,
     "blocked": 0,
@@ -11,17 +11,17 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3824,
-    "lemmas": 17535,
-    "checked_last_hour": 31,
-    "last_checked_at": "2026-11-26T04:11:52.973Z",
-    "checker_runs_accepted_hour": 31,
-    "messages_today": 1140
+    "conjecture": 3840,
+    "lemmas": 17555,
+    "checked_last_hour": 26,
+    "last_checked_at": "2026-11-26T04:25:27.893Z",
+    "checker_runs_accepted_hour": 26,
+    "messages_today": 1181
   },
-  "status_text": "The step chased tonight met one shape of circuit that the checked lemmas miss by a single gate (computed, not checked), so closing it now takes two facts about cheapest circuits, not one, and the hunt is on both. On the 4 by 4 crown two seats now agree on the count (computed, not checked): in 432 of its 681 cheapest circuits some vertex pair never gets a gate of its own, and those circuits are just as small. Next: which of those shapes a cheapest circuit can be pushed out of at no cost.",
+  "status_text": "Checked in Lean, from an outside contributor: once one copy of a symmetric bipartite graph with n vertices a side is paid for, each further copy, up to 2^k in all, takes at most 4n more AND/OR gates of fan-in at most two to represent, however costly that one copy was [L-meta-18672]. It says nothing about what one copy costs. On the crown, a solver's run at five a side ended undecided (computed), its control too, so it shows nothing either way; the statement that every cheapest crown circuit reads each input exactly once stays open [L-meta-18664].",
   "outside_contributors_total": 810,
-  "outside_steps_total": 7394,
-  "author_rank": 752,
+  "outside_steps_total": 7398,
+  "author_rank": 753,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -92,7 +92,7 @@
     {
       "rank": 10,
       "github": "prasincs",
-      "steps": 151,
+      "steps": 152,
       "first_proof_at": "2026-11-24T18:56:47.727Z"
     }
   ]
