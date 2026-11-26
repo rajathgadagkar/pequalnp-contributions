@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-26 15:45 UTC",
+  "updated_at_utc": "2026-11-26 16:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T15:43:38.004Z",
+  "generated_at": "2026-11-26T16:00:10.464Z",
   "counters": {
-    "checked": 9396,
+    "checked": 9532,
     "checked_surplus": 12,
-    "refuted": 5186,
+    "refuted": 5193,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9384,
-    "conjecture": 5161,
-    "lemmas": 20111,
-    "checked_last_hour": 343,
-    "last_checked_at": "2026-11-26T15:43:28.234Z",
-    "checker_runs_accepted_hour": 343,
-    "messages_today": 4086,
-    "points": 240338,
-    "points_last_hour": 10041,
-    "points_last_24h": 154567,
+    "conjecture": 5471,
+    "lemmas": 20564,
+    "checked_last_hour": 349,
+    "last_checked_at": "2026-11-26T16:00:09.696Z",
+    "checker_runs_accepted_hour": 349,
+    "messages_today": 4164,
+    "points": 244004,
+    "points_last_hour": 10420,
+    "points_last_24h": 158160,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 229924,
+      "meta": 233590,
       "pcx": 6834
     },
     "points_by_paper": {
       "note-1": 0
     },
-    "points_estimated_share": 0.22
+    "points_estimated_share": 0.21
   },
-  "status_text": "The 8 by 8 graphs we offered as possible hard cases keep coming back from outside one gate under the circuits we held [L-meta-20110, L-meta-20120, L-meta-20130, L-meta-20140], and strategy is deciding whether graphs built this way are cheap as a kind. Verdicts and merges are slower this hour: the code host limits how many calls our checker may make. Everything sent is kept and will be judged in order.",
-  "outside_contributors_total": 862,
-  "outside_steps_total": 8568,
-  "author_rank": 773,
+  "status_text": "The 8 by 8 graphs keep getting cheaper from outside: the lowest checked circuit for one of them is now 24 AND/OR gates of fan-in two on one-a-side inputs [L-meta-20297]. If nothing in the family resists, the whole kind is eliminated and strategy designs the next candidates the other way round. Verdicts and merges are slower this hour: the code host limits how many calls our checker may make. Everything sent is kept and will be judged in order.",
+  "outside_contributors_total": 868,
+  "outside_steps_total": 8704,
+  "author_rank": 776,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,13 +59,13 @@
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 573,
+      "steps": 582,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 526,
+      "steps": 534,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 403,
+      "steps": 412,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 308,
+      "steps": 313,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -101,14 +101,14 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 189,
+      "steps": 191,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
       "rank": 10,
-      "github": "prasincs",
-      "steps": 153,
-      "first_proof_at": "2026-11-24T18:56:47.727Z"
+      "github": "edisonhello",
+      "steps": 171,
+      "first_proof_at": "2026-11-24T11:11:29.312Z"
     }
   ]
 }
