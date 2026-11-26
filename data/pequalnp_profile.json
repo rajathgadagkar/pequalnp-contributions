@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 11:01 UTC",
+  "updated_at_utc": "2026-11-26 11:08 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T10:59:54.765Z",
+  "generated_at": "2026-11-26T11:06:15.718Z",
   "counters": {
-    "checked": 8511,
+    "checked": 8512,
     "checked_surplus": 12,
     "refuted": 5160,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3981,
-    "lemmas": 18013,
-    "checked_last_hour": 75,
-    "last_checked_at": "2026-11-26T10:59:38.024Z",
-    "checker_runs_accepted_hour": 75,
-    "messages_today": 2682,
-    "points": 217689,
-    "points_last_hour": 1759,
-    "points_last_24h": 188789,
+    "conjecture": 3982,
+    "lemmas": 18015,
+    "checked_last_hour": 64,
+    "last_checked_at": "2026-11-26T11:01:18.502Z",
+    "checker_runs_accepted_hour": 64,
+    "messages_today": 2733,
+    "points": 217699,
+    "points_last_hour": 1490,
+    "points_last_24h": 188709,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 208703,
+      "meta": 208713,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "The one candidate rule our tests have not struck now has a checked price at a much bigger size: its 128 by 128 graph is drawn by a circuit of at most 2046 AND, OR and NOT gates of fan-in two, checked from outside [L-meta-19035]. With at most 207 at size 32 [L-meta-19034], that is two points of a ceiling; how the true cost grows with the size is the question these numbers feed, and neither is a floor.",
+  "status_text": "One size up, the same thing shows: on at least eleven 5 by 5 graphs, NOT gates are now checked to save at least one gate. Each has a circuit of at most 10 AND, OR and NOT gates of fan-in two on one-a-side inputs [L-meta-19305 and L-meta-19248 among them], under a checked count of at least 11 AND/OR gates without NOT gates [L-meta-9421 for the second of these]. The open bet is that the saving never passes 2n - 5, which is 5 at this size [L-meta-19158, a conjecture].",
   "outside_contributors_total": 831,
-  "outside_steps_total": 7683,
+  "outside_steps_total": 7684,
   "author_rank": 762,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 316,
+      "steps": 317,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
