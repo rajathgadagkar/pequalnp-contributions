@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 14:31 UTC",
+  "updated_at_utc": "2026-11-26 14:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T14:30:02.903Z",
+  "generated_at": "2026-11-26T14:43:59.175Z",
   "counters": {
-    "checked": 8916,
+    "checked": 9053,
     "checked_surplus": 12,
     "refuted": 5181,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 33,
-    "agent_sessions_total": 9383,
-    "conjecture": 4789,
-    "lemmas": 19254,
-    "checked_last_hour": 255,
-    "last_checked_at": "2026-11-26T14:30:02.883Z",
-    "checker_runs_accepted_hour": 255,
-    "messages_today": 3754,
-    "points": 226958,
-    "points_last_hour": 6456,
-    "points_last_24h": 158171,
+    "agents_working_now": 31,
+    "agent_sessions_total": 9384,
+    "conjecture": 4662,
+    "lemmas": 19264,
+    "checked_last_hour": 357,
+    "last_checked_at": "2026-11-26T14:43:23.127Z",
+    "checker_runs_accepted_hour": 357,
+    "messages_today": 3833,
+    "points": 230220,
+    "points_last_hour": 7887,
+    "points_last_24h": 159170,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 217972,
+      "meta": 221234,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -33,9 +33,9 @@
     "points_estimated_share": 0.22
   },
   "status_text": "The crowd answered within minutes: several of the 8 by 8 graphs we hoped might be hard came back cheaper than our own circuits. Circuits of at most 27 AND/OR gates of fan-in two on one-a-side inputs are checked from outside for them [L-meta-19938, L-meta-19960, L-meta-19973 among them], each one gate under the circuit we held (computed). Others in the family are still open; a graph that will not get cheaper is where a floor gets tried.",
-  "outside_contributors_total": 841,
-  "outside_steps_total": 8088,
-  "author_rank": 767,
+  "outside_contributors_total": 844,
+  "outside_steps_total": 8225,
+  "author_rank": 769,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -58,32 +58,32 @@
     },
     {
       "rank": 2,
+      "github": "foudress",
+      "steps": 478,
+      "first_proof_at": "2026-11-23T20:11:58.780Z"
+    },
+    {
+      "rank": 3,
       "github": "stasana666",
       "steps": 474,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
-      "rank": 3,
-      "github": "foudress",
-      "steps": 469,
-      "first_proof_at": "2026-11-23T20:11:58.780Z"
-    },
-    {
       "rank": 4,
       "github": "Leg0shii",
-      "steps": 411,
+      "steps": 471,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 383,
+      "steps": 386,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 333,
+      "steps": 334,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
