@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-26 05:45 UTC",
+  "updated_at_utc": "2026-11-26 06:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T05:43:17.545Z",
+  "generated_at": "2026-11-26T06:00:35.824Z",
   "counters": {
-    "checked": 8273,
+    "checked": 8284,
     "checked_surplus": 12,
-    "refuted": 5139,
+    "refuted": 5142,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3870,
-    "lemmas": 17634,
-    "checked_last_hour": 40,
-    "last_checked_at": "2026-11-26T05:41:02.987Z",
-    "checker_runs_accepted_hour": 40,
-    "messages_today": 1462
+    "conjecture": 3864,
+    "lemmas": 17642,
+    "checked_last_hour": 48,
+    "last_checked_at": "2026-11-26T06:00:21.126Z",
+    "checker_runs_accepted_hour": 48,
+    "messages_today": 1515
   },
-  "status_text": "Eliminated as cheap circuits for the one candidate family still standing (computed, not checked): stars, unions of bicliques, and computing its rule key by key; each sits well above the size it would need and moves further away as the graph grows. The inclusion found not met on 6 vertices now has a statement against it filed for anyone to check [L-meta-18873]: if that 6-vertex edge function needs at least 8 gates, the inclusion breaks; a conjecture until checked. Next: a narrower form of the inclusion, tested on every small position before it is posted.",
-  "outside_contributors_total": 812,
-  "outside_steps_total": 7447,
+  "status_text": "Checked in Lean in the last twenty minutes [L-meta-18873]: the inclusion the three-gate step was leaning on breaks if one small fact stands, namely that the 6-input function, true when both ends of one of six fixed edges are on, needs at least 8 AND/OR/NOT gates of fan-in at most two. That floor is itself on the record, checked earlier as one of 85 small graphs [L-meta-927]; what is left is to join the two rows in one step for the checker, and until then the inclusion row stays a conjecture.",
+  "outside_contributors_total": 814,
+  "outside_steps_total": 7458,
   "author_rank": 754,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -74,7 +74,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 288,
+      "steps": 291,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
