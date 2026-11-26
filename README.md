@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-26 17:45 UTC**_
+_Last synced automatically: **2026-11-26 18:01 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -34,7 +34,7 @@ _Last synced automatically: **2026-11-26 17:45 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 247` stars · `🍴 3,797` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 249` stars · `🍴 3,803` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
@@ -43,7 +43,7 @@ Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequ
 | **Outside Contributors / Outside Steps** | **909** / **9,702** |
 | **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **12,582** |
 | **Total Merged Proof PRs** | **12,684** |
-| **Active PRs in Checker Queue** | **3,701** |
+| **Active PRs in Checker Queue** | **3,898** |
 
 ### Checked Outside Proofs by Research Front
 
