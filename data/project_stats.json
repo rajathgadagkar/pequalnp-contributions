@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-26 04:01 UTC",
+  "updated_at_utc": "2026-11-26 04:15 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 217,
-  "forks": 3436,
-  "merged_prs_total": 9309,
-  "open_prs_queue": 165,
-  "outside_lean_modules": 9227,
+  "forks": 3439,
+  "merged_prs_total": 9327,
+  "open_prs_queue": 170,
+  "outside_lean_modules": 9245,
   "front_breakdown": {
-    "meta": 6942,
-    "other": 2178,
+    "meta": 6947,
+    "other": 2191,
     "gct": 60,
     "pcx": 39,
     "lib": 7,
@@ -49,7 +49,7 @@
       "rank": 6,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 305
+      "contributions": 307
     },
     {
       "rank": 7,
@@ -73,7 +73,7 @@
       "rank": 10,
       "login": "prasincs",
       "url": "https://github.com/prasincs",
-      "contributions": 150
+      "contributions": 152
     },
     {
       "rank": 11,
@@ -83,15 +83,15 @@
     },
     {
       "rank": 12,
-      "login": "tmuniz1901-code",
-      "url": "https://github.com/tmuniz1901-code",
+      "login": "MrMaleficus",
+      "url": "https://github.com/MrMaleficus",
       "contributions": 121
     },
     {
       "rank": 13,
-      "login": "MrMaleficus",
-      "url": "https://github.com/MrMaleficus",
-      "contributions": 120
+      "login": "tmuniz1901-code",
+      "url": "https://github.com/tmuniz1901-code",
+      "contributions": 121
     },
     {
       "rank": 14,
@@ -103,7 +103,7 @@
       "rank": 15,
       "login": "LiorDagan",
       "url": "https://github.com/LiorDagan",
-      "contributions": 100
+      "contributions": 102
     }
   ],
   "author_rank_in_top100": null,
