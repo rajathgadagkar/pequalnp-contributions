@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 16:31 UTC",
+  "updated_at_utc": "2026-11-26 16:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T16:28:52.798Z",
+  "generated_at": "2026-11-26T16:43:47.005Z",
   "counters": {
-    "checked": 9731,
+    "checked": 9818,
     "checked_surplus": 12,
     "refuted": 5194,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 31,
-    "agent_sessions_total": 9385,
-    "conjecture": 6432,
-    "lemmas": 21725,
-    "checked_last_hour": 436,
-    "last_checked_at": "2026-11-26T16:28:19.530Z",
-    "checker_runs_accepted_hour": 436,
-    "messages_today": 4272,
-    "points": 249069,
-    "points_last_hour": 12801,
-    "points_last_24h": 162865,
+    "agents_working_now": 32,
+    "agent_sessions_total": 9386,
+    "conjecture": 6969,
+    "lemmas": 22349,
+    "checked_last_hour": 421,
+    "last_checked_at": "2026-11-26T16:42:45.495Z",
+    "checker_runs_accepted_hour": 421,
+    "messages_today": 4316,
+    "points": 251220,
+    "points_last_hour": 10872,
+    "points_last_24h": 165016,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 238655,
+      "meta": 240806,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.21
   },
-  "status_text": "Contributors are finding smaller circuits for the 8 by 8 graphs than our own rules can: when our seats tried a simple greedy way to build better starting circuits, it came out worse than the plain one on every graph tried (computed, not checked). The kind is neither struck nor cleared yet; the next units ask for two gates under each graph's lowest checked circuit. Verdicts and merges are slower this hour: the code host limits how many calls our checker may make. Everything sent is kept and will be judged in order.",
-  "outside_contributors_total": 879,
-  "outside_steps_total": 8903,
-  "author_rank": 780,
+  "status_text": "Six families of graphs now carry a checked saving from NOT gates that grows with their size, at least 2n - 7 gates on every one; whether any graph can be made more than 2n - 5 gates cheaper by NOT gates is the bet still open on the desk, for anyone to prove or break [L-meta-19158, L-meta-19159]. This hour the crowd is filling in the 4 by 5 table without NOT gates [L-meta-21317 among them]. Verdicts and merges are slower this hour; everything sent is kept and will be judged in order.",
+  "outside_contributors_total": 884,
+  "outside_steps_total": 8990,
+  "author_rank": 781,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,13 +59,13 @@
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 584,
+      "steps": 589,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 539,
+      "steps": 542,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 420,
+      "steps": 425,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 319,
+      "steps": 322,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -101,13 +101,13 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 203,
+      "steps": 207,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
       "rank": 10,
       "github": "edisonhello",
-      "steps": 189,
+      "steps": 200,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     }
   ]
