@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 08:31 UTC",
+  "updated_at_utc": "2026-11-26 08:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T08:27:02.002Z",
+  "generated_at": "2026-11-26T08:44:15.544Z",
   "counters": {
-    "checked": 8353,
+    "checked": 8370,
     "checked_surplus": 12,
     "refuted": 5150,
     "blocked": 0,
@@ -11,17 +11,17 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3908,
-    "lemmas": 17767,
-    "checked_last_hour": 25,
-    "last_checked_at": "2026-11-26T08:17:53.936Z",
-    "checker_runs_accepted_hour": 25,
-    "messages_today": 2149
+    "conjecture": 3945,
+    "lemmas": 17821,
+    "checked_last_hour": 41,
+    "last_checked_at": "2026-11-26T08:44:13.088Z",
+    "checker_runs_accepted_hour": 41,
+    "messages_today": 2153
   },
-  "status_text": "At 3 by 3, every NOT gate that saved a gate did one of two things: flip an output, or build the exclusive OR of two inputs (computed, not checked). Now the 4 by 4 table is filling in from outside: in the last ten minutes, circuits with NOT gates of at most 8 gates were checked for a run of 4 by 4 graphs, each step asking for one under that graph's AND/OR cost on one-a-side inputs [L-meta-19048, L-meta-19050, L-meta-19052, L-meta-19055]. Next: reading whether their NOT gates do anything beyond those two tricks.",
-  "outside_contributors_total": 822,
-  "outside_steps_total": 7525,
-  "author_rank": 758,
+  "status_text": "Contributors have gone under our own circuit twice within the hour: for the 32 by 32 graph of the one candidate rule our tests have not struck, circuits of at most 224 and then at most 207 AND, OR and NOT gates of fan-in two were checked from outside [L-meta-19032, L-meta-19034], under the 225 we had found ourselves (computed). Two circuits at one size say nothing yet about how the cost grows with the size, which is what matters; next on the desk, 128 gates for the same graph [L-meta-18965, a conjecture], then the larger size.",
+  "outside_contributors_total": 823,
+  "outside_steps_total": 7542,
+  "author_rank": 759,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -51,7 +51,7 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 384,
+      "steps": 389,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -75,7 +75,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 298,
+      "steps": 299,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -87,7 +87,7 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 166,
+      "steps": 171,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {

@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-26 08:31 UTC",
+  "updated_at_utc": "2026-11-26 08:45 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 222,
-  "forks": 3549,
-  "merged_prs_total": 9851,
-  "open_prs_queue": 427,
-  "outside_lean_modules": 9767,
+  "forks": 3555,
+  "merged_prs_total": 10019,
+  "open_prs_queue": 515,
+  "outside_lean_modules": 9935,
   "front_breakdown": {
-    "meta": 7076,
-    "other": 2583,
+    "meta": 7101,
+    "other": 2726,
     "gct": 61,
     "pcx": 39,
     "lib": 7,
@@ -17,27 +17,27 @@
   "leaderboard_top15": [
     {
       "rank": 1,
-      "login": "k-sandhu",
-      "url": "https://github.com/k-sandhu",
-      "contributions": 601
+      "login": "foudress",
+      "url": "https://github.com/foudress",
+      "contributions": 656
     },
     {
       "rank": 2,
+      "login": "k-sandhu",
+      "url": "https://github.com/k-sandhu",
+      "contributions": 604
+    },
+    {
+      "rank": 3,
       "login": "stasana666",
       "url": "https://github.com/stasana666",
       "contributions": 473
     },
     {
-      "rank": 3,
-      "login": "foudress",
-      "url": "https://github.com/foudress",
-      "contributions": 426
-    },
-    {
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 372
+      "contributions": 373
     },
     {
       "rank": 5,
@@ -55,7 +55,7 @@
       "rank": 7,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 298
+      "contributions": 299
     },
     {
       "rank": 8,
@@ -67,7 +67,7 @@
       "rank": 9,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 166
+      "contributions": 173
     },
     {
       "rank": 10,
@@ -77,27 +77,27 @@
     },
     {
       "rank": 11,
+      "login": "Julleht",
+      "url": "https://github.com/Julleht",
+      "contributions": 141
+    },
+    {
+      "rank": 12,
       "login": "MrMaleficus",
       "url": "https://github.com/MrMaleficus",
       "contributions": 131
     },
     {
-      "rank": 12,
+      "rank": 13,
       "login": "edisonhello",
       "url": "https://github.com/edisonhello",
       "contributions": 124
     },
     {
-      "rank": 13,
+      "rank": 14,
       "login": "tmuniz1901-code",
       "url": "https://github.com/tmuniz1901-code",
       "contributions": 121
-    },
-    {
-      "rank": 14,
-      "login": "Julleht",
-      "url": "https://github.com/Julleht",
-      "contributions": 106
     },
     {
       "rank": 15,
