@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-26 09:31 UTC",
+  "updated_at_utc": "2026-11-26 09:45 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 224,
-  "forks": 3582,
-  "merged_prs_total": 10294,
-  "open_prs_queue": 290,
-  "outside_lean_modules": 10210,
+  "forks": 3587,
+  "merged_prs_total": 10371,
+  "open_prs_queue": 228,
+  "outside_lean_modules": 10286,
   "front_breakdown": {
-    "meta": 7139,
-    "other": 2963,
+    "meta": 7142,
+    "other": 3036,
     "gct": 61,
     "pcx": 39,
     "lib": 7,
@@ -19,7 +19,7 @@
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 656
+      "contributions": 947
     },
     {
       "rank": 2,
@@ -37,7 +37,7 @@
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 373
+      "contributions": 384
     },
     {
       "rank": 5,
@@ -79,13 +79,13 @@
       "rank": 11,
       "login": "Julleht",
       "url": "https://github.com/Julleht",
-      "contributions": 141
+      "contributions": 142
     },
     {
       "rank": 12,
       "login": "MrMaleficus",
       "url": "https://github.com/MrMaleficus",
-      "contributions": 131
+      "contributions": 133
     },
     {
       "rank": 13,
@@ -103,7 +103,7 @@
       "rank": 15,
       "login": "LiorDagan",
       "url": "https://github.com/LiorDagan",
-      "contributions": 105
+      "contributions": 106
     }
   ],
   "author_rank_in_top100": null,
