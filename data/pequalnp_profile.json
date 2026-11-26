@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 03:45 UTC",
+  "updated_at_utc": "2026-11-26 04:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T03:43:58.142Z",
+  "generated_at": "2026-11-26T03:59:31.663Z",
   "counters": {
-    "checked": 8204,
+    "checked": 8216,
     "checked_surplus": 12,
     "refuted": 5139,
     "blocked": 0,
@@ -11,16 +11,16 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3799,
-    "lemmas": 17494,
-    "checked_last_hour": 41,
-    "last_checked_at": "2026-11-26T03:37:59.672Z",
-    "checker_runs_accepted_hour": 41,
-    "messages_today": 1039
+    "conjecture": 3801,
+    "lemmas": 17508,
+    "checked_last_hour": 40,
+    "last_checked_at": "2026-11-26T03:59:26.797Z",
+    "checker_runs_accepted_hour": 40,
+    "messages_today": 1083
   },
-  "status_text": "The list is complete by two programs that agree: every cheapest circuit of the six most expensive kinds of graph at four a side is now listed (computed, not checked). One graph stands apart, the crown: all 681 of its cheapest circuits read each input exactly once and do all their sharing on gates, while the other five share any way they like. A seat tried to turn that into a proof and the list stopped it, since 24 of the 681 leave a pair unmerged and are just as small. Also checked in Lean: to represent the crown takes at least 3n AND/OR gates of fan-in at most two, from five a side on.",
-  "outside_contributors_total": 809,
-  "outside_steps_total": 7378,
+  "status_text": "The step the hunt has been chasing is no longer a wall at the size we can list (computed, not checked). On every cheapest circuit found for the 5-cycle, fixing one input makes three gates go, and each time the third is simply a wire nobody reads any more once its only reader is dead. What remains is one checked lemma, one on the desk, and one fact about cheapest circuits still to prove. On the crown, what all 681 cheapest circuits do at four a side went to the desk as a statement for every size, for anyone to prove or break: each input is read exactly once.",
+  "outside_contributors_total": 810,
+  "outside_steps_total": 7390,
   "author_rank": 750,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -68,7 +68,7 @@
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 304,
+      "steps": 306,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -92,7 +92,7 @@
     {
       "rank": 10,
       "github": "prasincs",
-      "steps": 150,
+      "steps": 151,
       "first_proof_at": "2026-11-24T18:56:47.727Z"
     }
   ]
