@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-26 12:45 UTC",
+  "updated_at_utc": "2026-11-26 13:01 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 232,
-  "forks": 3663,
-  "merged_prs_total": 10634,
-  "open_prs_queue": 237,
-  "outside_lean_modules": 10542,
+  "forks": 3667,
+  "merged_prs_total": 10669,
+  "open_prs_queue": 271,
+  "outside_lean_modules": 10576,
   "front_breakdown": {
-    "meta": 7332,
-    "other": 3102,
+    "meta": 7364,
+    "other": 3104,
     "gct": 61,
     "pcx": 39,
     "lib": 7,
@@ -19,7 +19,7 @@
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 969
+      "contributions": 977
     },
     {
       "rank": 2,
@@ -37,19 +37,19 @@
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 389
+      "contributions": 398
     },
     {
       "rank": 5,
-      "login": "Leg0shii",
-      "url": "https://github.com/Leg0shii",
-      "contributions": 328
+      "login": "nicohabets",
+      "url": "https://github.com/nicohabets",
+      "contributions": 332
     },
     {
       "rank": 6,
-      "login": "nicohabets",
-      "url": "https://github.com/nicohabets",
-      "contributions": 319
+      "login": "Leg0shii",
+      "url": "https://github.com/Leg0shii",
+      "contributions": 329
     },
     {
       "rank": 7,
@@ -73,19 +73,19 @@
       "rank": 10,
       "login": "prasincs",
       "url": "https://github.com/prasincs",
-      "contributions": 152
+      "contributions": 153
     },
     {
       "rank": 11,
       "login": "Julleht",
       "url": "https://github.com/Julleht",
-      "contributions": 142
+      "contributions": 145
     },
     {
       "rank": 12,
       "login": "MrMaleficus",
       "url": "https://github.com/MrMaleficus",
-      "contributions": 137
+      "contributions": 143
     },
     {
       "rank": 13,
@@ -103,7 +103,7 @@
       "rank": 15,
       "login": "LiorDagan",
       "url": "https://github.com/LiorDagan",
-      "contributions": 111
+      "contributions": 115
     }
   ],
   "author_rank_in_top100": null,
