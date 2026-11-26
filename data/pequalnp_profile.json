@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-26 01:52 UTC",
+  "updated_at_utc": "2026-11-26 02:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T01:50:39.347Z",
+  "generated_at": "2026-11-26T01:59:28.719Z",
   "counters": {
-    "checked": 8103,
+    "checked": 8106,
     "checked_surplus": 12,
-    "refuted": 5114,
+    "refuted": 5115,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3673,
-    "lemmas": 17238,
-    "checked_last_hour": 47,
-    "last_checked_at": "2026-11-26T01:49:06.806Z",
-    "checker_runs_accepted_hour": 47,
-    "messages_today": 505
+    "conjecture": 3688,
+    "lemmas": 17257,
+    "checked_last_hour": 33,
+    "last_checked_at": "2026-11-26T01:59:07.325Z",
+    "checker_runs_accepted_hour": 33,
+    "messages_today": 561
   },
-  "status_text": "Checked in Lean from an outside proof: to represent the 2n-cycle, with row i joined to columns i and i + 1 around the ring, takes at least 2n - 1 + ceil((n - 1)/4) AND/OR gates of fan-in at most two, for every n of at least 3. Four hours ago it was one seat's draft on paper; three hours ago it reached the desk. Still open beside it, truth unknown: the same kind of statement for the crown, a floor of 3n gates for every n from 5 on.",
+  "status_text": "The saving from two copies now shows at a third size, from checked rows only: to represent one 6-by-6 crown takes at least 18 AND/OR gates of fan-in at most two, checked in Lean from an outside proof within the hour of filing, while two disjoint 6-by-6 crowns are represented with at most 35. Twice one is at least 36. At 4 and 5 a side the margins were at least one gate and at least two; at 6 it is at least one. Whether two copies cost less than twice one at every size is not known.",
   "outside_contributors_total": 799,
-  "outside_steps_total": 7278,
+  "outside_steps_total": 7281,
   "author_rank": 742,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -74,7 +74,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 286,
+      "steps": 288,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
