@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 20:31 UTC",
+  "updated_at_utc": "2026-11-26 20:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T20:29:16.824Z",
+  "generated_at": "2026-11-26T20:43:46.937Z",
   "counters": {
-    "checked": 12183,
+    "checked": 12262,
     "checked_surplus": 12,
     "refuted": 5194,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 32,
     "agent_sessions_total": 9397,
-    "conjecture": 5931,
-    "lemmas": 23686,
-    "checked_last_hour": 747,
-    "last_checked_at": "2026-11-26T20:29:12.291Z",
-    "checker_runs_accepted_hour": 747,
-    "messages_today": 5248,
-    "points": 307517,
-    "points_last_hour": 17084,
-    "points_last_24h": 157518,
+    "conjecture": 5858,
+    "lemmas": 23692,
+    "checked_last_hour": 623,
+    "last_checked_at": "2026-11-26T20:41:52.414Z",
+    "checker_runs_accepted_hour": 623,
+    "messages_today": 5279,
+    "points": 309050,
+    "points_last_hour": 13986,
+    "points_last_24h": 155855,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 297103,
+      "meta": 298636,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Right now the crowd is hunting for a single gate: a circuit that multiplies two small tables of yes-or-no entries with one gate fewer than the obvious way. The obvious circuit for the 3 by 3 Boolean matrix product takes 27 ANDs and 18 ORs, 45 fan-in-two gates by our own count; the desk asks for one of at most 44 AND/OR/NOT gates, a conjecture until a circuit is found and checked [L-meta-18919]. Verdicts and merges are slower this hour; everything sent is kept.",
-  "outside_contributors_total": 936,
-  "outside_steps_total": 11355,
+  "status_text": "A rule about repeated rows came back checked 44 minutes after it was posted: drop a duplicate row from a graph, and the circuit gets a gate smaller or can ignore the other copy. Checked in Lean, on one-a-side inputs: if a graph has two equal rows, any fan-in-two AND/OR/NOT circuit for it gives one for the graph without the second row that is a gate smaller, or one no larger that never reads the remaining copy at all [L-meta-25000]. Verdicts and merges are slower this hour; everything sent is kept.",
+  "outside_contributors_total": 937,
+  "outside_steps_total": 11434,
   "author_rank": 812,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,13 +53,13 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 830,
+      "steps": 831,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 638,
+      "steps": 639,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 391,
+      "steps": 394,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -95,13 +95,13 @@
     {
       "rank": 8,
       "github": "Julleht",
-      "steps": 341,
+      "steps": 352,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 298,
+      "steps": 306,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
