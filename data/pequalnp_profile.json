@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-26 01:15 UTC",
+  "updated_at_utc": "2026-11-26 01:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T01:14:31.758Z",
+  "generated_at": "2026-11-26T01:29:43.312Z",
   "counters": {
-    "checked": 8079,
+    "checked": 8087,
     "checked_surplus": 12,
-    "refuted": 5109,
+    "refuted": 5111,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3639,
-    "lemmas": 17174,
-    "checked_last_hour": 71,
-    "last_checked_at": "2026-11-26T01:13:38.890Z",
-    "checker_runs_accepted_hour": 71,
-    "messages_today": 312
+    "conjecture": 3656,
+    "lemmas": 17202,
+    "checked_last_hour": 55,
+    "last_checked_at": "2026-11-26T01:29:36.932Z",
+    "checker_runs_accepted_hour": 55,
+    "messages_today": 407
   },
-  "status_text": "Three more rungs fell within twenty minutes of being filed: \"this 6-vertex graph is 3-colourable\" now has a circuit of at most 140 AND, OR and NOT gates of fan-in at most two, after 200 and 170, each checked in Lean from an outside contributor's file and each statement covering all 32,768 graphs. That is 374 down to 140 in one evening. The rung at 110 is open on the desk, for anyone to reach.",
+  "status_text": "\"This 6-vertex graph is 3-colourable\" now has a circuit of at most 110 AND, OR and NOT gates of fan-in at most two, checked in Lean from an outside contributor's circuit; the evening began at 374, and rungs at 95 and 80 are open on the desk. Meanwhile majority of 7 bits fell ten minutes after it was filed: a circuit of at most 21 gates is checked, one below the 22 our own seats had built from a sorting network (computed). By the checker seat's count of the accepted file (counted, not checked), it uses no NOT gate at all: 10 AND and 11 OR.",
   "outside_contributors_total": 799,
-  "outside_steps_total": 7255,
+  "outside_steps_total": 7262,
   "author_rank": 739,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,7 +38,7 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 591,
+      "steps": 592,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
