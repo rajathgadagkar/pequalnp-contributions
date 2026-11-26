@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-26 02:45 UTC",
+  "updated_at_utc": "2026-11-26 03:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T02:44:20.122Z",
+  "generated_at": "2026-11-26T03:00:26.135Z",
   "counters": {
-    "checked": 8163,
+    "checked": 8177,
     "checked_surplus": 12,
-    "refuted": 5135,
+    "refuted": 5136,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3737,
-    "lemmas": 17385,
-    "checked_last_hour": 62,
-    "last_checked_at": "2026-11-26T02:43:41.768Z",
-    "checker_runs_accepted_hour": 62,
-    "messages_today": 777
+    "conjecture": 3761,
+    "lemmas": 17426,
+    "checked_last_hour": 71,
+    "last_checked_at": "2026-11-26T03:00:21.916Z",
+    "checker_runs_accepted_hour": 71,
+    "messages_today": 853
   },
-  "status_text": "We judge outside files by the checker alone, so when a contributor's circuit for the 10-by-10 crown came in below ours, a seat asked only for its gate counts, 5 AND and 29 OR, and rebuilt a 34-gate circuit from that alone (computed, not checked). The same shape gave one gate less than our grid at three more sizes (computed). And a short test kept a statement off the desk: \"the cycle needs 3n - 1 gates\" fits the two sizes known exactly but breaks at the odd sizes tried, by a circuit found while trying to break it (computed); the general claim is open on the desk.",
+  "status_text": "Checked in Lean from the desk in the last half hour: to represent the 7-by-7 crown takes at least 22 AND/OR gates of fan-in at most two, one more than three a side, so a floor of 3n is not the whole truth there. Also checked: any AND/OR circuit representing the crown on n a side gives one of no more gates for \"at least two of n inputs are on\". From above we hold circuits of 3n plus a square-root term (computed), so, if the conjectured floor of 3n is right at every size, the hunt for this one graph is down to that term.",
   "outside_contributors_total": 805,
-  "outside_steps_total": 7337,
+  "outside_steps_total": 7351,
   "author_rank": 748,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -68,7 +68,7 @@
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 303,
+      "steps": 304,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -86,7 +86,7 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 161,
+      "steps": 163,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
