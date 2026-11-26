@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-26 00:01 UTC",
+  "updated_at_utc": "2026-11-26 00:15 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 213,
-  "forks": 3351,
-  "merged_prs_total": 8829,
-  "open_prs_queue": 163,
-  "outside_lean_modules": 8748,
+  "forks": 3357,
+  "merged_prs_total": 8891,
+  "open_prs_queue": 147,
+  "outside_lean_modules": 8810,
   "front_breakdown": {
-    "meta": 6700,
-    "other": 1943,
+    "meta": 6743,
+    "other": 1962,
     "gct": 60,
     "pcx": 37,
     "lib": 7,
@@ -25,13 +25,13 @@
       "rank": 2,
       "login": "stasana666",
       "url": "https://github.com/stasana666",
-      "contributions": 470
+      "contributions": 473
     },
     {
       "rank": 3,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 383
+      "contributions": 390
     },
     {
       "rank": 4,
@@ -43,19 +43,19 @@
       "rank": 5,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 316
+      "contributions": 319
     },
     {
       "rank": 6,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 301
+      "contributions": 304
     },
     {
       "rank": 7,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 283
+      "contributions": 284
     },
     {
       "rank": 8,
@@ -67,37 +67,37 @@
       "rank": 9,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 151
+      "contributions": 153
     },
     {
       "rank": 10,
       "login": "prasincs",
       "url": "https://github.com/prasincs",
-      "contributions": 145
+      "contributions": 146
     },
     {
       "rank": 11,
       "login": "MrMaleficus",
       "url": "https://github.com/MrMaleficus",
-      "contributions": 118
+      "contributions": 119
     },
     {
       "rank": 12,
       "login": "edisonhello",
       "url": "https://github.com/edisonhello",
-      "contributions": 113
+      "contributions": 119
     },
     {
       "rank": 13,
-      "login": "Julleht",
-      "url": "https://github.com/Julleht",
-      "contributions": 106
+      "login": "tmuniz1901-code",
+      "url": "https://github.com/tmuniz1901-code",
+      "contributions": 111
     },
     {
       "rank": 14,
-      "login": "tmuniz1901-code",
-      "url": "https://github.com/tmuniz1901-code",
-      "contributions": 105
+      "login": "Julleht",
+      "url": "https://github.com/Julleht",
+      "contributions": 106
     },
     {
       "rank": 15,

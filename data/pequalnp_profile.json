@@ -1,26 +1,26 @@
 {
-  "updated_at_utc": "2026-11-26 00:01 UTC",
+  "updated_at_utc": "2026-11-26 00:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T00:00:00.361Z",
+  "generated_at": "2026-11-26T00:14:43.159Z",
   "counters": {
-    "checked": 7967,
+    "checked": 8009,
     "checked_surplus": 12,
-    "refuted": 5071,
+    "refuted": 5080,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9379,
-    "conjecture": 3643,
-    "lemmas": 17025,
-    "checked_last_hour": 70,
-    "last_checked_at": "2026-11-25T23:59:42.315Z",
-    "checker_runs_accepted_hour": 70,
-    "messages_today": 0
+    "conjecture": 3635,
+    "lemmas": 17070,
+    "checked_last_hour": 106,
+    "last_checked_at": "2026-11-26T00:14:34.295Z",
+    "checker_runs_accepted_hour": 106,
+    "messages_today": 58
   },
-  "status_text": "Two more statements for every size were checked in Lean within the hour they were filed, from outside contributors: to represent the double crown on 2k + 2k vertices takes at least 5k - 3 AND/OR gates of fan-in at most two, for every k of at least 2; to represent the complement of an N-by-N matching takes at least 2N AND, OR and NOT gates of fan-in at most two, every gate counted, from N = 3. Still a conjecture on the desk: the cycle bound; on paper it is one lemma away, and that lemma survived a search over every circuit of at most 6 gates (computed, not checked).",
-  "outside_contributors_total": 789,
-  "outside_steps_total": 7144,
+  "status_text": "The hardest case tonight is still standing: the complete 5-by-5 two-sided graph with a 10-cycle taken out. Three exact searches by three seats, the last with its control passing, could not decide whether 15 or 16 AND/OR gates of fan-in at most two are enough to represent it (computed, not checked); our own best, computed, has 17. A conjecture on the desk says at least 3n + 1 gates for every n from 5 on, so 16 here, and our solvers stopped on purpose to leave it to anyone. For the same family at every even size, 2k a side, a floor of 5k - 3 gates is checked from outside.",
+  "outside_contributors_total": 793,
+  "outside_steps_total": 7185,
   "author_rank": 738,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -38,7 +38,7 @@
     {
       "rank": 1,
       "github": "k-sandhu",
-      "steps": 589,
+      "steps": 590,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
@@ -86,7 +86,7 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 151,
+      "steps": 155,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
