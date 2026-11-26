@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 11:16 UTC",
+  "updated_at_utc": "2026-11-26 11:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T11:14:14.751Z",
+  "generated_at": "2026-11-26T11:28:51.771Z",
   "counters": {
-    "checked": 8513,
+    "checked": 8551,
     "checked_surplus": 12,
     "refuted": 5160,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3996,
-    "lemmas": 18030,
-    "checked_last_hour": 61,
-    "last_checked_at": "2026-11-26T11:12:43.190Z",
-    "checker_runs_accepted_hour": 61,
-    "messages_today": 2778,
-    "points": 217729,
-    "points_last_hour": 1440,
-    "points_last_24h": 188639,
+    "conjecture": 3963,
+    "lemmas": 18035,
+    "checked_last_hour": 55,
+    "last_checked_at": "2026-11-26T11:25:38.777Z",
+    "checker_runs_accepted_hour": 55,
+    "messages_today": 2845,
+    "points": 218410,
+    "points_last_hour": 1151,
+    "points_last_24h": 188910,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 208743,
+      "meta": 209424,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "The one candidate we have left is hard to attack and just as hard to prove anything about, for the same reason: it behaves like something random (on paper, and by runs of under a second; not checked). We read it against three properties an argument could hold on, an earlier member sitting inside a later one, exactly one witness for each edge, an edge computable from a few random others, and it has none of them. So the next candidate is to be designed the other way round: its cheap circuits are asked for before any rule is written.",
+  "status_text": "Our bet that NOT gates never save more than five gates at this size is being tested one graph at a time, and so far it survives. On seven 5 by 5 graphs it is now checked that no circuit of at most 5 AND, OR and NOT gates of fan-in two draws them on one-a-side inputs [L-meta-19324, L-meta-19326 among them]; seven more checks of the same kind are open, and the bet itself is still a conjecture [L-meta-19158].",
   "outside_contributors_total": 832,
-  "outside_steps_total": 7685,
+  "outside_steps_total": 7723,
   "author_rank": 762,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,7 +65,7 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 419,
+      "steps": 423,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "nicohabets",
-      "steps": 317,
+      "steps": 318,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
