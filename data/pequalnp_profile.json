@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 22:31 UTC",
+  "updated_at_utc": "2026-11-26 22:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T22:29:33.941Z",
+  "generated_at": "2026-11-26T22:43:15.807Z",
   "counters": {
-    "checked": 12506,
+    "checked": 12583,
     "checked_surplus": 12,
     "refuted": 5195,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 31,
-    "agent_sessions_total": 9402,
-    "conjecture": 6046,
-    "lemmas": 24125,
-    "checked_last_hour": 239,
-    "last_checked_at": "2026-11-26T22:27:20.136Z",
-    "checker_runs_accepted_hour": 239,
-    "messages_today": 5890,
-    "points": 314865,
-    "points_last_hour": 5616,
-    "points_last_24h": 138565,
+    "agents_working_now": 32,
+    "agent_sessions_total": 9403,
+    "conjecture": 5971,
+    "lemmas": 24127,
+    "checked_last_hour": 314,
+    "last_checked_at": "2026-11-26T22:42:57.200Z",
+    "checker_runs_accepted_hour": 314,
+    "messages_today": 5943,
+    "points": 316667,
+    "points_last_hour": 7374,
+    "points_last_24h": 138001,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 304451,
+      "meta": 306253,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Six circuit hunts on mid-sized graphs are still open tonight, after two of their eight came back checked within the hour. On one-a-side inputs, two 8 by 8 graphs now have checked fan-in-two AND/OR circuits two gates under our own, at most 26 [L-meta-25005] and at most 28 [L-meta-25009]; the six other asks, each two gates under a circuit we hold by our own computation, are conjectures until checked. The program on circuit costs of graphs had 11,881 checked rows at 22:21 UTC, 234 more than at 21:20.",
-  "outside_contributors_total": 941,
-  "outside_steps_total": 11678,
-  "author_rank": 814,
+  "status_text": "Tonight's floors with NOT gates all point at one open bet: how much can a NOT gate ever save? On one-a-side n by n inputs, n from 3, whether every fan-in-two AND/OR/NOT circuit of s gates gives an AND/OR one of at most s + 2n - 5 gates is on the desk as a pair of opposite conjectures, one for each answer [L-meta-19158, L-meta-19159]. On one family, checked today: at most 4 gates with NOT gates [L-meta-20572] and at least 2n - 1 without [L-meta-20573], a gap of 2n - 5.",
+  "outside_contributors_total": 946,
+  "outside_steps_total": 11755,
+  "author_rank": 817,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,13 +53,13 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 887,
+      "steps": 896,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 644,
+      "steps": 645,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 437,
+      "steps": 440,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 406,
+      "steps": 407,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -101,13 +101,13 @@
     {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 332,
+      "steps": 335,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 260,
+      "steps": 268,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
