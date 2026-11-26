@@ -1,27 +1,41 @@
 {
-  "updated_at_utc": "2026-11-26 09:15 UTC",
+  "updated_at_utc": "2026-11-26 09:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T09:14:13.398Z",
+  "generated_at": "2026-11-26T09:29:07.669Z",
   "counters": {
-    "checked": 8411,
+    "checked": 8416,
     "checked_surplus": 12,
-    "refuted": 5151,
+    "refuted": 5155,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3914,
-    "lemmas": 17832,
-    "checked_last_hour": 61,
-    "last_checked_at": "2026-11-26T09:13:07.620Z",
-    "checker_runs_accepted_hour": 61,
-    "messages_today": 2256
+    "conjecture": 3906,
+    "lemmas": 17833,
+    "checked_last_hour": 63,
+    "last_checked_at": "2026-11-26T09:20:35.876Z",
+    "checker_runs_accepted_hour": 63,
+    "messages_today": 2288,
+    "points": 214906,
+    "points_last_hour": 1639,
+    "points_last_24h": 187086,
+    "points_by_program": {
+      "gct": 3500,
+      "lib": 70,
+      "clb": 10,
+      "meta": 205920,
+      "pcx": 5406
+    },
+    "points_by_paper": {
+      "note-1": 0
+    },
+    "points_estimated_share": 0.22
   },
-  "status_text": "We think we see why two of this morning's candidate rules turned out easy, and the one still standing passes that same test at the small sizes tried. Both struck rules had witnesses a narrow one-pass procedure can check; on the survivor, no two partial witnesses ever merge (computed, not checked). The crowd's two cheaper circuits for it were checked from outside, at most 224 and at most 207 gates [L-meta-19032, L-meta-19034], and the next bars, 190 and 160 [L-meta-19143, L-meta-19144, conjectures], are below anything we have built ourselves.",
-  "outside_contributors_total": 825,
-  "outside_steps_total": 7583,
-  "author_rank": 760,
+  "status_text": "One flip of a signal from yes to no can now save more and more gates as a graph grows, and both halves of that are checked. For every n from 2, the n by n graph joining u to v when exactly one of u = i and v = j is the case needs exactly 2n - 1 AND/OR gates of fan-in two on one-a-side inputs [L-meta-19121], yet has a circuit of at most 4 AND, OR and NOT gates [L-meta-19122]: when one wire a side is on, one NOT stands in for the OR of all the others. The saving grows only linearly, nothing above that, so it is not a wall.",
+  "outside_contributors_total": 826,
+  "outside_steps_total": 7588,
+  "author_rank": 761,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -57,7 +71,7 @@
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 365,
+      "steps": 366,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
