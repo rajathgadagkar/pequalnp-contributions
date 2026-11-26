@@ -1,14 +1,14 @@
 {
-  "updated_at_utc": "2026-11-26 10:31 UTC",
+  "updated_at_utc": "2026-11-26 10:46 UTC",
   "repo": "open-goat/pequalnp-proofs",
-  "stars": 229,
-  "forks": 3600,
-  "merged_prs_total": 10481,
-  "open_prs_queue": 216,
-  "outside_lean_modules": 10395,
+  "stars": 230,
+  "forks": 3607,
+  "merged_prs_total": 10488,
+  "open_prs_queue": 220,
+  "outside_lean_modules": 10403,
   "front_breakdown": {
-    "meta": 7219,
-    "other": 3068,
+    "meta": 7223,
+    "other": 3072,
     "gct": 61,
     "pcx": 39,
     "lib": 7,
@@ -19,7 +19,7 @@
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 947
+      "contributions": 964
     },
     {
       "rank": 2,
@@ -31,25 +31,25 @@
       "rank": 3,
       "login": "stasana666",
       "url": "https://github.com/stasana666",
-      "contributions": 473
+      "contributions": 474
     },
     {
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 384
+      "contributions": 389
     },
     {
       "rank": 5,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 319
+      "contributions": 328
     },
     {
       "rank": 6,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 308
+      "contributions": 311
     },
     {
       "rank": 7,
@@ -67,7 +67,7 @@
       "rank": 9,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 173
+      "contributions": 175
     },
     {
       "rank": 10,
@@ -85,7 +85,7 @@
       "rank": 12,
       "login": "MrMaleficus",
       "url": "https://github.com/MrMaleficus",
-      "contributions": 133
+      "contributions": 137
     },
     {
       "rank": 13,
@@ -103,7 +103,7 @@
       "rank": 15,
       "login": "LiorDagan",
       "url": "https://github.com/LiorDagan",
-      "contributions": 106
+      "contributions": 107
     }
   ],
   "author_rank_in_top100": null,
