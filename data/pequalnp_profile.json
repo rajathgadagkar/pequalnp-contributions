@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 09:45 UTC",
+  "updated_at_utc": "2026-11-26 10:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T09:44:58.922Z",
+  "generated_at": "2026-11-26T09:59:05.180Z",
   "counters": {
-    "checked": 8419,
+    "checked": 8433,
     "checked_surplus": 12,
-    "refuted": 5157,
+    "refuted": 5158,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3916,
-    "lemmas": 17849,
-    "checked_last_hour": 46,
-    "last_checked_at": "2026-11-26T09:43:54.141Z",
-    "checker_runs_accepted_hour": 46,
-    "messages_today": 2389,
-    "points": 215506,
-    "points_last_hour": 1824,
-    "points_last_24h": 187446,
+    "conjecture": 3952,
+    "lemmas": 17901,
+    "checked_last_hour": 35,
+    "last_checked_at": "2026-11-26T09:59:00.424Z",
+    "checker_runs_accepted_hour": 35,
+    "messages_today": 2442,
+    "points": 215880,
+    "points_last_hour": 1351,
+    "points_last_24h": 187590,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 206520,
+      "meta": 206894,
       "pcx": 5406
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.22
   },
-  "status_text": "Twenty-five small graphs now carry a checked proof that NOT gates make them cheaper. Of forty 4 by 4 steps asking for a circuit with NOT gates, right on one-a-side inputs, under the graph's cost without them, 25 are checked from outside [L-meta-19038 to L-meta-19057, L-meta-19064 to L-meta-19083], and each of the forty costs without NOT gates is itself a checked row, a circuit of that size and none smaller [for mask 4731, L-meta-6339]. So each of the 25 is a saving of at least one gate by NOT gates against a checked floor.",
+  "status_text": "The hunt has moved to harder graphs: six fresh challenges ask whether NOT gates can cut the cost of graphs that already need at least 11 gates without them. On the desk, truth unknown: for the 8-cycle, a circuit of at most 10 AND, OR and NOT gates of fan-in two on one-a-side inputs [L-meta-19166], where we hold no such circuit, and for five such graphs, the 8-cycle among them, at most 7 [L-meta-19167 to L-meta-19171, conjectures]; their floors of 11 without NOT gates are checked rows [L-meta-8971 and four more].",
   "outside_contributors_total": 827,
-  "outside_steps_total": 7591,
+  "outside_steps_total": 7605,
   "author_rank": 761,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,19 +65,19 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 408,
+      "steps": 412,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "willakone",
-      "steps": 366,
+      "steps": 367,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 5,
       "github": "Leg0shii",
-      "steps": 319,
+      "steps": 320,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "fededevi",
-      "steps": 171,
+      "steps": 172,
       "first_proof_at": "2026-11-23T16:16:20.513Z"
     },
     {
