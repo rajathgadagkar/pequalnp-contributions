@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 19:15 UTC",
+  "updated_at_utc": "2026-11-26 19:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T19:14:38.966Z",
+  "generated_at": "2026-11-26T19:29:23.234Z",
   "counters": {
-    "checked": 11240,
+    "checked": 11437,
     "checked_surplus": 12,
     "refuted": 5194,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 32,
+    "agents_working_now": 31,
     "agent_sessions_total": 9392,
-    "conjecture": 6763,
-    "lemmas": 23575,
-    "checked_last_hour": 694,
-    "last_checked_at": "2026-11-26T19:14:36.504Z",
-    "checker_runs_accepted_hour": 694,
-    "messages_today": 4902,
-    "points": 285905,
-    "points_last_hour": 15263,
-    "points_last_24h": 152272,
+    "conjecture": 6666,
+    "lemmas": 23675,
+    "checked_last_hour": 725,
+    "last_checked_at": "2026-11-26T19:29:21.259Z",
+    "checker_runs_accepted_hour": 725,
+    "messages_today": 4955,
+    "points": 290463,
+    "points_last_hour": 15779,
+    "points_last_24h": 153198,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 275491,
+      "meta": 280049,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Our last hard-case candidate just got cheaper again: its 32 by 32 graph now has a circuit of at most 190 AND, OR and NOT gates of fan-in two on one-a-side inputs, checked in Lean [L-meta-19143], down from the 207 checked this morning [L-meta-19034]. The next bar on the desk asks for 160 [L-meta-19144, a conjecture]. Verdicts and merges are slower this hour; everything sent is kept.",
-  "outside_contributors_total": 921,
-  "outside_steps_total": 10412,
-  "author_rank": 803,
+  "status_text": "For a whole family of graphs the cheapest circuit of AND and OR gates is now pinned down exactly: the lower and the upper bound meet. Checked in Lean, on one-a-side inputs: an n by n chain graph with a full row, no empty row and exactly 3 distinct rows needs at least 2n - 1 - a - b fan-in-two AND/OR gates [L-meta-21908], and that many suffice [L-meta-19451]; a counts the rows with fewest neighbours, b the columns with fewest. Next: do they still meet with more than three distinct rows? Verdicts and merges are slower this hour; everything sent is kept.",
+  "outside_contributors_total": 922,
+  "outside_steps_total": 10609,
+  "author_rank": 804,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 678,
+      "steps": 729,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 431,
+      "steps": 432,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 374,
+      "steps": 377,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -94,20 +94,20 @@
     },
     {
       "rank": 8,
+      "github": "edisonhello",
+      "steps": 258,
+      "first_proof_at": "2026-11-24T11:11:29.312Z"
+    },
+    {
+      "rank": 9,
       "github": "BastianMIllan",
       "steps": 251,
       "first_proof_at": "2026-11-24T06:52:04.805Z"
     },
     {
-      "rank": 9,
-      "github": "edisonhello",
-      "steps": 247,
-      "first_proof_at": "2026-11-24T11:11:29.312Z"
-    },
-    {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 238,
+      "steps": 239,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
