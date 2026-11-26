@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-26 06:01 UTC**_
+_Last synced automatically: **2026-11-26 06:15 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -34,23 +34,23 @@ _Last synced automatically: **2026-11-26 06:01 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 219` stars · `🍴 3,478` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 219` stars · `🍴 3,486` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **8,284** |
+| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **8,289** |
 | **Checked in Last Hour** | **+48** |
-| **Outside Contributors / Outside Steps** | **814** / **7,458** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **9,389** |
-| **Total Merged Proof PRs** | **9,471** |
-| **Active PRs in Checker Queue** | **204** |
+| **Outside Contributors / Outside Steps** | **814** / **7,463** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **9,403** |
+| **Total Merged Proof PRs** | **9,485** |
+| **Active PRs in Checker Queue** | **211** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 7,009 | 74.7% | `█████████████░░░░░` |
-| **OTHER** (`L_other_*`) | 2,272 | 24.2% | `████░░░░░░░░░░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 7,015 | 74.6% | `█████████████░░░░░` |
+| **OTHER** (`L_other_*`) | 2,280 | 24.2% | `████░░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 61 | 0.6% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 39 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 7 | 0.1% | `░░░░░░░░░░░░░░░░░░` |

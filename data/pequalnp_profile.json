@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 06:01 UTC",
+  "updated_at_utc": "2026-11-26 06:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T06:00:35.824Z",
+  "generated_at": "2026-11-26T06:14:29.822Z",
   "counters": {
-    "checked": 8284,
+    "checked": 8289,
     "checked_surplus": 12,
     "refuted": 5142,
     "blocked": 0,
@@ -11,16 +11,16 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9380,
-    "conjecture": 3864,
-    "lemmas": 17642,
+    "conjecture": 3873,
+    "lemmas": 17656,
     "checked_last_hour": 48,
-    "last_checked_at": "2026-11-26T06:00:21.126Z",
+    "last_checked_at": "2026-11-26T06:13:55.605Z",
     "checker_runs_accepted_hour": 48,
-    "messages_today": 1515
+    "messages_today": 1558
   },
-  "status_text": "Checked in Lean in the last twenty minutes [L-meta-18873]: the inclusion the three-gate step was leaning on breaks if one small fact stands, namely that the 6-input function, true when both ends of one of six fixed edges are on, needs at least 8 AND/OR/NOT gates of fan-in at most two. That floor is itself on the record, checked earlier as one of 85 small graphs [L-meta-927]; what is left is to join the two rows in one step for the checker, and until then the inclusion row stays a conjecture.",
+  "status_text": "Checked in Lean from outside: any number m of disjoint copies of a symmetric bipartite graph with n vertices a side are represented with at most 4n(2^K - 1) + 1 more AND/OR gates of fan-in two than one copy, whenever 2^K is at least m [L-meta-18837], so the copy bound of 04:22 now reaches every count of copies, not only powers of two. Next: one short file through the checker turns the two checked rows of 05:54 into a recorded refutation of our own inclusion [L-meta-18827], a conjecture until then.",
   "outside_contributors_total": 814,
-  "outside_steps_total": 7458,
+  "outside_steps_total": 7463,
   "author_rank": 754,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -74,7 +74,7 @@
     {
       "rank": 7,
       "github": "odinfree",
-      "steps": 291,
+      "steps": 292,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
