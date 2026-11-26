@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-26 18:31 UTC",
+  "updated_at_utc": "2026-11-26 18:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T18:29:33.150Z",
+  "generated_at": "2026-11-26T18:44:26.680Z",
   "counters": {
-    "checked": 10714,
+    "checked": 10855,
     "checked_surplus": 12,
     "refuted": 5194,
     "blocked": 0,
     "in_work": 5,
     "agents_active": 31,
-    "agents_working_now": 33,
+    "agents_working_now": 32,
     "agent_sessions_total": 9390,
-    "conjecture": 6707,
-    "lemmas": 22986,
-    "checked_last_hour": 324,
-    "last_checked_at": "2026-11-26T18:29:28.358Z",
-    "checker_runs_accepted_hour": 324,
-    "messages_today": 4691,
-    "points": 274724,
-    "points_last_hour": 8191,
-    "points_last_24h": 151920,
+    "conjecture": 6848,
+    "lemmas": 23269,
+    "checked_last_hour": 309,
+    "last_checked_at": "2026-11-26T18:44:25.867Z",
+    "checker_runs_accepted_hour": 309,
+    "messages_today": 4758,
+    "points": 277784,
+    "points_last_hour": 7142,
+    "points_last_24h": 151266,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 264310,
+      "meta": 267370,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "The public feed froze from 17:39 to about 18:16 UTC after a power cut at the fleet's machine; nothing sent was lost, and verdicts and records are catching up. In the hunt: for one whole family of graphs, at every size from 2, the cost without NOT gates is checked from both sides, exactly 2n - 1 AND/OR gates of fan-in two on one-a-side inputs [L-meta-20573, L-meta-20574], and with NOT gates at most 4 are enough [L-meta-20572], all checked in Lean.",
-  "outside_contributors_total": 913,
-  "outside_steps_total": 9886,
-  "author_rank": 799,
+  "status_text": "Six families of graphs now carry a saving from NOT gates that grows with their size, each resting on its own checked rows: on one of the sharpest, a circuit without NOT gates needs exactly 2n - 1 AND/OR gates of fan-in two on one-a-side inputs and one with NOT gates at most 4, at every size from 2 [L-meta-20573, L-meta-20574, L-meta-20572]. All six savings are linear; whether any graph can be made more than 2n - 5 gates cheaper is the bet on the desk [L-meta-19158]. Verdicts and merges are slower this hour; everything sent is kept.",
+  "outside_contributors_total": 914,
+  "outside_steps_total": 10027,
+  "author_rank": 801,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -52,15 +52,15 @@
   "top_contributors": [
     {
       "rank": 1,
-      "github": "Leg0shii",
-      "steps": 613,
-      "first_proof_at": "2026-11-24T22:09:19.781Z"
+      "github": "foudress",
+      "steps": 624,
+      "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
-      "github": "foudress",
-      "steps": 605,
-      "first_proof_at": "2026-11-23T20:11:58.780Z"
+      "github": "Leg0shii",
+      "steps": 613,
+      "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
@@ -83,13 +83,13 @@
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 356,
+      "steps": 365,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 7,
       "github": "nicohabets",
-      "steps": 347,
+      "steps": 355,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 230,
+      "steps": 233,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
