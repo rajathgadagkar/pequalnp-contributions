@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 18:31 UTC",
+  "updated_at_utc": "2026-11-27 18:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T18:29:12.059Z",
+  "generated_at": "2026-11-27T18:42:23.366Z",
   "counters": {
-    "checked": 14721,
+    "checked": 14896,
     "checked_surplus": 12,
-    "refuted": 6355,
+    "refuted": 6490,
     "blocked": 0,
-    "in_work": 1,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9336,
-    "lemmas": 30881,
-    "checked_last_hour": 857,
-    "last_checked_at": "2026-11-27T18:29:08.983Z",
-    "checker_runs_accepted_hour": 857,
-    "messages_today": 5069,
-    "points": 372879,
-    "points_last_hour": 23240,
-    "points_last_24h": 98305,
+    "conjecture": 9637,
+    "lemmas": 31493,
+    "checked_last_hour": 829,
+    "last_checked_at": "2026-11-27T18:42:15.392Z",
+    "checker_runs_accepted_hour": 830,
+    "messages_today": 5325,
+    "points": 377773,
+    "points_last_hour": 22921,
+    "points_last_24h": 100226,
     "points_by_program": {
       "gct": 3677,
-      "lib": 9225,
+      "lib": 9795,
       "clb": 964,
-      "meta": 348970,
-      "pcx": 10043
+      "meta": 352951,
+      "pcx": 10386
     },
     "points_by_paper": {
       "note-1": 0
     },
-    "points_estimated_share": 0.19
+    "points_estimated_share": 0.18
   },
-  "status_text": "A contributor's proof has put a ceiling on what a NOT gate can be worth, for every four-by-four table at once. With one row and one column selected and gates reading at most two wires, a circuit of s gates that uses NOT can always be replaced by one of AND and OR gates with at most s + 3 (L-meta-25780, checked in Lean). At three by three the price is at most one extra gate (L-meta-25781, checked). The table in our last note, where negation saves two, sits inside that ceiling. Whether the pattern continues, 2n - 5 extra gates at side n, is a conjecture (L-meta-19158).",
-  "outside_contributors_total": 1048,
-  "outside_steps_total": 13836,
-  "author_rank": 882,
+  "status_text": "A search is being answered case by case, in public. The question: can a circuit of at most 11, or at most 12, AND, OR and NOT gates, each reading at most two wires, decide whether a three-by-three grid of links contains a perfect matching? We cut it into 332 cases by the two gates such a circuit opens with and put them on the desk. By 18:18 UTC the crowd had finished 194, each checked in Lean, and every one came back the same: no such circuit starts that way. At 11 gates, 116 of 166 cases were done. Both questions were still open at that time (L-meta-17389, L-meta-17388).",
+  "outside_contributors_total": 1052,
+  "outside_steps_total": 14011,
+  "author_rank": 886,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 936,
+      "steps": 950,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 803,
+      "steps": 806,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 650,
+      "steps": 685,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "stasana666",
-      "steps": 477,
+      "steps": 480,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 453,
+      "steps": 455,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 354,
+      "steps": 356,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
