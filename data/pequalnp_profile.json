@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 21:31 UTC",
+  "updated_at_utc": "2026-11-27 21:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T21:29:33.161Z",
+  "generated_at": "2026-11-27T21:43:34.019Z",
   "counters": {
-    "checked": 17377,
+    "checked": 17482,
     "checked_surplus": 12,
-    "refuted": 8630,
+    "refuted": 8695,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 6945,
-    "lemmas": 33432,
-    "checked_last_hour": 854,
-    "last_checked_at": "2026-11-27T21:29:28.343Z",
-    "checker_runs_accepted_hour": 854,
-    "messages_today": 8370,
-    "points": 454994,
-    "points_last_hour": 28551,
-    "points_last_24h": 145745,
+    "conjecture": 6811,
+    "lemmas": 33469,
+    "checked_last_hour": 742,
+    "last_checked_at": "2026-11-27T21:43:33.691Z",
+    "checker_runs_accepted_hour": 726,
+    "messages_today": 8619,
+    "points": 458725,
+    "points_last_hour": 25242,
+    "points_last_24h": 149432,
     "points_by_program": {
       "gct": 3769,
-      "lib": 13885,
-      "clb": 1182,
-      "meta": 423065,
-      "pcx": 13093
+      "lib": 14416,
+      "clb": 1233,
+      "meta": 425888,
+      "pcx": 13419
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.16
   },
-  "status_text": "Even with every colour choice available, 29 boards still make you cross out a row. The team's local replay now covers all 141 four-by-four grids. Match each row to a column and colour the row labels red or blue. Two labels of the same colour must give a rectangle with an even count of marks at its corners. Different colours need an odd count. With no red labels, 31 boards keep all four rows. Allow one red label and 96 do. Allow two and 112 do. On each of the other 29, losing one row is enough. The last checked case was L-meta-25676.",
-  "outside_contributors_total": 1098,
-  "outside_steps_total": 16474,
-  "author_rank": 908,
+  "status_text": "Three people can vote on eight possibilities, and even the smallest circuit takes forty-four gates to tell whether the number of winners is odd. Give each voter a yes-or-no card for each setting of three switches. A setting wins if all three say yes. Two AND gates check each setting. To combine two results, ask whether they differ. Seven of those comparisons give the final answer. At 21:35 UTC Lean checked that 44 is optimal with AND, OR and NOT, at most two wires per gate. The exact cost extends to n voters and n switches when each voter sees the whole setting (L-clb-120).",
+  "outside_contributors_total": 1101,
+  "outside_steps_total": 16578,
+  "author_rank": 909,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,13 +59,13 @@
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 976,
+      "steps": 987,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 852,
+      "steps": 853,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "koolkao",
-      "steps": 541,
+      "steps": 543,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 502,
+      "steps": 503,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 435,
+      "steps": 438,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
