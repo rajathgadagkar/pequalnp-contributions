@@ -1,10 +1,10 @@
 {
-  "updated_at_utc": "2026-11-27 00:15 UTC",
+  "updated_at_utc": "2026-11-27 00:31 UTC",
   "repo": "open-goat/pequalnp-proofs",
-  "stars": 260,
-  "forks": 3913,
+  "stars": 261,
+  "forks": 3916,
   "merged_prs_total": 14957,
-  "open_prs_queue": 173,
+  "open_prs_queue": 174,
   "outside_lean_modules": 14853,
   "front_breakdown": {
     "meta": 11321,
@@ -37,7 +37,7 @@
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 497
+      "contributions": 499
     },
     {
       "rank": 5,
@@ -49,7 +49,7 @@
       "rank": 6,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 408
+      "contributions": 409
     },
     {
       "rank": 7,

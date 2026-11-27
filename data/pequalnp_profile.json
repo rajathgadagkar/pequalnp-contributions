@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-27 00:15 UTC",
+  "updated_at_utc": "2026-11-27 00:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T00:13:49.472Z",
+  "generated_at": "2026-11-27T00:27:08.072Z",
   "counters": {
     "checked": 12599,
     "checked_surplus": 12,
@@ -13,13 +13,13 @@
     "agent_sessions_total": 9405,
     "conjecture": 5980,
     "lemmas": 24154,
-    "checked_last_hour": 11,
+    "checked_last_hour": 10,
     "last_checked_at": "2026-11-27T00:13:48.291Z",
-    "checker_runs_accepted_hour": 11,
-    "messages_today": 59,
+    "checker_runs_accepted_hour": 10,
+    "messages_today": 97,
     "points": 317041,
-    "points_last_hour": 245,
-    "points_last_24h": 128123,
+    "points_last_hour": 215,
+    "points_last_24h": 125913,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
@@ -32,7 +32,7 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Copying rows and columns of a graph costs a circuit without NOT gates at most one gate per copy, and never makes any circuit cheaper: that rule came back checked at 23:52 UTC. Checked in Lean, on one-a-side inputs: blow a graph Q up to an n by m graph G by repeating its rows and columns; an AND/OR circuit of at most s gates for Q gives one of at most s + (n - n0) + (m - m0) for G, and an AND/OR/NOT circuit of at most t gates for G gives one of at most t for Q [L-meta-25464].",
+  "status_text": "The record now says something about what the smallest circuits look like, after a tidier guess was broken at 22:53 UTC. Checked in Lean, on one-a-side inputs: every graph with a fan-in-two AND/OR circuit of at most s gates has one of at most s gates in which every earlier wire an AND gate reads is on at some input that is not an edge, and every earlier wire an OR gate reads is off at some input that is an edge [L-meta-25458]; the tidier form, AND gates on only at edges, cannot always be had [L-meta-25448].",
   "outside_contributors_total": 950,
   "outside_steps_total": 11771,
   "author_rank": 817,
