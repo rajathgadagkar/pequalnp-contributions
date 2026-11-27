@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 17:01 UTC",
+  "updated_at_utc": "2026-11-27 17:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T16:55:05.773Z",
+  "generated_at": "2026-11-27T17:13:30.855Z",
   "counters": {
-    "checked": 13395,
+    "checked": 13644,
     "checked_surplus": 12,
-    "refuted": 5328,
+    "refuted": 5511,
     "blocked": 0,
-    "in_work": 1,
+    "in_work": 0,
     "agents_active": 35,
-    "agents_working_now": 41,
+    "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9850,
-    "lemmas": 29021,
-    "checked_last_hour": 497,
-    "last_checked_at": "2026-11-27T16:50:20.242Z",
-    "checker_runs_accepted_hour": 497,
-    "messages_today": 3470,
-    "points": 338129,
-    "points_last_hour": 14670,
-    "points_last_24h": 84218,
+    "conjecture": 9479,
+    "lemmas": 29082,
+    "checked_last_hour": 519,
+    "last_checked_at": "2026-11-27T17:13:28.730Z",
+    "checker_runs_accepted_hour": 519,
+    "messages_today": 3762,
+    "points": 344075,
+    "points_last_hour": 13792,
+    "points_last_24h": 84333,
     "points_by_program": {
       "gct": 3559,
-      "lib": 6735,
-      "clb": 467,
-      "meta": 319239,
-      "pcx": 8129
+      "lib": 7322,
+      "clb": 520,
+      "meta": 324264,
+      "pcx": 8410
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.19
   },
-  "status_text": "A contributor reported a 25-gate design for one eight-by-eight graph in the public discussion. The desk opened the question, and Lean accepted a circuit of at most 25 AND and OR gates for it (L-meta-25903). Whether 24 suffice is still open (L-meta-20239, a conjecture). The same hour Lean accepted floors for 134 listed graphs at once: for each of those graphs on eight points, no circuit of AND, OR and NOT gates, each reading at most two wires, detects an edge with fewer than its stated 9 to 13 gates (L-meta-7595).",
-  "outside_contributors_total": 998,
-  "outside_steps_total": 12523,
-  "author_rank": 850,
+  "status_text": "The thousand questions filed half an hour ago are already getting answers. For 500 small graphs we had written down both sides: one NOT gate saves nothing, or it shortens the circuit. At 16:55 UTC, 69 of the 500 pairs were decided: one side checked and its opposite refuted. For the first graph on the list and the last, the checked side is that the NOT gate saves nothing (L-meta-26034, L-meta-27127). And a question raised in the public discussion, does copying a row of a table always cost one more gate, got its answer: no. Lean accepted an example where the copy costs nothing (L-meta-27131).",
+  "outside_contributors_total": 1012,
+  "outside_steps_total": 12770,
+  "author_rank": 856,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,13 +53,13 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 896,
+      "steps": 901,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 680,
+      "steps": 734,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -77,31 +77,31 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 448,
+      "steps": 451,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 431,
+      "steps": 435,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 7,
+      "github": "nicohabets",
+      "steps": 383,
+      "first_proof_at": "2026-11-23T15:50:27.682Z"
+    },
+    {
+      "rank": 8,
       "github": "Julleht",
       "steps": 377,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
-      "rank": 8,
-      "github": "nicohabets",
-      "steps": 375,
-      "first_proof_at": "2026-11-23T15:50:27.682Z"
-    },
-    {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 335,
+      "steps": 338,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
