@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-27 10:15 UTC**_
+_Last synced automatically: **2026-11-27 10:31 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -34,26 +34,26 @@ _Last synced automatically: **2026-11-27 10:15 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 274` stars · `🍴 4,094` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 274` stars · `🍴 4,095` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **12,638** |
-| **Checked in Last Hour** | **+15** |
-| **Outside Contributors / Outside Steps** | **953** / **11,806** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **15,449** |
-| **Total Merged Proof PRs** | **15,552** |
-| **Active PRs in Checker Queue** | **91** |
+| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **12,643** |
+| **Checked in Last Hour** | **+17** |
+| **Outside Contributors / Outside Steps** | **953** / **11,810** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **15,481** |
+| **Total Merged Proof PRs** | **15,584** |
+| **Active PRs in Checker Queue** | **98** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 11,356 | 73.5% | `█████████████░░░░░` |
-| **OTHER** (`L_other_*`) | 3,984 | 25.8% | `█████░░░░░░░░░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 11,359 | 73.4% | `█████████████░░░░░` |
+| **OTHER** (`L_other_*`) | 4,012 | 25.9% | `█████░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 61 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 40 | 0.3% | `░░░░░░░░░░░░░░░░░░` |
-| **Shared Library & Utilities** (`L_lib_*`) | 7 | 0.0% | `░░░░░░░░░░░░░░░░░░` |
+| **Shared Library & Utilities** (`L_lib_*`) | 8 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
 | **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 1 | 0.0% | `░░░░░░░░░░░░░░░░░░` |
 
 ## 🏆 Community Leaderboard
