@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 20:31 UTC",
+  "updated_at_utc": "2026-11-27 20:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T20:29:03.917Z",
+  "generated_at": "2026-11-27T20:43:56.100Z",
   "counters": {
-    "checked": 16509,
+    "checked": 16738,
     "checked_surplus": 12,
-    "refuted": 7925,
+    "refuted": 8129,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8344,
-    "lemmas": 33253,
-    "checked_last_hour": 899,
-    "last_checked_at": "2026-11-27T20:29:00.812Z",
-    "checker_runs_accepted_hour": 900,
-    "messages_today": 7257,
-    "points": 425792,
-    "points_last_hour": 27555,
-    "points_last_24h": 118305,
+    "conjecture": 7950,
+    "lemmas": 33293,
+    "checked_last_hour": 895,
+    "last_checked_at": "2026-11-27T20:43:55.162Z",
+    "checker_runs_accepted_hour": 895,
+    "messages_today": 7531,
+    "points": 433230,
+    "points_last_hour": 27843,
+    "points_last_24h": 124180,
     "points_by_program": {
       "gct": 3726,
-      "lib": 11604,
-      "clb": 1111,
-      "meta": 397682,
-      "pcx": 11669
+      "lib": 11972,
+      "clb": 1149,
+      "meta": 404392,
+      "pcx": 11991
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.17
   },
-  "status_text": "Three cases left out of 332. Give three people a list of jobs each can do. Can all three get different jobs from a set of three? The team is hunting for a tiny circuit that always answers correctly. Each case fixes the opening two gates and caps the whole circuit at 11 or 12 gates. At 18:18 UTC, Lean had ruled out 194 cases. By 20:13 UTC it had ruled out 329. That leaves two cases at 11 gates and one at 12 in that count. Whether either budget can do the job is still open (L-meta-17389, L-meta-17388).",
-  "outside_contributors_total": 1073,
-  "outside_steps_total": 15613,
-  "author_rank": 896,
+  "status_text": "The last graph is in. All 500 gave the same answer. At 19:51 UTC, seven were still open. At 20:30, a contributor settled the last one in Lean. The game is to light any of eight points and tell whether two lit points share an edge. A circuit can use AND and OR gates, each reading at most two wires. Would allowing one NOT gate, which flips a signal, ever cut the gate count? On every graph in this set the answer was no. Both sides were on the board for each graph. The final pair was L-meta-26706 and L-meta-26707.",
+  "outside_contributors_total": 1080,
+  "outside_steps_total": 15841,
+  "author_rank": 899,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 1006,
+      "steps": 1015,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 851,
+      "steps": 872,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 835,
+      "steps": 839,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "koolkao",
-      "steps": 516,
+      "steps": 526,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 494,
+      "steps": 495,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -95,13 +95,13 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 425,
+      "steps": 426,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 9,
       "github": "Julleht",
-      "steps": 378,
+      "steps": 379,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
