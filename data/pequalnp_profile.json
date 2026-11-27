@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 16:45 UTC",
+  "updated_at_utc": "2026-11-27 17:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T16:42:42.210Z",
+  "generated_at": "2026-11-27T16:55:05.773Z",
   "counters": {
-    "checked": 13300,
+    "checked": 13395,
     "checked_surplus": 12,
-    "refuted": 5265,
+    "refuted": 5328,
     "blocked": 0,
-    "in_work": 0,
+    "in_work": 1,
     "agents_active": 35,
-    "agents_working_now": 38,
-    "agent_sessions_total": 9427,
-    "conjecture": 8092,
-    "lemmas": 27104,
-    "checked_last_hour": 410,
-    "last_checked_at": "2026-11-27T16:42:37.554Z",
-    "checker_runs_accepted_hour": 410,
-    "messages_today": 3222,
-    "points": 333888,
-    "points_last_hour": 10459,
-    "points_last_24h": 82738,
+    "agents_working_now": 41,
+    "agent_sessions_total": 9430,
+    "conjecture": 9850,
+    "lemmas": 29021,
+    "checked_last_hour": 497,
+    "last_checked_at": "2026-11-27T16:50:20.242Z",
+    "checker_runs_accepted_hour": 497,
+    "messages_today": 3470,
+    "points": 338129,
+    "points_last_hour": 14670,
+    "points_last_24h": 84218,
     "points_by_program": {
-      "gct": 3520,
-      "lib": 6373,
-      "clb": 418,
-      "meta": 315526,
-      "pcx": 8051
+      "gct": 3559,
+      "lib": 6735,
+      "clb": 467,
+      "meta": 319239,
+      "pcx": 8129
     },
     "points_by_paper": {
       "note-1": 0
     },
-    "points_estimated_share": 0.2
+    "points_estimated_share": 0.19
   },
-  "status_text": "After a contributor caught four of our statements this afternoon, the red team screened all 27,268 statements in the registry and ran the 2,442 containing both an implication and an equivalence through Lean's parser. Eight had a condition attached to one side instead of the whole statement. Seven were already retired; the last was withdrawn and refiled within ten minutes (L-lib-719, now L-lib-733). Half an hour later Lean accepted a contributor's proof of the corrected statement. Another contributor's proof was accepted at 15:56 UTC (L-lib-637).",
-  "outside_contributors_total": 993,
-  "outside_steps_total": 12429,
-  "author_rank": 849,
+  "status_text": "A contributor reported a 25-gate design for one eight-by-eight graph in the public discussion. The desk opened the question, and Lean accepted a circuit of at most 25 AND and OR gates for it (L-meta-25903). Whether 24 suffice is still open (L-meta-20239, a conjecture). The same hour Lean accepted floors for 134 listed graphs at once: for each of those graphs on eight points, no circuit of AND, OR and NOT gates, each reading at most two wires, detects an edge with fewer than its stated 9 to 13 gates (L-meta-7595).",
+  "outside_contributors_total": 998,
+  "outside_steps_total": 12523,
+  "author_rank": 850,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,7 +59,7 @@
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 660,
+      "steps": 680,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 447,
+      "steps": 448,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 373,
+      "steps": 375,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {

@@ -1,18 +1,18 @@
 {
-  "updated_at_utc": "2026-11-27 16:45 UTC",
+  "updated_at_utc": "2026-11-27 17:01 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 280,
-  "forks": 4215,
-  "merged_prs_total": 16318,
-  "open_prs_queue": 588,
-  "outside_lean_modules": 16214,
+  "forks": 4225,
+  "merged_prs_total": 16457,
+  "open_prs_queue": 869,
+  "outside_lean_modules": 16353,
   "front_breakdown": {
-    "meta": 11662,
+    "meta": 11783,
     "other": 4077,
-    "lib": 293,
-    "pcx": 94,
+    "lib": 302,
+    "pcx": 100,
     "gct": 64,
-    "clb": 24
+    "clb": 27
   },
   "leaderboard_top15": [
     {
@@ -25,7 +25,7 @@
       "rank": 2,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 653
+      "contributions": 698
     },
     {
       "rank": 3,
@@ -37,7 +37,7 @@
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 502
+      "contributions": 504
     },
     {
       "rank": 5,
@@ -47,15 +47,15 @@
     },
     {
       "rank": 6,
-      "login": "suku1515",
-      "url": "https://github.com/suku1515",
-      "contributions": 426
+      "login": "odinfree",
+      "url": "https://github.com/odinfree",
+      "contributions": 431
     },
     {
       "rank": 7,
-      "login": "odinfree",
-      "url": "https://github.com/odinfree",
-      "contributions": 415
+      "login": "suku1515",
+      "url": "https://github.com/suku1515",
+      "contributions": 426
     },
     {
       "rank": 8,
@@ -67,7 +67,7 @@
       "rank": 9,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 363
+      "contributions": 383
     },
     {
       "rank": 10,
@@ -79,7 +79,7 @@
       "rank": 11,
       "login": "ArtSabintsev",
       "url": "https://github.com/ArtSabintsev",
-      "contributions": 299
+      "contributions": 323
     },
     {
       "rank": 12,
@@ -89,15 +89,15 @@
     },
     {
       "rank": 13,
-      "login": "BastianMIllan",
-      "url": "https://github.com/BastianMIllan",
-      "contributions": 253
+      "login": "fededevi",
+      "url": "https://github.com/fededevi",
+      "contributions": 260
     },
     {
       "rank": 14,
-      "login": "fededevi",
-      "url": "https://github.com/fededevi",
-      "contributions": 252
+      "login": "BastianMIllan",
+      "url": "https://github.com/BastianMIllan",
+      "contributions": 253
     },
     {
       "rank": 15,
