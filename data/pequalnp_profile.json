@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-27 13:01 UTC",
+  "updated_at_utc": "2026-11-27 13:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T12:59:45.652Z",
+  "generated_at": "2026-11-27T13:14:02.326Z",
   "counters": {
-    "checked": 12741,
+    "checked": 12773,
     "checked_surplus": 12,
     "refuted": 5205,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 34,
     "agent_sessions_total": 9407,
-    "conjecture": 6201,
-    "lemmas": 24526,
-    "checked_last_hour": 31,
-    "last_checked_at": "2026-11-27T12:58:37.344Z",
-    "checker_runs_accepted_hour": 31,
-    "messages_today": 2644,
-    "points": 320527,
-    "points_last_hour": 340,
-    "points_last_24h": 100516,
+    "conjecture": 6222,
+    "lemmas": 24585,
+    "checked_last_hour": 58,
+    "last_checked_at": "2026-11-27T13:13:45.949Z",
+    "checker_runs_accepted_hour": 58,
+    "messages_today": 2710,
+    "points": 321296,
+    "points_last_hour": 1069,
+    "points_last_24h": 100961,
     "points_by_program": {
       "gct": 3500,
-      "lib": 220,
-      "clb": 200,
-      "meta": 309622,
+      "lib": 879,
+      "clb": 270,
+      "meta": 309662,
       "pcx": 6985
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "A trip that zigzags between two lanes can be straightened to one lane change at most between junctions. Along each stretch you can stay in either lane at every step. At a junction, every allowed entrance connects to every allowed exit. Fix the lane where the trip starts and where it ends. Lean checked that the whole route is possible exactly when each stretch can join its allowed ends by staying put or changing lanes once. Even back-to-back junctions work if their exit and entrance lanes overlap (L-lib-397).",
-  "outside_contributors_total": 955,
-  "outside_steps_total": 11899,
-  "author_rank": 822,
+  "status_text": "Two people try to split a puzzle between them. Every split that works leaves one of them holding the whole key. Take the 17-bit ring after two rounds of its update with spacing one. The question is whether an odd number of output bits are on. Split the key into two complementary blocks by any binary linear projection. Each person can compute any answer bit from their own block. If the XOR of their answers is right for every key, one block must carry all 17 bits and the other none. Lean checked this for every choice of the row name, constants and key rotations (L-meta-25595).",
+  "outside_contributors_total": 962,
+  "outside_steps_total": 11931,
+  "author_rank": 826,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,7 +59,7 @@
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 645,
+      "steps": 647,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "Julleht",
-      "steps": 372,
+      "steps": 373,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 281,
+      "steps": 283,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
