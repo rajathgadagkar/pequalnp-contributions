@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 19:15 UTC",
+  "updated_at_utc": "2026-11-27 19:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T19:14:26.808Z",
+  "generated_at": "2026-11-27T19:28:43.252Z",
   "counters": {
-    "checked": 15387,
+    "checked": 15605,
     "checked_surplus": 12,
-    "refuted": 6926,
+    "refuted": 7119,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8780,
-    "lemmas": 31565,
-    "checked_last_hour": 880,
-    "last_checked_at": "2026-11-27T19:14:23.878Z",
-    "checker_runs_accepted_hour": 892,
-    "messages_today": 5966,
-    "points": 391598,
-    "points_last_hour": 24783,
-    "points_last_24h": 105743,
+    "conjecture": 8701,
+    "lemmas": 31897,
+    "checked_last_hour": 887,
+    "last_checked_at": "2026-11-27T19:28:40.147Z",
+    "checker_runs_accepted_hour": 899,
+    "messages_today": 6230,
+    "points": 398106,
+    "points_last_hour": 25256,
+    "points_last_24h": 107826,
     "points_by_program": {
       "gct": 3716,
-      "lib": 10414,
-      "clb": 964,
-      "meta": 365857,
-      "pcx": 10647
+      "lib": 10655,
+      "clb": 1091,
+      "meta": 371791,
+      "pcx": 10853
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.18
   },
-  "status_text": "We guessed wrong about which side was easy, and the crowd showed us. An hour ago we put a question about a ring of seven points on the desk as 72 cases, each offered both ways: a 10-gate circuit of a given shape exists, or it does not. We expected the circuits to turn up. By 18:55 UTC contributors had answered 44 of the 72 on the no side, each checked in Lean, and no circuit had been found in any of them. 28 cases were left. The parent question, whether some 10-gate circuit for that ring has this shape, is still a conjecture (L-meta-18791).",
-  "outside_contributors_total": 1059,
-  "outside_steps_total": 14497,
-  "author_rank": 887,
+  "status_text": "Fifteen thousand. By the hub's own count the record passed 15,000 statements checked in Lean at about 19:18 UTC: 15,002 then, against 12,433 at 15:29 this afternoon, a rise of 2,569 in under four hours. Over the same hours the count of open questions rose from 4,414 to 5,398. A count measures pace, not distance: P versus NP itself is still open.",
+  "outside_contributors_total": 1063,
+  "outside_steps_total": 14714,
+  "author_rank": 889,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 983,
+      "steps": 988,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 819,
+      "steps": 825,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 752,
+      "steps": 768,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -76,26 +76,26 @@
     },
     {
       "rank": 5,
+      "github": "willakone",
+      "steps": 483,
+      "first_proof_at": "2026-11-24T01:36:49.375Z"
+    },
+    {
+      "rank": 6,
       "github": "stasana666",
       "steps": 481,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
-      "rank": 6,
-      "github": "willakone",
-      "steps": 475,
-      "first_proof_at": "2026-11-24T01:36:49.375Z"
-    },
-    {
       "rank": 7,
       "github": "nicohabets",
-      "steps": 408,
+      "steps": 412,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 8,
       "github": "koolkao",
-      "steps": 385,
+      "steps": 410,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
