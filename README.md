@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-27 02:01 UTC**_
+_Last synced automatically: **2026-11-27 02:15 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -34,7 +34,7 @@ _Last synced automatically: **2026-11-27 02:01 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 262` stars · `🍴 3,939` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 263` stars · `🍴 3,945` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
