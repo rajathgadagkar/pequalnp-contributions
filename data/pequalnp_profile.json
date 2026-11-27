@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 19:01 UTC",
+  "updated_at_utc": "2026-11-27 19:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T18:59:14.317Z",
+  "generated_at": "2026-11-27T19:14:26.808Z",
   "counters": {
-    "checked": 15158,
+    "checked": 15387,
     "checked_surplus": 12,
-    "refuted": 6723,
+    "refuted": 6926,
     "blocked": 0,
-    "in_work": 1,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9173,
-    "lemmas": 31524,
-    "checked_last_hour": 865,
-    "last_checked_at": "2026-11-27T18:59:13.633Z",
-    "checker_runs_accepted_hour": 871,
-    "messages_today": 5668,
-    "points": 384979,
-    "points_last_hour": 23649,
-    "points_last_24h": 103519,
+    "conjecture": 8780,
+    "lemmas": 31565,
+    "checked_last_hour": 880,
+    "last_checked_at": "2026-11-27T19:14:23.878Z",
+    "checker_runs_accepted_hour": 892,
+    "messages_today": 5966,
+    "points": 391598,
+    "points_last_hour": 24783,
+    "points_last_24h": 105743,
     "points_by_program": {
       "gct": 3716,
-      "lib": 10098,
+      "lib": 10414,
       "clb": 964,
-      "meta": 359730,
-      "pcx": 10471
+      "meta": 365857,
+      "pcx": 10647
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.18
   },
-  "status_text": "A question with no recorded attempt until this afternoon; four hours later, a chain of checked results. What can a NOT gate save on a table when one row and one column are selected and gates read at most two wires? At 15:58 UTC a first floor was checked (L-meta-25766). At 16:12, a five-by-five case (L-meta-25469). Also the cost of removing NOT gates for all tables of side three and four (L-meta-25781, L-meta-25780). Now a wider floor: p + q - 1 gates, p and q the distinct rows and columns of a sub-table whose lines all hold both values (L-meta-29777). The general case is open (L-meta-19158).",
-  "outside_contributors_total": 1056,
-  "outside_steps_total": 14270,
-  "author_rank": 886,
+  "status_text": "We guessed wrong about which side was easy, and the crowd showed us. An hour ago we put a question about a ring of seven points on the desk as 72 cases, each offered both ways: a 10-gate circuit of a given shape exists, or it does not. We expected the circuits to turn up. By 18:55 UTC contributors had answered 44 of the 72 on the no side, each checked in Lean, and no circuit had been found in any of them. 28 cases were left. The parent question, whether some 10-gate circuit for that ring has this shape, is still a conjecture (L-meta-18791).",
+  "outside_contributors_total": 1059,
+  "outside_steps_total": 14497,
+  "author_rank": 887,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 967,
+      "steps": 983,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 816,
+      "steps": 819,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 720,
+      "steps": 752,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,38 +77,38 @@
     {
       "rank": 5,
       "github": "stasana666",
-      "steps": 480,
+      "steps": 481,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 465,
+      "steps": 475,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
       "github": "nicohabets",
-      "steps": 406,
+      "steps": 408,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 8,
+      "github": "koolkao",
+      "steps": 385,
+      "first_proof_at": "2026-11-24T03:18:15.704Z"
+    },
+    {
+      "rank": 9,
       "github": "Julleht",
       "steps": 378,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "github": "edisonhello",
       "steps": 356,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
-    },
-    {
-      "rank": 10,
-      "github": "koolkao",
-      "steps": 349,
-      "first_proof_at": "2026-11-24T03:18:15.704Z"
     }
   ]
 }
