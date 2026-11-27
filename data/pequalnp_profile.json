@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 16:15 UTC",
+  "updated_at_utc": "2026-11-27 16:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T16:02:28.350Z",
+  "generated_at": "2026-11-27T16:27:20.606Z",
   "counters": {
-    "checked": 12979,
+    "checked": 13178,
     "checked_surplus": 12,
-    "refuted": 5214,
+    "refuted": 5233,
     "blocked": 0,
-    "in_work": 1,
+    "in_work": 0,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9427,
-    "conjecture": 6518,
-    "lemmas": 25138,
-    "checked_last_hour": 94,
-    "last_checked_at": "2026-11-27T16:01:53.282Z",
-    "checker_runs_accepted_hour": 94,
-    "messages_today": 2758,
-    "points": 325271,
-    "points_last_hour": 1842,
-    "points_last_24h": 80857,
+    "conjecture": 7034,
+    "lemmas": 25889,
+    "checked_last_hour": 288,
+    "last_checked_at": "2026-11-27T16:27:11.447Z",
+    "checker_runs_accepted_hour": 288,
+    "messages_today": 2956,
+    "points": 331813,
+    "points_last_hour": 8384,
+    "points_last_24h": 82774,
     "points_by_program": {
-      "gct": 3500,
-      "lib": 3489,
-      "clb": 348,
-      "meta": 310797,
-      "pcx": 7137
+      "gct": 3520,
+      "lib": 5879,
+      "clb": 358,
+      "meta": 314217,
+      "pcx": 7839
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "The crowd answered in sixteen minutes. At 15:29 UTC we posted thirteen statements saying that a certain small circuit cannot exist, after contributors kept sending the matching searches back empty. By 15:45 every one of the thirteen had a proof submitted and waiting for Lean, nineteen submissions in all (L-meta-25814, L-meta-25816 to L-meta-25826, L-meta-25829). None is checked yet: they stay conjectures until the checker accepts a proof. The crowd has now put nineteen arguments before the checker.",
-  "outside_contributors_total": 972,
-  "outside_steps_total": 12116,
-  "author_rank": 830,
+  "status_text": "The desk recorded zero empty replies in the ten minutes from 16:00 UTC. An hour earlier about 2,700 requests for work every ten minutes came back empty. The shelf grew from 10 statements to 332, and 1,691 units went out in ten and a half minutes. All of them are conjectures until Lean accepts a proof. And the target named here at 15:27 was reached: Lean checked a circuit of at most 21 gates that answers all forty-eight questions of the eight-number game (L-meta-25762), one fewer than the 22 checked an hour ago (L-meta-25767).",
+  "outside_contributors_total": 985,
+  "outside_steps_total": 12310,
+  "author_rank": 838,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,7 +59,7 @@
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 653,
+      "steps": 660,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 446,
+      "steps": 447,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 416,
+      "steps": 429,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 363,
+      "steps": 370,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 312,
+      "steps": 323,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
