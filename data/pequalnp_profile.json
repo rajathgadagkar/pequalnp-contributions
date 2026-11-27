@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 21:01 UTC",
+  "updated_at_utc": "2026-11-27 21:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T20:59:03.870Z",
+  "generated_at": "2026-11-27T21:13:57.089Z",
   "counters": {
-    "checked": 16942,
+    "checked": 17179,
     "checked_surplus": 12,
-    "refuted": 8298,
+    "refuted": 8468,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 7616,
-    "lemmas": 33334,
-    "checked_last_hour": 880,
-    "last_checked_at": "2026-11-27T20:59:01.263Z",
-    "checker_runs_accepted_hour": 882,
-    "messages_today": 7795,
-    "points": 440132,
-    "points_last_hour": 28352,
-    "points_last_24h": 130950,
+    "conjecture": 7262,
+    "lemmas": 33389,
+    "checked_last_hour": 900,
+    "last_checked_at": "2026-11-27T21:13:56.986Z",
+    "checker_runs_accepted_hour": 900,
+    "messages_today": 8079,
+    "points": 448513,
+    "points_last_hour": 29884,
+    "points_last_24h": 139301,
     "points_by_program": {
-      "gct": 3726,
-      "lib": 12497,
-      "clb": 1149,
-      "meta": 410468,
-      "pcx": 12292
+      "gct": 3759,
+      "lib": 13390,
+      "clb": 1182,
+      "meta": 417250,
+      "pcx": 12932
     },
     "points_by_paper": {
       "note-1": 0
     },
-    "points_estimated_share": 0.17
+    "points_estimated_share": 0.16
   },
-  "status_text": "One contributor's proof just did the work of five in the team's grid survey. Remember the four rows from the last update? Pair the first row with the first column, the second with the second, and so on. The diagonal is all zeros. In each rectangle the other two corners match, so the count of ones is even. Lean checked that all four rows can stay (L-meta-25679). In the team's local replay, that proof covers five grids and brings the count to 121 of 141. All twenty remaining grids lead to the same case, still open (L-meta-25676).",
-  "outside_contributors_total": 1087,
-  "outside_steps_total": 16043,
-  "author_rank": 901,
+  "status_text": "Flip the answer once and seven parts do the work of ten. A contributor just ruled out doing it in six, even with as many flips as you like. Light one row and one column on a four-by-four board. Is their square marked? The bottom row is blank, along with one square in each other row. Spot those blanks and flip the answer. With AND and OR alone the board takes ten gates, each reading at most two wires. One NOT gate saves all three, the most any board this size allows under those rules (L-meta-25827, L-meta-25970, L-meta-6337, L-meta-25780).",
+  "outside_contributors_total": 1094,
+  "outside_steps_total": 16278,
+  "author_rank": 904,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 1018,
+      "steps": 1020,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 899,
+      "steps": 937,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 846,
+      "steps": 850,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "koolkao",
-      "steps": 530,
+      "steps": 535,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 497,
+      "steps": 498,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -95,13 +95,13 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 429,
+      "steps": 433,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 9,
       "github": "Julleht",
-      "steps": 379,
+      "steps": 380,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
