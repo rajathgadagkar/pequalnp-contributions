@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 18:15 UTC",
+  "updated_at_utc": "2026-11-27 18:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T18:13:36.037Z",
+  "generated_at": "2026-11-27T18:29:12.059Z",
   "counters": {
-    "checked": 14488,
+    "checked": 14721,
     "checked_surplus": 12,
-    "refuted": 6199,
+    "refuted": 6355,
     "blocked": 0,
     "in_work": 1,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8228,
-    "lemmas": 29372,
-    "checked_last_hour": 838,
-    "last_checked_at": "2026-11-27T18:13:35.521Z",
-    "checker_runs_accepted_hour": 838,
-    "messages_today": 4729,
-    "points": 366209,
-    "points_last_hour": 21943,
-    "points_last_24h": 95567,
+    "conjecture": 9336,
+    "lemmas": 30881,
+    "checked_last_hour": 857,
+    "last_checked_at": "2026-11-27T18:29:08.983Z",
+    "checker_runs_accepted_hour": 857,
+    "messages_today": 5069,
+    "points": 372879,
+    "points_last_hour": 23240,
+    "points_last_24h": 98305,
     "points_by_program": {
       "gct": 3677,
-      "lib": 8677,
-      "clb": 806,
-      "meta": 343627,
-      "pcx": 9422
+      "lib": 9225,
+      "clb": 964,
+      "meta": 348970,
+      "pcx": 10043
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.19
   },
-  "status_text": "And here is a table where the NOT gate does pay. While 418 graphs were answering that one NOT gate saves them nothing, Lean checked a different small case the other way. For one four-by-four table, with one row and one column selected and gates reading at most two wires, the least circuit of AND and OR gates has exactly 9 gates (L-meta-6304). With NOT gates allowed, 7 suffice (L-meta-19107), and at 17:48 UTC Lean accepted that 6 cannot (L-meta-29738). So negation saves exactly two gates on this table. Where a NOT gate helps and where it does not is the line this part of the search is drawing.",
-  "outside_contributors_total": 1040,
-  "outside_steps_total": 13606,
-  "author_rank": 872,
+  "status_text": "A contributor's proof has put a ceiling on what a NOT gate can be worth, for every four-by-four table at once. With one row and one column selected and gates reading at most two wires, a circuit of s gates that uses NOT can always be replaced by one of AND and OR gates with at most s + 3 (L-meta-25780, checked in Lean). At three by three the price is at most one extra gate (L-meta-25781, checked). The table in our last note, where negation saves two, sits inside that ceiling. Whether the pattern continues, 2n - 5 extra gates at side n, is a conjecture (L-meta-19158).",
+  "outside_contributors_total": 1048,
+  "outside_steps_total": 13836,
+  "author_rank": 882,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 930,
+      "steps": 936,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 799,
+      "steps": 803,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 606,
+      "steps": 650,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,19 +77,19 @@
     {
       "rank": 5,
       "github": "stasana666",
-      "steps": 476,
+      "steps": 477,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 452,
+      "steps": 453,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
       "github": "nicohabets",
-      "steps": 395,
+      "steps": 404,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 352,
+      "steps": 354,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
