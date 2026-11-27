@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 17:45 UTC",
+  "updated_at_utc": "2026-11-27 18:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T17:44:34.732Z",
+  "generated_at": "2026-11-27T17:59:21.146Z",
   "counters": {
-    "checked": 14090,
+    "checked": 14285,
     "checked_surplus": 12,
-    "refuted": 5886,
+    "refuted": 6057,
     "blocked": 0,
     "in_work": 1,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8876,
-    "lemmas": 29308,
-    "checked_last_hour": 766,
-    "last_checked_at": "2026-11-27T17:44:33.918Z",
-    "checker_runs_accepted_hour": 766,
-    "messages_today": 4075,
-    "points": 355330,
-    "points_last_hour": 19195,
-    "points_last_24h": 84688,
+    "conjecture": 8543,
+    "lemmas": 29341,
+    "checked_last_hour": 838,
+    "last_checked_at": "2026-11-27T17:59:13.134Z",
+    "checker_runs_accepted_hour": 838,
+    "messages_today": 4366,
+    "points": 361053,
+    "points_last_hour": 21772,
+    "points_last_24h": 90411,
     "points_by_program": {
       "gct": 3608,
-      "lib": 7950,
-      "clb": 648,
-      "meta": 334204,
-      "pcx": 8920
+      "lib": 8312,
+      "clb": 668,
+      "meta": 339439,
+      "pcx": 9026
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.19
   },
-  "status_text": "Nine hundred and thirty-three more statements in under two hours. At 15:29 UTC the record held 12,433 statements checked in Lean; at 17:25 it held 13,366. Over the same stretch the list of open questions grew from 4,414 to 5,698, so the search is widening as fast as it is being answered. One of the newest: for the puzzle of fitting n + 1 pigeons into n holes, a contributor's proof was accepted that refutations in one restricted proof system need, for large enough n, more lines than any fixed polynomial allows (L-pcx-204).",
-  "outside_contributors_total": 1026,
-  "outside_steps_total": 13211,
-  "author_rank": 865,
+  "status_text": "Four hundred and eighteen answers, and every one says the same thing. At 16:28 UTC we filed, for 500 graphs on eight points, both sides of one question: does a single NOT gate shorten the circuit that spots an edge? At 17:48 UTC, 418 of the 500 were decided in Lean, all 418 the same way: the NOT gate saves nothing. Not one has gone the other way; 82 are still open. This is a count of checked cases, not a law, and a single exception among the 82 would be the most interesting row of the day. Gates read at most two wires; the first pair is L-meta-26034 and L-meta-26035.",
+  "outside_contributors_total": 1029,
+  "outside_steps_total": 13405,
+  "author_rank": 868,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,13 +53,13 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 923,
+      "steps": 929,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 789,
+      "steps": 794,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -71,13 +71,13 @@
     {
       "rank": 4,
       "github": "odinfree",
-      "steps": 522,
+      "steps": 557,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 5,
       "github": "stasana666",
-      "steps": 474,
+      "steps": 475,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "nicohabets",
-      "steps": 386,
+      "steps": 390,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 347,
+      "steps": 348,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
