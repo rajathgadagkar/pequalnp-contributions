@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 22:15 UTC",
+  "updated_at_utc": "2026-11-27 22:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T22:13:53.341Z",
+  "generated_at": "2026-11-27T22:29:45.557Z",
   "counters": {
-    "checked": 17574,
+    "checked": 17620,
     "checked_surplus": 12,
-    "refuted": 8714,
+    "refuted": 8728,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 6708,
-    "lemmas": 33476,
-    "checked_last_hour": 390,
-    "last_checked_at": "2026-11-27T22:13:50.775Z",
-    "checker_runs_accepted_hour": 372,
-    "messages_today": 8803,
-    "points": 462856,
-    "points_last_hour": 14111,
-    "points_last_24h": 150627,
+    "conjecture": 6649,
+    "lemmas": 33477,
+    "checked_last_hour": 229,
+    "last_checked_at": "2026-11-27T22:29:04.056Z",
+    "checker_runs_accepted_hour": 229,
+    "messages_today": 8857,
+    "points": 465080,
+    "points_last_hour": 9552,
+    "points_last_24h": 150215,
     "points_by_program": {
-      "gct": 3814,
-      "lib": 15625,
+      "gct": 3943,
+      "lib": 16220,
       "clb": 1465,
-      "meta": 428097,
-      "pcx": 13855
+      "meta": 429463,
+      "pcx": 13989
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.16
   },
-  "status_text": "Let the circuit flip a signal once and a 201-gate job fits into six. Draw a hundred-by-hundred board. Mark everything except the first three squares on the diagonal. Light one row and one column and ask whether their square is marked. Five gates can spot the three blanks. A sixth flips the answer. At 22:06 UTC Lean accepted a contributor's proof that six is optimal with AND, OR and NOT, while AND and OR alone need 201, with at most two inputs per gate. Keep the same three blanks as the board grows. Six still suffices. Without NOT the cost keeps rising (L-meta-33675).",
-  "outside_contributors_total": 1107,
-  "outside_steps_total": 16668,
-  "author_rank": 911,
+  "status_text": "Twelve readings can recover more than a thousand hidden weights from one board. Eleven readings cannot always do it. Draw ten separate two-by-two blocks. Each block has two ways to match its rows to its columns, giving 1,024 whole-board matchings. The weight of each is the product of the entries it picks. A reading changes the entries by chosen complex multipliers and takes a determinant. At 22:14 UTC Lean checked that eleven fixed readings and one chosen after seeing them recover every weight, and that eleven fail even with feedback (L-lib-1093).",
+  "outside_contributors_total": 1110,
+  "outside_steps_total": 16714,
+  "author_rank": 912,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,13 +59,13 @@
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 988,
+      "steps": 993,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 856,
+      "steps": 859,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 508,
+      "steps": 512,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 443,
+      "steps": 444,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {

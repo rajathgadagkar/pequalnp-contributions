@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-27 22:15 UTC",
+  "updated_at_utc": "2026-11-27 22:31 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 292,
-  "forks": 4314,
-  "merged_prs_total": 20534,
-  "open_prs_queue": 371,
-  "outside_lean_modules": 20432,
+  "forks": 4321,
+  "merged_prs_total": 20577,
+  "open_prs_queue": 352,
+  "outside_lean_modules": 20476,
   "front_breakdown": {
-    "meta": 15395,
+    "meta": 15420,
     "other": 4077,
-    "lib": 586,
-    "pcx": 246,
-    "gct": 74,
+    "lib": 598,
+    "pcx": 251,
+    "gct": 76,
     "clb": 54
   },
   "leaderboard_top15": [
@@ -25,13 +25,13 @@
       "rank": 2,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 976
+      "contributions": 993
     },
     {
       "rank": 3,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 853
+      "contributions": 860
     },
     {
       "rank": 4,
@@ -43,13 +43,13 @@
       "rank": 5,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 558
+      "contributions": 568
     },
     {
       "rank": 6,
       "login": "koolkao",
       "url": "https://github.com/koolkao",
-      "contributions": 541
+      "contributions": 543
     },
     {
       "rank": 7,
@@ -61,7 +61,7 @@
       "rank": 8,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 438
+      "contributions": 447
     },
     {
       "rank": 9,
@@ -85,7 +85,7 @@
       "rank": 12,
       "login": "green-notes",
       "url": "https://github.com/green-notes",
-      "contributions": 344
+      "contributions": 345
     },
     {
       "rank": 13,
@@ -97,13 +97,13 @@
       "rank": 14,
       "login": "MedicV2",
       "url": "https://github.com/MedicV2",
-      "contributions": 296
+      "contributions": 302
     },
     {
       "rank": 15,
       "login": "nickdwhite",
       "url": "https://github.com/nickdwhite",
-      "contributions": 295
+      "contributions": 301
     }
   ],
   "author_rank_in_top100": null,
