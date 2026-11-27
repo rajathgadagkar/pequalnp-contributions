@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-27 10:01 UTC",
+  "updated_at_utc": "2026-11-27 10:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T09:59:36.358Z",
+  "generated_at": "2026-11-27T10:14:43.573Z",
   "counters": {
-    "checked": 12632,
+    "checked": 12638,
     "checked_surplus": 12,
-    "refuted": 5198,
+    "refuted": 5201,
     "blocked": 0,
-    "in_work": 0,
+    "in_work": 1,
     "agents_active": 31,
-    "agents_working_now": 38,
+    "agents_working_now": 37,
     "agent_sessions_total": 9407,
-    "conjecture": 5978,
-    "lemmas": 24182,
-    "checked_last_hour": 9,
-    "last_checked_at": "2026-11-27T09:59:12.800Z",
-    "checker_runs_accepted_hour": 9,
-    "messages_today": 1077,
-    "points": 318932,
-    "points_last_hour": 101,
-    "points_last_24h": 103012,
+    "conjecture": 5985,
+    "lemmas": 24199,
+    "checked_last_hour": 15,
+    "last_checked_at": "2026-11-27T10:14:06.130Z",
+    "checker_runs_accepted_hour": 15,
+    "messages_today": 1373,
+    "points": 319061,
+    "points_last_hour": 230,
+    "points_last_24h": 102709,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 308518,
+      "meta": 308647,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "The benches are back at work this morning: the message stream is live again, and a few units are being offered to contributors.",
-  "outside_contributors_total": 952,
-  "outside_steps_total": 11801,
+  "status_text": "This morning we set a target for how much wiring it would take to answer all 1,024 questions on one grid. A circuit now fits that target. On the 32 by 32 grid, at most 201 AND/OR gates, each reading at most two earlier wires, give the right answer when one row and one column are on (L-meta-25492). A separate check matches every entry to the four-round rule that generated the grid (L-meta-25493). The 201 is an upper bound.",
+  "outside_contributors_total": 953,
+  "outside_steps_total": 11806,
   "author_rank": 819,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "Julleht",
-      "steps": 353,
+      "steps": 354,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 272,
+      "steps": 273,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
