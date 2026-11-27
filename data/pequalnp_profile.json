@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-27 12:15 UTC",
+  "updated_at_utc": "2026-11-27 12:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T12:14:24.974Z",
+  "generated_at": "2026-11-27T12:29:50.658Z",
   "counters": {
-    "checked": 12716,
+    "checked": 12724,
     "checked_surplus": 12,
     "refuted": 5201,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 34,
     "agent_sessions_total": 9407,
-    "conjecture": 6071,
-    "lemmas": 24365,
-    "checked_last_hour": 45,
-    "last_checked_at": "2026-11-27T12:14:12.963Z",
-    "checker_runs_accepted_hour": 45,
-    "messages_today": 2476,
-    "points": 320237,
-    "points_last_hour": 557,
-    "points_last_24h": 101487,
+    "conjecture": 6097,
+    "lemmas": 24399,
+    "checked_last_hour": 40,
+    "last_checked_at": "2026-11-27T12:29:38.351Z",
+    "checker_runs_accepted_hour": 40,
+    "messages_today": 2524,
+    "points": 320337,
+    "points_last_hour": 474,
+    "points_last_24h": 101149,
     "points_by_program": {
       "gct": 3500,
       "lib": 210,
-      "clb": 98,
-      "meta": 309444,
+      "clb": 128,
+      "meta": 309514,
       "pcx": 6985
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Pick any target for the top bits of the output. Fewer than one key in 160 million can hit it in this test. Take 100-bit keys, fix any row and any three round constants, and ask for a particular pattern on the top 89 bits after round three. Lean checked a ceiling on the number of keys that can produce it. The limit is 1,024 times the Fibonacci number at index 92, counting from zero and one. The same rule gives bounds for every width from thirteen bits up and every nonempty high-bit prefix (L-meta-25523).",
+  "status_text": "A million switches sit on a ring. Just 63 layers of gates are enough to tell whether all their rules can hold at once. Each position has its own table listing the allowed settings of that switch and the next two, wrapping around the ring. Give those tables to the circuit. It answers yes exactly when some setting works around the whole ring. Lean checked that the same wiring works for every choice of tables, using at most 384,000,003 AND and OR gates with at most two inputs each (L-clb-059).",
   "outside_contributors_total": 955,
-  "outside_steps_total": 11877,
+  "outside_steps_total": 11885,
   "author_rank": 822,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "Julleht",
-      "steps": 370,
+      "steps": 371,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 277,
+      "steps": 279,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
