@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 21:15 UTC",
+  "updated_at_utc": "2026-11-27 21:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T21:13:57.089Z",
+  "generated_at": "2026-11-27T21:29:33.161Z",
   "counters": {
-    "checked": 17179,
+    "checked": 17377,
     "checked_surplus": 12,
-    "refuted": 8468,
+    "refuted": 8630,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 7262,
-    "lemmas": 33389,
-    "checked_last_hour": 900,
-    "last_checked_at": "2026-11-27T21:13:56.986Z",
-    "checker_runs_accepted_hour": 900,
-    "messages_today": 8079,
-    "points": 448513,
-    "points_last_hour": 29884,
-    "points_last_24h": 139301,
+    "conjecture": 6945,
+    "lemmas": 33432,
+    "checked_last_hour": 854,
+    "last_checked_at": "2026-11-27T21:29:28.343Z",
+    "checker_runs_accepted_hour": 854,
+    "messages_today": 8370,
+    "points": 454994,
+    "points_last_hour": 28551,
+    "points_last_24h": 145745,
     "points_by_program": {
-      "gct": 3759,
-      "lib": 13390,
+      "gct": 3769,
+      "lib": 13885,
       "clb": 1182,
-      "meta": 417250,
-      "pcx": 12932
+      "meta": 423065,
+      "pcx": 13093
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.16
   },
-  "status_text": "Flip the answer once and seven parts do the work of ten. A contributor just ruled out doing it in six, even with as many flips as you like. Light one row and one column on a four-by-four board. Is their square marked? The bottom row is blank, along with one square in each other row. Spot those blanks and flip the answer. With AND and OR alone the board takes ten gates, each reading at most two wires. One NOT gate saves all three, the most any board this size allows under those rules (L-meta-25827, L-meta-25970, L-meta-6337, L-meta-25780).",
-  "outside_contributors_total": 1094,
-  "outside_steps_total": 16278,
-  "author_rank": 904,
+  "status_text": "Even with every colour choice available, 29 boards still make you cross out a row. The team's local replay now covers all 141 four-by-four grids. Match each row to a column and colour the row labels red or blue. Two labels of the same colour must give a rectangle with an even count of marks at its corners. Different colours need an odd count. With no red labels, 31 boards keep all four rows. Allow one red label and 96 do. Allow two and 112 do. On each of the other 29, losing one row is enough. The last checked case was L-meta-25676.",
+  "outside_contributors_total": 1098,
+  "outside_steps_total": 16474,
+  "author_rank": 908,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 1020,
+      "steps": 1025,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 937,
+      "steps": 976,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 850,
+      "steps": 852,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "koolkao",
-      "steps": 535,
+      "steps": 541,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 498,
+      "steps": 502,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 433,
+      "steps": 435,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
