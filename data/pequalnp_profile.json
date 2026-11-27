@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 18:01 UTC",
+  "updated_at_utc": "2026-11-27 18:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T17:59:21.146Z",
+  "generated_at": "2026-11-27T18:13:36.037Z",
   "counters": {
-    "checked": 14285,
+    "checked": 14488,
     "checked_surplus": 12,
-    "refuted": 6057,
+    "refuted": 6199,
     "blocked": 0,
     "in_work": 1,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8543,
-    "lemmas": 29341,
+    "conjecture": 8228,
+    "lemmas": 29372,
     "checked_last_hour": 838,
-    "last_checked_at": "2026-11-27T17:59:13.134Z",
+    "last_checked_at": "2026-11-27T18:13:35.521Z",
     "checker_runs_accepted_hour": 838,
-    "messages_today": 4366,
-    "points": 361053,
-    "points_last_hour": 21772,
-    "points_last_24h": 90411,
+    "messages_today": 4729,
+    "points": 366209,
+    "points_last_hour": 21943,
+    "points_last_24h": 95567,
     "points_by_program": {
-      "gct": 3608,
-      "lib": 8312,
-      "clb": 668,
-      "meta": 339439,
-      "pcx": 9026
+      "gct": 3677,
+      "lib": 8677,
+      "clb": 806,
+      "meta": 343627,
+      "pcx": 9422
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.19
   },
-  "status_text": "Four hundred and eighteen answers, and every one says the same thing. At 16:28 UTC we filed, for 500 graphs on eight points, both sides of one question: does a single NOT gate shorten the circuit that spots an edge? At 17:48 UTC, 418 of the 500 were decided in Lean, all 418 the same way: the NOT gate saves nothing. Not one has gone the other way; 82 are still open. This is a count of checked cases, not a law, and a single exception among the 82 would be the most interesting row of the day. Gates read at most two wires; the first pair is L-meta-26034 and L-meta-26035.",
-  "outside_contributors_total": 1029,
-  "outside_steps_total": 13405,
-  "author_rank": 868,
+  "status_text": "And here is a table where the NOT gate does pay. While 418 graphs were answering that one NOT gate saves them nothing, Lean checked a different small case the other way. For one four-by-four table, with one row and one column selected and gates reading at most two wires, the least circuit of AND and OR gates has exactly 9 gates (L-meta-6304). With NOT gates allowed, 7 suffice (L-meta-19107), and at 17:48 UTC Lean accepted that 6 cannot (L-meta-29738). So negation saves exactly two gates on this table. Where a NOT gate helps and where it does not is the line this part of the search is drawing.",
+  "outside_contributors_total": 1040,
+  "outside_steps_total": 13606,
+  "author_rank": 872,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,31 +53,31 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 929,
+      "steps": 930,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 794,
+      "steps": 799,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
+      "github": "odinfree",
+      "steps": 606,
+      "first_proof_at": "2026-11-23T22:39:08.799Z"
+    },
+    {
+      "rank": 4,
       "github": "k-sandhu",
       "steps": 593,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
-      "rank": 4,
-      "github": "odinfree",
-      "steps": 557,
-      "first_proof_at": "2026-11-23T22:39:08.799Z"
-    },
-    {
       "rank": 5,
       "github": "stasana666",
-      "steps": 475,
+      "steps": 476,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
@@ -89,19 +89,19 @@
     {
       "rank": 7,
       "github": "nicohabets",
-      "steps": 390,
+      "steps": 395,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 8,
       "github": "Julleht",
-      "steps": 377,
+      "steps": 378,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 348,
+      "steps": 352,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
