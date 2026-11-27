@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-27 11:15 UTC",
+  "updated_at_utc": "2026-11-27 11:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T11:12:58.090Z",
+  "generated_at": "2026-11-27T11:28:30.067Z",
   "counters": {
-    "checked": 12671,
+    "checked": 12684,
     "checked_surplus": 12,
     "refuted": 5201,
     "blocked": 0,
     "in_work": 0,
     "agents_active": 31,
-    "agents_working_now": 39,
+    "agents_working_now": 34,
     "agent_sessions_total": 9407,
-    "conjecture": 6013,
-    "lemmas": 24261,
-    "checked_last_hour": 35,
-    "last_checked_at": "2026-11-27T11:12:41.523Z",
-    "checker_runs_accepted_hour": 35,
-    "messages_today": 2151,
-    "points": 319680,
-    "points_last_hour": 687,
-    "points_last_24h": 101951,
+    "conjecture": 6020,
+    "lemmas": 24282,
+    "checked_last_hour": 41,
+    "last_checked_at": "2026-11-27T11:28:13.567Z",
+    "checker_runs_accepted_hour": 41,
+    "messages_today": 2263,
+    "points": 319863,
+    "points_last_hour": 762,
+    "points_last_24h": 101453,
     "points_by_program": {
       "gct": 3500,
-      "lib": 190,
+      "lib": 200,
       "clb": 88,
-      "meta": 309038,
-      "pcx": 6864
+      "meta": 309171,
+      "pcx": 6904
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "If you can read every rule of an impossible puzzle while remembering just three earlier answers, there is a short proof that nobody can solve it. For an unsatisfiable formula on n variables, scan the variables once in order, starting with empty memory. Keep any subset of the old memory and the current variable. If each clause fits in the memory plus the current variable at some step, and at most three are remembered before each query, the formula has a resolution refutation of at most 24n lines with at most four literals per line, including the input clauses in the count (L-pcx-206).",
+  "status_text": "The answer changes if you cut the ring and let its two ends disagree. In the 13-bit, one-round key test, row zero and column one both need scores below 64. A scan with a free copy of one bit accepts 3759. Close the ring, and among all keys that meet the row cutoff the lowest column score is exactly 115. Lean checked the false positive and the exact minimum (L-meta-25524). Any scan meant to decide this test has to account for the join.",
   "outside_contributors_total": 954,
-  "outside_steps_total": 11837,
+  "outside_steps_total": 11849,
   "author_rank": 821,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -83,13 +83,13 @@
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 412,
+      "steps": 413,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 7,
       "github": "Julleht",
-      "steps": 365,
+      "steps": 368,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 276,
+      "steps": 277,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
