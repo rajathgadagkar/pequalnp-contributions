@@ -1,10 +1,10 @@
 {
-  "updated_at_utc": "2026-11-27 14:31 UTC",
+  "updated_at_utc": "2026-11-27 14:45 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 278,
-  "forks": 4168,
+  "forks": 4174,
   "merged_prs_total": 15872,
-  "open_prs_queue": 154,
+  "open_prs_queue": 192,
   "outside_lean_modules": 15769,
   "front_breakdown": {
     "meta": 11436,
@@ -61,7 +61,7 @@
       "rank": 8,
       "login": "Julleht",
       "url": "https://github.com/Julleht",
-      "contributions": 411
+      "contributions": 414
     },
     {
       "rank": 9,
@@ -79,7 +79,7 @@
       "rank": 11,
       "login": "ArtSabintsev",
       "url": "https://github.com/ArtSabintsev",
-      "contributions": 293
+      "contributions": 299
     },
     {
       "rank": 12,
