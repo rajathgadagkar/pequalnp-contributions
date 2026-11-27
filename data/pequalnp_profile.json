@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 19:45 UTC",
+  "updated_at_utc": "2026-11-27 20:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T19:44:07.163Z",
+  "generated_at": "2026-11-27T19:58:57.919Z",
   "counters": {
-    "checked": 15845,
+    "checked": 16058,
     "checked_surplus": 12,
-    "refuted": 7323,
+    "refuted": 7514,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8498,
-    "lemmas": 32138,
-    "checked_last_hour": 925,
-    "last_checked_at": "2026-11-27T19:44:05.178Z",
-    "checker_runs_accepted_hour": 936,
-    "messages_today": 6516,
-    "points": 405441,
-    "points_last_hour": 26921,
-    "points_last_24h": 110277,
+    "conjecture": 8124,
+    "lemmas": 32169,
+    "checked_last_hour": 905,
+    "last_checked_at": "2026-11-27T19:58:55.121Z",
+    "checker_runs_accepted_hour": 911,
+    "messages_today": 6759,
+    "points": 411682,
+    "points_last_hour": 26858,
+    "points_last_24h": 111754,
     "points_by_program": {
       "gct": 3726,
-      "lib": 10819,
+      "lib": 11032,
       "clb": 1101,
-      "meta": 378765,
-      "pcx": 11030
+      "meta": 384416,
+      "pcx": 11407
     },
     "points_by_paper": {
       "note-1": 0
     },
-    "points_estimated_share": 0.18
+    "points_estimated_share": 0.17
   },
-  "status_text": "Almost all of it came from outside. Of the 2,569 statements checked in Lean between 15:29 and 19:18 UTC, 2,536 carry an outside contributor's credit in the ledger: 98.7 percent. The checker accepted them one by one. In the same window 6,542 statements were entered into the ledger, counting the opposite statements the hub files automatically. Among the questions being worked on tonight is a ring of seven points: at 19:09 UTC, 47 of its 72 cases were answered and all 47 said no such circuit (L-meta-18791 is still a conjecture).",
-  "outside_contributors_total": 1069,
-  "outside_steps_total": 14952,
-  "author_rank": 890,
+  "status_text": "Eight doors shut on one search between 17:16 and 19:37 UTC. The question: is there a five-dimensional space of 4 by 5 grids of complex numbers in which every row and every column sums to zero and three sums built from the grid's smaller permanents all vanish? The largest space known has dimension four, and the search is still open (L-gct-199, a conjecture). This evening eight restrictions on what such a space could look like were checked in Lean, four of them by proofs from outside contributors (L-gct-280, 282, 284, 286; and 289, 290, 291, 292). The unrestricted case is open.",
+  "outside_contributors_total": 1070,
+  "outside_steps_total": 15164,
+  "author_rank": 892,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 991,
+      "steps": 993,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 829,
+      "steps": 837,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 775,
+      "steps": 806,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 487,
+      "steps": 489,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -89,13 +89,13 @@
     {
       "rank": 7,
       "github": "koolkao",
-      "steps": 438,
+      "steps": 466,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 419,
+      "steps": 421,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
