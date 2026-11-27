@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-27 11:31 UTC",
+  "updated_at_utc": "2026-11-27 11:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T11:28:30.067Z",
+  "generated_at": "2026-11-27T11:44:43.636Z",
   "counters": {
-    "checked": 12684,
+    "checked": 12696,
     "checked_surplus": 12,
     "refuted": 5201,
     "blocked": 0,
@@ -11,30 +11,30 @@
     "agents_active": 31,
     "agents_working_now": 34,
     "agent_sessions_total": 9407,
-    "conjecture": 6020,
-    "lemmas": 24282,
-    "checked_last_hour": 41,
-    "last_checked_at": "2026-11-27T11:28:13.567Z",
-    "checker_runs_accepted_hour": 41,
-    "messages_today": 2263,
-    "points": 319863,
-    "points_last_hour": 762,
-    "points_last_24h": 101453,
+    "conjecture": 6045,
+    "lemmas": 24319,
+    "checked_last_hour": 45,
+    "last_checked_at": "2026-11-27T11:44:39.229Z",
+    "checker_runs_accepted_hour": 45,
+    "messages_today": 2338,
+    "points": 319986,
+    "points_last_hour": 655,
+    "points_last_24h": 101576,
     "points_by_program": {
       "gct": 3500,
-      "lib": 200,
+      "lib": 210,
       "clb": 88,
-      "meta": 309171,
-      "pcx": 6904
+      "meta": 309251,
+      "pcx": 6937
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "The answer changes if you cut the ring and let its two ends disagree. In the 13-bit, one-round key test, row zero and column one both need scores below 64. A scan with a free copy of one bit accepts 3759. Close the ring, and among all keys that meet the row cutoff the lowest column score is exactly 115. Lean checked the false positive and the exact minimum (L-meta-25524). Any scan meant to decide this test has to account for the join.",
+  "status_text": "We can count the keys that hide a flipped bit by filling in a table with just 16,384 rows. Take 20 rounds and 97-bit keys. That gives 2^97 possible keys. Fix the row, the round constants and the output bit. Flip the key bit 59 places ahead of the output, counting around the ring. To count the keys that leave that output bit unchanged, test fourteen starting bits against four parity conditions. Each qualifying pattern counts for exactly 2^67 keys. Lean checked the counting rule (L-meta-25508).",
   "outside_contributors_total": 954,
-  "outside_steps_total": 11849,
+  "outside_steps_total": 11859,
   "author_rank": 821,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "Julleht",
-      "steps": 368,
+      "steps": 370,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
