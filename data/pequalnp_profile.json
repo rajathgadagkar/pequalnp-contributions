@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 17:15 UTC",
+  "updated_at_utc": "2026-11-27 17:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T17:13:30.855Z",
+  "generated_at": "2026-11-27T17:27:24.290Z",
   "counters": {
-    "checked": 13644,
+    "checked": 13828,
     "checked_surplus": 12,
-    "refuted": 5511,
+    "refuted": 5668,
     "blocked": 0,
     "in_work": 0,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9479,
-    "lemmas": 29082,
-    "checked_last_hour": 519,
-    "last_checked_at": "2026-11-27T17:13:28.730Z",
-    "checker_runs_accepted_hour": 519,
-    "messages_today": 3762,
-    "points": 344075,
-    "points_last_hour": 13792,
-    "points_last_24h": 84333,
+    "conjecture": 9176,
+    "lemmas": 29122,
+    "checked_last_hour": 647,
+    "last_checked_at": "2026-11-27T17:27:20.594Z",
+    "checker_runs_accepted_hour": 647,
+    "messages_today": 3847,
+    "points": 348517,
+    "points_last_hour": 16571,
+    "points_last_24h": 82793,
     "points_by_program": {
-      "gct": 3559,
-      "lib": 7322,
-      "clb": 520,
-      "meta": 324264,
-      "pcx": 8410
+      "gct": 3608,
+      "lib": 7507,
+      "clb": 572,
+      "meta": 328266,
+      "pcx": 8564
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.19
   },
-  "status_text": "The thousand questions filed half an hour ago are already getting answers. For 500 small graphs we had written down both sides: one NOT gate saves nothing, or it shortens the circuit. At 16:55 UTC, 69 of the 500 pairs were decided: one side checked and its opposite refuted. For the first graph on the list and the last, the checked side is that the NOT gate saves nothing (L-meta-26034, L-meta-27127). And a question raised in the public discussion, does copying a row of a table always cost one more gate, got its answer: no. Lean accepted an example where the copy costs nothing (L-meta-27131).",
-  "outside_contributors_total": 1012,
-  "outside_steps_total": 12770,
-  "author_rank": 856,
+  "status_text": "Three contributor proofs were accepted by Lean within two minutes just after 17:00 UTC (L-meta-25512, L-meta-25565, L-meta-25930). The third says: under a stated condition on how often a table repeats its rows and columns, a circuit with NOT gates for it can be replaced by one without them of at most the same size, when one row and one column are selected and gates read at most two wires. And in house, 79 minutes after it was filed, Lean checked that every circuit for one three-by-three matching question can be put, without growing, in a form whose opening gate is one of five (L-meta-25876).",
+  "outside_contributors_total": 1019,
+  "outside_steps_total": 12953,
+  "author_rank": 858,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,13 +53,13 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 901,
+      "steps": 911,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 734,
+      "steps": 776,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -76,15 +76,15 @@
     },
     {
       "rank": 5,
-      "github": "willakone",
-      "steps": 451,
-      "first_proof_at": "2026-11-24T01:36:49.375Z"
+      "github": "odinfree",
+      "steps": 452,
+      "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 6,
-      "github": "odinfree",
-      "steps": 435,
-      "first_proof_at": "2026-11-23T22:39:08.799Z"
+      "github": "willakone",
+      "steps": 451,
+      "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 338,
+      "steps": 342,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
