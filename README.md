@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-27 08:15 UTC**_
+_Last synced automatically: **2026-11-27 08:31 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -34,23 +34,23 @@ _Last synced automatically: **2026-11-27 08:15 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 269` stars · `🍴 4,058` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 270` stars · `🍴 4,064` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
 | **Checked Lemmas (pequalnp.com Fleet + Outside)** | **12,623** |
-| **Checked in Last Hour** | **+5** |
+| **Checked in Last Hour** | **+3** |
 | **Outside Contributors / Outside Steps** | **952** / **11,795** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **15,207** |
-| **Total Merged Proof PRs** | **15,310** |
-| **Active PRs in Checker Queue** | **86** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **15,227** |
+| **Total Merged Proof PRs** | **15,330** |
+| **Active PRs in Checker Queue** | **80** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 11,345 | 74.6% | `█████████████░░░░░` |
-| **OTHER** (`L_other_*`) | 3,753 | 24.7% | `████░░░░░░░░░░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 11,345 | 74.5% | `█████████████░░░░░` |
+| **OTHER** (`L_other_*`) | 3,773 | 24.8% | `████░░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 61 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 40 | 0.3% | `░░░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 7 | 0.0% | `░░░░░░░░░░░░░░░░░░` |
