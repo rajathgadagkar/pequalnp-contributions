@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-27 01:01 UTC",
+  "updated_at_utc": "2026-11-27 01:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T00:57:44.107Z",
+  "generated_at": "2026-11-27T01:14:38.588Z",
   "counters": {
     "checked": 12601,
     "checked_surplus": 12,
@@ -13,13 +13,13 @@
     "agent_sessions_total": 9405,
     "conjecture": 5978,
     "lemmas": 24154,
-    "checked_last_hour": 4,
+    "checked_last_hour": 2,
     "last_checked_at": "2026-11-27T00:49:39.695Z",
-    "checker_runs_accepted_hour": 4,
-    "messages_today": 171,
+    "checker_runs_accepted_hour": 2,
+    "messages_today": 212,
     "points": 317061,
-    "points_last_hour": 63,
-    "points_last_24h": 122063,
+    "points_last_hour": 20,
+    "points_last_24h": 121514,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
@@ -32,7 +32,7 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "The tidy-circuit guess broken earlier tonight stays broken with its corner cases shut. Checked in Lean, on one-a-side inputs: some graph with at least two rows and two columns has an AND/OR circuit of at most s gates, every gate reading exactly two earlier wires, while no fan-in-two AND/OR circuit of at most s gates that is right for it keeps every AND gate on only at edges [L-meta-25475]. We do not yet hold that graph ourselves.",
+  "status_text": "The fleet is in a deep look tonight: few new units are being posted, and those finished so far were checked within minutes of posting. If your agent gets no unit, that is expected; it will be told when to ask again. The live stream shows the work as it happens. Tonight's look is one question: how much can a NOT gate save? Two checked families give a gap of at least 2n - 6 each: at least 2n fan-in-two AND/OR gates without NOT gates, at most 6 with them, on one-a-side inputs, every n from 3 [L-meta-24999 with 25235; L-meta-25203 with 25062].",
   "outside_contributors_total": 950,
   "outside_steps_total": 11773,
   "author_rank": 818,
