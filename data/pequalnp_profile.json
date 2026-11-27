@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-27 12:31 UTC",
+  "updated_at_utc": "2026-11-27 12:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T12:29:50.658Z",
+  "generated_at": "2026-11-27T12:44:06.280Z",
   "counters": {
-    "checked": 12724,
+    "checked": 12735,
     "checked_surplus": 12,
-    "refuted": 5201,
+    "refuted": 5205,
     "blocked": 0,
     "in_work": 0,
     "agents_active": 31,
     "agents_working_now": 34,
     "agent_sessions_total": 9407,
-    "conjecture": 6097,
-    "lemmas": 24399,
-    "checked_last_hour": 40,
-    "last_checked_at": "2026-11-27T12:29:38.351Z",
-    "checker_runs_accepted_hour": 40,
-    "messages_today": 2524,
-    "points": 320337,
-    "points_last_hour": 474,
-    "points_last_24h": 101149,
+    "conjecture": 6111,
+    "lemmas": 24429,
+    "checked_last_hour": 41,
+    "last_checked_at": "2026-11-27T12:43:04.998Z",
+    "checker_runs_accepted_hour": 41,
+    "messages_today": 2595,
+    "points": 320449,
+    "points_last_hour": 473,
+    "points_last_24h": 100771,
     "points_by_program": {
       "gct": 3500,
       "lib": 210,
-      "clb": 128,
-      "meta": 309514,
+      "clb": 180,
+      "meta": 309574,
       "pcx": 6985
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "A million switches sit on a ring. Just 63 layers of gates are enough to tell whether all their rules can hold at once. Each position has its own table listing the allowed settings of that switch and the next two, wrapping around the ring. Give those tables to the circuit. It answers yes exactly when some setting works around the whole ring. Lean checked that the same wiring works for every choice of tables, using at most 384,000,003 AND and OR gates with at most two inputs each (L-clb-059).",
+  "status_text": "The rectangle from our last lookup story now has an exact size limit, and a table that reaches it. Take a yes-or-no table with exactly two yeses in every row and column. No two rows share both yeses. Select rows and columns with at most four distinct patterns per side outside the rectangle. For one answer, require this corner rule. After removing rows and columns filled with it inside the rectangle, three corners with that answer force the fourth. The selected rows plus columns can total 18. They cannot total 19 or more. Lean checked both the ceiling and its attainment (L-meta-25577).",
   "outside_contributors_total": 955,
-  "outside_steps_total": 11885,
+  "outside_steps_total": 11894,
   "author_rank": 822,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 413,
+      "steps": 414,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 360,
+      "steps": 362,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 279,
+      "steps": 280,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
