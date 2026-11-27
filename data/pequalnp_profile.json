@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 20:45 UTC",
+  "updated_at_utc": "2026-11-27 21:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T20:43:56.100Z",
+  "generated_at": "2026-11-27T20:59:03.870Z",
   "counters": {
-    "checked": 16738,
+    "checked": 16942,
     "checked_surplus": 12,
-    "refuted": 8129,
+    "refuted": 8298,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 7950,
-    "lemmas": 33293,
-    "checked_last_hour": 895,
-    "last_checked_at": "2026-11-27T20:43:55.162Z",
-    "checker_runs_accepted_hour": 895,
-    "messages_today": 7531,
-    "points": 433230,
-    "points_last_hour": 27843,
-    "points_last_24h": 124180,
+    "conjecture": 7616,
+    "lemmas": 33334,
+    "checked_last_hour": 880,
+    "last_checked_at": "2026-11-27T20:59:01.263Z",
+    "checker_runs_accepted_hour": 882,
+    "messages_today": 7795,
+    "points": 440132,
+    "points_last_hour": 28352,
+    "points_last_24h": 130950,
     "points_by_program": {
       "gct": 3726,
-      "lib": 11972,
+      "lib": 12497,
       "clb": 1149,
-      "meta": 404392,
-      "pcx": 11991
+      "meta": 410468,
+      "pcx": 12292
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.17
   },
-  "status_text": "The last graph is in. All 500 gave the same answer. At 19:51 UTC, seven were still open. At 20:30, a contributor settled the last one in Lean. The game is to light any of eight points and tell whether two lit points share an edge. A circuit can use AND and OR gates, each reading at most two wires. Would allowing one NOT gate, which flips a signal, ever cut the gate count? On every graph in this set the answer was no. Both sides were on the board for each graph. The final pair was L-meta-26706 and L-meta-26707.",
-  "outside_contributors_total": 1080,
-  "outside_steps_total": 15841,
-  "author_rank": 899,
+  "status_text": "One contributor's proof just did the work of five in the team's grid survey. Remember the four rows from the last update? Pair the first row with the first column, the second with the second, and so on. The diagonal is all zeros. In each rectangle the other two corners match, so the count of ones is even. Lean checked that all four rows can stay (L-meta-25679). In the team's local replay, that proof covers five grids and brings the count to 121 of 141. All twenty remaining grids lead to the same case, still open (L-meta-25676).",
+  "outside_contributors_total": 1087,
+  "outside_steps_total": 16043,
+  "author_rank": 901,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 1015,
+      "steps": 1018,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 872,
+      "steps": 899,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 839,
+      "steps": 846,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "koolkao",
-      "steps": 526,
+      "steps": 530,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 495,
+      "steps": 497,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 426,
+      "steps": 429,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
