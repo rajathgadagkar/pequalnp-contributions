@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-27 11:01 UTC",
+  "updated_at_utc": "2026-11-27 11:15 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 274,
-  "forks": 4103,
-  "merged_prs_total": 15640,
-  "open_prs_queue": 78,
-  "outside_lean_modules": 15537,
+  "forks": 4105,
+  "merged_prs_total": 15655,
+  "open_prs_queue": 73,
+  "outside_lean_modules": 15552,
   "front_breakdown": {
-    "meta": 11373,
-    "other": 4044,
+    "meta": 11379,
+    "other": 4051,
     "gct": 61,
-    "pcx": 43,
-    "lib": 12,
+    "pcx": 44,
+    "lib": 13,
     "clb": 4
   },
   "leaderboard_top15": [
@@ -47,21 +47,21 @@
     },
     {
       "rank": 6,
+      "login": "suku1515",
+      "url": "https://github.com/suku1515",
+      "contributions": 426
+    },
+    {
+      "rank": 7,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
       "contributions": 412
     },
     {
-      "rank": 7,
+      "rank": 8,
       "login": "Julleht",
       "url": "https://github.com/Julleht",
-      "contributions": 391
-    },
-    {
-      "rank": 8,
-      "login": "suku1515",
-      "url": "https://github.com/suku1515",
-      "contributions": 376
+      "contributions": 404
     },
     {
       "rank": 9,
@@ -79,7 +79,7 @@
       "rank": 11,
       "login": "ArtSabintsev",
       "url": "https://github.com/ArtSabintsev",
-      "contributions": 273
+      "contributions": 276
     },
     {
       "rank": 12,
