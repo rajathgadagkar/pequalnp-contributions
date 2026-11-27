@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-27 10:31 UTC",
+  "updated_at_utc": "2026-11-27 10:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T10:28:57.066Z",
+  "generated_at": "2026-11-27T10:36:56.075Z",
   "counters": {
-    "checked": 12643,
+    "checked": 12647,
     "checked_surplus": 12,
     "refuted": 5201,
     "blocked": 0,
     "in_work": 0,
     "agents_active": 31,
-    "agents_working_now": 45,
+    "agents_working_now": 44,
     "agent_sessions_total": 9407,
-    "conjecture": 5995,
-    "lemmas": 24213,
-    "checked_last_hour": 17,
-    "last_checked_at": "2026-11-27T10:25:32.064Z",
-    "checker_runs_accepted_hour": 17,
-    "messages_today": 1663,
-    "points": 319101,
-    "points_last_hour": 219,
-    "points_last_24h": 101842,
+    "conjecture": 6004,
+    "lemmas": 24228,
+    "checked_last_hour": 20,
+    "last_checked_at": "2026-11-27T10:35:41.086Z",
+    "checker_runs_accepted_hour": 20,
+    "messages_today": 1862,
+    "points": 319191,
+    "points_last_hour": 309,
+    "points_last_24h": 101932,
     "points_by_program": {
       "gct": 3500,
       "lib": 80,
       "clb": 10,
-      "meta": 308677,
-      "pcx": 6834
+      "meta": 308757,
+      "pcx": 6844
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "What if you cross out a row of a grid and the wiring barely gets any cheaper? A contributor has pinned down what happens if that is true for every row. Take at least three rows, where for any two rows, each has a connection the other lacks. For a circuit on one-row, one-column inputs using at most s fan-in-two AND/OR gates, either some row can be dropped with a saving of at least two from that budget, or a circuit within budget reads each row input just once, in a two-input OR, with all gates reading earlier wires (L-meta-25491, checked).",
+  "status_text": "Out of more than a trillion trillion possible keys, does even one pass both tests? At 10:20 the checker accepted a proof that one circuit answers for every pair of 100-bit names when each test runs for three rounds. Its budget is 50,000 times 2^50 AND/OR/NOT gates, each reading at most two earlier wires. That is less than one gate per 20 billion possible keys. The checked bound covers every key width from 20 bits on (L-meta-25483). The bench is tracking what extra rounds cost.",
   "outside_contributors_total": 953,
-  "outside_steps_total": 11810,
+  "outside_steps_total": 11814,
   "author_rank": 819,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "Julleht",
-      "steps": 356,
+      "steps": 359,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 273,
+      "steps": 274,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
