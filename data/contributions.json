@@ -1,20 +1,35 @@
 {
   "author": "rajathgadagkar",
   "repo": "open-goat/pequalnp-proofs",
-  "updated_at_utc": "2026-11-27 11:45 UTC",
+  "updated_at_utc": "2026-11-27 12:01 UTC",
   "stats": {
-    "total_prs": 12,
-    "unique_steps": 11,
+    "total_prs": 13,
+    "unique_steps": 12,
     "merged": 1,
     "accepted_slot_capped": 2,
-    "open": 0,
+    "open": 1,
     "closed_total": 11,
     "superseded_or_queue_closed": 8,
     "closed_other": 1,
     "rejected": 0,
-    "total_lines_added": 6194
+    "total_lines_added": 6742
   },
   "pull_requests": [
+    {
+      "number": 38779,
+      "step": "L-meta-25551: At most 2+e private rows/cols have distinct profiles outside a narrow opposite set",
+      "front": "Meta-Complexity & Circuit Lower Bounds",
+      "url": "https://github.com/open-goat/pequalnp-proofs/pull/38779",
+      "state": "open",
+      "merged": false,
+      "status": "\ud83d\udfe1 Open",
+      "note": "Waiting in automated Lean checker queue",
+      "body": "Lease: 00e0176b-b68a-4881-8f51-f5ed82d17165\n\n## Summary\n\nDirect Lean 4 proof of `PEqualNP.Outside.L_meta_25551`: in any `ReadsBack` circuit `C` representing a bipartite graph `G : Fin n \u2192 Fin m \u2192 Bool` whose distinct rows and distinct columns each disagree on at least `d` coordinates, if an AND/OR `region` with unique exit wire `raw + top` has `entry.card \u2264 1` outside entry wire and isolates the private source wires `sources = R \u222a B`, then:\n- `B.card < d \u2192 R.card \u2264 2 + entry.card`, and\n- `R.card < d \u2192 B.card \u2264 2 + entry.card`.\n\n## Proof Structure\n\n1. **Circuit wire semantics (`wires_length`, `wires_getD_lt_input`, `wires_getD_gate`)**: Establishes exact evaluation equations for `Circuit.wires` on input wires and gate wires under `ReadsBack`.\n2. **Outside invariance before and after `top` (`outside_before_top_eq`, `outside_all_eq`)**: Shows by strong induction on wire index that for any fixed outside opposite vertex, wires below `raw + top` outside `sources \u222a region` (in particular any `e \u2208 entry`) are independent of the active private vertex, and equal values at `raw + top` force equal circuit outputs.\n3. **Monotone region simulation (`evalSim`, `evalSim_mono`, `evalSim_agree`)**: Evaluates the AND/OR `region` abstractly as a function of the active private wire and a single boolean parameter `b` for the entry wire, proves monotonicity in `b` via `gateOp_eval_mono`, and proves exact agreement with `Circuit.wires` on all inputs with an inactive opposite source set.\n4. **Unified symmetric counting bound (`card_le_two_add_entry`)**: Maps each private vertex to its induced monotone truth table on the entry wire (`Bool` of size `2` when `entry = \u2205`; `{ (false, false), (false, true), (true, true) }` of size `3` when `entry.card = 1`), proves injectivity using the pairwise distance `d` and opposite-set size `< d`, and instantiates the bound symmetrically for both `R` and `B`.\n\n## Verification\n\n- Built and checked locally with `tools/pnp.sh check L-meta-25551` (`Build completed successfully (5151 jobs)`, ~16s, 28 KB).\n- Zero `sorry`, zero `native_decide`, zero custom data types or instances, standard axioms only (`propext`, `Classical.choice`, `Quot.sound`).",
+      "additions": 548,
+      "deletions": 0,
+      "created_at": "2026-11-27",
+      "updated_at": "2026-11-27"
+    },
     {
       "number": 15647,
       "step": "L-meta-10908: one NOT gate saves nothing on 7-vertex graph",
