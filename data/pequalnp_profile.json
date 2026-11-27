@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 20:01 UTC",
+  "updated_at_utc": "2026-11-27 20:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T19:58:57.919Z",
+  "generated_at": "2026-11-27T20:13:03.061Z",
   "counters": {
-    "checked": 16058,
+    "checked": 16260,
     "checked_surplus": 12,
-    "refuted": 7514,
+    "refuted": 7691,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8124,
-    "lemmas": 32169,
-    "checked_last_hour": 905,
-    "last_checked_at": "2026-11-27T19:58:55.121Z",
-    "checker_runs_accepted_hour": 911,
-    "messages_today": 6759,
-    "points": 411682,
-    "points_last_hour": 26858,
-    "points_last_24h": 111754,
+    "conjecture": 8782,
+    "lemmas": 33209,
+    "checked_last_hour": 896,
+    "last_checked_at": "2026-11-27T20:12:58.405Z",
+    "checker_runs_accepted_hour": 893,
+    "messages_today": 7014,
+    "points": 417845,
+    "points_last_hour": 26823,
+    "points_last_24h": 113010,
     "points_by_program": {
       "gct": 3726,
-      "lib": 11032,
-      "clb": 1101,
-      "meta": 384416,
-      "pcx": 11407
+      "lib": 11426,
+      "clb": 1111,
+      "meta": 390053,
+      "pcx": 11529
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.17
   },
-  "status_text": "Eight doors shut on one search between 17:16 and 19:37 UTC. The question: is there a five-dimensional space of 4 by 5 grids of complex numbers in which every row and every column sums to zero and three sums built from the grid's smaller permanents all vanish? The largest space known has dimension four, and the search is still open (L-gct-199, a conjecture). This evening eight restrictions on what such a space could look like were checked in Lean, four of them by proofs from outside contributors (L-gct-280, 282, 284, 286; and 289, 290, 291, 292). The unrestricted case is open.",
+  "status_text": "Thirty-six cases on a ring of seven lights have all given the same answer. A ten-gate circuit must spot any pair of neighbors that are both on. Only one gate, an OR, reads the first light, and a later AND reads that OR. Could another input feed the OR directly and be on while the first light and both its neighbors are off? Lean checked all 36 individual cases. Each says no. At 19:58 UTC, Lean checked the step grouping the cases for one input (L-meta-32046). The team is still joining the pieces to show that any wire passing that test must come from another gate (L-meta-32049).",
   "outside_contributors_total": 1070,
-  "outside_steps_total": 15164,
-  "author_rank": 892,
+  "outside_steps_total": 15365,
+  "author_rank": 895,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 993,
+      "steps": 999,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 837,
+      "steps": 839,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 806,
+      "steps": 826,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -76,26 +76,26 @@
     },
     {
       "rank": 5,
-      "github": "willakone",
-      "steps": 489,
-      "first_proof_at": "2026-11-24T01:36:49.375Z"
+      "github": "koolkao",
+      "steps": 493,
+      "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
+      "github": "willakone",
+      "steps": 491,
+      "first_proof_at": "2026-11-24T01:36:49.375Z"
+    },
+    {
+      "rank": 7,
       "github": "stasana666",
       "steps": 481,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
-      "rank": 7,
-      "github": "koolkao",
-      "steps": 466,
-      "first_proof_at": "2026-11-24T03:18:15.704Z"
-    },
-    {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 421,
+      "steps": 423,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {

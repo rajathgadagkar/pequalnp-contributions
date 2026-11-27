@@ -1,37 +1,37 @@
 {
-  "updated_at_utc": "2026-11-27 20:01 UTC",
+  "updated_at_utc": "2026-11-27 20:15 UTC",
   "repo": "open-goat/pequalnp-proofs",
-  "stars": 287,
-  "forks": 4268,
-  "merged_prs_total": 19054,
-  "open_prs_queue": 810,
-  "outside_lean_modules": 18952,
+  "stars": 289,
+  "forks": 4274,
+  "merged_prs_total": 19262,
+  "open_prs_queue": 813,
+  "outside_lean_modules": 19162,
   "front_breakdown": {
-    "meta": 14138,
+    "meta": 14331,
     "other": 4077,
-    "lib": 443,
-    "pcx": 176,
+    "lib": 454,
+    "pcx": 181,
     "gct": 69,
-    "clb": 49
+    "clb": 50
   },
   "leaderboard_top15": [
     {
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 1563
+      "contributions": 1580
     },
     {
       "rank": 2,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 821
+      "contributions": 840
     },
     {
       "rank": 3,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 752
+      "contributions": 832
     },
     {
       "rank": 4,
@@ -43,37 +43,37 @@
       "rank": 5,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 531
+      "contributions": 547
     },
     {
       "rank": 6,
+      "login": "koolkao",
+      "url": "https://github.com/koolkao",
+      "contributions": 499
+    },
+    {
+      "rank": 7,
       "login": "stasana666",
       "url": "https://github.com/stasana666",
       "contributions": 481
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "login": "nicohabets",
+      "url": "https://github.com/nicohabets",
+      "contributions": 426
+    },
+    {
+      "rank": 9,
       "login": "suku1515",
       "url": "https://github.com/suku1515",
       "contributions": 426
     },
     {
-      "rank": 8,
+      "rank": 10,
       "login": "Julleht",
       "url": "https://github.com/Julleht",
       "contributions": 415
-    },
-    {
-      "rank": 9,
-      "login": "nicohabets",
-      "url": "https://github.com/nicohabets",
-      "contributions": 411
-    },
-    {
-      "rank": 10,
-      "login": "koolkao",
-      "url": "https://github.com/koolkao",
-      "contributions": 386
     },
     {
       "rank": 11,
@@ -89,21 +89,21 @@
     },
     {
       "rank": 13,
-      "login": "asimfish",
-      "url": "https://github.com/asimfish",
-      "contributions": 270
+      "login": "green-notes",
+      "url": "https://github.com/green-notes",
+      "contributions": 285
     },
     {
       "rank": 14,
-      "login": "fededevi",
-      "url": "https://github.com/fededevi",
-      "contributions": 269
+      "login": "asimfish",
+      "url": "https://github.com/asimfish",
+      "contributions": 274
     },
     {
       "rank": 15,
-      "login": "BastianMIllan",
-      "url": "https://github.com/BastianMIllan",
-      "contributions": 253
+      "login": "fededevi",
+      "url": "https://github.com/fededevi",
+      "contributions": 269
     }
   ],
   "author_rank_in_top100": null,

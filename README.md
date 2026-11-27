@@ -1,10 +1,10 @@
 # 🧮 P vs NP Lean 4 Contributions — `@rajathgadagkar`
 
-<p><a href="https://lean-lang.org/"><img src="https://img.shields.io/badge/Lean%204-Mathlib-blueviolet?style=flat-square" alt="Lean 4" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp.com-Contributor%20Card-ff69b4?style=flat-square" alt="Contributor Card" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp%20Rank-%23892%20of%201070-8957e5?style=flat-square" alt="pequalnp Rank" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-1-2ea44f?style=flat-square" alt="Merged PRs" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Aopen"><img src="https://img.shields.io/badge/In%20Queue-0-d29922?style=flat-square" alt="In Queue" /></a> <a href="#pull-request-log"><img src="https://img.shields.io/badge/Lean%204%20LOC-%2B6742-0969da?style=flat-square" alt="Lean 4 LOC" /></a> <a href=".github/workflows/update.yml"><img src="https://img.shields.io/badge/Updates-Hourly%20via%20Actions-brightgreen?style=flat-square" alt="Auto-Updated" /></a></p>
+<p><a href="https://lean-lang.org/"><img src="https://img.shields.io/badge/Lean%204-Mathlib-blueviolet?style=flat-square" alt="Lean 4" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp.com-Contributor%20Card-ff69b4?style=flat-square" alt="Contributor Card" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp%20Rank-%23895%20of%201070-8957e5?style=flat-square" alt="pequalnp Rank" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-1-2ea44f?style=flat-square" alt="Merged PRs" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Aopen"><img src="https://img.shields.io/badge/In%20Queue-0-d29922?style=flat-square" alt="In Queue" /></a> <a href="#pull-request-log"><img src="https://img.shields.io/badge/Lean%204%20LOC-%2B6742-0969da?style=flat-square" alt="Lean 4 LOC" /></a> <a href=".github/workflows/update.yml"><img src="https://img.shields.io/badge/Updates-Hourly%20via%20Actions-brightgreen?style=flat-square" alt="Auto-Updated" /></a></p>
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-27 20:01 UTC**_
+_Last synced automatically: **2026-11-27 20:15 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -22,7 +22,7 @@ _Last synced automatically: **2026-11-27 20:01 UTC**_
 
 | Metric | Value | Notes |
 | --- | ---: | --- |
-| **pequalnp.com Rank** | **#892 / 1,070** | Live outside contributor ranking on [pequalnp.com](https://pequalnp.com/a/rajathgadagkar) |
+| **pequalnp.com Rank** | **#895 / 1,070** | Live outside contributor ranking on [pequalnp.com](https://pequalnp.com/a/rajathgadagkar) |
 | **Total PRs Submitted** | **13** | Across **12** distinct proof steps |
 | **✅ Accepted & Merged** | **1** | Formally verified by the Lean 4 kernel & project checker |
 | **🟣 Checker-Accepted (Slot-Capped)** | **2** | Passed authoritative checker; closed unrecorded due to 5-open-reductions cap |
@@ -34,27 +34,27 @@ _Last synced automatically: **2026-11-27 20:01 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 287` stars · `🍴 4,268` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 289` stars · `🍴 4,274` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **16,058** |
-| **Checked in Last Hour** | **+905** |
-| **Outside Contributors / Outside Steps** | **1,070** / **15,164** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **18,952** |
-| **Total Merged Proof PRs** | **19,054** |
-| **Active PRs in Checker Queue** | **810** |
+| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **16,260** |
+| **Checked in Last Hour** | **+896** |
+| **Outside Contributors / Outside Steps** | **1,070** / **15,365** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **19,162** |
+| **Total Merged Proof PRs** | **19,262** |
+| **Active PRs in Checker Queue** | **813** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 14,138 | 74.6% | `█████████████░░░░░` |
-| **OTHER** (`L_other_*`) | 4,077 | 21.5% | `████░░░░░░░░░░░░░░` |
-| **Shared Library & Utilities** (`L_lib_*`) | 443 | 2.3% | `░░░░░░░░░░░░░░░░░░` |
-| **Proof Complexity** (`L_pcx_*`) | 176 | 0.9% | `░░░░░░░░░░░░░░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 14,331 | 74.8% | `█████████████░░░░░` |
+| **OTHER** (`L_other_*`) | 4,077 | 21.3% | `████░░░░░░░░░░░░░░` |
+| **Shared Library & Utilities** (`L_lib_*`) | 454 | 2.4% | `░░░░░░░░░░░░░░░░░░` |
+| **Proof Complexity** (`L_pcx_*`) | 181 | 0.9% | `░░░░░░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 69 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
-| **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 49 | 0.3% | `░░░░░░░░░░░░░░░░░░` |
+| **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 50 | 0.3% | `░░░░░░░░░░░░░░░░░░` |
 
 ## 🏆 Community Leaderboard
 
@@ -62,21 +62,21 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 
 | Rank | Contributor | Commits | Profile |
 | ---: | --- | ---: | --- |
-| 🥇 | `@foudress` | **1,563** | [GitHub](https://github.com/foudress) · [pequalnp](https://pequalnp.com/a/foudress) |
-| 🥈 | `@Leg0shii` | **821** | [GitHub](https://github.com/Leg0shii) · [pequalnp](https://pequalnp.com/a/Leg0shii) |
-| 🥉 | `@odinfree` | **752** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
+| 🥇 | `@foudress` | **1,580** | [GitHub](https://github.com/foudress) · [pequalnp](https://pequalnp.com/a/foudress) |
+| 🥈 | `@Leg0shii` | **840** | [GitHub](https://github.com/Leg0shii) · [pequalnp](https://pequalnp.com/a/Leg0shii) |
+| 🥉 | `@odinfree` | **832** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
 | #4 | `@k-sandhu` | **604** | [GitHub](https://github.com/k-sandhu) · [pequalnp](https://pequalnp.com/a/k-sandhu) |
-| #5 | `@willakone` | **531** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
-| #6 | `@stasana666` | **481** | [GitHub](https://github.com/stasana666) · [pequalnp](https://pequalnp.com/a/stasana666) |
-| #7 | `@suku1515` | **426** | [GitHub](https://github.com/suku1515) · [pequalnp](https://pequalnp.com/a/suku1515) |
-| #8 | `@Julleht` | **415** | [GitHub](https://github.com/Julleht) · [pequalnp](https://pequalnp.com/a/Julleht) |
-| #9 | `@nicohabets` | **411** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
-| #10 | `@koolkao` | **386** | [GitHub](https://github.com/koolkao) · [pequalnp](https://pequalnp.com/a/koolkao) |
+| #5 | `@willakone` | **547** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
+| #6 | `@koolkao` | **499** | [GitHub](https://github.com/koolkao) · [pequalnp](https://pequalnp.com/a/koolkao) |
+| #7 | `@stasana666` | **481** | [GitHub](https://github.com/stasana666) · [pequalnp](https://pequalnp.com/a/stasana666) |
+| #8 | `@nicohabets` | **426** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
+| #9 | `@suku1515` | **426** | [GitHub](https://github.com/suku1515) · [pequalnp](https://pequalnp.com/a/suku1515) |
+| #10 | `@Julleht` | **415** | [GitHub](https://github.com/Julleht) · [pequalnp](https://pequalnp.com/a/Julleht) |
 | #11 | `@edisonhello` | **356** | [GitHub](https://github.com/edisonhello) · [pequalnp](https://pequalnp.com/a/edisonhello) |
 | #12 | `@ArtSabintsev` | **323** | [GitHub](https://github.com/ArtSabintsev) · [pequalnp](https://pequalnp.com/a/ArtSabintsev) |
-| #13 | `@asimfish` | **270** | [GitHub](https://github.com/asimfish) · [pequalnp](https://pequalnp.com/a/asimfish) |
-| #14 | `@fededevi` | **269** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
-| #15 | `@BastianMIllan` | **253** | [GitHub](https://github.com/BastianMIllan) · [pequalnp](https://pequalnp.com/a/BastianMIllan) |
+| #13 | `@green-notes` | **285** | [GitHub](https://github.com/green-notes) · [pequalnp](https://pequalnp.com/a/green-notes) |
+| #14 | `@asimfish` | **274** | [GitHub](https://github.com/asimfish) · [pequalnp](https://pequalnp.com/a/asimfish) |
+| #15 | `@fededevi` | **269** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
 
 ## 📜 Pull Request Log
 
