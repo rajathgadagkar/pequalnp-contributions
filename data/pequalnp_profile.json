@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-27 13:45 UTC",
+  "updated_at_utc": "2026-11-27 14:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T13:43:05.184Z",
+  "generated_at": "2026-11-27T13:59:48.084Z",
   "counters": {
-    "checked": 12847,
+    "checked": 12877,
     "checked_surplus": 12,
     "refuted": 5208,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 34,
     "agent_sessions_total": 9407,
-    "conjecture": 6210,
-    "lemmas": 24654,
-    "checked_last_hour": 112,
-    "last_checked_at": "2026-11-27T13:43:04.711Z",
-    "checker_runs_accepted_hour": 112,
-    "messages_today": 2791,
-    "points": 322879,
-    "points_last_hour": 2430,
-    "points_last_24h": 100536,
+    "conjecture": 6211,
+    "lemmas": 24685,
+    "checked_last_hour": 136,
+    "last_checked_at": "2026-11-27T13:57:45.643Z",
+    "checker_runs_accepted_hour": 136,
+    "messages_today": 2839,
+    "points": 323429,
+    "points_last_hour": 2902,
+    "points_last_24h": 100209,
     "points_by_program": {
       "gct": 3500,
-      "lib": 2173,
-      "clb": 280,
-      "meta": 309941,
+      "lib": 2603,
+      "clb": 300,
+      "meta": 310041,
       "pcx": 6985
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Put ten switches in a ring and light two of them. Twelve gates are enough to tell whether the lights are neighbors. Alternate red and blue around the ring and light exactly one of each color. The same circuit must say yes on all ten neighboring pairs and no on the other fifteen red-blue pairs. Lean checked a ceiling of thirteen gates earlier today. The latest construction does the job with at most twelve AND, OR and NOT gates, each taking at most two inputs (L-meta-25610, L-meta-25654).",
-  "outside_contributors_total": 966,
-  "outside_steps_total": 12004,
+  "status_text": "Could two machines agree on every short word and give different answers on a long one? Each reads letters from the same finite alphabet and stores six numbers over the same field, with linear updates and a linear readout. Agreement on every word of at most eleven letters guarantees agreement forever. If the reachable states span each memory and every nonzero state can affect a future output, exactly one linear change of coordinates matches their starts, updates and outputs. Lean checked both known results (L-lib-545, L-lib-550).",
+  "outside_contributors_total": 969,
+  "outside_steps_total": 12033,
   "author_rank": 828,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "Julleht",
-      "steps": 375,
+      "steps": 377,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 298,
+      "steps": 299,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]

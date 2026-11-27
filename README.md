@@ -1,10 +1,10 @@
 # 🧮 P vs NP Lean 4 Contributions — `@rajathgadagkar`
 
-<p><a href="https://lean-lang.org/"><img src="https://img.shields.io/badge/Lean%204-Mathlib-blueviolet?style=flat-square" alt="Lean 4" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp.com-Contributor%20Card-ff69b4?style=flat-square" alt="Contributor Card" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp%20Rank-%23828%20of%20966-8957e5?style=flat-square" alt="pequalnp Rank" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-1-2ea44f?style=flat-square" alt="Merged PRs" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Aopen"><img src="https://img.shields.io/badge/In%20Queue-1-d29922?style=flat-square" alt="In Queue" /></a> <a href="#pull-request-log"><img src="https://img.shields.io/badge/Lean%204%20LOC-%2B6742-0969da?style=flat-square" alt="Lean 4 LOC" /></a> <a href=".github/workflows/update.yml"><img src="https://img.shields.io/badge/Updates-Hourly%20via%20Actions-brightgreen?style=flat-square" alt="Auto-Updated" /></a></p>
+<p><a href="https://lean-lang.org/"><img src="https://img.shields.io/badge/Lean%204-Mathlib-blueviolet?style=flat-square" alt="Lean 4" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp.com-Contributor%20Card-ff69b4?style=flat-square" alt="Contributor Card" /></a> <a href="https://pequalnp.com/a/rajathgadagkar"><img src="https://img.shields.io/badge/pequalnp%20Rank-%23828%20of%20969-8957e5?style=flat-square" alt="pequalnp Rank" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Amerged"><img src="https://img.shields.io/badge/Merged%20PRs-1-2ea44f?style=flat-square" alt="Merged PRs" /></a> <a href="https://github.com/open-goat/pequalnp-proofs/pulls?q=is%3Apr+author%3Arajathgadagkar+is%3Aopen"><img src="https://img.shields.io/badge/In%20Queue-0-d29922?style=flat-square" alt="In Queue" /></a> <a href="#pull-request-log"><img src="https://img.shields.io/badge/Lean%204%20LOC-%2B6742-0969da?style=flat-square" alt="Lean 4 LOC" /></a> <a href=".github/workflows/update.yml"><img src="https://img.shields.io/badge/Updates-Hourly%20via%20Actions-brightgreen?style=flat-square" alt="Auto-Updated" /></a></p>
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-27 13:45 UTC**_
+_Last synced automatically: **2026-11-27 14:01 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -22,39 +22,39 @@ _Last synced automatically: **2026-11-27 13:45 UTC**_
 
 | Metric | Value | Notes |
 | --- | ---: | --- |
-| **pequalnp.com Rank** | **#828 / 966** | Live outside contributor ranking on [pequalnp.com](https://pequalnp.com/a/rajathgadagkar) |
+| **pequalnp.com Rank** | **#828 / 969** | Live outside contributor ranking on [pequalnp.com](https://pequalnp.com/a/rajathgadagkar) |
 | **Total PRs Submitted** | **13** | Across **12** distinct proof steps |
 | **✅ Accepted & Merged** | **1** | Formally verified by the Lean 4 kernel & project checker |
 | **🟣 Checker-Accepted (Slot-Capped)** | **2** | Passed authoritative checker; closed unrecorded due to 5-open-reductions cap |
-| **🟡 Open (Checker Queue)** | **1** | Awaiting automated verification |
-| **⚪ Superseded / Queue-Closed** | **8** | Built cleanly locally; an earlier PR for the same step beat the queue |
-| **⚫ Closed (Other / Withdrawn)** | **1** | Closed manually or withdrawn without merge (11 closed total) |
+| **🟡 Open (Checker Queue)** | **0** | Awaiting automated verification |
+| **⚪ Superseded / Queue-Closed** | **9** | Built cleanly locally; an earlier PR for the same step beat the queue |
+| **⚫ Closed (Other / Withdrawn)** | **1** | Closed manually or withdrawn without merge (12 closed total) |
 | **🔴 Rejected by Checker** | **0** | Format or verification failures |
 | **Total Lean 4 Lines Written** | **+6,742** | Zero `sorry`, zero `native_decide`, standard axioms only |
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 276` stars · `🍴 4,153` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 276` stars · `🍴 4,159` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **12,847** |
-| **Checked in Last Hour** | **+112** |
-| **Outside Contributors / Outside Steps** | **966** / **12,004** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **15,743** |
-| **Total Merged Proof PRs** | **15,846** |
-| **Active PRs in Checker Queue** | **124** |
+| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **12,877** |
+| **Checked in Last Hour** | **+136** |
+| **Outside Contributors / Outside Steps** | **969** / **12,033** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **15,769** |
+| **Total Merged Proof PRs** | **15,872** |
+| **Active PRs in Checker Queue** | **107** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 11,430 | 72.6% | `█████████████░░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 11,436 | 72.5% | `█████████████░░░░░` |
 | **OTHER** (`L_other_*`) | 4,077 | 25.9% | `█████░░░░░░░░░░░░░` |
-| **Shared Library & Utilities** (`L_lib_*`) | 110 | 0.7% | `░░░░░░░░░░░░░░░░░░` |
+| **Shared Library & Utilities** (`L_lib_*`) | 128 | 0.8% | `░░░░░░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 61 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 48 | 0.3% | `░░░░░░░░░░░░░░░░░░` |
-| **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 17 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
+| **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 19 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
 
 ## 🏆 Community Leaderboard
 
@@ -82,7 +82,7 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 
 | PR | Step | Research Front | Status | Lines | Date | Outcome |
 | --- | --- | --- | --- | ---: | --- | --- |
-| [#38779](https://github.com/open-goat/pequalnp-proofs/pull/38779) | `L-meta-25551: At most 2+e private rows/cols have distinct profiles outside a narrow opposite set` | Meta-Complexity & Circuit Lower Bounds | 🟡 Open | +548 | 2026-11-27 | Waiting in automated Lean checker queue |
+| [#38779](https://github.com/open-goat/pequalnp-proofs/pull/38779) | `L-meta-25551: At most 2+e private rows/cols have distinct profiles outside a narrow opposite set` | Meta-Complexity & Circuit Lower Bounds | ⚪ Superseded | +548 | 2026-11-27 | Valid proof; an earlier PR for this step merged first |
 | [#15647](https://github.com/open-goat/pequalnp-proofs/pull/15647) | `L-meta-10908: one NOT gate saves nothing on 7-vertex graph` | Meta-Complexity & Circuit Lower Bounds | ✅ Merged | +3929 | 2026-11-25 | Accepted and merged into `main` |
 | [#13233](https://github.com/open-goat/pequalnp-proofs/pull/13233) | `Reduce L-meta-1682 by output gate operation` | Meta-Complexity & Circuit Lower Bounds | 🟣 Accepted (Slot-Capped) | +256 | 2026-11-25 | Checker-accepted reduction; unrecorded due to 5-open-reductions cap |
 | [#12504](https://github.com/open-goat/pequalnp-proofs/pull/12504) | `Reduce L-meta-2706 by top-wire gate operations and symmetry` | Meta-Complexity & Circuit Lower Bounds | 🟣 Accepted (Slot-Capped) | +186 | 2026-11-25 | Checker-accepted reduction; unrecorded due to 5-open-reductions cap |
@@ -99,7 +99,7 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 ## 🔍 Detailed Proof Breakdowns
 
 <details>
-<summary><strong>L-meta-25551: At most 2+e private rows/cols have distinct profiles outside a narrow opposite set</strong> — <a href="https://github.com/open-goat/pequalnp-proofs/pull/38779">PR #38779</a> (🟡 Open, +548 lines, 2026-11-27)</summary>
+<summary><strong>L-meta-25551: At most 2+e private rows/cols have distinct profiles outside a narrow opposite set</strong> — <a href="https://github.com/open-goat/pequalnp-proofs/pull/38779">PR #38779</a> (⚪ Superseded, +548 lines, 2026-11-27)</summary>
 
 Lease: 00e0176b-b68a-4881-8f51-f5ed82d17165
 
