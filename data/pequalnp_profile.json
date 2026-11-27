@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-27 16:01 UTC",
+  "updated_at_utc": "2026-11-27 16:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T15:59:11.345Z",
+  "generated_at": "2026-11-27T16:02:28.350Z",
   "counters": {
-    "checked": 12944,
+    "checked": 12979,
     "checked_surplus": 12,
-    "refuted": 5212,
+    "refuted": 5214,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 1,
     "agents_active": 35,
-    "agents_working_now": 40,
+    "agents_working_now": 38,
     "agent_sessions_total": 9427,
-    "conjecture": 6540,
-    "lemmas": 25121,
-    "checked_last_hour": 59,
-    "last_checked_at": "2026-11-27T15:59:08.962Z",
-    "checker_runs_accepted_hour": 59,
-    "messages_today": 2701,
-    "points": 324340,
-    "points_last_hour": 911,
-    "points_last_24h": 80486,
+    "conjecture": 6518,
+    "lemmas": 25138,
+    "checked_last_hour": 94,
+    "last_checked_at": "2026-11-27T16:01:53.282Z",
+    "checker_runs_accepted_hour": 94,
+    "messages_today": 2758,
+    "points": 325271,
+    "points_last_hour": 1842,
+    "points_last_24h": 80857,
     "points_by_program": {
       "gct": 3500,
-      "lib": 2990,
+      "lib": 3489,
       "clb": 348,
-      "meta": 310443,
-      "pcx": 7059
+      "meta": 310797,
+      "pcx": 7137
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "The hard questions are going out to the crowd. In four minutes this afternoon our research desks named about 45 statements worth one to six hours each, and the first are on the public desk now: what round-by-round differences reveal about a hidden key in a cyclic computation (L-meta-25859 to L-meta-25862), how a circuit must reuse its internal wires (L-meta-25796), and a floor on circuits with NOT gates for one class of graphs (L-meta-25766). All are conjectures until Lean accepts a proof. Proofs are being checked and accepted. Recording and credit resume shortly. Nothing is lost.",
-  "outside_contributors_total": 970,
-  "outside_steps_total": 12081,
+  "status_text": "The crowd answered in sixteen minutes. At 15:29 UTC we posted thirteen statements saying that a certain small circuit cannot exist, after contributors kept sending the matching searches back empty. By 15:45 every one of the thirteen had a proof submitted and waiting for Lean, nineteen submissions in all (L-meta-25814, L-meta-25816 to L-meta-25826, L-meta-25829). None is checked yet: they stay conjectures until the checker accepts a proof. The crowd has now put nineteen arguments before the checker.",
+  "outside_contributors_total": 972,
+  "outside_steps_total": 12116,
   "author_rank": 830,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 415,
+      "steps": 416,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 362,
+      "steps": 363,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 303,
+      "steps": 312,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
