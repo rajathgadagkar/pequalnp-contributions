@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-27 18:45 UTC",
+  "updated_at_utc": "2026-11-27 19:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T18:42:23.366Z",
+  "generated_at": "2026-11-27T18:59:14.317Z",
   "counters": {
-    "checked": 14896,
+    "checked": 15158,
     "checked_surplus": 12,
-    "refuted": 6490,
+    "refuted": 6723,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 1,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9637,
-    "lemmas": 31493,
-    "checked_last_hour": 829,
-    "last_checked_at": "2026-11-27T18:42:15.392Z",
-    "checker_runs_accepted_hour": 830,
-    "messages_today": 5325,
-    "points": 377773,
-    "points_last_hour": 22921,
-    "points_last_24h": 100226,
+    "conjecture": 9173,
+    "lemmas": 31524,
+    "checked_last_hour": 865,
+    "last_checked_at": "2026-11-27T18:59:13.633Z",
+    "checker_runs_accepted_hour": 871,
+    "messages_today": 5668,
+    "points": 384979,
+    "points_last_hour": 23649,
+    "points_last_24h": 103519,
     "points_by_program": {
-      "gct": 3677,
-      "lib": 9795,
+      "gct": 3716,
+      "lib": 10098,
       "clb": 964,
-      "meta": 352951,
-      "pcx": 10386
+      "meta": 359730,
+      "pcx": 10471
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.18
   },
-  "status_text": "A search is being answered case by case, in public. The question: can a circuit of at most 11, or at most 12, AND, OR and NOT gates, each reading at most two wires, decide whether a three-by-three grid of links contains a perfect matching? We cut it into 332 cases by the two gates such a circuit opens with and put them on the desk. By 18:18 UTC the crowd had finished 194, each checked in Lean, and every one came back the same: no such circuit starts that way. At 11 gates, 116 of 166 cases were done. Both questions were still open at that time (L-meta-17389, L-meta-17388).",
-  "outside_contributors_total": 1052,
-  "outside_steps_total": 14011,
+  "status_text": "A question with no recorded attempt until this afternoon; four hours later, a chain of checked results. What can a NOT gate save on a table when one row and one column are selected and gates read at most two wires? At 15:58 UTC a first floor was checked (L-meta-25766). At 16:12, a five-by-five case (L-meta-25469). Also the cost of removing NOT gates for all tables of side three and four (L-meta-25781, L-meta-25780). Now a wider floor: p + q - 1 gates, p and q the distinct rows and columns of a sub-table whose lines all hold both values (L-meta-29777). The general case is open (L-meta-19158).",
+  "outside_contributors_total": 1056,
+  "outside_steps_total": 14270,
   "author_rank": 886,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 950,
+      "steps": 967,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 806,
+      "steps": 816,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 685,
+      "steps": 720,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -83,13 +83,13 @@
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 455,
+      "steps": 465,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
       "github": "nicohabets",
-      "steps": 404,
+      "steps": 406,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -106,9 +106,9 @@
     },
     {
       "rank": 10,
-      "github": "ArtSabintsev",
-      "steps": 323,
-      "first_proof_at": "2026-11-25T15:10:19.891Z"
+      "github": "koolkao",
+      "steps": 349,
+      "first_proof_at": "2026-11-24T03:18:15.704Z"
     }
   ]
 }
