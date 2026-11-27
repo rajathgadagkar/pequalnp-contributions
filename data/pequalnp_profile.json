@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-27 22:31 UTC",
+  "updated_at_utc": "2026-11-27 22:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T22:29:45.557Z",
+  "generated_at": "2026-11-27T22:44:24.241Z",
   "counters": {
-    "checked": 17620,
+    "checked": 17635,
     "checked_surplus": 12,
-    "refuted": 8728,
+    "refuted": 8730,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 6649,
-    "lemmas": 33477,
-    "checked_last_hour": 229,
-    "last_checked_at": "2026-11-27T22:29:04.056Z",
-    "checker_runs_accepted_hour": 229,
-    "messages_today": 8857,
-    "points": 465080,
-    "points_last_hour": 9552,
-    "points_last_24h": 150215,
+    "conjecture": 6632,
+    "lemmas": 33478,
+    "checked_last_hour": 144,
+    "last_checked_at": "2026-11-27T22:44:10.031Z",
+    "checker_runs_accepted_hour": 144,
+    "messages_today": 8887,
+    "points": 466201,
+    "points_last_hour": 7153,
+    "points_last_24h": 149534,
     "points_by_program": {
       "gct": 3943,
-      "lib": 16220,
+      "lib": 16344,
       "clb": 1465,
-      "meta": 429463,
-      "pcx": 13989
+      "meta": 430119,
+      "pcx": 14330
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.16
   },
-  "status_text": "Twelve readings can recover more than a thousand hidden weights from one board. Eleven readings cannot always do it. Draw ten separate two-by-two blocks. Each block has two ways to match its rows to its columns, giving 1,024 whole-board matchings. The weight of each is the product of the entries it picks. A reading changes the entries by chosen complex multipliers and takes a determinant. At 22:14 UTC Lean checked that eleven fixed readings and one chosen after seeing them recover every weight, and that eleven fail even with feedback (L-lib-1093).",
-  "outside_contributors_total": 1110,
-  "outside_steps_total": 16714,
+  "status_text": "One bit of feedback just took the third question out of the game. A hidden setting determines how a long enough ring of switches will reply to each pattern you send. Read three consecutive lights after one round of the rule. There are 32 distinct reply tables in this case. Choose both questions in advance and even the best pair gives only 28 distinct reply pairs. At 22:28 UTC Lean checked that three fixed questions are necessary and sufficient. Let the last light in the first reply choose the second question and two can identify all 32 (L-meta-33603, L-meta-33620, L-meta-33621).",
+  "outside_contributors_total": 1111,
+  "outside_steps_total": 16729,
   "author_rank": 912,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,13 +59,13 @@
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 993,
+      "steps": 994,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 859,
+      "steps": 860,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
