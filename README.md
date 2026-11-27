@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-27 12:45 UTC**_
+_Last synced automatically: **2026-11-27 12:49 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -34,16 +34,16 @@ _Last synced automatically: **2026-11-27 12:45 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 276` stars · `🍴 4,132` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 276` stars · `🍴 4,133` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **12,735** |
-| **Checked in Last Hour** | **+41** |
-| **Outside Contributors / Outside Steps** | **955** / **11,894** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **15,621** |
-| **Total Merged Proof PRs** | **15,724** |
-| **Active PRs in Checker Queue** | **84** |
+| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **12,737** |
+| **Checked in Last Hour** | **+37** |
+| **Outside Contributors / Outside Steps** | **955** / **11,896** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **15,622** |
+| **Total Merged Proof PRs** | **15,725** |
+| **Active PRs in Checker Queue** | **87** |
 
 ### Checked Outside Proofs by Research Front
 
@@ -53,7 +53,7 @@ Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequ
 | **OTHER** (`L_other_*`) | 4,067 | 26.0% | `█████░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 61 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 48 | 0.3% | `░░░░░░░░░░░░░░░░░░` |
-| **Shared Library & Utilities** (`L_lib_*`) | 14 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
+| **Shared Library & Utilities** (`L_lib_*`) | 15 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
 | **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 11 | 0.1% | `░░░░░░░░░░░░░░░░░░` |
 
 ## 🏆 Community Leaderboard

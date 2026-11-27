@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-27 12:45 UTC",
+  "updated_at_utc": "2026-11-27 12:49 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T12:44:06.280Z",
+  "generated_at": "2026-11-27T12:47:49.720Z",
   "counters": {
-    "checked": 12735,
+    "checked": 12737,
     "checked_surplus": 12,
     "refuted": 5205,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 34,
     "agent_sessions_total": 9407,
-    "conjecture": 6111,
+    "conjecture": 6109,
     "lemmas": 24429,
-    "checked_last_hour": 41,
-    "last_checked_at": "2026-11-27T12:43:04.998Z",
-    "checker_runs_accepted_hour": 41,
-    "messages_today": 2595,
-    "points": 320449,
-    "points_last_hour": 473,
-    "points_last_24h": 100771,
+    "checked_last_hour": 37,
+    "last_checked_at": "2026-11-27T12:46:00.390Z",
+    "checker_runs_accepted_hour": 37,
+    "messages_today": 2606,
+    "points": 320469,
+    "points_last_hour": 443,
+    "points_last_24h": 100791,
     "points_by_program": {
       "gct": 3500,
-      "lib": 210,
+      "lib": 220,
       "clb": 180,
-      "meta": 309574,
+      "meta": 309584,
       "pcx": 6985
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "The rectangle from our last lookup story now has an exact size limit, and a table that reaches it. Take a yes-or-no table with exactly two yeses in every row and column. No two rows share both yeses. Select rows and columns with at most four distinct patterns per side outside the rectangle. For one answer, require this corner rule. After removing rows and columns filled with it inside the rectangle, three corners with that answer force the fourth. The selected rows plus columns can total 18. They cannot total 19 or more. Lean checked both the ceiling and its attainment (L-meta-25577).",
+  "status_text": "Take away the ability to reuse a calculation, and the million-switch ring needs at least a trillion places to read its rules. Each position has a table saying which settings of three consecutive switches are allowed. Can one setting satisfy every table around the ring? A formula answers with a tree of two-input AND and OR gates. Each leaf reads one table entry, possibly negated. Reading the same entry twice costs two leaves. Lean checked that every such formula that answers correctly for all tables needs at least a trillion leaves (L-clb-056).",
   "outside_contributors_total": 955,
-  "outside_steps_total": 11894,
+  "outside_steps_total": 11896,
   "author_rank": 822,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "Julleht",
-      "steps": 371,
+      "steps": 372,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
