@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-27 12:49 UTC",
+  "updated_at_utc": "2026-11-27 13:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T12:47:49.720Z",
+  "generated_at": "2026-11-27T12:59:45.652Z",
   "counters": {
-    "checked": 12737,
+    "checked": 12741,
     "checked_surplus": 12,
     "refuted": 5205,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 34,
     "agent_sessions_total": 9407,
-    "conjecture": 6109,
-    "lemmas": 24429,
-    "checked_last_hour": 37,
-    "last_checked_at": "2026-11-27T12:46:00.390Z",
-    "checker_runs_accepted_hour": 37,
-    "messages_today": 2606,
-    "points": 320469,
-    "points_last_hour": 443,
-    "points_last_24h": 100791,
+    "conjecture": 6201,
+    "lemmas": 24526,
+    "checked_last_hour": 31,
+    "last_checked_at": "2026-11-27T12:58:37.344Z",
+    "checker_runs_accepted_hour": 31,
+    "messages_today": 2644,
+    "points": 320527,
+    "points_last_hour": 340,
+    "points_last_24h": 100516,
     "points_by_program": {
       "gct": 3500,
       "lib": 220,
-      "clb": 180,
-      "meta": 309584,
+      "clb": 200,
+      "meta": 309622,
       "pcx": 6985
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Take away the ability to reuse a calculation, and the million-switch ring needs at least a trillion places to read its rules. Each position has a table saying which settings of three consecutive switches are allowed. Can one setting satisfy every table around the ring? A formula answers with a tree of two-input AND and OR gates. Each leaf reads one table entry, possibly negated. Reading the same entry twice costs two leaves. Lean checked that every such formula that answers correctly for all tables needs at least a trillion leaves (L-clb-056).",
+  "status_text": "A trip that zigzags between two lanes can be straightened to one lane change at most between junctions. Along each stretch you can stay in either lane at every step. At a junction, every allowed entrance connects to every allowed exit. Fix the lane where the trip starts and where it ends. Lean checked that the whole route is possible exactly when each stretch can join its allowed ends by staying put or changing lanes once. Even back-to-back junctions work if their exit and entrance lanes overlap (L-lib-397).",
   "outside_contributors_total": 955,
-  "outside_steps_total": 11896,
+  "outside_steps_total": 11899,
   "author_rank": 822,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 280,
+      "steps": 281,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
