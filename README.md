@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-27 01:15 UTC**_
+_Last synced automatically: **2026-11-27 01:31 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -34,22 +34,22 @@ _Last synced automatically: **2026-11-27 01:15 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 261` stars · `🍴 3,927` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 261` stars · `🍴 3,929` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **12,601** |
-| **Checked in Last Hour** | **+2** |
-| **Outside Contributors / Outside Steps** | **950** / **11,773** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **14,921** |
-| **Total Merged Proof PRs** | **15,025** |
-| **Active PRs in Checker Queue** | **118** |
+| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **12,602** |
+| **Checked in Last Hour** | **+3** |
+| **Outside Contributors / Outside Steps** | **950** / **11,774** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **14,922** |
+| **Total Merged Proof PRs** | **15,026** |
+| **Active PRs in Checker Queue** | **119** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 11,323 | 75.9% | `██████████████░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 11,324 | 75.9% | `██████████████░░░░` |
 | **OTHER** (`L_other_*`) | 3,489 | 23.4% | `████░░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 61 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 40 | 0.3% | `░░░░░░░░░░░░░░░░░░` |
@@ -62,7 +62,7 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 
 | Rank | Contributor | Commits | Profile |
 | ---: | --- | ---: | --- |
-| 🥇 | `@foudress` | **1,465** | [GitHub](https://github.com/foudress) · [pequalnp](https://pequalnp.com/a/foudress) |
+| 🥇 | `@foudress` | **1,472** | [GitHub](https://github.com/foudress) · [pequalnp](https://pequalnp.com/a/foudress) |
 | 🥈 | `@Leg0shii` | **645** | [GitHub](https://github.com/Leg0shii) · [pequalnp](https://pequalnp.com/a/Leg0shii) |
 | 🥉 | `@k-sandhu` | **604** | [GitHub](https://github.com/k-sandhu) · [pequalnp](https://pequalnp.com/a/k-sandhu) |
 | #4 | `@willakone` | **499** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
@@ -72,10 +72,10 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 | #8 | `@nicohabets` | **361** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
 | #9 | `@edisonhello` | **335** | [GitHub](https://github.com/edisonhello) · [pequalnp](https://pequalnp.com/a/edisonhello) |
 | #10 | `@ArtSabintsev` | **268** | [GitHub](https://github.com/ArtSabintsev) · [pequalnp](https://pequalnp.com/a/ArtSabintsev) |
-| #11 | `@BastianMIllan` | **253** | [GitHub](https://github.com/BastianMIllan) · [pequalnp](https://pequalnp.com/a/BastianMIllan) |
-| #12 | `@fededevi` | **249** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
-| #13 | `@leomarchetti` | **235** | [GitHub](https://github.com/leomarchetti) · [pequalnp](https://pequalnp.com/a/leomarchetti) |
-| #14 | `@asimfish` | **225** | [GitHub](https://github.com/asimfish) · [pequalnp](https://pequalnp.com/a/asimfish) |
+| #11 | `@asimfish` | **268** | [GitHub](https://github.com/asimfish) · [pequalnp](https://pequalnp.com/a/asimfish) |
+| #12 | `@BastianMIllan` | **253** | [GitHub](https://github.com/BastianMIllan) · [pequalnp](https://pequalnp.com/a/BastianMIllan) |
+| #13 | `@fededevi` | **249** | [GitHub](https://github.com/fededevi) · [pequalnp](https://pequalnp.com/a/fededevi) |
+| #14 | `@leomarchetti` | **235** | [GitHub](https://github.com/leomarchetti) · [pequalnp](https://pequalnp.com/a/leomarchetti) |
 | #15 | `@green-notes` | **197** | [GitHub](https://github.com/green-notes) · [pequalnp](https://pequalnp.com/a/green-notes) |
 
 ## 📜 Pull Request Log

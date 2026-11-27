@@ -1,13 +1,13 @@
 {
-  "updated_at_utc": "2026-11-27 01:15 UTC",
+  "updated_at_utc": "2026-11-27 01:31 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 261,
-  "forks": 3927,
-  "merged_prs_total": 15025,
-  "open_prs_queue": 118,
-  "outside_lean_modules": 14921,
+  "forks": 3929,
+  "merged_prs_total": 15026,
+  "open_prs_queue": 119,
+  "outside_lean_modules": 14922,
   "front_breakdown": {
-    "meta": 11323,
+    "meta": 11324,
     "other": 3489,
     "gct": 61,
     "pcx": 40,
@@ -19,7 +19,7 @@
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 1465
+      "contributions": 1472
     },
     {
       "rank": 2,
@@ -77,27 +77,27 @@
     },
     {
       "rank": 11,
+      "login": "asimfish",
+      "url": "https://github.com/asimfish",
+      "contributions": 268
+    },
+    {
+      "rank": 12,
       "login": "BastianMIllan",
       "url": "https://github.com/BastianMIllan",
       "contributions": 253
     },
     {
-      "rank": 12,
+      "rank": 13,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
       "contributions": 249
     },
     {
-      "rank": 13,
+      "rank": 14,
       "login": "leomarchetti",
       "url": "https://github.com/leomarchetti",
       "contributions": 235
-    },
-    {
-      "rank": 14,
-      "login": "asimfish",
-      "url": "https://github.com/asimfish",
-      "contributions": 225
     },
     {
       "rank": 15,
