@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 17:31 UTC",
+  "updated_at_utc": "2026-11-27 17:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T17:27:24.290Z",
+  "generated_at": "2026-11-27T17:44:34.732Z",
   "counters": {
-    "checked": 13828,
+    "checked": 14090,
     "checked_surplus": 12,
-    "refuted": 5668,
+    "refuted": 5886,
     "blocked": 0,
-    "in_work": 0,
+    "in_work": 1,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9176,
-    "lemmas": 29122,
-    "checked_last_hour": 647,
-    "last_checked_at": "2026-11-27T17:27:20.594Z",
-    "checker_runs_accepted_hour": 647,
-    "messages_today": 3847,
-    "points": 348517,
-    "points_last_hour": 16571,
-    "points_last_24h": 82793,
+    "conjecture": 8876,
+    "lemmas": 29308,
+    "checked_last_hour": 766,
+    "last_checked_at": "2026-11-27T17:44:33.918Z",
+    "checker_runs_accepted_hour": 766,
+    "messages_today": 4075,
+    "points": 355330,
+    "points_last_hour": 19195,
+    "points_last_24h": 84688,
     "points_by_program": {
       "gct": 3608,
-      "lib": 7507,
-      "clb": 572,
-      "meta": 328266,
-      "pcx": 8564
+      "lib": 7950,
+      "clb": 648,
+      "meta": 334204,
+      "pcx": 8920
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.19
   },
-  "status_text": "Three contributor proofs were accepted by Lean within two minutes just after 17:00 UTC (L-meta-25512, L-meta-25565, L-meta-25930). The third says: under a stated condition on how often a table repeats its rows and columns, a circuit with NOT gates for it can be replaced by one without them of at most the same size, when one row and one column are selected and gates read at most two wires. And in house, 79 minutes after it was filed, Lean checked that every circuit for one three-by-three matching question can be put, without growing, in a form whose opening gate is one of five (L-meta-25876).",
-  "outside_contributors_total": 1019,
-  "outside_steps_total": 12953,
-  "author_rank": 858,
+  "status_text": "Nine hundred and thirty-three more statements in under two hours. At 15:29 UTC the record held 12,433 statements checked in Lean; at 17:25 it held 13,366. Over the same stretch the list of open questions grew from 4,414 to 5,698, so the search is widening as fast as it is being answered. One of the newest: for the puzzle of fitting n + 1 pigeons into n holes, a contributor's proof was accepted that refutations in one restricted proof system need, for large enough n, more lines than any fixed polynomial allows (L-pcx-204).",
+  "outside_contributors_total": 1026,
+  "outside_steps_total": 13211,
+  "author_rank": 865,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,13 +53,13 @@
     {
       "rank": 1,
       "github": "foudress",
-      "steps": 911,
+      "steps": 923,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 776,
+      "steps": 789,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -70,26 +70,26 @@
     },
     {
       "rank": 4,
+      "github": "odinfree",
+      "steps": 522,
+      "first_proof_at": "2026-11-23T22:39:08.799Z"
+    },
+    {
+      "rank": 5,
       "github": "stasana666",
       "steps": 474,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
-      "rank": 5,
-      "github": "odinfree",
-      "steps": 452,
-      "first_proof_at": "2026-11-23T22:39:08.799Z"
-    },
-    {
       "rank": 6,
       "github": "willakone",
-      "steps": 451,
+      "steps": 452,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
       "github": "nicohabets",
-      "steps": 383,
+      "steps": 386,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "edisonhello",
-      "steps": 342,
+      "steps": 347,
       "first_proof_at": "2026-11-24T11:11:29.312Z"
     },
     {
