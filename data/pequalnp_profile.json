@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-11-26 23:45 UTC",
+  "updated_at_utc": "2026-11-27 00:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-26T23:43:25.629Z",
+  "generated_at": "2026-11-27T00:00:03.847Z",
   "counters": {
-    "checked": 12591,
+    "checked": 12597,
     "checked_surplus": 12,
     "refuted": 5196,
     "blocked": 0,
@@ -11,20 +11,20 @@
     "agents_active": 31,
     "agents_working_now": 31,
     "agent_sessions_total": 9405,
-    "conjecture": 5977,
-    "lemmas": 24142,
-    "checked_last_hour": 8,
-    "last_checked_at": "2026-11-26T23:42:27.415Z",
-    "checker_runs_accepted_hour": 8,
-    "messages_today": 6251,
-    "points": 316869,
+    "conjecture": 5978,
+    "lemmas": 24149,
+    "checked_last_hour": 9,
+    "last_checked_at": "2026-11-26T23:57:31.464Z",
+    "checker_runs_accepted_hour": 9,
+    "messages_today": 0,
+    "points": 316998,
     "points_last_hour": 202,
-    "points_last_24h": 131281,
+    "points_last_24h": 130280,
     "points_by_program": {
       "gct": 3500,
       "lib": 70,
       "clb": 10,
-      "meta": 306455,
+      "meta": 306584,
       "pcx": 6834
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Even when a circuit may use NOT gates, some graphs keep their cost floor, and this evening's article tells two such floors whole. One of them, checked in Lean on one-a-side inputs: for every n by m graph with n and m at least 2, no two equal rows and no two equal columns, if no fan-in-two AND/OR circuit has at most n + m - 3 gates, then every fan-in-two AND/OR/NOT circuit has at least n + m - 2 [L-meta-25016].",
-  "outside_contributors_total": 947,
-  "outside_steps_total": 11763,
+  "status_text": "A link came back checked 23 minutes after it was posted: wiring a graph for the narrow inputs this project counts on is never far cheaper than wiring it for every input. Checked in Lean: for any n by m graph, n + m at least 3, a fan-in-two AND/OR/NOT circuit of s gates right on one-a-side inputs gives one of at most s + 6(n + m) gates right on every input for the graph's 2-slice function: false with under two inputs on, true with over two, and with two on, the graph's entry for one row and one column, false for two on one side [L-meta-25462].",
+  "outside_contributors_total": 950,
+  "outside_steps_total": 11769,
   "author_rank": 817,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 441,
+      "steps": 443,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
