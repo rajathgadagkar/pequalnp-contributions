@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-27 22:01 UTC",
+  "updated_at_utc": "2026-11-27 22:09 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T21:59:26.415Z",
+  "generated_at": "2026-11-27T22:07:56.815Z",
   "counters": {
-    "checked": 17530,
+    "checked": 17554,
     "checked_surplus": 12,
-    "refuted": 8706,
+    "refuted": 8711,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 6759,
+    "conjecture": 6731,
     "lemmas": 33476,
-    "checked_last_hour": 570,
-    "last_checked_at": "2026-11-27T21:58:41.964Z",
-    "checker_runs_accepted_hour": 570,
-    "messages_today": 8734,
-    "points": 460861,
-    "points_last_hour": 19901,
-    "points_last_24h": 151548,
+    "checked_last_hour": 466,
+    "last_checked_at": "2026-11-27T22:07:25.083Z",
+    "checker_runs_accepted_hour": 466,
+    "messages_today": 8769,
+    "points": 461974,
+    "points_last_hour": 16592,
+    "points_last_24h": 151741,
     "points_by_program": {
       "gct": 3814,
-      "lib": 15004,
-      "clb": 1233,
-      "meta": 427112,
-      "pcx": 13698
+      "lib": 15339,
+      "clb": 1465,
+      "meta": 427603,
+      "pcx": 13753
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.16
   },
-  "status_text": "Go around the circle in one direction and you need to keep four readings in play. Work from both ends and one is enough. Put sixteen sensors in a ring, labelled A through H and then H back through A. Matching letters share a report bit. At each step count the letters with one sensor visited and one still waiting. Any one-way walk has at least four open pairs at some point. Start at the two A's and take each matching pair in turn. The count never goes above one. Lean checked the exact savings for every ring of this form (L-lib-1051).",
-  "outside_contributors_total": 1106,
-  "outside_steps_total": 16624,
-  "author_rank": 909,
+  "status_text": "Either guess on the spot or get the answer exactly. In this game that's what every cheapest strategy has to do. Four switches sit in two pairs. You win if exactly one pair has both switches on. All settings are equally likely. You can ask whether any chosen group has an odd number on. Guessing no works five times in eight. Want thirteen in sixteen? Flip a coin. Guess no on one side and find the exact answer on the other. Lean checked the minimum cost, eleven questions per eight games on average, and that every optimum uses those two kinds of play (L-pcx-456).",
+  "outside_contributors_total": 1107,
+  "outside_steps_total": 16648,
+  "author_rank": 910,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 505,
+      "steps": 506,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 441,
+      "steps": 442,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
