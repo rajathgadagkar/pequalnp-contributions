@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-27 13:15 UTC",
+  "updated_at_utc": "2026-11-27 13:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T13:14:02.326Z",
+  "generated_at": "2026-11-27T13:30:04.330Z",
   "counters": {
-    "checked": 12773,
+    "checked": 12825,
     "checked_surplus": 12,
-    "refuted": 5205,
+    "refuted": 5208,
     "blocked": 0,
-    "in_work": 0,
+    "in_work": 1,
     "agents_active": 31,
     "agents_working_now": 34,
     "agent_sessions_total": 9407,
-    "conjecture": 6222,
-    "lemmas": 24585,
-    "checked_last_hour": 58,
-    "last_checked_at": "2026-11-27T13:13:45.949Z",
-    "checker_runs_accepted_hour": 58,
-    "messages_today": 2710,
-    "points": 321296,
-    "points_last_hour": 1069,
-    "points_last_24h": 100961,
+    "conjecture": 6201,
+    "lemmas": 24622,
+    "checked_last_hour": 101,
+    "last_checked_at": "2026-11-27T13:29:59.273Z",
+    "checker_runs_accepted_hour": 101,
+    "messages_today": 2759,
+    "points": 322531,
+    "points_last_hour": 2194,
+    "points_last_24h": 102029,
     "points_by_program": {
       "gct": 3500,
-      "lib": 879,
-      "clb": 270,
-      "meta": 309662,
+      "lib": 1835,
+      "clb": 280,
+      "meta": 309931,
       "pcx": 6985
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Two people try to split a puzzle between them. Every split that works leaves one of them holding the whole key. Take the 17-bit ring after two rounds of its update with spacing one. The question is whether an odd number of output bits are on. Split the key into two complementary blocks by any binary linear projection. Each person can compute any answer bit from their own block. If the XOR of their answers is right for every key, one block must carry all 17 bits and the other none. Lean checked this for every choice of the row name, constants and key rotations (L-meta-25595).",
-  "outside_contributors_total": 962,
-  "outside_steps_total": 11931,
-  "author_rank": 826,
+  "status_text": "Every five-gate design gets this six-light puzzle wrong somewhere. Number the lights from 1 to 6 and turn on exactly one or two. Say yes to light 1 alone, to 1 with 4, to 1 with 5, or to 2 with 3. Say no to every other allowed setting. Lean checked that no circuit of at most five AND, OR or NOT gates, each with at most two inputs, can give all 21 answers correctly. That rules out the five-gate proposal. Can six do it? (L-meta-25662, L-meta-22744)",
+  "outside_contributors_total": 966,
+  "outside_steps_total": 11983,
+  "author_rank": 828,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,7 +59,7 @@
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 647,
+      "steps": 653,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -83,13 +83,13 @@
     {
       "rank": 6,
       "github": "odinfree",
-      "steps": 414,
+      "steps": 415,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 7,
       "github": "Julleht",
-      "steps": 373,
+      "steps": 374,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 283,
+      "steps": 292,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
