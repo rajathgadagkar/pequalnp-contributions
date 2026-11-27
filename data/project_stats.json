@@ -1,18 +1,18 @@
 {
-  "updated_at_utc": "2026-11-27 23:31 UTC",
+  "updated_at_utc": "2026-11-27 23:45 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 291,
   "forks": 4331,
-  "merged_prs_total": 20638,
-  "open_prs_queue": 343,
-  "outside_lean_modules": 20536,
+  "merged_prs_total": 20654,
+  "open_prs_queue": 338,
+  "outside_lean_modules": 20552,
   "front_breakdown": {
-    "meta": 15462,
+    "meta": 15472,
     "other": 4077,
-    "lib": 605,
-    "pcx": 260,
-    "gct": 78,
-    "clb": 54
+    "lib": 607,
+    "pcx": 262,
+    "gct": 79,
+    "clb": 55
   },
   "leaderboard_top15": [
     {
@@ -25,7 +25,7 @@
       "rank": 2,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 993
+      "contributions": 994
     },
     {
       "rank": 3,
@@ -85,7 +85,7 @@
       "rank": 12,
       "login": "green-notes",
       "url": "https://github.com/green-notes",
-      "contributions": 345
+      "contributions": 347
     },
     {
       "rank": 13,
@@ -97,7 +97,7 @@
       "rank": 14,
       "login": "MedicV2",
       "url": "https://github.com/MedicV2",
-      "contributions": 302
+      "contributions": 305
     },
     {
       "rank": 15,
