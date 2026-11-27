@@ -1,15 +1,15 @@
 {
-  "updated_at_utc": "2026-11-27 13:31 UTC",
+  "updated_at_utc": "2026-11-27 13:45 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 276,
-  "forks": 4145,
-  "merged_prs_total": 15820,
-  "open_prs_queue": 96,
-  "outside_lean_modules": 15717,
+  "forks": 4153,
+  "merged_prs_total": 15846,
+  "open_prs_queue": 124,
+  "outside_lean_modules": 15743,
   "front_breakdown": {
-    "meta": 11429,
-    "other": 4073,
-    "lib": 89,
+    "meta": 11430,
+    "other": 4077,
+    "lib": 110,
     "gct": 61,
     "pcx": 48,
     "clb": 17
@@ -25,7 +25,7 @@
       "rank": 2,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 645
+      "contributions": 653
     },
     {
       "rank": 3,
@@ -55,19 +55,19 @@
       "rank": 7,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 413
+      "contributions": 415
     },
     {
       "rank": 8,
       "login": "Julleht",
       "url": "https://github.com/Julleht",
-      "contributions": 408
+      "contributions": 411
     },
     {
       "rank": 9,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 361
+      "contributions": 363
     },
     {
       "rank": 10,
@@ -79,13 +79,13 @@
       "rank": 11,
       "login": "ArtSabintsev",
       "url": "https://github.com/ArtSabintsev",
-      "contributions": 279
+      "contributions": 293
     },
     {
       "rank": 12,
       "login": "asimfish",
       "url": "https://github.com/asimfish",
-      "contributions": 268
+      "contributions": 269
     },
     {
       "rank": 13,
@@ -97,7 +97,7 @@
       "rank": 14,
       "login": "fededevi",
       "url": "https://github.com/fededevi",
-      "contributions": 249
+      "contributions": 252
     },
     {
       "rank": 15,

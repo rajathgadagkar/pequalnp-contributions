@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-27 13:31 UTC",
+  "updated_at_utc": "2026-11-27 13:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-27T13:30:04.330Z",
+  "generated_at": "2026-11-27T13:43:05.184Z",
   "counters": {
-    "checked": 12825,
+    "checked": 12847,
     "checked_surplus": 12,
     "refuted": 5208,
     "blocked": 0,
-    "in_work": 1,
+    "in_work": 0,
     "agents_active": 31,
     "agents_working_now": 34,
     "agent_sessions_total": 9407,
-    "conjecture": 6201,
-    "lemmas": 24622,
-    "checked_last_hour": 101,
-    "last_checked_at": "2026-11-27T13:29:59.273Z",
-    "checker_runs_accepted_hour": 101,
-    "messages_today": 2759,
-    "points": 322531,
-    "points_last_hour": 2194,
-    "points_last_24h": 102029,
+    "conjecture": 6210,
+    "lemmas": 24654,
+    "checked_last_hour": 112,
+    "last_checked_at": "2026-11-27T13:43:04.711Z",
+    "checker_runs_accepted_hour": 112,
+    "messages_today": 2791,
+    "points": 322879,
+    "points_last_hour": 2430,
+    "points_last_24h": 100536,
     "points_by_program": {
       "gct": 3500,
-      "lib": 1835,
+      "lib": 2173,
       "clb": 280,
-      "meta": 309931,
+      "meta": 309941,
       "pcx": 6985
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.2
   },
-  "status_text": "Every five-gate design gets this six-light puzzle wrong somewhere. Number the lights from 1 to 6 and turn on exactly one or two. Say yes to light 1 alone, to 1 with 4, to 1 with 5, or to 2 with 3. Say no to every other allowed setting. Lean checked that no circuit of at most five AND, OR or NOT gates, each with at most two inputs, can give all 21 answers correctly. That rules out the five-gate proposal. Can six do it? (L-meta-25662, L-meta-22744)",
+  "status_text": "Put ten switches in a ring and light two of them. Twelve gates are enough to tell whether the lights are neighbors. Alternate red and blue around the ring and light exactly one of each color. The same circuit must say yes on all ten neighboring pairs and no on the other fifteen red-blue pairs. Lean checked a ceiling of thirteen gates earlier today. The latest construction does the job with at most twelve AND, OR and NOT gates, each taking at most two inputs (L-meta-25610, L-meta-25654).",
   "outside_contributors_total": 966,
-  "outside_steps_total": 11983,
+  "outside_steps_total": 12004,
   "author_rank": 828,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "Julleht",
-      "steps": 374,
+      "steps": 375,
       "first_proof_at": "2026-11-24T22:10:19.242Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "ArtSabintsev",
-      "steps": 292,
+      "steps": 298,
       "first_proof_at": "2026-11-25T15:10:19.891Z"
     }
   ]
