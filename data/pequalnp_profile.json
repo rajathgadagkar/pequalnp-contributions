@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 01:15 UTC",
+  "updated_at_utc": "2026-11-28 01:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T01:13:08.875Z",
+  "generated_at": "2026-11-28T01:27:50.955Z",
   "counters": {
-    "checked": 18025,
+    "checked": 18223,
     "checked_surplus": 12,
-    "refuted": 9024,
+    "refuted": 9219,
     "blocked": 0,
     "in_work": 4,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8733,
-    "lemmas": 36265,
-    "checked_last_hour": 285,
-    "last_checked_at": "2026-11-28T01:12:16.240Z",
-    "checker_runs_accepted_hour": 298,
-    "messages_today": 580,
-    "points": 479349,
-    "points_last_hour": 8152,
-    "points_last_24h": 162288,
+    "conjecture": 9472,
+    "lemmas": 37398,
+    "checked_last_hour": 469,
+    "last_checked_at": "2026-11-28T01:27:49.355Z",
+    "checker_runs_accepted_hour": 515,
+    "messages_today": 757,
+    "points": 484728,
+    "points_last_hour": 13176,
+    "points_last_24h": 167620,
     "points_by_program": {
       "gct": 4098,
-      "lib": 17153,
+      "lib": 17199,
       "clb": 1498,
-      "meta": 441523,
+      "meta": 446856,
       "pcx": 15077
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "One extra input broke a step in our circuit argument. A contributor flagged the gap, and Lean checked the counterexample. Give one AND gate two true inputs and wire 2 carries its true output. Append a false input and wire 2 now carries that input, so the answer changes to false. The branch that allowed different input lengths is out. Lean checked the companion statement with equal lengths, and the larger circuit question is open (L-meta-17721, L-meta-17972).",
-  "outside_contributors_total": 1117,
-  "outside_steps_total": 17097,
-  "author_rank": 916,
+  "status_text": "Even a second look leaves some strips indistinguishable. Lean checked two limits on reading a hidden strip. In the shortest case at spacing one, a fixed follow-up with four sensors gives at most 120 different readings, below the target of 124. Let the last answer from the opening scan choose the follow-up and the setup still cannot distinguish all 128 inputs. Both checks cover the two tested ways of choosing four of the five sensors (L-meta-33685, L-meta-33686).",
+  "outside_contributors_total": 1118,
+  "outside_steps_total": 17294,
+  "author_rank": 917,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "Leg0shii",
-      "steps": 1029,
+      "steps": 1102,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -65,7 +65,7 @@
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 883,
+      "steps": 889,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -76,20 +76,20 @@
     },
     {
       "rank": 5,
-      "github": "koolkao",
-      "steps": 551,
-      "first_proof_at": "2026-11-24T03:18:15.704Z"
+      "github": "willakone",
+      "steps": 558,
+      "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
-      "github": "willakone",
-      "steps": 543,
-      "first_proof_at": "2026-11-24T01:36:49.375Z"
+      "github": "koolkao",
+      "steps": 553,
+      "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 7,
       "github": "stasana666",
-      "steps": 485,
+      "steps": 486,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
@@ -106,9 +106,9 @@
     },
     {
       "rank": 10,
-      "github": "edisonhello",
-      "steps": 356,
-      "first_proof_at": "2026-11-24T11:11:29.312Z"
+      "github": "green-notes",
+      "steps": 364,
+      "first_proof_at": "2026-11-26T03:48:08.460Z"
     }
   ]
 }
