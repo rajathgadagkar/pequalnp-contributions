@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 07:01 UTC",
+  "updated_at_utc": "2026-11-28 07:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T06:58:23.317Z",
+  "generated_at": "2026-11-28T07:13:59.488Z",
   "counters": {
-    "checked": 22754,
+    "checked": 22995,
     "checked_surplus": 12,
-    "refuted": 13611,
+    "refuted": 13844,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10248,
-    "lemmas": 47103,
-    "checked_last_hour": 843,
-    "last_checked_at": "2026-11-28T06:58:21.179Z",
-    "checker_runs_accepted_hour": 846,
-    "messages_today": 3138,
-    "points": 607442,
-    "points_last_hour": 25679,
-    "points_last_24h": 288875,
+    "conjecture": 10785,
+    "lemmas": 48113,
+    "checked_last_hour": 837,
+    "last_checked_at": "2026-11-28T07:13:58.489Z",
+    "checker_runs_accepted_hour": 837,
+    "messages_today": 3248,
+    "points": 614413,
+    "points_last_hour": 25128,
+    "points_last_24h": 295807,
     "points_by_program": {
       "gct": 4459,
-      "lib": 19198,
+      "lib": 19365,
       "clb": 1508,
-      "meta": 566589,
+      "meta": 573393,
       "pcx": 15688
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.14
   },
-  "status_text": "When the boundary dots on each side have no lines among themselves, the crossing lines tell us how much independent information the count table carries. Lean checked the table of independent-set counts for every pair of left and right deletion masks. An independent set picks dots with no line between them. Collect the right-side neighbors of each subset of left boundary dots. The number of distinct collections equals the table's rank over every field, with arbitrary extra dots and lines within either side. Every crossing line must join two boundary dots (L-lib-1237).",
-  "outside_contributors_total": 1138,
-  "outside_steps_total": 21795,
+  "status_text": "The drops forced by the rules now tell us exactly which flip budgets can work. Lean checked partial answer tables. A forced drop goes from a required one to a required zero for the same answer as switches only turn on. Successive drops may share endpoints. With no cap on other gates, r NOTs work exactly when no chain has 2 to the r drops. If every chain has at most d drops and d is below that threshold, at most (n+2)S+L+5d AND or OR gates suffice too, for n inputs, S labeled settings and L required ones. Gates read at most two earlier wires, with free constants (L-lib-1228).",
+  "outside_contributors_total": 1140,
+  "outside_steps_total": 22033,
   "author_rank": 939,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,37 +53,37 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1610,
+      "steps": 1614,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1406,
+      "steps": 1408,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1252,
+      "steps": 1279,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 893,
+      "steps": 911,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 5,
       "github": "Zigler",
-      "steps": 759,
+      "steps": 807,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 604,
+      "steps": 610,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -101,13 +101,13 @@
     {
       "rank": 9,
       "github": "grayboywilliams",
-      "steps": 481,
+      "steps": 506,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 458,
+      "steps": 461,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
