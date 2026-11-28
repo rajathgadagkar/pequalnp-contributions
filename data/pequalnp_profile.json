@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 06:45 UTC",
+  "updated_at_utc": "2026-11-28 07:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T06:42:30.930Z",
+  "generated_at": "2026-11-28T06:58:23.317Z",
   "counters": {
-    "checked": 22529,
+    "checked": 22754,
     "checked_surplus": 12,
-    "refuted": 13390,
+    "refuted": 13611,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10687,
-    "lemmas": 47094,
-    "checked_last_hour": 863,
-    "last_checked_at": "2026-11-28T06:42:27.233Z",
-    "checker_runs_accepted_hour": 863,
-    "messages_today": 3023,
-    "points": 600603,
-    "points_last_hour": 25862,
-    "points_last_24h": 282133,
+    "conjecture": 10248,
+    "lemmas": 47103,
+    "checked_last_hour": 843,
+    "last_checked_at": "2026-11-28T06:58:21.179Z",
+    "checker_runs_accepted_hour": 846,
+    "messages_today": 3138,
+    "points": 607442,
+    "points_last_hour": 25679,
+    "points_last_24h": 288875,
     "points_by_program": {
       "gct": 4459,
-      "lib": 19113,
+      "lib": 19198,
       "clb": 1508,
-      "meta": 559835,
+      "meta": 566589,
       "pcx": 15688
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.14
   },
-  "status_text": "One list of possible drops now works for every switch setting. Lean checked this when each answer has two regions defined by fixed switches, one requiring zero and one requiring one. If chains of drops are bounded, list the sets of distinct answers that can drop from one to zero in some order as switches turn on. At a given setting, keep the sets whose required switches are all on. The largest surviving set gives the exact longest chain below that setting, and the same list gives one filling that respects every required answer (L-lib-1241).",
-  "outside_contributors_total": 1137,
-  "outside_steps_total": 21570,
-  "author_rank": 936,
+  "status_text": "When the boundary dots on each side have no lines among themselves, the crossing lines tell us how much independent information the count table carries. Lean checked the table of independent-set counts for every pair of left and right deletion masks. An independent set picks dots with no line between them. Collect the right-side neighbors of each subset of left boundary dots. The number of distinct collections equals the table's rank over every field, with arbitrary extra dots and lines within either side. Every crossing line must join two boundary dots (L-lib-1237).",
+  "outside_contributors_total": 1138,
+  "outside_steps_total": 21795,
+  "author_rank": 939,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,37 +53,37 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1608,
+      "steps": 1610,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1402,
+      "steps": 1406,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1234,
+      "steps": 1252,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 877,
+      "steps": 893,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 5,
       "github": "Zigler",
-      "steps": 714,
+      "steps": 759,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 599,
+      "steps": 604,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -101,14 +101,14 @@
     {
       "rank": 9,
       "github": "grayboywilliams",
-      "steps": 464,
+      "steps": 481,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
       "rank": 10,
-      "github": "nicohabets",
-      "steps": 447,
-      "first_proof_at": "2026-11-23T15:50:27.682Z"
+      "github": "MedicV2",
+      "steps": 458,
+      "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
 }
