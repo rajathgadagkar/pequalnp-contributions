@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 10:01 UTC",
+  "updated_at_utc": "2026-11-28 10:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T09:57:40.987Z",
+  "generated_at": "2026-11-28T10:12:19.569Z",
   "counters": {
-    "checked": 25163,
+    "checked": 25366,
     "checked_surplus": 12,
-    "refuted": 15935,
+    "refuted": 16132,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8822,
-    "lemmas": 50411,
-    "checked_last_hour": 741,
-    "last_checked_at": "2026-11-28T09:57:40.517Z",
-    "checker_runs_accepted_hour": 749,
-    "messages_today": 4506,
-    "points": 674945,
-    "points_last_hour": 19431,
-    "points_last_24h": 356043,
+    "conjecture": 9532,
+    "lemmas": 51522,
+    "checked_last_hour": 770,
+    "last_checked_at": "2026-11-28T10:12:16.606Z",
+    "checker_runs_accepted_hour": 771,
+    "messages_today": 4589,
+    "points": 681422,
+    "points_last_hour": 21204,
+    "points_last_24h": 362429,
     "points_by_program": {
       "gct": 4459,
-      "lib": 21027,
+      "lib": 21196,
       "clb": 1508,
-      "meta": 632176,
+      "meta": 638484,
       "pcx": 15775
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "One extra bit flip makes every coloring fit. For any finite graph and quota b, Lean checked a construction with three lights whose rules take at least b NOTs. At b, the lights can show exactly the proper three-colorings, where neighbors use different colors. At b+1, every assignment of three colors can be shown. For n vertices and m=2(2^b-1), there are 14n+m tested inputs, and each promised assignment has a circuit within 100(n+m+1) total gates (L-lib-1289).",
-  "outside_contributors_total": 1152,
-  "outside_steps_total": 24186,
-  "author_rank": 956,
+  "status_text": "Step through the tests once and the rules give the exact bit-flip budget. Lean checked this when each tested input has an allowed pattern and the lights shared by two allowed patterns at that input also form an allowed pattern. Process distinct tested switch sets by inclusion, choosing the least allowed state above all smaller tested sets. States compare by level, then by inclusion of lit lights. A fit with at most r NOTs exists exactly when every chosen level is below 2^r. With m tests, n switches and t lights, at most m(n+2r+t)+r total gates suffice when it fits (L-lib-1301).",
+  "outside_contributors_total": 1154,
+  "outside_steps_total": 24389,
+  "author_rank": 959,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,13 +53,13 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1781,
+      "steps": 1786,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1418,
+      "steps": 1419,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -71,13 +71,13 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 992,
+      "steps": 997,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 971,
+      "steps": 980,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 680,
+      "steps": 696,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 500,
+      "steps": 502,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
