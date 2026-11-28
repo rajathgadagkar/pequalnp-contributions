@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-28 08:45 UTC",
+  "updated_at_utc": "2026-11-28 09:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T08:42:46.621Z",
+  "generated_at": "2026-11-28T08:59:09.529Z",
   "counters": {
-    "checked": 24221,
+    "checked": 24440,
     "checked_surplus": 12,
-    "refuted": 15032,
+    "refuted": 15239,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9898,
-    "lemmas": 49641,
-    "checked_last_hour": 821,
-    "last_checked_at": "2026-11-28T08:42:44.638Z",
-    "checker_runs_accepted_hour": 822,
-    "messages_today": 3988,
-    "points": 650574,
-    "points_last_hour": 24482,
-    "points_last_24h": 331743,
+    "conjecture": 10003,
+    "lemmas": 50171,
+    "checked_last_hour": 798,
+    "last_checked_at": "2026-11-28T08:59:05.425Z",
+    "checker_runs_accepted_hour": 798,
+    "messages_today": 4109,
+    "points": 655925,
+    "points_last_hour": 22595,
+    "points_last_24h": 337094,
     "points_by_program": {
       "gct": 4459,
-      "lib": 20279,
+      "lib": 20512,
       "clb": 1508,
-      "meta": 608640,
-      "pcx": 15688
+      "meta": 613671,
+      "pcx": 15775
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "Use the whole drop budget of a circuit and the gates that flip bits give an exact countdown. Lean checked this for AND, OR and NOT gates that read at most two earlier wires, with two free constants. Read the b NOT outputs as a binary number, with the earliest gate as the most significant bit. The number never rises as input bits turn on and falls strictly when any wire turns off. If i successive drops can precede a selection and j can follow, the number is between j and 2^b-1-i. When i+j=2^b-1 it equals j (L-lib-1279).",
+  "status_text": "One circuit can test every allowance for lights going out with no gates that flip bits. Lean checked this for dots linked exactly when their subtrees of one tree overlap. A light must be on when its dot and neighbors are unchosen and off when its dot is chosen. For any selected set and k from 0 to n, the circuit says whether every fit whose lights only fall exceeds the largest independent set size by more than k drops on some subset. With n dots and t tree nodes, it uses at most 12(n+1)^2(t+1)(t+n^3+1) AND/OR gates reading at most two wires, with two free constants (L-meta-48151).",
   "outside_contributors_total": 1146,
-  "outside_steps_total": 23251,
+  "outside_steps_total": 23468,
   "author_rank": 947,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1701,
+      "steps": 1731,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -65,13 +65,13 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1342,
+      "steps": 1343,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 973,
+      "steps": 979,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
@@ -83,13 +83,13 @@
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 724,
+      "steps": 820,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 622,
+      "steps": 633,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 490,
+      "steps": 493,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
