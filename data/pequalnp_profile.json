@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 13:45 UTC",
+  "updated_at_utc": "2026-11-28 14:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T13:41:47.027Z",
+  "generated_at": "2026-11-28T13:58:19.435Z",
   "counters": {
-    "checked": 26918,
+    "checked": 26950,
     "checked_surplus": 12,
-    "refuted": 17606,
+    "refuted": 17629,
     "blocked": 0,
-    "in_work": 4,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8379,
-    "lemmas": 53402,
-    "checked_last_hour": 106,
-    "last_checked_at": "2026-11-28T13:41:45.565Z",
-    "checker_runs_accepted_hour": 108,
-    "messages_today": 6265,
-    "points": 729804,
-    "points_last_hour": 4766,
-    "points_last_24h": 406986,
+    "conjecture": 8337,
+    "lemmas": 53414,
+    "checked_last_hour": 109,
+    "last_checked_at": "2026-11-28T13:57:49.406Z",
+    "checker_runs_accepted_hour": 109,
+    "messages_today": 6374,
+    "points": 731055,
+    "points_last_hour": 4869,
+    "points_last_24h": 407626,
     "points_by_program": {
       "gct": 4459,
-      "lib": 22731,
+      "lib": 22898,
       "clb": 1508,
-      "meta": 685239,
+      "meta": 686323,
       "pcx": 15867
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.12
   },
-  "status_text": "Nine switch settings can all matter, even when a circuit gets two chances to slip. Ask one light to shine for three settings, go dark for three, then shine for three. Suppose a circuit can change the light once in either direction, with a gate limit that rules out changing twice. Lean checked that all nine settings force more than two misses, and every smaller selection fits (L-lib-1380). In general, one small selection preserves every error-budget decision up to a chosen limit. The search can now use that exact cutoff for one-change light schedules.",
+  "status_text": "One extra bit flip saves up to two gates across three light shows. With at most two NOT gates, the three schedules need seven, eight and seven gates. With a third NOT available, all three fit in six (L-lib-1325, L-lib-1358, L-meta-53148, L-meta-53150, L-meta-53154). Lean has now checked that five gates cannot fit any of the three schedules, even with unrestricted NOTs (L-lib-1399). The search can use the same light-pattern test to rule out smaller circuits on other schedules.",
   "outside_contributors_total": 1165,
-  "outside_steps_total": 25920,
+  "outside_steps_total": 25950,
   "author_rank": 977,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1858,
+      "steps": 1864,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 1106,
+      "steps": 1107,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
