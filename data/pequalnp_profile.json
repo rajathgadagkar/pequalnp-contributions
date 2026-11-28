@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 07:31 UTC",
+  "updated_at_utc": "2026-11-28 07:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T07:28:45.020Z",
+  "generated_at": "2026-11-28T07:44:05.682Z",
   "counters": {
-    "checked": 23218,
+    "checked": 23410,
     "checked_surplus": 12,
-    "refuted": 14062,
+    "refuted": 14249,
     "blocked": 0,
     "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10349,
-    "lemmas": 48119,
-    "checked_last_hour": 838,
-    "last_checked_at": "2026-11-28T07:28:41.268Z",
-    "checker_runs_accepted_hour": 838,
-    "messages_today": 3355,
-    "points": 620815,
-    "points_last_hour": 24643,
-    "points_last_24h": 302165,
+    "conjecture": 10346,
+    "lemmas": 48495,
+    "checked_last_hour": 859,
+    "last_checked_at": "2026-11-28T07:44:03.758Z",
+    "checker_runs_accepted_hour": 859,
+    "messages_today": 3490,
+    "points": 626359,
+    "points_last_hour": 25045,
+    "points_last_24h": 307566,
     "points_by_program": {
       "gct": 4459,
-      "lib": 19533,
+      "lib": 19638,
       "clb": 1508,
-      "meta": 579627,
+      "meta": 585066,
       "pcx": 15688
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.14
   },
-  "status_text": "The same graph handles every choice of weights for its rules, just by switching dots on or off. Lean checked this for a fixed list of partial bit patterns and any modulus M of at least two. Pin the input bits and keep each designated switch dot exactly when its binary weight digit is one. Count selections with those pins and no line between any two selected dots. Modulo M, this count equals the sum of the weights of matching patterns, counting repeats. With n pins and b digits per weight, each path bag contains all pins and at most 2n+3b+5 dots (L-lib-1234).",
+  "status_text": "A small drop budget gives a consistent label for any two groups joined by every possible line. Lean checked this for graph answers that can only stay put or fall as the selection grows. An answer must say one if all selected dots are joined to its dot, and zero if its dot is selected. If at most k successive drops are possible, give each ordered pair of such nonempty groups a sign and a number from 1 to 2k minus 3. Swapping the groups flips the sign at the same number. Enlarging both groups keeps or raises the number and preserves the sign at equal numbers (L-lib-1267).",
   "outside_contributors_total": 1141,
-  "outside_steps_total": 22256,
-  "author_rank": 940,
+  "outside_steps_total": 22446,
+  "author_rank": 943,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1626,
+      "steps": 1637,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -65,25 +65,25 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1297,
+      "steps": 1312,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 919,
+      "steps": 926,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 5,
       "github": "Zigler",
-      "steps": 853,
+      "steps": 888,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 613,
+      "steps": 621,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "grayboywilliams",
-      "steps": 527,
+      "steps": 544,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 467,
+      "steps": 475,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
