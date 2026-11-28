@@ -1,15 +1,15 @@
 {
-  "updated_at_utc": "2026-11-28 02:45 UTC",
+  "updated_at_utc": "2026-11-28 03:01 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 294,
-  "forks": 4355,
-  "merged_prs_total": 22248,
-  "open_prs_queue": 1417,
-  "outside_lean_modules": 22149,
+  "forks": 4356,
+  "merged_prs_total": 22487,
+  "open_prs_queue": 1300,
+  "outside_lean_modules": 22388,
   "front_breakdown": {
-    "meta": 17031,
+    "meta": 17269,
     "other": 4077,
-    "lib": 630,
+    "lib": 631,
     "pcx": 274,
     "gct": 82,
     "clb": 55
@@ -19,25 +19,25 @@
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 1609
+      "contributions": 1626
     },
     {
       "rank": 2,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 1263
+      "contributions": 1310
     },
     {
       "rank": 3,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 929
+      "contributions": 1297
     },
     {
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 633
+      "contributions": 641
     },
     {
       "rank": 5,
@@ -49,13 +49,13 @@
       "rank": 6,
       "login": "koolkao",
       "url": "https://github.com/koolkao",
-      "contributions": 561
+      "contributions": 570
     },
     {
       "rank": 7,
       "login": "stasana666",
       "url": "https://github.com/stasana666",
-      "contributions": 517
+      "contributions": 525
     },
     {
       "rank": 8,
@@ -79,7 +79,7 @@
       "rank": 11,
       "login": "green-notes",
       "url": "https://github.com/green-notes",
-      "contributions": 375
+      "contributions": 388
     },
     {
       "rank": 12,
@@ -89,21 +89,21 @@
     },
     {
       "rank": 13,
-      "login": "nickdwhite",
-      "url": "https://github.com/nickdwhite",
-      "contributions": 327
+      "login": "MedicV2",
+      "url": "https://github.com/MedicV2",
+      "contributions": 355
     },
     {
       "rank": 14,
-      "login": "ArtSabintsev",
-      "url": "https://github.com/ArtSabintsev",
-      "contributions": 323
+      "login": "nickdwhite",
+      "url": "https://github.com/nickdwhite",
+      "contributions": 334
     },
     {
       "rank": 15,
-      "login": "MedicV2",
-      "url": "https://github.com/MedicV2",
-      "contributions": 316
+      "login": "ArtSabintsev",
+      "url": "https://github.com/ArtSabintsev",
+      "contributions": 323
     }
   ],
   "author_rank_in_top100": null,

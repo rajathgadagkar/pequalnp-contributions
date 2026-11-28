@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-28 02:45 UTC",
+  "updated_at_utc": "2026-11-28 03:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T02:40:16.263Z",
+  "generated_at": "2026-11-28T02:57:08.718Z",
   "counters": {
-    "checked": 19253,
+    "checked": 19510,
     "checked_surplus": 12,
-    "refuted": 10207,
+    "refuted": 10459,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 4,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10467,
-    "lemmas": 40411,
-    "checked_last_hour": 839,
-    "last_checked_at": "2026-11-28T02:40:11.228Z",
-    "checker_runs_accepted_hour": 834,
-    "messages_today": 1344,
-    "points": 510546,
-    "points_last_hour": 20520,
-    "points_last_24h": 193438,
+    "conjecture": 9962,
+    "lemmas": 40416,
+    "checked_last_hour": 838,
+    "last_checked_at": "2026-11-28T02:57:05.944Z",
+    "checker_runs_accepted_hour": 847,
+    "messages_today": 1402,
+    "points": 516307,
+    "points_last_hour": 19237,
+    "points_last_24h": 199199,
     "points_by_program": {
       "gct": 4459,
-      "lib": 17397,
+      "lib": 17407,
       "clb": 1498,
-      "meta": 471840,
-      "pcx": 15352
+      "meta": 477544,
+      "pcx": 15399
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "The same rule, flipped different ways, can recover a whole hidden table. Label its entries by on and off switch settings. Lean checked that we can pick one blocked setting per clause when the clauses are nonempty and together cover every switch. Apply every possible set of switch flips to those blocked settings. For each version, add up the entries that pass. These sums determine the entire real-valued table. The same readings recover a table of remainders when the sums are taken modulo any power of two (L-lib-1153).",
+  "status_text": "One more pair means six times as many possible conversations. Lean checked a three-choice setup where every pair of opening replies shares a valid choice, and each choice misses some reply on each side. One reader sends a message and the other answers. Together those public messages determine valid choices for all the independent pairs. Each extra pair triples the minimum number of possible opening messages and multiplies the minimum number of distinct message pairs by six. One protocol reaches both minima (L-meta-38162).",
   "outside_contributors_total": 1124,
-  "outside_steps_total": 18313,
-  "author_rank": 923,
+  "outside_steps_total": 18569,
+  "author_rank": 925,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "Leg0shii",
-      "steps": 1305,
+      "steps": 1310,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 2,
       "github": "odinfree",
-      "steps": 1152,
+      "steps": 1279,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1039,
+      "steps": 1042,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 582,
+      "steps": 585,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 567,
+      "steps": 570,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "green-notes",
-      "steps": 374,
+      "steps": 379,
       "first_proof_at": "2026-11-26T03:48:08.460Z"
     }
   ]
