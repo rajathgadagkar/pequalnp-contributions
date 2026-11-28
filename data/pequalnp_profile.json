@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 07:15 UTC",
+  "updated_at_utc": "2026-11-28 07:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T07:13:59.488Z",
+  "generated_at": "2026-11-28T07:28:45.020Z",
   "counters": {
-    "checked": 22995,
+    "checked": 23218,
     "checked_surplus": 12,
-    "refuted": 13844,
+    "refuted": 14062,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10785,
-    "lemmas": 48113,
-    "checked_last_hour": 837,
-    "last_checked_at": "2026-11-28T07:13:58.489Z",
-    "checker_runs_accepted_hour": 837,
-    "messages_today": 3248,
-    "points": 614413,
-    "points_last_hour": 25128,
-    "points_last_24h": 295807,
+    "conjecture": 10349,
+    "lemmas": 48119,
+    "checked_last_hour": 838,
+    "last_checked_at": "2026-11-28T07:28:41.268Z",
+    "checker_runs_accepted_hour": 838,
+    "messages_today": 3355,
+    "points": 620815,
+    "points_last_hour": 24643,
+    "points_last_24h": 302165,
     "points_by_program": {
       "gct": 4459,
-      "lib": 19365,
+      "lib": 19533,
       "clb": 1508,
-      "meta": 573393,
+      "meta": 579627,
       "pcx": 15688
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.14
   },
-  "status_text": "The drops forced by the rules now tell us exactly which flip budgets can work. Lean checked partial answer tables. A forced drop goes from a required one to a required zero for the same answer as switches only turn on. Successive drops may share endpoints. With no cap on other gates, r NOTs work exactly when no chain has 2 to the r drops. If every chain has at most d drops and d is below that threshold, at most (n+2)S+L+5d AND or OR gates suffice too, for n inputs, S labeled settings and L required ones. Gates read at most two earlier wires, with free constants (L-lib-1228).",
-  "outside_contributors_total": 1140,
-  "outside_steps_total": 22033,
-  "author_rank": 939,
+  "status_text": "The same graph handles every choice of weights for its rules, just by switching dots on or off. Lean checked this for a fixed list of partial bit patterns and any modulus M of at least two. Pin the input bits and keep each designated switch dot exactly when its binary weight digit is one. Count selections with those pins and no line between any two selected dots. Modulo M, this count equals the sum of the weights of matching patterns, counting repeats. With n pins and b digits per weight, each path bag contains all pins and at most 2n+3b+5 dots (L-lib-1234).",
+  "outside_contributors_total": 1141,
+  "outside_steps_total": 22256,
+  "author_rank": 940,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1614,
+      "steps": 1626,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -65,25 +65,25 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1279,
+      "steps": 1297,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 911,
+      "steps": 919,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 5,
       "github": "Zigler",
-      "steps": 807,
+      "steps": 853,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 610,
+      "steps": 613,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -94,20 +94,20 @@
     },
     {
       "rank": 8,
+      "github": "grayboywilliams",
+      "steps": 527,
+      "first_proof_at": "2026-11-25T21:18:57.537Z"
+    },
+    {
+      "rank": 9,
       "github": "stasana666",
       "steps": 525,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
-      "rank": 9,
-      "github": "grayboywilliams",
-      "steps": 506,
-      "first_proof_at": "2026-11-25T21:18:57.537Z"
-    },
-    {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 461,
+      "steps": 467,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
