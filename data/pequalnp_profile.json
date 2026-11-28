@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 04:31 UTC",
+  "updated_at_utc": "2026-11-28 04:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T04:27:36.274Z",
+  "generated_at": "2026-11-28T04:43:44.463Z",
   "counters": {
-    "checked": 20589,
+    "checked": 20827,
     "checked_surplus": 12,
-    "refuted": 11510,
+    "refuted": 11736,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9995,
-    "lemmas": 42581,
-    "checked_last_hour": 638,
-    "last_checked_at": "2026-11-28T04:27:35.382Z",
-    "checker_runs_accepted_hour": 633,
-    "messages_today": 2073,
-    "points": 544082,
-    "points_last_hour": 16948,
-    "points_last_24h": 226181,
+    "conjecture": 9551,
+    "lemmas": 42602,
+    "checked_last_hour": 654,
+    "last_checked_at": "2026-11-28T04:43:43.357Z",
+    "checker_runs_accepted_hour": 654,
+    "messages_today": 2201,
+    "points": 550238,
+    "points_last_hour": 17249,
+    "points_last_24h": 232282,
     "points_by_program": {
       "gct": 4459,
-      "lib": 17804,
+      "lib": 17998,
       "clb": 1508,
-      "meta": 504830,
+      "meta": 510792,
       "pcx": 15481
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "More than half of the six-switch tests sent out now have an answer. At the 04:14 tally, Lean had checked 1,686 same-budget AND/OR replacement results among 3,164 issued six-input maps. Each map gives an answer for every setting of six switches. The model allows any number of NOT gates, with every gate counted and at most two inputs per gate. Each checked replacement has its matching strict-saving refutation. That adds 76 since the previous tally, with zero checked savings and 1,478 maps still to resolve (L-meta-37855).",
-  "outside_contributors_total": 1131,
-  "outside_steps_total": 19642,
+  "status_text": "Just seven boards are left in this round of the shortcut hunt. At the 04:30 tally, Lean had checked 29 of the 36 eight-point boards in this batch. On each, an AND/OR circuit can match the gate budget even if a competing circuit can use one NOT. That is 18 more checked boards since the 04:22 tally. Each board asks whether a line joins two lit points. No checked shortcut has turned up in this batch, and seven boards remain to test (L-meta-40600).",
+  "outside_contributors_total": 1132,
+  "outside_steps_total": 19880,
   "author_rank": 931,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,38 +53,38 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1518,
+      "steps": 1561,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1375,
+      "steps": 1392,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1105,
+      "steps": 1107,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 631,
+      "steps": 644,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 5,
-      "github": "k-sandhu",
-      "steps": 593,
-      "first_proof_at": "2026-11-23T08:48:13.132Z"
+      "github": "willakone",
+      "steps": 597,
+      "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
-      "github": "willakone",
-      "steps": 589,
-      "first_proof_at": "2026-11-24T01:36:49.375Z"
+      "github": "k-sandhu",
+      "steps": 593,
+      "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
       "rank": 7,
@@ -101,13 +101,13 @@
     {
       "rank": 9,
       "github": "MedicV2",
-      "steps": 421,
+      "steps": 422,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     },
     {
       "rank": 10,
       "github": "grayboywilliams",
-      "steps": 396,
+      "steps": 408,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     }
   ]
