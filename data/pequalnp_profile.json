@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 09:31 UTC",
+  "updated_at_utc": "2026-11-28 09:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T09:28:25.085Z",
+  "generated_at": "2026-11-28T09:43:09.772Z",
   "counters": {
-    "checked": 24834,
+    "checked": 24990,
     "checked_surplus": 12,
-    "refuted": 15620,
+    "refuted": 15770,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9235,
-    "lemmas": 50180,
-    "checked_last_hour": 791,
-    "last_checked_at": "2026-11-28T09:28:25.064Z",
-    "checker_runs_accepted_hour": 796,
-    "messages_today": 4307,
-    "points": 666104,
-    "points_last_hour": 20395,
-    "points_last_24h": 347222,
+    "conjecture": 9155,
+    "lemmas": 50406,
+    "checked_last_hour": 764,
+    "last_checked_at": "2026-11-28T09:42:31.696Z",
+    "checker_runs_accepted_hour": 751,
+    "messages_today": 4419,
+    "points": 669856,
+    "points_last_hour": 19168,
+    "points_last_24h": 350974,
     "points_by_program": {
       "gct": 4459,
-      "lib": 20720,
+      "lib": 20919,
       "clb": 1508,
-      "meta": 623642,
+      "meta": 627195,
       "pcx": 15775
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "These two sets of lights demand at least six gates, even when every gate can flip a bit. Lean checked this on the five rows made by turning on four switches in order from all off. The three wires cannot show patterns (4,18,20) together, or (6,17,20) together, with five or fewer AND/OR/NOT gates reading at most two wires each. Each number records one wire across the five rows, with the first row in the low bit. Two constants are free, every gate counts, and the three wire choices are unrestricted (L-lib-1304).",
+  "status_text": "In 77 of 100 rewiring tests, there\u2019s no way to squeeze the circuit into its smaller gate budget. By 09:33 UTC Lean had checked 92 cases. Fifteen fit their gate limit and eight were still open. Each asks for three wire patterns as four switches turn on in order, with at most two NOT gates. One check rules out five gates for patterns (2,11,19), and another supplies a six-gate fit for (6,20,26) (L-meta-50005, L-meta-49899).",
   "outside_contributors_total": 1150,
-  "outside_steps_total": 23859,
+  "outside_steps_total": 24014,
   "author_rank": 951,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1767,
+      "steps": 1776,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -71,25 +71,25 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 983,
+      "steps": 984,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
+      "github": "willakone",
+      "steps": 951,
+      "first_proof_at": "2026-11-24T01:36:49.375Z"
+    },
+    {
+      "rank": 6,
       "github": "koolkao",
       "steps": 942,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
-      "rank": 6,
-      "github": "willakone",
-      "steps": 897,
-      "first_proof_at": "2026-11-24T01:36:49.375Z"
-    },
-    {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 645,
+      "steps": 656,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {

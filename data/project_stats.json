@@ -1,15 +1,15 @@
 {
-  "updated_at_utc": "2026-11-28 09:31 UTC",
+  "updated_at_utc": "2026-11-28 09:45 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 298,
-  "forks": 4428,
-  "merged_prs_total": 27762,
-  "open_prs_queue": 968,
-  "outside_lean_modules": 27658,
+  "forks": 4432,
+  "merged_prs_total": 27898,
+  "open_prs_queue": 1051,
+  "outside_lean_modules": 27792,
   "front_breakdown": {
-    "meta": 22433,
+    "meta": 22564,
     "other": 4077,
-    "lib": 732,
+    "lib": 735,
     "pcx": 278,
     "gct": 82,
     "clb": 56
@@ -19,13 +19,13 @@
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 1921
+      "contributions": 1922
     },
     {
       "rank": 2,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 1682
+      "contributions": 1772
     },
     {
       "rank": 3,
@@ -37,25 +37,25 @@
       "rank": 4,
       "login": "Zigler",
       "url": "https://github.com/Zigler",
-      "contributions": 971
+      "contributions": 985
     },
     {
       "rank": 5,
-      "login": "koolkao",
-      "url": "https://github.com/koolkao",
-      "contributions": 940
+      "login": "willakone",
+      "url": "https://github.com/willakone",
+      "contributions": 974
     },
     {
       "rank": 6,
-      "login": "willakone",
-      "url": "https://github.com/willakone",
-      "contributions": 750
+      "login": "koolkao",
+      "url": "https://github.com/koolkao",
+      "contributions": 942
     },
     {
       "rank": 7,
       "login": "grayboywilliams",
       "url": "https://github.com/grayboywilliams",
-      "contributions": 612
+      "contributions": 648
     },
     {
       "rank": 8,
@@ -73,13 +73,13 @@
       "rank": 10,
       "login": "MedicV2",
       "url": "https://github.com/MedicV2",
-      "contributions": 489
+      "contributions": 502
     },
     {
       "rank": 11,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 450
+      "contributions": 451
     },
     {
       "rank": 12,
@@ -91,7 +91,7 @@
       "rank": 13,
       "login": "green-notes",
       "url": "https://github.com/green-notes",
-      "contributions": 419
+      "contributions": 424
     },
     {
       "rank": 14,
@@ -103,7 +103,7 @@
       "rank": 15,
       "login": "coleism3",
       "url": "https://github.com/coleism3",
-      "contributions": 404
+      "contributions": 406
     }
   ],
   "author_rank_in_top100": null,
