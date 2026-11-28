@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-28 00:15 UTC",
+  "updated_at_utc": "2026-11-28 00:31 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 292,
-  "forks": 4341,
-  "merged_prs_total": 20681,
-  "open_prs_queue": 347,
-  "outside_lean_modules": 20579,
+  "forks": 4340,
+  "merged_prs_total": 20689,
+  "open_prs_queue": 336,
+  "outside_lean_modules": 20587,
   "front_breakdown": {
-    "meta": 15491,
+    "meta": 15495,
     "other": 4077,
     "lib": 610,
-    "pcx": 266,
-    "gct": 80,
+    "pcx": 269,
+    "gct": 81,
     "clb": 55
   },
   "leaderboard_top15": [
