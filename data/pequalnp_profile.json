@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 08:31 UTC",
+  "updated_at_utc": "2026-11-28 08:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T08:28:44.519Z",
+  "generated_at": "2026-11-28T08:42:46.621Z",
   "counters": {
-    "checked": 24047,
+    "checked": 24221,
     "checked_surplus": 12,
-    "refuted": 14864,
+    "refuted": 15032,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10235,
-    "lemmas": 49635,
-    "checked_last_hour": 829,
-    "last_checked_at": "2026-11-28T08:28:44.362Z",
-    "checker_runs_accepted_hour": 829,
-    "messages_today": 3885,
-    "points": 645829,
-    "points_last_hour": 24992,
-    "points_last_24h": 326998,
+    "conjecture": 9898,
+    "lemmas": 49641,
+    "checked_last_hour": 821,
+    "last_checked_at": "2026-11-28T08:42:44.638Z",
+    "checker_runs_accepted_hour": 822,
+    "messages_today": 3988,
+    "points": 650574,
+    "points_last_hour": 24482,
+    "points_last_24h": 331743,
     "points_by_program": {
       "gct": 4459,
-      "lib": 20140,
+      "lib": 20279,
       "clb": 1508,
-      "meta": 604034,
+      "meta": 608640,
       "pcx": 15688
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "A hundred lights can go out together and count as one drop when working out how many gates must flip bits. Lean checked this when input bits turn on one at a time in a fixed order and all lights are prescribed at those steps. Let c count steps when at least one light goes out. With AND, OR and NOT gates reading at most two wires and two free constants, the minimum number b of NOTs is the smallest with 2^b > c. One circuit attains it with at most 4c+2R other gates, where R counts maximal lit stretches separately for each light and adds them up (L-lib-1286).",
-  "outside_contributors_total": 1143,
-  "outside_steps_total": 23079,
-  "author_rank": 944,
+  "status_text": "Use the whole drop budget of a circuit and the gates that flip bits give an exact countdown. Lean checked this for AND, OR and NOT gates that read at most two earlier wires, with two free constants. Read the b NOT outputs as a binary number, with the earliest gate as the most significant bit. The number never rises as input bits turn on and falls strictly when any wire turns off. If i successive drops can precede a selection and j can follow, the number is between j and 2^b-1-i. When i+j=2^b-1 it equals j (L-lib-1279).",
+  "outside_contributors_total": 1146,
+  "outside_steps_total": 23251,
+  "author_rank": 947,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1674,
+      "steps": 1701,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -65,31 +65,31 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1341,
+      "steps": 1342,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 966,
+      "steps": 973,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "koolkao",
-      "steps": 940,
+      "steps": 941,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 686,
+      "steps": 724,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 610,
+      "steps": 622,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 486,
+      "steps": 490,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
