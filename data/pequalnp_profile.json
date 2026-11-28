@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 06:01 UTC",
+  "updated_at_utc": "2026-11-28 06:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T05:56:41.022Z",
+  "generated_at": "2026-11-28T06:12:42.615Z",
   "counters": {
-    "checked": 21884,
+    "checked": 22137,
     "checked_surplus": 12,
-    "refuted": 12766,
+    "refuted": 13008,
     "blocked": 0,
-    "in_work": 4,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9812,
-    "lemmas": 44952,
-    "checked_last_hour": 861,
-    "last_checked_at": "2026-11-28T05:56:39.370Z",
-    "checker_runs_accepted_hour": 856,
-    "messages_today": 2722,
-    "points": 580978,
-    "points_last_hour": 25248,
-    "points_last_24h": 262740,
+    "conjecture": 9790,
+    "lemmas": 45423,
+    "checked_last_hour": 877,
+    "last_checked_at": "2026-11-28T06:12:42.456Z",
+    "checker_runs_accepted_hour": 877,
+    "messages_today": 2834,
+    "points": 588636,
+    "points_last_hour": 26053,
+    "points_last_24h": 270398,
     "points_by_program": {
       "gct": 4459,
-      "lib": 18638,
+      "lib": 18735,
       "clb": 1508,
-      "meta": 540892,
+      "meta": 548453,
       "pcx": 15481
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.14
   },
-  "status_text": "Seven gates are out for the triangle's three jobs. Lean checked that with at most one NOT, a circuit of seven gates or fewer cannot both tell whether at least two of A, B and C are on and, when they are, report whether exactly one end of AB is on and whether exactly one end of BC is on. Each AND, OR or NOT gate reads at most two earlier wires, and constants are free. The next test is whether eight can do all three (L-meta-42704).",
+  "status_text": "The triangle's three jobs now have an exact price. Eight gates and one shared flip are enough. Lean checked a circuit that tells whether at least two of A, B and C are on and, when they are, reports whether exactly one end of AB is on and whether exactly one end of BC is on. The checked lower bound rules out seven gates under the same one-NOT cap. Constants are free, and the AND, OR and NOT gates read at most two earlier wires (L-lib-1229, L-meta-42704).",
   "outside_contributors_total": 1136,
-  "outside_steps_total": 20933,
+  "outside_steps_total": 21181,
   "author_rank": 935,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1607,
+      "steps": 1608,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -65,32 +65,32 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1166,
+      "steps": 1199,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 798,
+      "steps": 831,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 5,
+      "github": "Zigler",
+      "steps": 617,
+      "first_proof_at": "2026-11-25T17:56:15.571Z"
+    },
+    {
+      "rank": 6,
       "github": "willakone",
       "steps": 598,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "github": "k-sandhu",
       "steps": 593,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
-    },
-    {
-      "rank": 7,
-      "github": "Zigler",
-      "steps": 573,
-      "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 8,
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "grayboywilliams",
-      "steps": 432,
+      "steps": 444,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     }
   ]
