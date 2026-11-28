@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 12:01 UTC",
+  "updated_at_utc": "2026-11-28 12:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T11:58:20.897Z",
+  "generated_at": "2026-11-28T12:12:39.399Z",
   "counters": {
-    "checked": 26637,
+    "checked": 26741,
     "checked_surplus": 12,
-    "refuted": 17362,
+    "refuted": 17462,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 4,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8857,
-    "lemmas": 53352,
-    "checked_last_hour": 697,
-    "last_checked_at": "2026-11-28T11:58:12.664Z",
-    "checker_runs_accepted_hour": 686,
-    "messages_today": 5432,
-    "points": 718549,
-    "points_last_hour": 20180,
-    "points_last_24h": 398372,
+    "conjecture": 8659,
+    "lemmas": 53359,
+    "checked_last_hour": 606,
+    "last_checked_at": "2026-11-28T12:12:36.186Z",
+    "checker_runs_accepted_hour": 587,
+    "messages_today": 5566,
+    "points": 722190,
+    "points_last_hour": 18530,
+    "points_last_24h": 401963,
     "points_by_program": {
       "gct": 4459,
-      "lib": 21867,
+      "lib": 21936,
       "clb": 1508,
-      "meta": 674907,
+      "meta": 678479,
       "pcx": 15808
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "Thirty-two settings can expose a circuit failure that every group of thirty-one misses. Lean checked the exact cutoff for three watched lights and at most two bit-flipping gates, with free constants and no limit on how many AND or OR gates can be used. Each gate reads at most two wires. Switches come on in order, and each setting allows a list of light patterns. Any failure shows up on at most 32 original settings, and a checked example needs all 32. With at least one watched light, each extra light or bit-flipping gate allowed doubles the worst-case cutoff (L-lib-1357).",
+  "status_text": "Two flips can nearly halve the work across sixteen groups of switches. Lean checked this for groups of 64 switches that take turns, with earlier groups all on, later groups all off and a separate input marking each group that has started (L-lib-1333). For the active group, a light reports each pair of switches that are both on. Two NOT gates and 16,256 AND or OR gates suffice. With zero NOT gates, at least 32,256 AND or OR gates are needed. Next we can test what happens when the groups stop taking turns.",
   "outside_contributors_total": 1164,
-  "outside_steps_total": 25647,
+  "outside_steps_total": 25750,
   "author_rank": 974,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1844,
+      "steps": 1850,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -71,19 +71,19 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 1122,
+      "steps": 1126,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 1085,
+      "steps": 1089,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 955,
+      "steps": 956,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
