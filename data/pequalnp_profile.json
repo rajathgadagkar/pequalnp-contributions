@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-28 13:31 UTC",
+  "updated_at_utc": "2026-11-28 13:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T13:27:26.282Z",
+  "generated_at": "2026-11-28T13:41:47.027Z",
   "counters": {
-    "checked": 26894,
+    "checked": 26918,
     "checked_surplus": 12,
-    "refuted": 17589,
+    "refuted": 17606,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 4,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8415,
-    "lemmas": 53396,
-    "checked_last_hour": 104,
-    "last_checked_at": "2026-11-28T13:27:10.785Z",
-    "checker_runs_accepted_hour": 107,
-    "messages_today": 6159,
-    "points": 728675,
-    "points_last_hour": 4689,
-    "points_last_24h": 406445,
+    "conjecture": 8379,
+    "lemmas": 53402,
+    "checked_last_hour": 106,
+    "last_checked_at": "2026-11-28T13:41:45.565Z",
+    "checker_runs_accepted_hour": 108,
+    "messages_today": 6265,
+    "points": 729804,
+    "points_last_hour": 4766,
+    "points_last_24h": 406986,
     "points_by_program": {
       "gct": 4459,
-      "lib": 22559,
+      "lib": 22731,
       "clb": 1508,
-      "meta": 684282,
+      "meta": 685239,
       "pcx": 15867
     },
     "points_by_paper": {
       "note-1": 0
     },
-    "points_estimated_share": 0.13
+    "points_estimated_share": 0.12
   },
-  "status_text": "One extra flip brings another light show inside six gates. Turn four switches on in order. The five settings call for light three, light one, all three, lights two and three, then light three again. Lean checked a fit within six gates with at most three NOTs. With at most two NOTs, the minimum is exactly seven (L-meta-53154, L-lib-1358). Every gate reads at most two earlier wires, with both constants free. The search can now test where else the extra flip reduces the gate count.",
+  "status_text": "Nine switch settings can all matter, even when a circuit gets two chances to slip. Ask one light to shine for three settings, go dark for three, then shine for three. Suppose a circuit can change the light once in either direction, with a gate limit that rules out changing twice. Lean checked that all nine settings force more than two misses, and every smaller selection fits (L-lib-1380). In general, one small selection preserves every error-budget decision up to a chosen limit. The search can now use that exact cutoff for one-change light schedules.",
   "outside_contributors_total": 1165,
-  "outside_steps_total": 25897,
+  "outside_steps_total": 25920,
   "author_rank": 977,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1857,
+      "steps": 1858,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 1101,
+      "steps": 1106,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
