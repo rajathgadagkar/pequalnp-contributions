@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-28 15:31 UTC**_
+_Last synced automatically: **2026-11-28 15:45 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -38,20 +38,20 @@ Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequ
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **27,061** |
-| **Checked in Last Hour** | **+74** |
-| **Outside Contributors / Outside Steps** | **1,169** / **26,056** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **29,821** |
-| **Total Merged Proof PRs** | **29,936** |
-| **Active PRs in Checker Queue** | **847** |
+| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **27,077** |
+| **Checked in Last Hour** | **+72** |
+| **Outside Contributors / Outside Steps** | **1,169** / **26,071** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **29,833** |
+| **Total Merged Proof PRs** | **29,948** |
+| **Active PRs in Checker Queue** | **843** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 24,516 | 82.2% | `███████████████░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 24,525 | 82.2% | `███████████████░░░` |
 | **OTHER** (`L_other_*`) | 4,077 | 13.7% | `██░░░░░░░░░░░░░░░░` |
-| **Shared Library & Utilities** (`L_lib_*`) | 809 | 2.7% | `░░░░░░░░░░░░░░░░░░` |
+| **Shared Library & Utilities** (`L_lib_*`) | 812 | 2.7% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 280 | 0.9% | `░░░░░░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 82 | 0.3% | `░░░░░░░░░░░░░░░░░░` |
 | **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 57 | 0.2% | `░░░░░░░░░░░░░░░░░░` |
