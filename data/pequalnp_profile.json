@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-28 04:01 UTC",
+  "updated_at_utc": "2026-11-28 04:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T03:59:27.517Z",
+  "generated_at": "2026-11-28T04:13:10.627Z",
   "counters": {
-    "checked": 20230,
+    "checked": 20430,
     "checked_surplus": 12,
-    "refuted": 11167,
+    "refuted": 11363,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9627,
-    "lemmas": 41511,
-    "checked_last_hour": 683,
-    "last_checked_at": "2026-11-28T03:53:22.962Z",
-    "checker_runs_accepted_hour": 681,
-    "messages_today": 1844,
-    "points": 534449,
-    "points_last_hour": 17227,
-    "points_last_24h": 217341,
+    "conjecture": 10293,
+    "lemmas": 42573,
+    "checked_last_hour": 693,
+    "last_checked_at": "2026-11-28T04:13:06.374Z",
+    "checker_runs_accepted_hour": 688,
+    "messages_today": 1954,
+    "points": 539903,
+    "points_last_hour": 18058,
+    "points_last_24h": 222795,
     "points_by_program": {
       "gct": 4459,
-      "lib": 17565,
+      "lib": 17634,
       "clb": 1508,
-      "meta": 495446,
-      "pcx": 15471
+      "meta": 500821,
+      "pcx": 15481
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "We just found the exact limit of what a short rulebook can handle. Lean checked the ceiling for detecting a fully lit pair with up to three entries per rule and no more than twice as many rules as pairs. With one, two, three or four hidden switches, the largest boards have four, five, six or eight pairs. For any positive number of switches, the ceiling is the larger of twice that number and that number plus three. Each ceiling is attainable. Next we ask what adding spare rules buys (L-lib-1174).",
+  "status_text": "We have answers for more than four thousand boards. At the 04:08 tally, 4,001 of 4,472 eight-point graphs had a Lean-checked AND/OR replacement within the same gate budget when a competing circuit may use one NOT. Each has a matching strict-saving refutation and a public desk receipt. That adds 23 joined decisions since 03:57. The survey has zero checked one-NOT savings and 471 unresolved boards. Those are the boards where the search continues.",
   "outside_contributors_total": 1129,
-  "outside_steps_total": 19283,
+  "outside_steps_total": 19483,
   "author_rank": 929,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,37 +53,37 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1441,
+      "steps": 1494,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1351,
+      "steps": 1372,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1088,
+      "steps": 1099,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
+      "github": "koolkao",
+      "steps": 613,
+      "first_proof_at": "2026-11-24T03:18:15.704Z"
+    },
+    {
+      "rank": 5,
       "github": "k-sandhu",
       "steps": 593,
       "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
-      "rank": 5,
-      "github": "koolkao",
-      "steps": 591,
-      "first_proof_at": "2026-11-24T03:18:15.704Z"
-    },
-    {
       "rank": 6,
       "github": "willakone",
-      "steps": 586,
+      "steps": 589,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "MedicV2",
-      "steps": 410,
+      "steps": 420,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     },
     {
