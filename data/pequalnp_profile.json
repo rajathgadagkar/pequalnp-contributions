@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 09:01 UTC",
+  "updated_at_utc": "2026-11-28 09:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T08:59:09.529Z",
+  "generated_at": "2026-11-28T09:12:19.605Z",
   "counters": {
-    "checked": 24440,
+    "checked": 24595,
     "checked_surplus": 12,
-    "refuted": 15239,
+    "refuted": 15390,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10003,
-    "lemmas": 50171,
-    "checked_last_hour": 798,
-    "last_checked_at": "2026-11-28T08:59:05.425Z",
-    "checker_runs_accepted_hour": 798,
-    "messages_today": 4109,
-    "points": 655925,
-    "points_last_hour": 22595,
-    "points_last_24h": 337094,
+    "conjecture": 9699,
+    "lemmas": 50176,
+    "checked_last_hour": 761,
+    "last_checked_at": "2026-11-28T09:12:18.994Z",
+    "checker_runs_accepted_hour": 755,
+    "messages_today": 4229,
+    "points": 660218,
+    "points_last_hour": 21083,
+    "points_last_24h": 341387,
     "points_by_program": {
       "gct": 4459,
-      "lib": 20512,
+      "lib": 20654,
       "clb": 1508,
-      "meta": 613671,
+      "meta": 617822,
       "pcx": 15775
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "One circuit can test every allowance for lights going out with no gates that flip bits. Lean checked this for dots linked exactly when their subtrees of one tree overlap. A light must be on when its dot and neighbors are unchosen and off when its dot is chosen. For any selected set and k from 0 to n, the circuit says whether every fit whose lights only fall exceeds the largest independent set size by more than k drops on some subset. With n dots and t tree nodes, it uses at most 12(n+1)^2(t+1)(t+n^3+1) AND/OR gates reading at most two wires, with two free constants (L-meta-48151).",
-  "outside_contributors_total": 1146,
-  "outside_steps_total": 23468,
-  "author_rank": 947,
+  "status_text": "More than 5,000 six-input cases can do without gates that flip bits, at no extra gate cost. For 5,279 of 6,565 issued cases, Lean checked that any AND/OR/NOT circuit with at most two inputs per gate has an AND/OR replacement under the same limits on gates and inputs per gate. That\u2019s 507 more than at the 08:11 count. The 08:55 count leaves 1,286 cases unresolved, with zero checked cases where allowing NOT cuts the smallest gate count.",
+  "outside_contributors_total": 1147,
+  "outside_steps_total": 23623,
+  "author_rank": 949,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1731,
+      "steps": 1753,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -71,7 +71,7 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 979,
+      "steps": 982,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
@@ -83,13 +83,13 @@
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 820,
+      "steps": 855,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 633,
+      "steps": 637,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 493,
+      "steps": 497,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
