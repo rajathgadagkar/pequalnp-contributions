@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 11:15 UTC",
+  "updated_at_utc": "2026-11-28 11:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T11:11:35.483Z",
+  "generated_at": "2026-11-28T11:28:00.985Z",
   "counters": {
-    "checked": 26120,
+    "checked": 26362,
     "checked_surplus": 12,
-    "refuted": 16870,
+    "refuted": 17108,
     "blocked": 0,
-    "in_work": 4,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9837,
-    "lemmas": 53323,
-    "checked_last_hour": 764,
-    "last_checked_at": "2026-11-28T11:11:33.801Z",
-    "checker_runs_accepted_hour": 770,
-    "messages_today": 5034,
-    "points": 703187,
-    "points_last_hour": 22127,
-    "points_last_24h": 383517,
+    "conjecture": 9368,
+    "lemmas": 53333,
+    "checked_last_hour": 793,
+    "last_checked_at": "2026-11-28T11:28:00.260Z",
+    "checker_runs_accepted_hour": 793,
+    "messages_today": 5144,
+    "points": 710130,
+    "points_last_hour": 22291,
+    "points_last_24h": 390297,
     "points_by_program": {
       "gct": 4459,
-      "lib": 21548,
+      "lib": 21578,
       "clb": 1508,
-      "meta": 659864,
+      "meta": 666777,
       "pcx": 15808
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "One table can decide whether a single small circuit can make all the lights blink on cue. Give it a finite list of switch settings and limits on gates and bit flips. Start with the input wire patterns and both constants. Each step adds a new pattern from a legal gate, and the table keeps the fewest bit flips for each collection. Lean checked that an entry within the limits contains all the requested patterns exactly when one circuit can realize them together within those limits (L-lib-1336). A covering table can also certify exclusions (L-lib-1335).",
-  "outside_contributors_total": 1162,
-  "outside_steps_total": 25139,
-  "author_rank": 968,
+  "status_text": "One extra bit flip makes three lights fit into six gates. Lean checked both sides on four switches turned on in order. A six-gate circuit can match the three light patterns with three NOTs, and every circuit under the same gate cap falls short with at most two NOTs (L-meta-53148). The search has also gained a way to reuse circuit checks across ordered switch settings. Lean checked that skipping or repeating settings preserves every sampled wire at the same gate and NOT counts (L-lib-1340).",
+  "outside_contributors_total": 1163,
+  "outside_steps_total": 25379,
+  "author_rank": 973,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1827,
+      "steps": 1832,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -71,25 +71,25 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 1092,
+      "steps": 1107,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 1031,
+      "steps": 1059,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 946,
+      "steps": 947,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 717,
+      "steps": 721,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 506,
+      "steps": 516,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
