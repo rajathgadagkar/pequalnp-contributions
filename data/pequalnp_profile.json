@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 05:15 UTC",
+  "updated_at_utc": "2026-11-28 05:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T05:13:02.432Z",
+  "generated_at": "2026-11-28T05:28:46.442Z",
   "counters": {
-    "checked": 21265,
+    "checked": 21488,
     "checked_surplus": 12,
-    "refuted": 12161,
+    "refuted": 12378,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10376,
-    "lemmas": 44290,
-    "checked_last_hour": 837,
-    "last_checked_at": "2026-11-28T05:13:01.548Z",
-    "checker_runs_accepted_hour": 836,
-    "messages_today": 2429,
-    "points": 562692,
-    "points_last_hour": 22830,
-    "points_last_24h": 244680,
+    "conjecture": 10584,
+    "lemmas": 44938,
+    "checked_last_hour": 886,
+    "last_checked_at": "2026-11-28T05:28:43.799Z",
+    "checker_runs_accepted_hour": 886,
+    "messages_today": 2517,
+    "points": 569513,
+    "points_last_hour": 24982,
+    "points_last_24h": 251453,
     "points_by_program": {
       "gct": 4459,
-      "lib": 18315,
+      "lib": 18537,
       "clb": 1508,
-      "meta": 522929,
+      "meta": 529528,
       "pcx": 15481
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "Three dots, two lines, exactly six steps. Lean checked a circuit that decides whether the selected dots touch both lines of a three-point path. Whenever they do, it also says whether exactly one end of each line is selected. Every circuit doing all three jobs needs at least six gates in total, including at least four AND or OR gates and at least two NOT gates. One circuit meets all three limits. Each gate reads at most two earlier wires, with constants free. Next comes the same total-gate question for the triangle (L-lib-1200).",
-  "outside_contributors_total": 1133,
-  "outside_steps_total": 20317,
-  "author_rank": 932,
+  "status_text": "When can one flip reach the gate lower bound? On selections that touch every line, a circuit must report whether each marked line has exactly one selected end. For at least three distinct marked endpoints and at most one NOT, Lean checked a lower bound of one gate per marked endpoint plus one per marked line. It can be met exactly when every two marked endpoints are joined and the sets left after removing each marked line's ends from the marked endpoints are pairwise nested or disjoint. Constants are free and gates read at most two earlier wires (L-lib-1190).",
+  "outside_contributors_total": 1134,
+  "outside_steps_total": 20539,
+  "author_rank": 933,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1595,
+      "steps": 1601,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -65,13 +65,13 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1108,
+      "steps": 1119,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 725,
+      "steps": 743,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
@@ -94,21 +94,21 @@
     },
     {
       "rank": 8,
+      "github": "Zigler",
+      "steps": 472,
+      "first_proof_at": "2026-11-25T17:56:15.571Z"
+    },
+    {
+      "rank": 9,
       "github": "nicohabets",
       "steps": 446,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "github": "MedicV2",
       "steps": 427,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
-    },
-    {
-      "rank": 10,
-      "github": "grayboywilliams",
-      "steps": 415,
-      "first_proof_at": "2026-11-25T21:18:57.537Z"
     }
   ]
 }
