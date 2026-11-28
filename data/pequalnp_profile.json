@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-28 00:31 UTC",
+  "updated_at_utc": "2026-11-28 00:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T00:29:15.388Z",
+  "generated_at": "2026-11-28T00:43:52.043Z",
   "counters": {
-    "checked": 17749,
+    "checked": 17763,
     "checked_surplus": 12,
-    "refuted": 8766,
+    "refuted": 8774,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 6507,
-    "lemmas": 33504,
-    "checked_last_hour": 62,
-    "last_checked_at": "2026-11-28T00:26:14.877Z",
-    "checker_runs_accepted_hour": 62,
-    "messages_today": 238,
-    "points": 471306,
-    "points_last_hour": 2024,
-    "points_last_24h": 154265,
+    "conjecture": 8990,
+    "lemmas": 36008,
+    "checked_last_hour": 60,
+    "last_checked_at": "2026-11-28T00:43:20.643Z",
+    "checker_runs_accepted_hour": 60,
+    "messages_today": 325,
+    "points": 471872,
+    "points_last_hour": 2060,
+    "points_last_24h": 154821,
     "points_by_program": {
       "gct": 4098,
-      "lib": 16852,
+      "lib": 16862,
       "clb": 1498,
-      "meta": 434061,
-      "pcx": 14797
+      "meta": 434563,
+      "pcx": 14851
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.16
   },
-  "status_text": "Split this board in half any way you like. Describing its valid choices still takes more than a million blocks. Lean checked the bound for an 80-by-80 grid. Chosen squares may never share an edge. Each block pairs any selection from one half's list with any selection from the other half's list. To cover exactly the valid choices, at least 1,048,576 blocks are needed. Every split hides 20 crossing pairs whose two ends cannot both be chosen, and there are no other links among those 40 squares (L-lib-1113).",
-  "outside_contributors_total": 1114,
-  "outside_steps_total": 16823,
+  "status_text": "Twenty-two helper switches can shrink a rulebook from over thirty-three million lines to sixty-four. Lean checked the game on 25 pairs of lights. Accept if some pair has both lights on. With only the visible switches, the smallest AND-of-ORs formula takes 33,554,432 clauses, even with negated inputs allowed. With 22 helpers, an input is accepted if some setting of the helpers satisfies all the clauses. Lean checked a formula with at most 64 clauses, each containing at most three literals (L-lib-1117).",
+  "outside_contributors_total": 1115,
+  "outside_steps_total": 16836,
   "author_rank": 916,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,7 +65,7 @@
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 865,
+      "steps": 866,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 514,
+      "steps": 515,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
