@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-28 12:15 UTC",
+  "updated_at_utc": "2026-11-28 12:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T12:12:39.399Z",
+  "generated_at": "2026-11-28T12:28:31.287Z",
   "counters": {
-    "checked": 26741,
+    "checked": 26793,
     "checked_surplus": 12,
-    "refuted": 17462,
+    "refuted": 17506,
     "blocked": 0,
-    "in_work": 4,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8659,
-    "lemmas": 53359,
-    "checked_last_hour": 606,
-    "last_checked_at": "2026-11-28T12:12:36.186Z",
-    "checker_runs_accepted_hour": 587,
-    "messages_today": 5566,
-    "points": 722190,
-    "points_last_hour": 18530,
-    "points_last_24h": 401963,
+    "conjecture": 8574,
+    "lemmas": 53370,
+    "checked_last_hour": 425,
+    "last_checked_at": "2026-11-28T12:28:01.385Z",
+    "checker_runs_accepted_hour": 398,
+    "messages_today": 5664,
+    "points": 724087,
+    "points_last_hour": 13798,
+    "points_last_24h": 403800,
     "points_by_program": {
       "gct": 4459,
-      "lib": 21936,
+      "lib": 22152,
       "clb": 1508,
-      "meta": 678479,
-      "pcx": 15808
+      "meta": 680101,
+      "pcx": 15867
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "Two flips can nearly halve the work across sixteen groups of switches. Lean checked this for groups of 64 switches that take turns, with earlier groups all on, later groups all off and a separate input marking each group that has started (L-lib-1333). For the active group, a light reports each pair of switches that are both on. Two NOT gates and 16,256 AND or OR gates suffice. With zero NOT gates, at least 32,256 AND or OR gates are needed. Next we can test what happens when the groups stop taking turns.",
+  "status_text": "A simple rule can make as few mistakes as any circuit under the same gate limit. Ask whether any of the chosen switches are on. Lean checked this for groups of copied switches, with the light required off when every switch is off (L-lib-1351). Each gate reads at most two wires. Read whole banks of copies and at most one partial bank, then combine them using OR. The same minimum applies with AND and NOT gates available. A companion check ties group coverage to allowed misses when timing also has to be exact (L-lib-1346).",
   "outside_contributors_total": 1164,
-  "outside_steps_total": 25750,
+  "outside_steps_total": 25801,
   "author_rank": 974,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1850,
+      "steps": 1856,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -71,19 +71,19 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 1126,
+      "steps": 1128,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 1089,
+      "steps": 1101,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 956,
+      "steps": 957,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
