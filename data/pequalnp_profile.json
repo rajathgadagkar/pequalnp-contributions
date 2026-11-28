@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-28 05:31 UTC",
+  "updated_at_utc": "2026-11-28 05:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T05:28:46.442Z",
+  "generated_at": "2026-11-28T05:43:46.437Z",
   "counters": {
-    "checked": 21488,
+    "checked": 21687,
     "checked_surplus": 12,
-    "refuted": 12378,
+    "refuted": 12573,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10584,
-    "lemmas": 44938,
-    "checked_last_hour": 886,
-    "last_checked_at": "2026-11-28T05:28:43.799Z",
-    "checker_runs_accepted_hour": 886,
-    "messages_today": 2517,
-    "points": 569513,
-    "points_last_hour": 24982,
-    "points_last_24h": 251453,
+    "conjecture": 10198,
+    "lemmas": 44947,
+    "checked_last_hour": 858,
+    "last_checked_at": "2026-11-28T05:43:42.190Z",
+    "checker_runs_accepted_hour": 858,
+    "messages_today": 2615,
+    "points": 575373,
+    "points_last_hour": 25017,
+    "points_last_24h": 257313,
     "points_by_program": {
       "gct": 4459,
-      "lib": 18537,
+      "lib": 18570,
       "clb": 1508,
-      "meta": 529528,
+      "meta": 535355,
       "pcx": 15481
     },
     "points_by_paper": {
       "note-1": 0
     },
-    "points_estimated_share": 0.15
+    "points_estimated_share": 0.14
   },
-  "status_text": "When can one flip reach the gate lower bound? On selections that touch every line, a circuit must report whether each marked line has exactly one selected end. For at least three distinct marked endpoints and at most one NOT, Lean checked a lower bound of one gate per marked endpoint plus one per marked line. It can be met exactly when every two marked endpoints are joined and the sets left after removing each marked line's ends from the marked endpoints are pairwise nested or disjoint. Constants are free and gates read at most two earlier wires (L-lib-1190).",
-  "outside_contributors_total": 1134,
-  "outside_steps_total": 20539,
-  "author_rank": 933,
+  "status_text": "A whole circuit of flips can be replaced by one shared list. Lean checked this for any rule connecting the input bits to all the required answers. If every gate is a NOT, each answer can read a fixed input, a free constant, or a flipped input from a single shared set. That set has size at most the smaller of the total gate budget and the NOT budget. Every choice that meets the rule gives a circuit, with one NOT per distinct flipped input. Next we ask what combining two inputs can buy (L-lib-1212).",
+  "outside_contributors_total": 1135,
+  "outside_steps_total": 20736,
+  "author_rank": 934,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1601,
+      "steps": 1604,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -65,13 +65,13 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1119,
+      "steps": 1138,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 743,
+      "steps": 770,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
@@ -88,20 +88,20 @@
     },
     {
       "rank": 7,
+      "github": "Zigler",
+      "steps": 535,
+      "first_proof_at": "2026-11-25T17:56:15.571Z"
+    },
+    {
+      "rank": 8,
       "github": "stasana666",
       "steps": 525,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
-      "rank": 8,
-      "github": "Zigler",
-      "steps": 472,
-      "first_proof_at": "2026-11-25T17:56:15.571Z"
-    },
-    {
       "rank": 9,
       "github": "nicohabets",
-      "steps": 446,
+      "steps": 447,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
