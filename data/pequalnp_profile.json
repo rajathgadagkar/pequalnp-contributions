@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-28 07:45 UTC",
+  "updated_at_utc": "2026-11-28 08:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T07:44:05.682Z",
+  "generated_at": "2026-11-28T07:57:56.238Z",
   "counters": {
-    "checked": 23410,
+    "checked": 23624,
     "checked_surplus": 12,
-    "refuted": 14249,
+    "refuted": 14446,
     "blocked": 0,
     "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10346,
-    "lemmas": 48495,
-    "checked_last_hour": 859,
-    "last_checked_at": "2026-11-28T07:44:03.758Z",
-    "checker_runs_accepted_hour": 859,
-    "messages_today": 3490,
-    "points": 626359,
-    "points_last_hour": 25045,
-    "points_last_24h": 307566,
+    "conjecture": 10946,
+    "lemmas": 49506,
+    "checked_last_hour": 879,
+    "last_checked_at": "2026-11-28T07:57:50.499Z",
+    "checker_runs_accepted_hour": 879,
+    "messages_today": 3632,
+    "points": 632769,
+    "points_last_hour": 25558,
+    "points_last_24h": 313976,
     "points_by_program": {
       "gct": 4459,
-      "lib": 19638,
+      "lib": 20008,
       "clb": 1508,
-      "meta": 585066,
+      "meta": 591106,
       "pcx": 15688
     },
     "points_by_paper": {
       "note-1": 0
     },
-    "points_estimated_share": 0.14
+    "points_estimated_share": 0.13
   },
-  "status_text": "A small drop budget gives a consistent label for any two groups joined by every possible line. Lean checked this for graph answers that can only stay put or fall as the selection grows. An answer must say one if all selected dots are joined to its dot, and zero if its dot is selected. If at most k successive drops are possible, give each ordered pair of such nonempty groups a sign and a number from 1 to 2k minus 3. Swapping the groups flips the sign at the same number. Enlarging both groups keeps or raises the number and preserves the sign at equal numbers (L-lib-1267).",
-  "outside_contributors_total": 1141,
-  "outside_steps_total": 22446,
+  "status_text": "Two gates that flip bits can do the job. Make every light stay off once it goes out, and the minimum can grow without limit. Lean checked this for one light per t-point subset of 3t minus 1 points, t positive. A light must be on if its set misses every chosen set and off if its own set is chosen. Use AND, OR and NOT gates with at most two input wires each. With n subsets, the minimum is two NOTs, attained in at most n squared plus 5n plus 2 total gates. When lights stay off as choices grow, b NOTs must satisfy 2^b > 1 + ceil((t+1)/2) (L-lib-1276).",
+  "outside_contributors_total": 1142,
+  "outside_steps_total": 22658,
   "author_rank": 943,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,37 +53,37 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1637,
+      "steps": 1656,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1408,
+      "steps": 1414,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1312,
+      "steps": 1325,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 926,
+      "steps": 930,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 5,
       "github": "Zigler",
-      "steps": 888,
+      "steps": 914,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 621,
+      "steps": 639,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -95,7 +95,7 @@
     {
       "rank": 8,
       "github": "grayboywilliams",
-      "steps": 544,
+      "steps": 560,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 475,
+      "steps": 477,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]

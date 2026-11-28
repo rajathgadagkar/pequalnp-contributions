@@ -1,7 +1,7 @@
 {
   "author": "rajathgadagkar",
   "repo": "open-goat/pequalnp-proofs",
-  "updated_at_utc": "2026-11-28 07:45 UTC",
+  "updated_at_utc": "2026-11-28 08:01 UTC",
   "stats": {
     "total_prs": 13,
     "unique_steps": 12,
@@ -9,8 +9,8 @@
     "accepted_slot_capped": 2,
     "open": 0,
     "closed_total": 12,
-    "superseded_or_queue_closed": 8,
-    "closed_other": 2,
+    "superseded_or_queue_closed": 9,
+    "closed_other": 1,
     "rejected": 0,
     "total_lines_added": 6742
   },
@@ -172,8 +172,8 @@
       "url": "https://github.com/open-goat/pequalnp-proofs/pull/4185",
       "state": "closed",
       "merged": false,
-      "status": "\u26ab Closed",
-      "note": "Closed",
+      "status": "\u26aa Superseded",
+      "note": "Valid proof; an earlier PR for this step merged first",
       "body": "## Summary\nLean 4 proof of **`PEqualNP.Outside.L_meta_1754`** (superseded by an earlier accepted PR for the same gap).\n\n## Statement\nVerifies that the explicit 6-gate fan-in-two AND/OR circuit `C` (`output = 10`, reading only earlier wires on 5 inputs) computes the 8-edge graph function `(x\u2080 \u2227 x\u2081) \u2228 (x\u2080 \u2227 x\u2082) \u2228 (x\u2080 \u2227 x\u2083) \u2228 (x\u2080 \u2227 x\u2084) \u2228 (x\u2081 \u2227 x\u2083) \u2228 (x\u2081 \u2227 x\u2084) \u2228 (x\u2082 \u2227 x\u2083) \u2228 (x\u2082 \u2227 x\u2084)` across all `2\u2075` inputs `Fin 5 \u2192 Bool`.\n\n## Proof Overview\n- Checks gate count, output wire index, fan-in-two AND/OR well-formedness, and full truth-table equivalence over `Fin 5 \u2192 Bool` by finite evaluation.",
       "additions": 24,
       "deletions": 0,
