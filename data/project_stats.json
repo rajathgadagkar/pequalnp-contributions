@@ -1,15 +1,15 @@
 {
-  "updated_at_utc": "2026-11-28 11:31 UTC",
+  "updated_at_utc": "2026-11-28 11:45 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 299,
-  "forks": 4446,
-  "merged_prs_total": 29288,
-  "open_prs_queue": 1244,
-  "outside_lean_modules": 29180,
+  "forks": 4451,
+  "merged_prs_total": 29402,
+  "open_prs_queue": 1172,
+  "outside_lean_modules": 29292,
   "front_breakdown": {
-    "meta": 23931,
+    "meta": 24040,
     "other": 4077,
-    "lib": 755,
+    "lib": 758,
     "pcx": 279,
     "gct": 82,
     "clb": 56
@@ -19,13 +19,13 @@
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 1924
+      "contributions": 1927
     },
     {
       "rank": 2,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 1804
+      "contributions": 1834
     },
     {
       "rank": 3,
@@ -37,25 +37,25 @@
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 1053
+      "contributions": 1135
     },
     {
       "rank": 5,
       "login": "Zigler",
       "url": "https://github.com/Zigler",
-      "contributions": 1022
+      "contributions": 1114
     },
     {
       "rank": 6,
       "login": "koolkao",
       "url": "https://github.com/koolkao",
-      "contributions": 945
+      "contributions": 954
     },
     {
       "rank": 7,
       "login": "grayboywilliams",
       "url": "https://github.com/grayboywilliams",
-      "contributions": 708
+      "contributions": 731
     },
     {
       "rank": 8,
@@ -73,7 +73,7 @@
       "rank": 10,
       "login": "MedicV2",
       "url": "https://github.com/MedicV2",
-      "contributions": 504
+      "contributions": 522
     },
     {
       "rank": 11,
@@ -83,27 +83,27 @@
     },
     {
       "rank": 12,
+      "login": "coleism3",
+      "url": "https://github.com/coleism3",
+      "contributions": 437
+    },
+    {
+      "rank": 13,
       "login": "suku1515",
       "url": "https://github.com/suku1515",
       "contributions": 426
     },
     {
-      "rank": 13,
+      "rank": 14,
       "login": "green-notes",
       "url": "https://github.com/green-notes",
       "contributions": 424
     },
     {
-      "rank": 14,
+      "rank": 15,
       "login": "Julleht",
       "url": "https://github.com/Julleht",
       "contributions": 417
-    },
-    {
-      "rank": 15,
-      "login": "coleism3",
-      "url": "https://github.com/coleism3",
-      "contributions": 414
     }
   ],
   "author_rank_in_top100": null,
