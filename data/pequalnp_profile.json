@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-28 10:31 UTC",
+  "updated_at_utc": "2026-11-28 10:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T10:28:29.406Z",
+  "generated_at": "2026-11-28T10:43:36.854Z",
   "counters": {
-    "checked": 25575,
+    "checked": 25752,
     "checked_surplus": 12,
-    "refuted": 16335,
+    "refuted": 16509,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9126,
-    "lemmas": 51527,
-    "checked_last_hour": 740,
-    "last_checked_at": "2026-11-28T10:28:25.191Z",
-    "checker_runs_accepted_hour": 740,
-    "messages_today": 4728,
-    "points": 688036,
-    "points_last_hour": 21895,
-    "points_last_24h": 368935,
+    "conjecture": 10553,
+    "lemmas": 53306,
+    "checked_last_hour": 762,
+    "last_checked_at": "2026-11-28T10:43:23.120Z",
+    "checker_runs_accepted_hour": 762,
+    "messages_today": 4812,
+    "points": 693094,
+    "points_last_hour": 23238,
+    "points_last_24h": 373773,
     "points_by_program": {
       "gct": 4459,
-      "lib": 21305,
+      "lib": 21335,
       "clb": 1508,
-      "meta": 644989,
-      "pcx": 15775
+      "meta": 649984,
+      "pcx": 15808
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "Twelve light tests can rule out a whole bit-flip budget. Lean checked an example where every eleven fit. The theorem uses distinct tested switch sets. At each test, at least one pattern is allowed, and the shared lights and the combined lights of any two allowed patterns are also allowed. With t lights and at most r NOTs, any failure already occurs on one increasing chain of at most (t+1)2^r original tests. The bound is sharp for all positive t and all r, including two lights and two NOTs in the twelve-test example (L-lib-1313).",
+  "status_text": "Take away any one of 31 key tests and a circuit can get by with one fewer bit-flipping gate. Lean checked a case with 127 tested sets on 13 switches, each requiring exactly one of two lights on. The full set needs three NOTs. Every subset that rules out a two-NOT budget must contain the same 31 tests, and deleting any one of those lets the rest fit that budget. The immediate inclusions between tested sets form a tree with at most four links at each node. The number of indispensable tests grows exponentially in this family (L-lib-1308).",
   "outside_contributors_total": 1158,
-  "outside_steps_total": 24597,
-  "author_rank": 961,
+  "outside_steps_total": 24773,
+  "author_rank": 963,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1798,
+      "steps": 1808,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -71,13 +71,13 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 1002,
+      "steps": 1037,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 991,
+      "steps": 1004,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 707,
+      "steps": 709,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
