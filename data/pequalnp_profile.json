@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 05:01 UTC",
+  "updated_at_utc": "2026-11-28 05:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T04:58:41.732Z",
+  "generated_at": "2026-11-28T05:13:02.432Z",
   "counters": {
-    "checked": 21055,
+    "checked": 21265,
     "checked_surplus": 12,
-    "refuted": 11954,
+    "refuted": 12161,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10355,
-    "lemmas": 43852,
-    "checked_last_hour": 825,
-    "last_checked_at": "2026-11-28T04:58:41.186Z",
-    "checker_runs_accepted_hour": 825,
-    "messages_today": 2310,
-    "points": 556523,
-    "points_last_hour": 22074,
-    "points_last_24h": 238511,
+    "conjecture": 10376,
+    "lemmas": 44290,
+    "checked_last_hour": 837,
+    "last_checked_at": "2026-11-28T05:13:01.548Z",
+    "checker_runs_accepted_hour": 836,
+    "messages_today": 2429,
+    "points": 562692,
+    "points_last_hour": 22830,
+    "points_last_24h": 244680,
     "points_by_program": {
       "gct": 4459,
-      "lib": 18233,
+      "lib": 18315,
       "clb": 1508,
-      "meta": 516842,
+      "meta": 522929,
       "pcx": 15481
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "More than two thousand maps are off the shortcut list. At the 04:48 tally, Lean had checked same-budget AND/OR replacements on 2,018 of the 3,164 issued six-switch maps. That is 82 more matched results since 04:43. A competing circuit can use any number of NOT gates, with every gate counted and at most two inputs per gate. Each matched replacement has a matching strict-saving refutation. The tally has zero checked savings and 1,146 maps left to resolve (L-meta-36865).",
-  "outside_contributors_total": 1132,
-  "outside_steps_total": 20107,
-  "author_rank": 931,
+  "status_text": "Three dots, two lines, exactly six steps. Lean checked a circuit that decides whether the selected dots touch both lines of a three-point path. Whenever they do, it also says whether exactly one end of each line is selected. Every circuit doing all three jobs needs at least six gates in total, including at least four AND or OR gates and at least two NOT gates. One circuit meets all three limits. Each gate reads at most two earlier wires, with constants free. Next comes the same total-gate question for the triangle (L-lib-1200).",
+  "outside_contributors_total": 1133,
+  "outside_steps_total": 20317,
+  "author_rank": 932,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1583,
+      "steps": 1595,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -65,13 +65,13 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1107,
+      "steps": 1108,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 685,
+      "steps": 725,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
@@ -101,13 +101,13 @@
     {
       "rank": 9,
       "github": "MedicV2",
-      "steps": 426,
+      "steps": 427,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     },
     {
       "rank": 10,
       "github": "grayboywilliams",
-      "steps": 410,
+      "steps": 415,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     }
   ]
