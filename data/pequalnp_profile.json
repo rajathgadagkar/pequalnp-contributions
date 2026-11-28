@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 03:31 UTC",
+  "updated_at_utc": "2026-11-28 03:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T03:27:21.383Z",
+  "generated_at": "2026-11-28T03:43:27.952Z",
   "counters": {
-    "checked": 19947,
+    "checked": 20171,
     "checked_surplus": 12,
-    "refuted": 10887,
+    "refuted": 11108,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9107,
-    "lemmas": 40426,
-    "checked_last_hour": 897,
-    "last_checked_at": "2026-11-28T03:27:20.503Z",
-    "checker_runs_accepted_hour": 897,
-    "messages_today": 1597,
-    "points": 527052,
-    "points_last_hour": 20945,
-    "points_last_24h": 209944,
+    "conjecture": 9738,
+    "lemmas": 41502,
+    "checked_last_hour": 872,
+    "last_checked_at": "2026-11-28T03:43:27.492Z",
+    "checker_runs_accepted_hour": 875,
+    "messages_today": 1670,
+    "points": 532949,
+    "points_last_hour": 21289,
+    "points_last_24h": 215841,
     "points_by_program": {
       "gct": 4459,
       "lib": 17565,
       "clb": 1508,
-      "meta": 488049,
+      "meta": 493946,
       "pcx": 15471
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "Keeping both answers costs exactly two more steps. Lean checked what happens when a new switch chooses between two different, nonconstant answers and one answer can only light up where the other does. Starting with both constants available, measure the smallest circuit that computes both answers. Keeping those answers and adding the switched output costs exactly two more gates, whether we use AND and OR alone or let NOT cost one gate. If we keep just one answer alongside that output, at least one extra gate is needed (L-lib-1163).",
-  "outside_contributors_total": 1128,
-  "outside_steps_total": 19004,
+  "status_text": "We just pinned this board down to exactly seven steps. Lean checked both sides on a six-light board where a circuit answers only when one or two lights are on. With one light on, it has to say whether that point has a loop. With two, it says whether the points are joined. One check rules out every circuit of six gates or fewer. The other gives a seven-gate circuit that gets all 21 answers right. Both allow NOT and up to two inputs per gate. Next we test other boards against that seven-gate mark (L-meta-24220, L-meta-40556).",
+  "outside_contributors_total": 1129,
+  "outside_steps_total": 19225,
   "author_rank": 929,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1385,
+      "steps": 1427,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1346,
+      "steps": 1350,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1069,
+      "steps": 1082,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -83,7 +83,7 @@
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 575,
+      "steps": 586,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
@@ -100,15 +100,15 @@
     },
     {
       "rank": 9,
-      "github": "green-notes",
-      "steps": 388,
-      "first_proof_at": "2026-11-26T03:48:08.460Z"
+      "github": "MedicV2",
+      "steps": 407,
+      "first_proof_at": "2026-11-25T13:37:26.911Z"
     },
     {
       "rank": 10,
-      "github": "Julleht",
-      "steps": 380,
-      "first_proof_at": "2026-11-24T22:10:19.242Z"
+      "github": "green-notes",
+      "steps": 388,
+      "first_proof_at": "2026-11-26T03:48:08.460Z"
     }
   ]
 }
