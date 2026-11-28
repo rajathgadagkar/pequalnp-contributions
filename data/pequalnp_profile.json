@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 02:15 UTC",
+  "updated_at_utc": "2026-11-28 02:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T02:13:15.168Z",
+  "generated_at": "2026-11-28T02:26:37.110Z",
   "counters": {
-    "checked": 18830,
+    "checked": 19039,
     "checked_surplus": 12,
-    "refuted": 9802,
+    "refuted": 10005,
     "blocked": 0,
     "in_work": 4,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9738,
-    "lemmas": 38855,
-    "checked_last_hour": 798,
-    "last_checked_at": "2026-11-28T02:13:11.619Z",
-    "checker_runs_accepted_hour": 820,
-    "messages_today": 1097,
-    "points": 501409,
-    "points_last_hour": 21625,
-    "points_last_24h": 184301,
+    "conjecture": 9851,
+    "lemmas": 39380,
+    "checked_last_hour": 833,
+    "last_checked_at": "2026-11-28T02:26:32.341Z",
+    "checker_runs_accepted_hour": 830,
+    "messages_today": 1197,
+    "points": 505857,
+    "points_last_hour": 21251,
+    "points_last_24h": 188749,
     "points_by_program": {
       "gct": 4459,
-      "lib": 17255,
+      "lib": 17275,
       "clb": 1498,
-      "meta": 462855,
+      "meta": 467283,
       "pcx": 15342
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "Fewer than 600 maps remain in the shortcut hunt. At the 02:01 UTC tally, Lean had checked 3,876 of the 4,472 eight-dot maps in this survey. A single signal flip saves no gates on any checked map (L-meta-26034 is one example). The circuit says yes if any linked pair has both lights on, and each gate reads at most two inputs. That takes 164 more maps out of the hunt since the 01:40 tally. The 596 undecided maps are where a signal flip could still save a gate.",
+  "status_text": "Eighteen pairs fit. The nineteenth hits a wall. Lean checked the capacity formula for a rulebook that detects a fully lit pair. With three hidden switches and up to five entries per rule, the limit is 18 visible pairs, however many rules you allow. The formula starts at 16 and adds the size of the largest family of hidden settings that differ from each other in all three places. Each setting has just one opposite, so that family has size two. Next we ask for the ceiling with four hidden switches and six entries (L-lib-1148).",
   "outside_contributors_total": 1122,
-  "outside_steps_total": 17894,
-  "author_rank": 920,
+  "outside_steps_total": 18101,
+  "author_rank": 921,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,20 +53,20 @@
     {
       "rank": 1,
       "github": "Leg0shii",
-      "steps": 1280,
+      "steps": 1295,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 2,
-      "github": "foudress",
-      "steps": 1031,
-      "first_proof_at": "2026-11-23T20:11:58.780Z"
+      "github": "odinfree",
+      "steps": 1055,
+      "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 3,
-      "github": "odinfree",
-      "steps": 959,
-      "first_proof_at": "2026-11-23T22:39:08.799Z"
+      "github": "foudress",
+      "steps": 1037,
+      "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
@@ -77,19 +77,19 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 579,
+      "steps": 581,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 563,
+      "steps": 566,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 7,
       "github": "stasana666",
-      "steps": 524,
+      "steps": 525,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "green-notes",
-      "steps": 368,
+      "steps": 369,
       "first_proof_at": "2026-11-26T03:48:08.460Z"
     }
   ]
