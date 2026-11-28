@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 01:45 UTC",
+  "updated_at_utc": "2026-11-28 02:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T01:43:32.594Z",
+  "generated_at": "2026-11-28T01:59:56.654Z",
   "counters": {
-    "checked": 18466,
+    "checked": 18710,
     "checked_surplus": 12,
-    "refuted": 9444,
+    "refuted": 9685,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9606,
-    "lemmas": 38000,
-    "checked_last_hour": 694,
-    "last_checked_at": "2026-11-28T01:43:28.759Z",
-    "checker_runs_accepted_hour": 722,
-    "messages_today": 884,
-    "points": 491241,
-    "points_last_hour": 18778,
-    "points_last_24h": 174133,
+    "conjecture": 9969,
+    "lemmas": 38847,
+    "checked_last_hour": 851,
+    "last_checked_at": "2026-11-28T01:59:54.539Z",
+    "checker_runs_accepted_hour": 853,
+    "messages_today": 969,
+    "points": 498078,
+    "points_last_hour": 23208,
+    "points_last_24h": 180970,
     "points_by_program": {
       "gct": 4459,
       "lib": 17255,
       "clb": 1498,
-      "meta": 452687,
+      "meta": 459524,
       "pcx": 15342
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "One change to the question takes the extra cost from two steps to zero. Lean checked the costs for any circuit rule that can answer either way, with both constants available. Make it also say yes when two added switches are both on, and the full answer costs two extra gates. Keep both answers separately, for one added switch off and on, and the cost is one. Keep the old answer and a wire that only needs to read the other switch correctly when the old answer is no, and the cost is zero. These counts hold with or without NOT gates (L-lib-1127).",
+  "status_text": "Two limits on a rulebook now have one exact test. Lean checked when a rulebook can tell whether any pair of lights is fully on, under limits on the number of clauses and the size of each. Pick a set of hidden-switch rules with no setting that passes them all. Dropping any one rule must let some setting through. Assign every visible pair to one hidden rule. Each assigned pair adds one entry to the clauses that rule produces and doubles their number. There is a rulebook within both limits exactly when some such set and assignment fit them (L-lib-1136).",
   "outside_contributors_total": 1121,
-  "outside_steps_total": 17534,
+  "outside_steps_total": 17775,
   "author_rank": 920,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "Leg0shii",
-      "steps": 1213,
+      "steps": 1263,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 2,
       "github": "foudress",
-      "steps": 1025,
+      "steps": 1030,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 897,
+      "steps": 927,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,25 +77,25 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 571,
+      "steps": 576,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 555,
+      "steps": 561,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 7,
       "github": "stasana666",
-      "steps": 493,
+      "steps": 517,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 444,
+      "steps": 445,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
