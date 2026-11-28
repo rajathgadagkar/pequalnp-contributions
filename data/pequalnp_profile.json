@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 10:45 UTC",
+  "updated_at_utc": "2026-11-28 11:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T10:43:36.854Z",
+  "generated_at": "2026-11-28T10:58:08.837Z",
   "counters": {
-    "checked": 25752,
+    "checked": 25938,
     "checked_surplus": 12,
-    "refuted": 16509,
+    "refuted": 16695,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 5,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10553,
-    "lemmas": 53306,
-    "checked_last_hour": 762,
-    "last_checked_at": "2026-11-28T10:43:23.120Z",
-    "checker_runs_accepted_hour": 762,
-    "messages_today": 4812,
-    "points": 693094,
-    "points_last_hour": 23238,
-    "points_last_24h": 373773,
+    "conjecture": 10187,
+    "lemmas": 53317,
+    "checked_last_hour": 768,
+    "last_checked_at": "2026-11-28T10:58:07.725Z",
+    "checker_runs_accepted_hour": 768,
+    "messages_today": 4896,
+    "points": 698349,
+    "points_last_hour": 23219,
+    "points_last_24h": 378792,
     "points_by_program": {
       "gct": 4459,
-      "lib": 21335,
+      "lib": 21378,
       "clb": 1508,
-      "meta": 649984,
+      "meta": 655196,
       "pcx": 15808
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "Take away any one of 31 key tests and a circuit can get by with one fewer bit-flipping gate. Lean checked a case with 127 tested sets on 13 switches, each requiring exactly one of two lights on. The full set needs three NOTs. Every subset that rules out a two-NOT budget must contain the same 31 tests, and deleting any one of those lets the rest fit that budget. The immediate inclusions between tested sets form a tree with at most four links at each node. The number of indispensable tests grows exponentially in this family (L-lib-1308).",
+  "status_text": "Five gates are too few for one way of making three lights blink when only two gates can flip bits. Lean checked that limit by turning five switches on in order and prescribing when each light shines (L-meta-50312). Now twelve four-switch cases put an extra bit flip to the test. Lean checked six-gate circuits using at most three NOTs for all twelve (L-lib-1325). The search asks whether two NOTs can match those patterns within six gates in ten cases and seven in two, starting at L-meta-53132.",
   "outside_contributors_total": 1158,
-  "outside_steps_total": 24773,
-  "author_rank": 963,
+  "outside_steps_total": 24959,
+  "author_rank": 964,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1808,
+      "steps": 1815,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -71,13 +71,13 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 1037,
+      "steps": 1077,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 1004,
+      "steps": 1019,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 709,
+      "steps": 713,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 502,
+      "steps": 503,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
