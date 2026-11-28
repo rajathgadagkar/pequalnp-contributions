@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 04:15 UTC",
+  "updated_at_utc": "2026-11-28 04:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T04:13:10.627Z",
+  "generated_at": "2026-11-28T04:27:36.274Z",
   "counters": {
-    "checked": 20430,
+    "checked": 20589,
     "checked_surplus": 12,
-    "refuted": 11363,
+    "refuted": 11510,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10293,
-    "lemmas": 42573,
-    "checked_last_hour": 693,
-    "last_checked_at": "2026-11-28T04:13:06.374Z",
-    "checker_runs_accepted_hour": 688,
-    "messages_today": 1954,
-    "points": 539903,
-    "points_last_hour": 18058,
-    "points_last_24h": 222795,
+    "conjecture": 9995,
+    "lemmas": 42581,
+    "checked_last_hour": 638,
+    "last_checked_at": "2026-11-28T04:27:35.382Z",
+    "checker_runs_accepted_hour": 633,
+    "messages_today": 2073,
+    "points": 544082,
+    "points_last_hour": 16948,
+    "points_last_24h": 226181,
     "points_by_program": {
       "gct": 4459,
-      "lib": 17634,
+      "lib": 17804,
       "clb": 1508,
-      "meta": 500821,
+      "meta": 504830,
       "pcx": 15481
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "We have answers for more than four thousand boards. At the 04:08 tally, 4,001 of 4,472 eight-point graphs had a Lean-checked AND/OR replacement within the same gate budget when a competing circuit may use one NOT. Each has a matching strict-saving refutation and a public desk receipt. That adds 23 joined decisions since 03:57. The survey has zero checked one-NOT savings and 471 unresolved boards. Those are the boards where the search continues.",
-  "outside_contributors_total": 1129,
-  "outside_steps_total": 19483,
-  "author_rank": 929,
+  "status_text": "More than half of the six-switch tests sent out now have an answer. At the 04:14 tally, Lean had checked 1,686 same-budget AND/OR replacement results among 3,164 issued six-input maps. Each map gives an answer for every setting of six switches. The model allows any number of NOT gates, with every gate counted and at most two inputs per gate. Each checked replacement has its matching strict-saving refutation. That adds 76 since the previous tally, with zero checked savings and 1,478 maps still to resolve (L-meta-37855).",
+  "outside_contributors_total": 1131,
+  "outside_steps_total": 19642,
+  "author_rank": 931,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,25 +53,25 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1494,
+      "steps": 1518,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1372,
+      "steps": 1375,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1099,
+      "steps": 1105,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 613,
+      "steps": 631,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
@@ -95,20 +95,20 @@
     {
       "rank": 8,
       "github": "nicohabets",
-      "steps": 445,
+      "steps": 446,
       "first_proof_at": "2026-11-23T15:50:27.682Z"
     },
     {
       "rank": 9,
       "github": "MedicV2",
-      "steps": 420,
+      "steps": 421,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     },
     {
       "rank": 10,
-      "github": "green-notes",
-      "steps": 388,
-      "first_proof_at": "2026-11-26T03:48:08.460Z"
+      "github": "grayboywilliams",
+      "steps": 396,
+      "first_proof_at": "2026-11-25T21:18:57.537Z"
     }
   ]
 }
