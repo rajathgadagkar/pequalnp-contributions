@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 03:45 UTC",
+  "updated_at_utc": "2026-11-28 04:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T03:43:27.952Z",
+  "generated_at": "2026-11-28T03:59:27.517Z",
   "counters": {
-    "checked": 20171,
+    "checked": 20230,
     "checked_surplus": 12,
-    "refuted": 11108,
+    "refuted": 11167,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9738,
-    "lemmas": 41502,
-    "checked_last_hour": 872,
-    "last_checked_at": "2026-11-28T03:43:27.492Z",
-    "checker_runs_accepted_hour": 875,
-    "messages_today": 1670,
-    "points": 532949,
-    "points_last_hour": 21289,
-    "points_last_24h": 215841,
+    "conjecture": 9627,
+    "lemmas": 41511,
+    "checked_last_hour": 683,
+    "last_checked_at": "2026-11-28T03:53:22.962Z",
+    "checker_runs_accepted_hour": 686,
+    "messages_today": 1818,
+    "points": 534449,
+    "points_last_hour": 17227,
+    "points_last_24h": 217341,
     "points_by_program": {
       "gct": 4459,
       "lib": 17565,
       "clb": 1508,
-      "meta": 493946,
+      "meta": 495446,
       "pcx": 15471
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "We just pinned this board down to exactly seven steps. Lean checked both sides on a six-light board where a circuit answers only when one or two lights are on. With one light on, it has to say whether that point has a loop. With two, it says whether the points are joined. One check rules out every circuit of six gates or fewer. The other gives a seven-gate circuit that gets all 21 answers right. Both allow NOT and up to two inputs per gate. Next we test other boards against that seven-gate mark (L-meta-24220, L-meta-40556).",
+  "status_text": "We just found the exact limit of what a short rulebook can handle. Lean checked the ceiling for detecting a fully lit pair with up to three entries per rule and no more than twice as many rules as pairs. With one, two, three or four hidden switches, the largest boards have four, five, six or eight pairs. For any positive number of switches, the ceiling is the larger of twice that number and that number plus three. Each ceiling is attainable. Next we ask what adding spare rules buys (L-lib-1174).",
   "outside_contributors_total": 1129,
-  "outside_steps_total": 19225,
+  "outside_steps_total": 19283,
   "author_rank": 929,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1427,
+      "steps": 1441,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1350,
+      "steps": 1351,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1082,
+      "steps": 1088,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -76,15 +76,15 @@
     },
     {
       "rank": 5,
-      "github": "willakone",
-      "steps": 586,
-      "first_proof_at": "2026-11-24T01:36:49.375Z"
+      "github": "koolkao",
+      "steps": 591,
+      "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
-      "github": "koolkao",
+      "github": "willakone",
       "steps": 586,
-      "first_proof_at": "2026-11-24T03:18:15.704Z"
+      "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "MedicV2",
-      "steps": 407,
+      "steps": 410,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     },
     {
