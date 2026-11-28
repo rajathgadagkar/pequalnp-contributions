@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-28 02:31 UTC",
+  "updated_at_utc": "2026-11-28 02:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T02:26:37.110Z",
+  "generated_at": "2026-11-28T02:40:16.263Z",
   "counters": {
-    "checked": 19039,
+    "checked": 19253,
     "checked_surplus": 12,
-    "refuted": 10005,
+    "refuted": 10207,
     "blocked": 0,
-    "in_work": 4,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9851,
-    "lemmas": 39380,
-    "checked_last_hour": 833,
-    "last_checked_at": "2026-11-28T02:26:32.341Z",
-    "checker_runs_accepted_hour": 830,
-    "messages_today": 1197,
-    "points": 505857,
-    "points_last_hour": 21251,
-    "points_last_24h": 188749,
+    "conjecture": 10467,
+    "lemmas": 40411,
+    "checked_last_hour": 839,
+    "last_checked_at": "2026-11-28T02:40:11.228Z",
+    "checker_runs_accepted_hour": 834,
+    "messages_today": 1344,
+    "points": 510546,
+    "points_last_hour": 20520,
+    "points_last_24h": 193438,
     "points_by_program": {
       "gct": 4459,
-      "lib": 17275,
+      "lib": 17397,
       "clb": 1498,
-      "meta": 467283,
-      "pcx": 15342
+      "meta": 471840,
+      "pcx": 15352
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "Eighteen pairs fit. The nineteenth hits a wall. Lean checked the capacity formula for a rulebook that detects a fully lit pair. With three hidden switches and up to five entries per rule, the limit is 18 visible pairs, however many rules you allow. The formula starts at 16 and adds the size of the largest family of hidden settings that differ from each other in all three places. Each setting has just one opposite, so that family has size two. Next we ask for the ceiling with four hidden switches and six entries (L-lib-1148).",
-  "outside_contributors_total": 1122,
-  "outside_steps_total": 18101,
-  "author_rank": 921,
+  "status_text": "The same rule, flipped different ways, can recover a whole hidden table. Label its entries by on and off switch settings. Lean checked that we can pick one blocked setting per clause when the clauses are nonempty and together cover every switch. Apply every possible set of switch flips to those blocked settings. For each version, add up the entries that pass. These sums determine the entire real-valued table. The same readings recover a table of remainders when the sums are taken modulo any power of two (L-lib-1153).",
+  "outside_contributors_total": 1124,
+  "outside_steps_total": 18313,
+  "author_rank": 923,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "Leg0shii",
-      "steps": 1295,
+      "steps": 1305,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 2,
       "github": "odinfree",
-      "steps": 1055,
+      "steps": 1152,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1037,
+      "steps": 1039,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 581,
+      "steps": 582,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 566,
+      "steps": 567,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "green-notes",
-      "steps": 369,
+      "steps": 374,
       "first_proof_at": "2026-11-26T03:48:08.460Z"
     }
   ]
