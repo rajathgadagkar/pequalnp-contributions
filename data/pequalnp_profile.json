@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 05:45 UTC",
+  "updated_at_utc": "2026-11-28 06:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T05:43:46.437Z",
+  "generated_at": "2026-11-28T05:56:41.022Z",
   "counters": {
-    "checked": 21687,
+    "checked": 21884,
     "checked_surplus": 12,
-    "refuted": 12573,
+    "refuted": 12766,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 4,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10198,
-    "lemmas": 44947,
-    "checked_last_hour": 858,
-    "last_checked_at": "2026-11-28T05:43:42.190Z",
-    "checker_runs_accepted_hour": 858,
-    "messages_today": 2615,
-    "points": 575373,
-    "points_last_hour": 25017,
-    "points_last_24h": 257313,
+    "conjecture": 9812,
+    "lemmas": 44952,
+    "checked_last_hour": 861,
+    "last_checked_at": "2026-11-28T05:56:39.370Z",
+    "checker_runs_accepted_hour": 856,
+    "messages_today": 2722,
+    "points": 580978,
+    "points_last_hour": 25248,
+    "points_last_24h": 262740,
     "points_by_program": {
       "gct": 4459,
-      "lib": 18570,
+      "lib": 18638,
       "clb": 1508,
-      "meta": 535355,
+      "meta": 540892,
       "pcx": 15481
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.14
   },
-  "status_text": "A whole circuit of flips can be replaced by one shared list. Lean checked this for any rule connecting the input bits to all the required answers. If every gate is a NOT, each answer can read a fixed input, a free constant, or a flipped input from a single shared set. That set has size at most the smaller of the total gate budget and the NOT budget. Every choice that meets the rule gives a circuit, with one NOT per distinct flipped input. Next we ask what combining two inputs can buy (L-lib-1212).",
-  "outside_contributors_total": 1135,
-  "outside_steps_total": 20736,
-  "author_rank": 934,
+  "status_text": "Seven gates are out for the triangle's three jobs. Lean checked that with at most one NOT, a circuit of seven gates or fewer cannot both tell whether at least two of A, B and C are on and, when they are, report whether exactly one end of AB is on and whether exactly one end of BC is on. Each AND, OR or NOT gate reads at most two earlier wires, and constants are free. The next test is whether eight can do all three (L-meta-42704).",
+  "outside_contributors_total": 1136,
+  "outside_steps_total": 20933,
+  "author_rank": 935,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,25 +53,25 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1604,
+      "steps": 1607,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1398,
+      "steps": 1402,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1138,
+      "steps": 1166,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 770,
+      "steps": 798,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "Zigler",
-      "steps": 535,
+      "steps": 573,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
@@ -106,9 +106,9 @@
     },
     {
       "rank": 10,
-      "github": "MedicV2",
-      "steps": 427,
-      "first_proof_at": "2026-11-25T13:37:26.911Z"
+      "github": "grayboywilliams",
+      "steps": 432,
+      "first_proof_at": "2026-11-25T21:18:57.537Z"
     }
   ]
 }

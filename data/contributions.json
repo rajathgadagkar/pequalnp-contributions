@@ -1,7 +1,7 @@
 {
   "author": "rajathgadagkar",
   "repo": "open-goat/pequalnp-proofs",
-  "updated_at_utc": "2026-11-28 05:45 UTC",
+  "updated_at_utc": "2026-11-28 06:01 UTC",
   "stats": {
     "total_prs": 13,
     "unique_steps": 12,
@@ -9,8 +9,8 @@
     "accepted_slot_capped": 2,
     "open": 0,
     "closed_total": 12,
-    "superseded_or_queue_closed": 8,
-    "closed_other": 2,
+    "superseded_or_queue_closed": 9,
+    "closed_other": 1,
     "rejected": 0,
     "total_lines_added": 6742
   },
@@ -127,8 +127,8 @@
       "url": "https://github.com/open-goat/pequalnp-proofs/pull/7331",
       "state": "closed",
       "merged": false,
-      "status": "\u26ab Closed",
-      "note": "Closed",
+      "status": "\u26aa Superseded",
+      "note": "Valid proof; an earlier PR for this step merged first",
       "body": "## Summary\nChecked Lean 4 proof of **`PEqualNP.Outside.L_meta_3574`** (step 2 of 2 toward `L-meta-2866`, on the Rung 0 projective-plane monotone circuit lower-bound line).\n\n## Statement\nGiven a sequence `L : List (Finset (Fin n))` where every entry `A = L[k]` is the union of two sets each of size `\u2264 1` or appearing earlier in `L.take k`, every `A \u2208 L` satisfies:\n`|A| \u2264 |{ i : Fin L.length | 1 < |L[i]| \u2227 L[i] \u2286 A }| + 1`.\n\n## Proof Overview\n- Inducts over prefixes `k \u2264 L.length` maintaining a vertex coloring `c : Fin n \u2192 \u2115` (initialized to `Fin.val`, giving `|A|` distinct colors on `A`).\n- At each index `k` with `1 < |L[k]|` and `L[k] \u2286 A`, merges the colors of the two constituent sets (`merge_step`), which drops the number of distinct colors on `A` by at most 1 while keeping every earlier subset `B \u2286 A` monochromatic.\n- At `k = L.length`, `A` itself is monochromatic (`|(A.image c)| \u2264 1`), yielding the exact cardinality bound.\n\n## Verification\n- Built cleanly with `lake build PEqualNP.Outside.L_meta_3574` (`18419` jobs).\n- No `sorry`, no `native_decide`, no extra axioms, all helpers scoped inside `namespace PEqualNP.Outside.L_meta_3574`.",
       "additions": 171,
       "deletions": 0,
