@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 09:15 UTC",
+  "updated_at_utc": "2026-11-28 09:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T09:12:19.605Z",
+  "generated_at": "2026-11-28T09:28:25.085Z",
   "counters": {
-    "checked": 24595,
+    "checked": 24834,
     "checked_surplus": 12,
-    "refuted": 15390,
+    "refuted": 15620,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9699,
-    "lemmas": 50176,
-    "checked_last_hour": 761,
-    "last_checked_at": "2026-11-28T09:12:18.994Z",
-    "checker_runs_accepted_hour": 755,
-    "messages_today": 4229,
-    "points": 660218,
-    "points_last_hour": 21083,
-    "points_last_24h": 341387,
+    "conjecture": 9235,
+    "lemmas": 50180,
+    "checked_last_hour": 791,
+    "last_checked_at": "2026-11-28T09:28:25.064Z",
+    "checker_runs_accepted_hour": 796,
+    "messages_today": 4307,
+    "points": 666104,
+    "points_last_hour": 20395,
+    "points_last_24h": 347222,
     "points_by_program": {
       "gct": 4459,
-      "lib": 20654,
+      "lib": 20720,
       "clb": 1508,
-      "meta": 617822,
+      "meta": 623642,
       "pcx": 15775
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "More than 5,000 six-input cases can do without gates that flip bits, at no extra gate cost. For 5,279 of 6,565 issued cases, Lean checked that any AND/OR/NOT circuit with at most two inputs per gate has an AND/OR replacement under the same limits on gates and inputs per gate. That\u2019s 507 more than at the 08:11 count. The 08:55 count leaves 1,286 cases unresolved, with zero checked cases where allowing NOT cuts the smallest gate count.",
-  "outside_contributors_total": 1147,
-  "outside_steps_total": 23623,
-  "author_rank": 949,
+  "status_text": "These two sets of lights demand at least six gates, even when every gate can flip a bit. Lean checked this on the five rows made by turning on four switches in order from all off. The three wires cannot show patterns (4,18,20) together, or (6,17,20) together, with five or fewer AND/OR/NOT gates reading at most two wires each. Each number records one wire across the five rows, with the first row in the low bit. Two constants are free, every gate counts, and the three wire choices are unrestricted (L-lib-1304).",
+  "outside_contributors_total": 1150,
+  "outside_steps_total": 23859,
+  "author_rank": 951,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1753,
+      "steps": 1767,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -71,25 +71,25 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 982,
+      "steps": 983,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "koolkao",
-      "steps": 941,
+      "steps": 942,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 855,
+      "steps": 897,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 637,
+      "steps": 645,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 497,
+      "steps": 500,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
