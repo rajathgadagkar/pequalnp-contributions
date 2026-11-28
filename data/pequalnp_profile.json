@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 00:45 UTC",
+  "updated_at_utc": "2026-11-28 01:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T00:43:52.043Z",
+  "generated_at": "2026-11-28T00:59:28.685Z",
   "counters": {
-    "checked": 17763,
+    "checked": 17843,
     "checked_surplus": 12,
-    "refuted": 8774,
+    "refuted": 8854,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8990,
-    "lemmas": 36008,
-    "checked_last_hour": 60,
-    "last_checked_at": "2026-11-28T00:43:20.643Z",
-    "checker_runs_accepted_hour": 60,
-    "messages_today": 325,
-    "points": 471872,
-    "points_last_hour": 2060,
-    "points_last_24h": 154821,
+    "conjecture": 8831,
+    "lemmas": 36010,
+    "checked_last_hour": 121,
+    "last_checked_at": "2026-11-28T00:59:26.841Z",
+    "checker_runs_accepted_hour": 122,
+    "messages_today": 404,
+    "points": 474083,
+    "points_last_hour": 3515,
+    "points_last_24h": 157022,
     "points_by_program": {
       "gct": 4098,
-      "lib": 16862,
+      "lib": 16943,
       "clb": 1498,
-      "meta": 434563,
+      "meta": 436693,
       "pcx": 14851
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.16
   },
-  "status_text": "Twenty-two helper switches can shrink a rulebook from over thirty-three million lines to sixty-four. Lean checked the game on 25 pairs of lights. Accept if some pair has both lights on. With only the visible switches, the smallest AND-of-ORs formula takes 33,554,432 clauses, even with negated inputs allowed. With 22 helpers, an input is accepted if some setting of the helpers satisfies all the clauses. Lean checked a formula with at most 64 clauses, each containing at most three literals (L-lib-1117).",
-  "outside_contributors_total": 1115,
-  "outside_steps_total": 16836,
+  "status_text": "One choice slips through. In a 512-element field, Lean checked a test built from a four-by-four matrix with two pairs of indices. It detects 510 of the 511 nonzero multipliers. In the construction's nine-bit encoding, the missed multiplier is 97 (L-lib-1116). Every fixed test of this two-pair form misses at least one, so 510 is the exact limit (L-lib-1107).",
+  "outside_contributors_total": 1116,
+  "outside_steps_total": 16916,
   "author_rank": 916,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -59,13 +59,13 @@
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 994,
+      "steps": 1011,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 866,
+      "steps": 873,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,13 +77,13 @@
     {
       "rank": 5,
       "github": "koolkao",
-      "steps": 543,
+      "steps": 546,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 515,
+      "steps": 521,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
