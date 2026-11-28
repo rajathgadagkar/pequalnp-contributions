@@ -4,7 +4,7 @@
 
 > Live, auto-updating portfolio tracking [`@rajathgadagkar`](https://github.com/rajathgadagkar)'s machine-checked Lean 4 proofs submitted to [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) and synced directly from [`pequalnp.com/a/rajathgadagkar`](https://pequalnp.com/a/rajathgadagkar).
 
-_Last synced automatically: **2026-11-28 13:15 UTC**_
+_Last synced automatically: **2026-11-28 13:19 UTC**_
 
 ## 📈 Live Visual Dashboard
 
@@ -34,22 +34,22 @@ _Last synced automatically: **2026-11-28 13:15 UTC**_
 
 ## 🌍 Overall `pequalnp.com` Project Progress
 
-Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 299` stars · `🍴 4,473` forks):
+Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequalnp-proofs) (`⭐ 299` stars · `🍴 4,476` forks):
 
 | Project Metric | Live Count |
 | --- | ---: |
-| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **26,869** |
-| **Checked in Last Hour** | **+123** |
-| **Outside Contributors / Outside Steps** | **1,165** / **25,873** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **29,639** |
-| **Total Merged Proof PRs** | **29,753** |
-| **Active PRs in Checker Queue** | **893** |
+| **Checked Lemmas (pequalnp.com Fleet + Outside)** | **26,877** |
+| **Checked in Last Hour** | **+114** |
+| **Outside Contributors / Outside Steps** | **1,165** / **25,881** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **29,644** |
+| **Total Merged Proof PRs** | **29,758** |
+| **Active PRs in Checker Queue** | **891** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 24,364 | 82.2% | `███████████████░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 24,369 | 82.2% | `███████████████░░░` |
 | **OTHER** (`L_other_*`) | 4,077 | 13.8% | `██░░░░░░░░░░░░░░░░` |
 | **Shared Library & Utilities** (`L_lib_*`) | 780 | 2.6% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 280 | 0.9% | `░░░░░░░░░░░░░░░░░░` |
