@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 08:15 UTC",
+  "updated_at_utc": "2026-11-28 08:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T08:13:41.401Z",
+  "generated_at": "2026-11-28T08:28:44.519Z",
   "counters": {
-    "checked": 23854,
+    "checked": 24047,
     "checked_surplus": 12,
-    "refuted": 14677,
+    "refuted": 14864,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10609,
-    "lemmas": 49629,
-    "checked_last_hour": 862,
-    "last_checked_at": "2026-11-28T08:13:37.768Z",
-    "checker_runs_accepted_hour": 862,
-    "messages_today": 3775,
-    "points": 639762,
-    "points_last_hour": 25430,
-    "points_last_24h": 320931,
+    "conjecture": 10235,
+    "lemmas": 49635,
+    "checked_last_hour": 829,
+    "last_checked_at": "2026-11-28T08:28:44.362Z",
+    "checker_runs_accepted_hour": 829,
+    "messages_today": 3885,
+    "points": 645829,
+    "points_last_hour": 24992,
+    "points_last_24h": 326998,
     "points_by_program": {
       "gct": 4459,
-      "lib": 20060,
+      "lib": 20140,
       "clb": 1508,
-      "meta": 598047,
+      "meta": 604034,
       "pcx": 15688
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "At least 54 lights have to turn back on somewhere if only two gates can flip bits. Lean checked the bound for fitting circuits of AND, OR and NOT gates with at most two input wires each, on 23 dots with one light per eight-dot group. A light must be on if its group misses all chosen groups, and off if its own group is chosen. With at most two NOTs, two disjoint parts cover at least 19 dots and every eight-dot group within either part names a light that rises somewhere as choices grow. The smallest possible count of groups on those parts is 9+45=54 (L-lib-1277).",
+  "status_text": "A hundred lights can go out together and count as one drop when working out how many gates must flip bits. Lean checked this when input bits turn on one at a time in a fixed order and all lights are prescribed at those steps. Let c count steps when at least one light goes out. With AND, OR and NOT gates reading at most two wires and two free constants, the minimum number b of NOTs is the smallest with 2^b > c. One circuit attains it with at most 4c+2R other gates, where R counts maximal lit stretches separately for each light and adds them up (L-lib-1286).",
   "outside_contributors_total": 1143,
-  "outside_steps_total": 22887,
+  "outside_steps_total": 23079,
   "author_rank": 944,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,50 +53,50 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1664,
+      "steps": 1674,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1415,
+      "steps": 1417,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1337,
+      "steps": 1341,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 949,
+      "steps": 966,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "koolkao",
-      "steps": 937,
+      "steps": 940,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 656,
+      "steps": 686,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
-      "github": "k-sandhu",
-      "steps": 593,
-      "first_proof_at": "2026-11-23T08:48:13.132Z"
+      "github": "grayboywilliams",
+      "steps": 610,
+      "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
       "rank": 8,
-      "github": "grayboywilliams",
-      "steps": 590,
-      "first_proof_at": "2026-11-25T21:18:57.537Z"
+      "github": "k-sandhu",
+      "steps": 593,
+      "first_proof_at": "2026-11-23T08:48:13.132Z"
     },
     {
       "rank": 9,
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 483,
+      "steps": 486,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
