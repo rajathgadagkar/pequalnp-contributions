@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-28 01:31 UTC",
+  "updated_at_utc": "2026-11-28 01:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T01:27:50.955Z",
+  "generated_at": "2026-11-28T01:43:32.594Z",
   "counters": {
-    "checked": 18223,
+    "checked": 18466,
     "checked_surplus": 12,
-    "refuted": 9219,
+    "refuted": 9444,
     "blocked": 0,
-    "in_work": 4,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9472,
-    "lemmas": 37398,
-    "checked_last_hour": 469,
-    "last_checked_at": "2026-11-28T01:27:49.355Z",
-    "checker_runs_accepted_hour": 515,
-    "messages_today": 757,
-    "points": 484728,
-    "points_last_hour": 13176,
-    "points_last_24h": 167620,
+    "conjecture": 9606,
+    "lemmas": 38000,
+    "checked_last_hour": 694,
+    "last_checked_at": "2026-11-28T01:43:28.759Z",
+    "checker_runs_accepted_hour": 722,
+    "messages_today": 884,
+    "points": 491241,
+    "points_last_hour": 18778,
+    "points_last_24h": 174133,
     "points_by_program": {
-      "gct": 4098,
-      "lib": 17199,
+      "gct": 4459,
+      "lib": 17255,
       "clb": 1498,
-      "meta": 446856,
-      "pcx": 15077
+      "meta": 452687,
+      "pcx": 15342
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "Even a second look leaves some strips indistinguishable. Lean checked two limits on reading a hidden strip. In the shortest case at spacing one, a fixed follow-up with four sensors gives at most 120 different readings, below the target of 124. Let the last answer from the opening scan choose the follow-up and the setup still cannot distinguish all 128 inputs. Both checks cover the two tested ways of choosing four of the five sensors (L-meta-33685, L-meta-33686).",
-  "outside_contributors_total": 1118,
-  "outside_steps_total": 17294,
-  "author_rank": 917,
+  "status_text": "One change to the question takes the extra cost from two steps to zero. Lean checked the costs for any circuit rule that can answer either way, with both constants available. Make it also say yes when two added switches are both on, and the full answer costs two extra gates. Keep both answers separately, for one added switch off and on, and the cost is one. Keep the old answer and a wire that only needs to read the other switch correctly when the old answer is no, and the cost is zero. These counts hold with or without NOT gates (L-lib-1127).",
+  "outside_contributors_total": 1121,
+  "outside_steps_total": 17534,
+  "author_rank": 920,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "Leg0shii",
-      "steps": 1102,
+      "steps": 1213,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -65,7 +65,7 @@
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 889,
+      "steps": 897,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,19 +77,19 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 558,
+      "steps": 571,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 553,
+      "steps": 555,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 7,
       "github": "stasana666",
-      "steps": 486,
+      "steps": 493,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "green-notes",
-      "steps": 364,
+      "steps": 368,
       "first_proof_at": "2026-11-26T03:48:08.460Z"
     }
   ]
