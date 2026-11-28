@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 11:45 UTC",
+  "updated_at_utc": "2026-11-28 12:01 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T11:43:19.320Z",
+  "generated_at": "2026-11-28T11:58:20.897Z",
   "counters": {
-    "checked": 26514,
+    "checked": 26637,
     "checked_surplus": 12,
-    "refuted": 17250,
+    "refuted": 17362,
     "blocked": 0,
-    "in_work": 4,
+    "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9083,
-    "lemmas": 53344,
-    "checked_last_hour": 763,
-    "last_checked_at": "2026-11-28T11:43:15.159Z",
-    "checker_runs_accepted_hour": 764,
-    "messages_today": 5314,
-    "points": 714681,
-    "points_last_hour": 21618,
-    "points_last_24h": 394715,
+    "conjecture": 8857,
+    "lemmas": 53352,
+    "checked_last_hour": 697,
+    "last_checked_at": "2026-11-28T11:58:12.664Z",
+    "checker_runs_accepted_hour": 686,
+    "messages_today": 5432,
+    "points": 718549,
+    "points_last_hour": 20180,
+    "points_last_24h": 398372,
     "points_by_program": {
       "gct": 4459,
-      "lib": 21747,
+      "lib": 21867,
       "clb": 1508,
-      "meta": 671159,
+      "meta": 674907,
       "pcx": 15808
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "Eight settings can break a light's circuit budget even when any seven fit. Lean checked this for a light that starts on and alternates, with five AND or OR gates and three bit-flipping gates allowed. Every proper selection of those eight settings has a circuit within budget. Lean also checked the general rule for lights fully specified as switches turn on in order. With two-wire gates, any failure appears in an ordered selection no longer than the AND/OR budget plus the number of lights plus two (L-lib-1348, L-lib-1347).",
+  "status_text": "Thirty-two settings can expose a circuit failure that every group of thirty-one misses. Lean checked the exact cutoff for three watched lights and at most two bit-flipping gates, with free constants and no limit on how many AND or OR gates can be used. Each gate reads at most two wires. Switches come on in order, and each setting allows a list of light patterns. Any failure shows up on at most 32 original settings, and a checked example needs all 32. With at least one watched light, each extra light or bit-flipping gate allowed doubles the worst-case cutoff (L-lib-1357).",
   "outside_contributors_total": 1164,
-  "outside_steps_total": 25527,
-  "author_rank": 973,
+  "outside_steps_total": 25647,
+  "author_rank": 974,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,7 +53,7 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1834,
+      "steps": 1844,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -71,25 +71,25 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 1113,
+      "steps": 1122,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 1077,
+      "steps": 1085,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 954,
+      "steps": 955,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 729,
+      "steps": 731,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
@@ -107,7 +107,7 @@
     {
       "rank": 10,
       "github": "MedicV2",
-      "steps": 520,
+      "steps": 522,
       "first_proof_at": "2026-11-25T13:37:26.911Z"
     }
   ]
