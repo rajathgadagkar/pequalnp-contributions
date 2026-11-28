@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 10:15 UTC",
+  "updated_at_utc": "2026-11-28 10:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T10:12:19.569Z",
+  "generated_at": "2026-11-28T10:28:29.406Z",
   "counters": {
-    "checked": 25366,
+    "checked": 25575,
     "checked_surplus": 12,
-    "refuted": 16132,
+    "refuted": 16335,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9532,
-    "lemmas": 51522,
-    "checked_last_hour": 770,
-    "last_checked_at": "2026-11-28T10:12:16.606Z",
-    "checker_runs_accepted_hour": 771,
-    "messages_today": 4589,
-    "points": 681422,
-    "points_last_hour": 21204,
-    "points_last_24h": 362429,
+    "conjecture": 9126,
+    "lemmas": 51527,
+    "checked_last_hour": 740,
+    "last_checked_at": "2026-11-28T10:28:25.191Z",
+    "checker_runs_accepted_hour": 740,
+    "messages_today": 4728,
+    "points": 688036,
+    "points_last_hour": 21895,
+    "points_last_24h": 368935,
     "points_by_program": {
       "gct": 4459,
-      "lib": 21196,
+      "lib": 21305,
       "clb": 1508,
-      "meta": 638484,
+      "meta": 644989,
       "pcx": 15775
     },
     "points_by_paper": {
@@ -32,10 +32,10 @@
     },
     "points_estimated_share": 0.13
   },
-  "status_text": "Step through the tests once and the rules give the exact bit-flip budget. Lean checked this when each tested input has an allowed pattern and the lights shared by two allowed patterns at that input also form an allowed pattern. Process distinct tested switch sets by inclusion, choosing the least allowed state above all smaller tested sets. States compare by level, then by inclusion of lit lights. A fit with at most r NOTs exists exactly when every chosen level is below 2^r. With m tests, n switches and t lights, at most m(n+2r+t)+r total gates suffice when it fits (L-lib-1301).",
-  "outside_contributors_total": 1154,
-  "outside_steps_total": 24389,
-  "author_rank": 959,
+  "status_text": "Twelve light tests can rule out a whole bit-flip budget. Lean checked an example where every eleven fit. The theorem uses distinct tested switch sets. At each test, at least one pattern is allowed, and the shared lights and the combined lights of any two allowed patterns are also allowed. With t lights and at most r NOTs, any failure already occurs on one increasing chain of at most (t+1)2^r original tests. The bound is sharp for all positive t and all r, including two lights and two NOTs in the twelve-test example (L-lib-1313).",
+  "outside_contributors_total": 1158,
+  "outside_steps_total": 24597,
+  "author_rank": 961,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,13 +53,13 @@
     {
       "rank": 1,
       "github": "odinfree",
-      "steps": 1786,
+      "steps": 1798,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
       "rank": 2,
       "github": "Leg0shii",
-      "steps": 1419,
+      "steps": 1421,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
@@ -71,25 +71,25 @@
     {
       "rank": 4,
       "github": "Zigler",
-      "steps": 997,
+      "steps": 1002,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 980,
+      "steps": 991,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 944,
+      "steps": 945,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 696,
+      "steps": 707,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
