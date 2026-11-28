@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 06:31 UTC",
+  "updated_at_utc": "2026-11-28 06:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T06:28:34.288Z",
+  "generated_at": "2026-11-28T06:42:30.930Z",
   "counters": {
-    "checked": 22378,
+    "checked": 22529,
     "checked_surplus": 12,
-    "refuted": 13242,
+    "refuted": 13390,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 10240,
-    "lemmas": 46348,
-    "checked_last_hour": 892,
-    "last_checked_at": "2026-11-28T06:28:33.285Z",
-    "checker_runs_accepted_hour": 898,
-    "messages_today": 2953,
-    "points": 596112,
-    "points_last_hour": 26660,
-    "points_last_24h": 277760,
+    "conjecture": 10687,
+    "lemmas": 47094,
+    "checked_last_hour": 863,
+    "last_checked_at": "2026-11-28T06:42:27.233Z",
+    "checker_runs_accepted_hour": 863,
+    "messages_today": 3023,
+    "points": 600603,
+    "points_last_hour": 25862,
+    "points_last_24h": 282133,
     "points_by_program": {
       "gct": 4459,
-      "lib": 18903,
+      "lib": 19113,
       "clb": 1508,
-      "meta": 555554,
+      "meta": 559835,
       "pcx": 15688
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.14
   },
-  "status_text": "The little path now forces two flips even inside a much bigger board. Lean checked this for any connected board with marked lines AB and BC and no line from A to C. The circuit must say whether the selected dots touch every line and, whenever they do, report whether exactly one end of each marked line is selected. For n dots it needs at least n plus three gates, at least n plus one AND or OR gates, and at least two NOTs. Constants are free and gates read at most two earlier wires (L-lib-1208).",
+  "status_text": "One list of possible drops now works for every switch setting. Lean checked this when each answer has two regions defined by fixed switches, one requiring zero and one requiring one. If chains of drops are bounded, list the sets of distinct answers that can drop from one to zero in some order as switches turn on. At a given setting, keep the sets whose required switches are all on. The largest surviving set gives the exact longest chain below that setting, and the same list gives one filling that respects every required answer (L-lib-1241).",
   "outside_contributors_total": 1137,
-  "outside_steps_total": 21420,
+  "outside_steps_total": 21570,
   "author_rank": 936,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,19 +65,19 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1223,
+      "steps": 1234,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 862,
+      "steps": 877,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 5,
       "github": "Zigler",
-      "steps": 679,
+      "steps": 714,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
@@ -101,7 +101,7 @@
     {
       "rank": 9,
       "github": "grayboywilliams",
-      "steps": 455,
+      "steps": 464,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
