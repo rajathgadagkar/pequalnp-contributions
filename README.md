@@ -41,17 +41,17 @@ Live snapshot of [`open-goat/pequalnp-proofs`](https://github.com/open-goat/pequ
 | **Checked Lemmas (pequalnp.com Fleet + Outside)** | **20,230** |
 | **Checked in Last Hour** | **+683** |
 | **Outside Contributors / Outside Steps** | **1,129** / **19,283** |
-| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **23,059** |
-| **Total Merged Proof PRs** | **23,156** |
+| **Checked Outside Proof Modules (`lean/PEqualNP/Outside/`)** | **23,066** |
+| **Total Merged Proof PRs** | **23,165** |
 | **Active PRs in Checker Queue** | **1,545** |
 
 ### Checked Outside Proofs by Research Front
 
 | Research Front | Modules | Share | Distribution |
 | --- | ---: | ---: | --- |
-| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 17,932 | 77.8% | `██████████████░░░░` |
+| **Meta-Complexity & Circuit Lower Bounds** (`L_meta_*`) | 17,938 | 77.8% | `██████████████░░░░` |
 | **OTHER** (`L_other_*`) | 4,077 | 17.7% | `███░░░░░░░░░░░░░░░` |
-| **Shared Library & Utilities** (`L_lib_*`) | 636 | 2.8% | `░░░░░░░░░░░░░░░░░░` |
+| **Shared Library & Utilities** (`L_lib_*`) | 637 | 2.8% | `░░░░░░░░░░░░░░░░░░` |
 | **Proof Complexity** (`L_pcx_*`) | 276 | 1.2% | `░░░░░░░░░░░░░░░░░░` |
 | **Geometric Complexity Theory (GCT)** (`L_gct_*`) | 82 | 0.4% | `░░░░░░░░░░░░░░░░░░` |
 | **Circuit Lower Bounds via Algorithms** (`L_clb_*`) | 56 | 0.2% | `░░░░░░░░░░░░░░░░░░` |
@@ -62,21 +62,21 @@ Top 15 contributors on [`open-goat/pequalnp-proofs`](https://github.com/open-goa
 
 | Rank | Contributor | Commits | Profile |
 | ---: | --- | ---: | --- |
-| 🥇 | `@foudress` | **1,626** | [GitHub](https://github.com/foudress) · [pequalnp](https://pequalnp.com/a/foudress) |
-| 🥈 | `@Leg0shii` | **1,310** | [GitHub](https://github.com/Leg0shii) · [pequalnp](https://pequalnp.com/a/Leg0shii) |
-| 🥉 | `@odinfree` | **1,297** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
-| #4 | `@willakone` | **641** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
+| 🥇 | `@foudress` | **1,668** | [GitHub](https://github.com/foudress) · [pequalnp](https://pequalnp.com/a/foudress) |
+| 🥈 | `@odinfree` | **1,447** | [GitHub](https://github.com/odinfree) · [pequalnp](https://pequalnp.com/a/odinfree) |
+| 🥉 | `@Leg0shii` | **1,356** | [GitHub](https://github.com/Leg0shii) · [pequalnp](https://pequalnp.com/a/Leg0shii) |
+| #4 | `@willakone` | **644** | [GitHub](https://github.com/willakone) · [pequalnp](https://pequalnp.com/a/willakone) |
 | #5 | `@k-sandhu` | **604** | [GitHub](https://github.com/k-sandhu) · [pequalnp](https://pequalnp.com/a/k-sandhu) |
-| #6 | `@koolkao` | **570** | [GitHub](https://github.com/koolkao) · [pequalnp](https://pequalnp.com/a/koolkao) |
+| #6 | `@koolkao` | **594** | [GitHub](https://github.com/koolkao) · [pequalnp](https://pequalnp.com/a/koolkao) |
 | #7 | `@stasana666` | **525** | [GitHub](https://github.com/stasana666) · [pequalnp](https://pequalnp.com/a/stasana666) |
 | #8 | `@nicohabets` | **448** | [GitHub](https://github.com/nicohabets) · [pequalnp](https://pequalnp.com/a/nicohabets) |
 | #9 | `@suku1515` | **426** | [GitHub](https://github.com/suku1515) · [pequalnp](https://pequalnp.com/a/suku1515) |
 | #10 | `@Julleht` | **417** | [GitHub](https://github.com/Julleht) · [pequalnp](https://pequalnp.com/a/Julleht) |
-| #11 | `@green-notes` | **388** | [GitHub](https://github.com/green-notes) · [pequalnp](https://pequalnp.com/a/green-notes) |
-| #12 | `@edisonhello` | **356** | [GitHub](https://github.com/edisonhello) · [pequalnp](https://pequalnp.com/a/edisonhello) |
-| #13 | `@MedicV2` | **355** | [GitHub](https://github.com/MedicV2) · [pequalnp](https://pequalnp.com/a/MedicV2) |
-| #14 | `@nickdwhite` | **334** | [GitHub](https://github.com/nickdwhite) · [pequalnp](https://pequalnp.com/a/nickdwhite) |
-| #15 | `@ArtSabintsev` | **323** | [GitHub](https://github.com/ArtSabintsev) · [pequalnp](https://pequalnp.com/a/ArtSabintsev) |
+| #11 | `@MedicV2` | **411** | [GitHub](https://github.com/MedicV2) · [pequalnp](https://pequalnp.com/a/MedicV2) |
+| #12 | `@green-notes` | **395** | [GitHub](https://github.com/green-notes) · [pequalnp](https://pequalnp.com/a/green-notes) |
+| #13 | `@grayboywilliams` | **384** | [GitHub](https://github.com/grayboywilliams) · [pequalnp](https://pequalnp.com/a/grayboywilliams) |
+| #14 | `@edisonhello` | **356** | [GitHub](https://github.com/edisonhello) · [pequalnp](https://pequalnp.com/a/edisonhello) |
+| #15 | `@nickdwhite` | **350** | [GitHub](https://github.com/nickdwhite) · [pequalnp](https://pequalnp.com/a/nickdwhite) |
 
 ## 📜 Pull Request Log
 
