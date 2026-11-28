@@ -1,15 +1,15 @@
 {
-  "updated_at_utc": "2026-11-28 12:45 UTC",
+  "updated_at_utc": "2026-11-28 13:01 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 299,
-  "forks": 4461,
-  "merged_prs_total": 29701,
-  "open_prs_queue": 902,
-  "outside_lean_modules": 29588,
+  "forks": 4469,
+  "merged_prs_total": 29725,
+  "open_prs_queue": 900,
+  "outside_lean_modules": 29612,
   "front_breakdown": {
-    "meta": 24321,
+    "meta": 24341,
     "other": 4077,
-    "lib": 772,
+    "lib": 776,
     "pcx": 280,
     "gct": 82,
     "clb": 56
@@ -25,7 +25,7 @@
       "rank": 2,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 1834
+      "contributions": 1856
     },
     {
       "rank": 3,
@@ -37,25 +37,25 @@
       "rank": 4,
       "login": "willakone",
       "url": "https://github.com/willakone",
-      "contributions": 1135
+      "contributions": 1157
     },
     {
       "rank": 5,
       "login": "Zigler",
       "url": "https://github.com/Zigler",
-      "contributions": 1114
+      "contributions": 1131
     },
     {
       "rank": 6,
       "login": "koolkao",
       "url": "https://github.com/koolkao",
-      "contributions": 954
+      "contributions": 957
     },
     {
       "rank": 7,
       "login": "grayboywilliams",
       "url": "https://github.com/grayboywilliams",
-      "contributions": 731
+      "contributions": 732
     },
     {
       "rank": 8,
@@ -73,7 +73,7 @@
       "rank": 10,
       "login": "MedicV2",
       "url": "https://github.com/MedicV2",
-      "contributions": 522
+      "contributions": 524
     },
     {
       "rank": 11,
@@ -85,7 +85,7 @@
       "rank": 12,
       "login": "coleism3",
       "url": "https://github.com/coleism3",
-      "contributions": 437
+      "contributions": 439
     },
     {
       "rank": 13,
