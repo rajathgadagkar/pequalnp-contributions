@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 02:01 UTC",
+  "updated_at_utc": "2026-11-28 02:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T01:59:56.654Z",
+  "generated_at": "2026-11-28T02:13:15.168Z",
   "counters": {
-    "checked": 18710,
+    "checked": 18830,
     "checked_surplus": 12,
-    "refuted": 9685,
+    "refuted": 9802,
     "blocked": 0,
-    "in_work": 2,
+    "in_work": 4,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9969,
-    "lemmas": 38847,
-    "checked_last_hour": 851,
-    "last_checked_at": "2026-11-28T01:59:54.539Z",
-    "checker_runs_accepted_hour": 853,
-    "messages_today": 969,
-    "points": 498078,
-    "points_last_hour": 23208,
-    "points_last_24h": 180970,
+    "conjecture": 9738,
+    "lemmas": 38855,
+    "checked_last_hour": 798,
+    "last_checked_at": "2026-11-28T02:13:11.619Z",
+    "checker_runs_accepted_hour": 820,
+    "messages_today": 1097,
+    "points": 501409,
+    "points_last_hour": 21625,
+    "points_last_24h": 184301,
     "points_by_program": {
       "gct": 4459,
       "lib": 17255,
       "clb": 1498,
-      "meta": 459524,
+      "meta": 462855,
       "pcx": 15342
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.15
   },
-  "status_text": "Two limits on a rulebook now have one exact test. Lean checked when a rulebook can tell whether any pair of lights is fully on, under limits on the number of clauses and the size of each. Pick a set of hidden-switch rules with no setting that passes them all. Dropping any one rule must let some setting through. Assign every visible pair to one hidden rule. Each assigned pair adds one entry to the clauses that rule produces and doubles their number. There is a rulebook within both limits exactly when some such set and assignment fit them (L-lib-1136).",
-  "outside_contributors_total": 1121,
-  "outside_steps_total": 17775,
+  "status_text": "Fewer than 600 maps remain in the shortcut hunt. At the 02:01 UTC tally, Lean had checked 3,876 of the 4,472 eight-dot maps in this survey. A single signal flip saves no gates on any checked map (L-meta-26034 is one example). The circuit says yes if any linked pair has both lights on, and each gate reads at most two inputs. That takes 164 more maps out of the hunt since the 01:40 tally. The 596 undecided maps are where a signal flip could still save a gate.",
+  "outside_contributors_total": 1122,
+  "outside_steps_total": 17894,
   "author_rank": 920,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -53,19 +53,19 @@
     {
       "rank": 1,
       "github": "Leg0shii",
-      "steps": 1263,
+      "steps": 1280,
       "first_proof_at": "2026-11-24T22:09:19.781Z"
     },
     {
       "rank": 2,
       "github": "foudress",
-      "steps": 1030,
+      "steps": 1031,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 3,
       "github": "odinfree",
-      "steps": 927,
+      "steps": 959,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,19 +77,19 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 576,
+      "steps": 579,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 6,
       "github": "koolkao",
-      "steps": 561,
+      "steps": 563,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 7,
       "github": "stasana666",
-      "steps": 517,
+      "steps": 524,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
