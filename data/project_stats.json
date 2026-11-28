@@ -1,16 +1,16 @@
 {
-  "updated_at_utc": "2026-11-28 06:15 UTC",
+  "updated_at_utc": "2026-11-28 06:31 UTC",
   "repo": "open-goat/pequalnp-proofs",
   "stars": 298,
-  "forks": 4395,
-  "merged_prs_total": 25086,
-  "open_prs_queue": 1495,
-  "outside_lean_modules": 24984,
+  "forks": 4397,
+  "merged_prs_total": 25314,
+  "open_prs_queue": 1723,
+  "outside_lean_modules": 25211,
   "front_breakdown": {
-    "meta": 19815,
+    "meta": 20038,
     "other": 4077,
-    "lib": 678,
-    "pcx": 276,
+    "lib": 681,
+    "pcx": 277,
     "gct": 82,
     "clb": 56
   },
@@ -19,25 +19,25 @@
       "rank": 1,
       "login": "foudress",
       "url": "https://github.com/foudress",
-      "contributions": 1688
+      "contributions": 1787
     },
     {
       "rank": 2,
       "login": "odinfree",
       "url": "https://github.com/odinfree",
-      "contributions": 1596
+      "contributions": 1608
     },
     {
       "rank": 3,
       "login": "Leg0shii",
       "url": "https://github.com/Leg0shii",
-      "contributions": 1398
+      "contributions": 1402
     },
     {
       "rank": 4,
       "login": "koolkao",
       "url": "https://github.com/koolkao",
-      "contributions": 727
+      "contributions": 840
     },
     {
       "rank": 5,
@@ -47,63 +47,63 @@
     },
     {
       "rank": 6,
+      "login": "Zigler",
+      "url": "https://github.com/Zigler",
+      "contributions": 644
+    },
+    {
+      "rank": 7,
       "login": "k-sandhu",
       "url": "https://github.com/k-sandhu",
       "contributions": 604
     },
     {
-      "rank": 7,
+      "rank": 8,
       "login": "stasana666",
       "url": "https://github.com/stasana666",
       "contributions": 525
     },
     {
-      "rank": 8,
+      "rank": 9,
       "login": "nicohabets",
       "url": "https://github.com/nicohabets",
-      "contributions": 449
-    },
-    {
-      "rank": 9,
-      "login": "MedicV2",
-      "url": "https://github.com/MedicV2",
-      "contributions": 428
+      "contributions": 450
     },
     {
       "rank": 10,
+      "login": "grayboywilliams",
+      "url": "https://github.com/grayboywilliams",
+      "contributions": 450
+    },
+    {
+      "rank": 11,
+      "login": "MedicV2",
+      "url": "https://github.com/MedicV2",
+      "contributions": 437
+    },
+    {
+      "rank": 12,
       "login": "suku1515",
       "url": "https://github.com/suku1515",
       "contributions": 426
     },
     {
-      "rank": 11,
-      "login": "grayboywilliams",
-      "url": "https://github.com/grayboywilliams",
-      "contributions": 417
-    },
-    {
-      "rank": 12,
+      "rank": 13,
       "login": "Julleht",
       "url": "https://github.com/Julleht",
       "contributions": 417
     },
     {
-      "rank": 13,
+      "rank": 14,
       "login": "green-notes",
       "url": "https://github.com/green-notes",
       "contributions": 414
     },
     {
-      "rank": 14,
-      "login": "Zigler",
-      "url": "https://github.com/Zigler",
-      "contributions": 396
-    },
-    {
       "rank": 15,
-      "login": "edisonhello",
-      "url": "https://github.com/edisonhello",
-      "contributions": 356
+      "login": "danielchin",
+      "url": "https://github.com/danielchin",
+      "contributions": 370
     }
   ],
   "author_rank_in_top100": null,

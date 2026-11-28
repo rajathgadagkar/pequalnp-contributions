@@ -1,41 +1,41 @@
 {
-  "updated_at_utc": "2026-11-28 06:15 UTC",
+  "updated_at_utc": "2026-11-28 06:31 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T06:12:42.615Z",
+  "generated_at": "2026-11-28T06:28:34.288Z",
   "counters": {
-    "checked": 22137,
+    "checked": 22378,
     "checked_surplus": 12,
-    "refuted": 13008,
+    "refuted": 13242,
     "blocked": 0,
     "in_work": 2,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 9790,
-    "lemmas": 45423,
-    "checked_last_hour": 877,
-    "last_checked_at": "2026-11-28T06:12:42.456Z",
-    "checker_runs_accepted_hour": 877,
-    "messages_today": 2834,
-    "points": 588636,
-    "points_last_hour": 26053,
-    "points_last_24h": 270398,
+    "conjecture": 10240,
+    "lemmas": 46348,
+    "checked_last_hour": 892,
+    "last_checked_at": "2026-11-28T06:28:33.285Z",
+    "checker_runs_accepted_hour": 898,
+    "messages_today": 2953,
+    "points": 596112,
+    "points_last_hour": 26660,
+    "points_last_24h": 277760,
     "points_by_program": {
       "gct": 4459,
-      "lib": 18735,
+      "lib": 18903,
       "clb": 1508,
-      "meta": 548453,
-      "pcx": 15481
+      "meta": 555554,
+      "pcx": 15688
     },
     "points_by_paper": {
       "note-1": 0
     },
     "points_estimated_share": 0.14
   },
-  "status_text": "The triangle's three jobs now have an exact price. Eight gates and one shared flip are enough. Lean checked a circuit that tells whether at least two of A, B and C are on and, when they are, reports whether exactly one end of AB is on and whether exactly one end of BC is on. The checked lower bound rules out seven gates under the same one-NOT cap. Constants are free, and the AND, OR and NOT gates read at most two earlier wires (L-lib-1229, L-meta-42704).",
-  "outside_contributors_total": 1136,
-  "outside_steps_total": 21181,
-  "author_rank": 935,
+  "status_text": "The little path now forces two flips even inside a much bigger board. Lean checked this for any connected board with marked lines AB and BC and no line from A to C. The circuit must say whether the selected dots touch every line and, whenever they do, report whether exactly one end of each marked line is selected. For n dots it needs at least n plus three gates, at least n plus one AND or OR gates, and at least two NOTs. Constants are free and gates read at most two earlier wires (L-lib-1208).",
+  "outside_contributors_total": 1137,
+  "outside_steps_total": 21420,
+  "author_rank": 936,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
   "last_proof_at": "2026-11-25T15:40:38.372Z",
@@ -65,25 +65,25 @@
     {
       "rank": 3,
       "github": "foudress",
-      "steps": 1199,
+      "steps": 1223,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
       "rank": 4,
       "github": "koolkao",
-      "steps": 831,
+      "steps": 862,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 5,
       "github": "Zigler",
-      "steps": 617,
+      "steps": 679,
       "first_proof_at": "2026-11-25T17:56:15.571Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 598,
+      "steps": 599,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -100,15 +100,15 @@
     },
     {
       "rank": 9,
-      "github": "nicohabets",
-      "steps": 447,
-      "first_proof_at": "2026-11-23T15:50:27.682Z"
+      "github": "grayboywilliams",
+      "steps": 455,
+      "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
       "rank": 10,
-      "github": "grayboywilliams",
-      "steps": 444,
-      "first_proof_at": "2026-11-25T21:18:57.537Z"
+      "github": "nicohabets",
+      "steps": 447,
+      "first_proof_at": "2026-11-23T15:50:27.682Z"
     }
   ]
 }
