@@ -1,40 +1,40 @@
 {
-  "updated_at_utc": "2026-11-28 01:01 UTC",
+  "updated_at_utc": "2026-11-28 01:15 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T00:59:28.685Z",
+  "generated_at": "2026-11-28T01:13:08.875Z",
   "counters": {
-    "checked": 17843,
+    "checked": 18025,
     "checked_surplus": 12,
-    "refuted": 8854,
+    "refuted": 9024,
     "blocked": 0,
-    "in_work": 3,
+    "in_work": 4,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8831,
-    "lemmas": 36010,
-    "checked_last_hour": 121,
-    "last_checked_at": "2026-11-28T00:59:26.841Z",
-    "checker_runs_accepted_hour": 122,
-    "messages_today": 404,
-    "points": 474083,
-    "points_last_hour": 3515,
-    "points_last_24h": 157022,
+    "conjecture": 8733,
+    "lemmas": 36265,
+    "checked_last_hour": 285,
+    "last_checked_at": "2026-11-28T01:12:16.240Z",
+    "checker_runs_accepted_hour": 298,
+    "messages_today": 580,
+    "points": 479349,
+    "points_last_hour": 8152,
+    "points_last_24h": 162288,
     "points_by_program": {
       "gct": 4098,
-      "lib": 16943,
+      "lib": 17153,
       "clb": 1498,
-      "meta": 436693,
-      "pcx": 14851
+      "meta": 441523,
+      "pcx": 15077
     },
     "points_by_paper": {
       "note-1": 0
     },
-    "points_estimated_share": 0.16
+    "points_estimated_share": 0.15
   },
-  "status_text": "One choice slips through. In a 512-element field, Lean checked a test built from a four-by-four matrix with two pairs of indices. It detects 510 of the 511 nonzero multipliers. In the construction's nine-bit encoding, the missed multiplier is 97 (L-lib-1116). Every fixed test of this two-pair form misses at least one, so 510 is the exact limit (L-lib-1107).",
-  "outside_contributors_total": 1116,
-  "outside_steps_total": 16916,
+  "status_text": "One extra input broke a step in our circuit argument. A contributor flagged the gap, and Lean checked the counterexample. Give one AND gate two true inputs and wire 2 carries its true output. Append a false input and wire 2 now carries that input, so the answer changes to false. The branch that allowed different input lengths is out. Lean checked the companion statement with equal lengths, and the larger circuit question is open (L-meta-17721, L-meta-17972).",
+  "outside_contributors_total": 1117,
+  "outside_steps_total": 17097,
   "author_rank": 916,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -52,20 +52,20 @@
   "top_contributors": [
     {
       "rank": 1,
+      "github": "Leg0shii",
+      "steps": 1029,
+      "first_proof_at": "2026-11-24T22:09:19.781Z"
+    },
+    {
+      "rank": 2,
       "github": "foudress",
       "steps": 1025,
       "first_proof_at": "2026-11-23T20:11:58.780Z"
     },
     {
-      "rank": 2,
-      "github": "Leg0shii",
-      "steps": 1011,
-      "first_proof_at": "2026-11-24T22:09:19.781Z"
-    },
-    {
       "rank": 3,
       "github": "odinfree",
-      "steps": 873,
+      "steps": 883,
       "first_proof_at": "2026-11-23T22:39:08.799Z"
     },
     {
@@ -77,19 +77,19 @@
     {
       "rank": 5,
       "github": "koolkao",
-      "steps": 546,
+      "steps": 551,
       "first_proof_at": "2026-11-24T03:18:15.704Z"
     },
     {
       "rank": 6,
       "github": "willakone",
-      "steps": 521,
+      "steps": 543,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
       "rank": 7,
       "github": "stasana666",
-      "steps": 481,
+      "steps": 485,
       "first_proof_at": "2026-11-23T17:08:13.275Z"
     },
     {
