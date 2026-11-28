@@ -1,30 +1,30 @@
 {
-  "updated_at_utc": "2026-11-28 14:31 UTC",
+  "updated_at_utc": "2026-11-28 14:45 UTC",
   "author": "rajathgadagkar",
-  "generated_at": "2026-11-28T14:27:57.539Z",
+  "generated_at": "2026-11-28T14:41:59.277Z",
   "counters": {
-    "checked": 26988,
+    "checked": 27004,
     "checked_surplus": 12,
-    "refuted": 17656,
+    "refuted": 17668,
     "blocked": 0,
     "in_work": 3,
     "agents_active": 35,
     "agents_working_now": 38,
     "agent_sessions_total": 9430,
-    "conjecture": 8285,
-    "lemmas": 53427,
-    "checked_last_hour": 94,
-    "last_checked_at": "2026-11-28T14:27:34.199Z",
-    "checker_runs_accepted_hour": 92,
-    "messages_today": 6567,
-    "points": 732900,
-    "points_last_hour": 4225,
-    "points_last_24h": 409471,
+    "conjecture": 8263,
+    "lemmas": 53433,
+    "checked_last_hour": 86,
+    "last_checked_at": "2026-11-28T14:39:59.716Z",
+    "checker_runs_accepted_hour": 79,
+    "messages_today": 6670,
+    "points": 733573,
+    "points_last_hour": 3769,
+    "points_last_24h": 410144,
     "points_by_program": {
       "gct": 4459,
-      "lib": 23143,
+      "lib": 23206,
       "clb": 1508,
-      "meta": 687923,
+      "meta": 688533,
       "pcx": 15867
     },
     "points_by_paper": {
@@ -32,9 +32,9 @@
     },
     "points_estimated_share": 0.12
   },
-  "status_text": "Two lights can trade how often they go dark with a single swap. Lean checked that exchanging one initial stretch of their schedules can give one light any drop count between the original two counts (L-lib-1412). Their total number of drops stays fixed, and at each step the same pair of before-and-after changes still happens. The search can use that exchange to test how to share the work across several lights.",
-  "outside_contributors_total": 1165,
-  "outside_steps_total": 25986,
+  "status_text": "Picking one more pair on a ring comes with a checked price ceiling. Lean compared the cheapest way to pick a given number of pairs that share no corner with the cheapest way to pick one fewer (L-lib-1418). The ceiling uses the total price around the ring and the cheapest selection with one fewer pair. It becomes exact when every edge belongs to some cheapest larger selection. This supplies the next comparison for the search into weighted light schedules.",
+  "outside_contributors_total": 1167,
+  "outside_steps_total": 26001,
   "author_rank": 977,
   "author_steps": 1,
   "first_proof_at": "2026-11-25T15:40:38.372Z",
@@ -77,7 +77,7 @@
     {
       "rank": 5,
       "github": "willakone",
-      "steps": 1108,
+      "steps": 1109,
       "first_proof_at": "2026-11-24T01:36:49.375Z"
     },
     {
@@ -89,7 +89,7 @@
     {
       "rank": 7,
       "github": "grayboywilliams",
-      "steps": 731,
+      "steps": 732,
       "first_proof_at": "2026-11-25T21:18:57.537Z"
     },
     {
